@@ -33,7 +33,7 @@ Conviene nombrar por qué esta sesión importa: en la **Cumbre** tendrán que di
 - ¿Qué hacemos con un titular que contiene un dato Y una valoración?
 - ¿Un modelo económico es una foto de la realidad o un mapa útil?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **10 titulares de prensa reales**, mezclando positivos y normativos, con **al menos dos deliberadamente ambiguos** que combinen un dato verificable y una valoración.
 - **Ejemplo positivo de referencia**: «La inflación interanual se situó en el 3,2 % en el mes de marzo».
 - **Ejemplo normativo de referencia**: «El Gobierno debería bajar los impuestos al carburante para aliviar a las familias».
@@ -45,7 +45,7 @@ Conviene nombrar por qué esta sesión importa: en la **Cumbre** tendrán que di
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>La distinción positiva/normativa se enseña con una marca lingüística concreta y observable —las palabras que delatan el juicio de valor—, lo que convierte un criterio abstracto en un procedimiento verificable.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La tarea descompone la clasificación en dos pasos fijos que se repiten en los diez titulares: clasificar y subrayar la marca. Eso automatiza el procedimiento.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -75,7 +75,7 @@ sda2-s03-07.webp | Por qué importa
 
 <table><thead><tr><th width="22%"></th><th width="39%">Economía POSITIVA</th><th width="39%">Economía NORMATIVA</th></tr></thead><tbody><tr><td><b>Qué hace</b></td><td>Describe lo que <b>es</b></td><td>Prescribe lo que <b>debería ser</b></td></tr><tr><td><b>Se puede comprobar</b></td><td>Sí: es verificable con datos</td><td>No: contiene un juicio de valor</td></tr><tr><td><b>Ejemplo</b></td><td>«La inflación interanual se situó en el 3,2 % en marzo»</td><td>«El Gobierno debería bajar los impuestos al carburante para aliviar a las familias»</td></tr><tr><td><b>Puede ser…</b></td><td>Verdadera o falsa</td><td>Defendible o no, pero no verdadera ni falsa</td></tr></tbody></table>
 
-::: aviso 🔍 Las palabras que delatan un enunciado normativo
+::: aviso Las palabras que delatan un enunciado normativo
 «**Debería**», «**es injusto**», «**es necesario que**», «**hay que**», «**lo mejor sería**». Subrayadlas: son la huella dactilar de la Economía normativa.
 :::
 
@@ -83,7 +83,7 @@ sda2-s03-07.webp | Por qué importa
 
 <table><thead><tr><th width="5%"></th><th width="55%">Titular</th><th width="22%">¿POSITIVO o NORMATIVO?</th><th width="18%">Palabra que lo delata</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota ⚠️ Ojo a los titulares ambiguos
+::: nota Ojo a los titulares ambiguos
 Algunos mezclan a propósito un **dato verificable** con una **valoración**. No son un error del ejercicio: son la situación normal en la prensa económica. Saber separarlas es lo que os convierte en lectores críticos.
 :::
 
@@ -122,7 +122,7 @@ categorias:
 
 <table><thead><tr><th width="24%">Paso</th><th width="76%">En qué consiste</th></tr></thead><tbody><tr><td><b>1 · Observación</b></td><td>Se detecta un fenómeno que llama la atención: los precios suben, el paro baja, la gente ahorra menos.</td></tr><tr><td><b>2 · Hipótesis</b></td><td>Se formula una explicación provisional de por qué ocurre, que pueda contrastarse.</td></tr><tr><td><b>3 · Modelo</b></td><td>Se construye una representación simplificada de la realidad, con supuestos que la hacen manejable.</td></tr><tr><td><b>4 · Contraste</b></td><td>Se comprueba si el modelo predice bien. Si no, se revisa.</td></tr></tbody></table>
 
-::: nota 🗺️ Un modelo no es una foto: es un mapa
+::: nota Un modelo no es una foto: es un mapa
 Un mapa del metro no se parece nada a la ciudad real, y precisamente por eso sirve. Un modelo económico simplifica a propósito para poder razonar. La cláusula ***ceteris paribus*** —«manteniéndose todo lo demás constante»— es la herramienta que permite aislar el efecto de una sola variable.
 :::
 
@@ -142,7 +142,7 @@ Y atención al caso difícil: un titular puede contener **las dos cosas a la vez
 
 ### 4. Y por qué esto importa en esta unidad
 
-::: aviso 🎯 La Cumbre de la sesión 11
+::: aviso La Cumbre de la sesión 11
 Vais a tener delante cuatro delegaciones defendiendo sistemas económicos distintos. Y vais a tener que distinguir, **en directo**, cuándo una delegación aporta un dato verificable y cuándo defiende un valor.
 
 Es más: el **bloque 3 de la prueba escrita** os pedirá distinguir los argumentos positivos de los normativos **dentro de vuestra propia respuesta**. Eso es lo más difícil, y empieza hoy.

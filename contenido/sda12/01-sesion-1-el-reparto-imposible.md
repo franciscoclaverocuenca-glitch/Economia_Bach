@@ -28,7 +28,7 @@ titulo: Sesión 1 · El reparto imposible
 - ¿Es lo mismo decir «el Estado gasta mucho» que decir «el Estado gasta mal»?
 - Si el gasto público crea valor, como sostiene Mazzucato, ¿por qué hablamos siempre de «coste»?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **26 fichas impresas** del reparto de 100 monedas (una por alumno/a). Plantilla en el anexo imprimible.
 - **Encuesta de diagnóstico** creada en Google Forms o en el módulo Cuestionario de Moodle Centros, con las tres preguntas del cierre. Deja el enlace o el QR listo antes de la sesión.
 - **Datos actualizados** de distribución del gasto público del último ejercicio disponible, y del presupuesto del Ayuntamiento de Málaga o de la Junta de Andalucía para el contraste local.
@@ -39,7 +39,7 @@ titulo: Sesión 1 · El reparto imposible
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El reparto de monedas parte de las prioridades personales de cada alumno/a: no hay respuesta correcta, lo que elimina el miedo a equivocarse en la sesión de apertura.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se ofrece en tres canales: manipulativo (fichas), visual (gráfico de barras) y verbal (explicación). Instrucciones proyectadas y verbalizadas simultáneamente.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se abre el glosario mural de la unidad con los cuatro primeros términos: gasto público, Estado del Bienestar, protección social, deuda pública.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El contraste por parejas permite participar sin exponerse ante el gran grupo; la encuesta final es anónima y escrita.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene un momento de alta carga oral (la puesta en común tras la revelación). Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana; repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la dinámica. El vídeo incrustado tiene subtítulos activables.
 :::
 
@@ -73,7 +73,7 @@ sda12-s01-11.webp | Diagnóstico inicial
 
 Tienes **100 monedas**. Representan todo el dinero que un Estado gasta en un año. Tu tarea es repartirlas entre las funciones de gasto de la tabla según lo que a ti te parezca prioritario. Puedes dejar alguna función a cero si crees que no merece dinero público.
 
-::: aviso ⚠️ Regla única
+::: aviso Regla única
 La suma tiene que dar **exactamente 100**. Tienes 8 minutos y trabajas en solitario.
 :::
 
@@ -83,7 +83,7 @@ La suma tiene que dar **exactamente 100**. Tienes 8 minutos y trabajas en solita
 
 Compara tu reparto con el de tu compañero/a y anotad las **dos mayores discrepancias**: las dos funciones en las que más os separáis. Para cada una, escribid en una línea el argumento de cada parte. No hace falta que os pongáis de acuerdo.
 
-::: nota 🎯 Lo que estamos midiendo
+::: nota Lo que estamos midiendo
 Esta actividad no evalúa conocimientos: mide tus **intuiciones de partida**. Dentro de un momento verás la distribución real y probablemente la distancia te sorprenda. Esa distancia es exactamente el punto de partida de la unidad.
 :::
 
@@ -125,7 +125,7 @@ Llamamos **Estado del Bienestar** al conjunto de sistemas mediante los cuales el
 
 Estos cuatro pilares explican, sumados, en torno al 65 % del gasto público español. Y aquí aparece la tensión que recorre toda la unidad: **son derechos que cuestan dinero**, y ese dinero solo puede salir de tres sitios — impuestos, cotizaciones o deuda.
 
-::: nota 📊 El dato que conviene retener
+::: nota El dato que conviene retener
 Según las proyecciones de la Comisión Europea, el gasto público español ligado al envejecimiento (pensiones, sanidad y dependencia) pasará de en torno al **24 % del PIB en 2022 a cerca del 29 % en 2070**. Cinco puntos del PIB más, con la misma economía debajo. Esa es, literalmente, la pregunta que vuestro Dictamen tiene que responder.
 :::
 
@@ -155,7 +155,7 @@ Para terminar, responde la encuesta en línea. Es **anónima** y **no se calific
 
 <table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Los impuestos son un robo o el precio de la vida en común? Explica tu postura en tres líneas.</td></tr><tr><td>2</td><td>¿Sabes qué es el déficit público? Defínelo con tus palabras; si no lo sabes, escribe «no lo sé».</td></tr><tr><td>3</td><td>Cuando el Estado se endeuda, ¿quién paga esa deuda y cuándo?</td></tr></tbody></table>
 
-::: nota 🔗 Enlace a la encuesta
+::: nota Enlace a la encuesta
 Tu profesor/a te facilitará el enlace o el código QR al final de la sesión. Tienes hasta el final de la clase para responder.
 :::
 
@@ -163,7 +163,7 @@ Tu profesor/a te facilitará el enlace o el código QR al final de la sesión. T
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -176,7 +176,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

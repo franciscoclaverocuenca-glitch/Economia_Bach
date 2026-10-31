@@ -31,7 +31,7 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 - ¿Es legítimo que una empresa busque el máximo beneficio? ¿Con qué límites?
 - De vuestros tres compromisos, ¿cuál podría cumplir de verdad una empresa pequeña?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **2-3 ejemplos reales de innovación**, preferentemente de empresas andaluzas: uno de producto, uno de proceso y uno de modelo de negocio.
 - **Tarjetas de dilemas** con casos reales límite. Se sugiere el contraste entre una empresa que reduce costes deslocalizando y una **cooperativa de economía social andaluza** que prioriza el empleo local con menor margen.
 - **Casos reales de responsabilidad social** y de economía social andaluza.
@@ -43,11 +43,11 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas de la controversia se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso normaliza el cambio de opinión y rebaja la carga de un debate sobre valores.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate se desarrolla por parejas dentro del grupo de 4, no ante el gran grupo, lo que reduce mucho la exposición; y el producto final es un manifiesto escrito de equipo, no una intervención individual.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con CEE — Competencia específica 3.** El trabajo sobre innovación como fuente de valor añadido y sobre la aportación de la empresa al bienestar social conecta directamente con los elementos curriculares propios de Cultura Emprendedora y Empresarial, verificados en el Anexo II de la Orden de 30 de mayo de 2023. Pendiente de confirmar matrícula común.
 :::
 
@@ -74,7 +74,7 @@ sda4-s07-06.webp | ODS 8
 
 <table><thead><tr><th width="24%">Tipo</th><th width="36%">En qué consiste</th><th width="40%">Ejemplo</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Un aceite con una certificación que antes no existía; un envase que alarga la conservación</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo, pero de otra manera: más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Vender por suscripción en lugar de por unidad; vender del productor al consumidor sin intermediarios</td></tr></tbody></table>
 
-::: nota 💡 La idea que las conecta
+::: nota La idea que las conecta
 El **valor añadido** es lo que la empresa suma al producto por encima de lo que le costaron los materiales. Innovar es, básicamente, encontrar formas de **añadir más valor**. Y de ahí sale el criterio 2.4: la innovación como fuente de valor y de resolución de problemas económicos y sociales.
 :::
 
@@ -88,7 +88,7 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 
 <table><thead><tr><th width="24%">Fase</th><th width="76%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Las dos parejas debaten. Mientras una habla, la otra <b>toma notas</b> de los argumentos contrarios.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura que atacaba. <b>Esta es la fase que importa.</b></td></tr><tr><td><b>3 · Manifiesto de consenso</b></td><td>El equipo redacta <b>tres compromisos</b> que debería asumir cualquier empresa, más allá del beneficio.</td></tr></tbody></table>
 
-::: aviso ✍️ Los compromisos tienen que ser realistas
+::: aviso Los compromisos tienen que ser realistas
 «Ser sostenibles» no es un compromiso: es un deseo. «Usar envase retornable con depósito» sí lo es. Buscad cosas que una empresa **pueda cumplir de verdad** y que se pueda comprobar si cumple.
 :::
 
@@ -96,7 +96,7 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 
 <table><thead><tr><th width="6%"></th><th width="94%">Compromiso que debería asumir cualquier empresa</th></tr></thead><tbody><tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr></tbody></table>
 
-::: nota 🎯 Y esto vuelve
+::: nota Y esto vuelve
 La conexión con el **ODS 8** —trabajo decente y crecimiento económico— no se queda aquí: en las sesiones 8 y 9 vuestro Canvas va a necesitar **un compromiso concreto de responsabilidad social**. Id pensándolo.
 :::
 
@@ -119,7 +119,7 @@ El caso de la deslocalización lo plantea con claridad. Una empresa que traslada
 
 Frente a ella, una **cooperativa de economía social** que prioriza mantener el empleo local acepta un margen menor y reparte de otra manera los excedentes, pero es más frágil ante la competencia en precio.
 
-::: nota 🔄 No hay una respuesta correcta, pero sí respuestas mejor y peor argumentadas
+::: nota No hay una respuesta correcta, pero sí respuestas mejor y peor argumentadas
 Por eso la controversia incluye **inversión de roles**: defender la postura contraria es la única forma de comprobar si tu posición se sostiene o si simplemente no habías escuchado la otra.
 :::
 
@@ -131,7 +131,7 @@ El criterio para distinguir un compromiso real de una declaración vacía es sen
 
 ### 4. El ODS 8
 
-::: aviso 🎯 Trabajo decente y crecimiento económico
+::: aviso Trabajo decente y crecimiento económico
 El Objetivo de Desarrollo Sostenible 8 no se conforma con que la economía crezca: exige que ese crecimiento venga acompañado de **trabajo decente**, con derechos, salario suficiente y seguridad.
 
 Aplicado a vuestro proyecto: no basta con que vuestra empresa ficticia dé beneficio. En el Canvas vais a tener que incluir **un compromiso concreto** de responsabilidad social o medioambiental, y defenderlo en el pitch.

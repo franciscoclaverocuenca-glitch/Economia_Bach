@@ -27,7 +27,7 @@ titulo: 'Sesión 3 · El sistema fiscal: funciones y tipos de impuestos'
 - Un impuesto sobre el tabaco recauda menos cuanto mejor funciona. ¿Es eso un fracaso?
 - ¿Qué tarjeta os ha costado más clasificar y por qué?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de impuestos y situaciones reales** para el clasificador (una baraja por grupo base): la compra de una barra de pan con IVA, la nómina con retención de IRPF, el impuesto de matriculación de un coche, el IBI de una vivienda, el impuesto de sucesiones, el céntimo sanitario…
 - **Plantilla de clasificación** con los dos ejes (directo/indirecto y progresivo/proporcional/regresivo).
 - **Glosario mural o digital** de la unidad, para ir añadiendo los términos de cada sesión.
@@ -38,11 +38,11 @@ titulo: 'Sesión 3 · El sistema fiscal: funciones y tipos de impuestos'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Es un buen punto para recuperar de forma explícita, como repaso del curso, lo estudiado sobre el sector público en la unidad de macroeconomía, reforzando la coherencia de la programación.
 :::
 
@@ -74,7 +74,7 @@ Cada persona recibe una baraja de tarjetas con impuestos y situaciones reales. H
 
 <table><thead><tr><th width="18%">Fase</th><th width="68%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td>1 · Individual</td><td>Clasificas tú solo/a todas las tarjetas y anotas tus dudas.</td><td>8 min</td></tr><tr><td>2 · Grupo base</td><td>Contrastáis y consensuáis UNA única clasificación. Los casos dudosos se justifican en voz alta, no se votan.</td><td>12 min</td></tr><tr><td>3 · Puesta en común</td><td>Escala de dedos entre grupos sobre las clasificaciones discrepantes.</td><td>5 min</td></tr></tbody></table>
 
-::: nota 🧩 Los casos dudosos son los importantes
+::: nota Los casos dudosos son los importantes
 Si una tarjeta es fácil, no te enseña nada. Marca las que os han hecho discutir y anota en tu portafolio por qué. Eso es exactamente lo que se evalúa (instrumento P).
 :::
 
@@ -112,7 +112,7 @@ Esta es la clasificación que de verdad importa para el debate político, y se r
 - **Proporcional**: pagas siempre el mismo porcentaje, ganes lo que ganes. El Impuesto de Sociedades funciona así en su tipo general.
 - **Regresivo**: quien menos tiene acaba pagando un porcentaje mayor de su renta. Es el caso de los impuestos al consumo.
 
-::: aviso ⚠️ Por qué el IVA es regresivo aunque el tipo sea igual para todos
+::: aviso Por qué el IVA es regresivo aunque el tipo sea igual para todos
 El tipo nominal es el mismo, pero el **esfuerzo** no. Una familia que ingresa 1.500 € al mes gasta prácticamente todo lo que gana: casi el 100 % de su renta pasa por el IVA. Quien ingresa 8.000 € y gasta 4.000 solo somete a IVA la mitad de su renta; la otra mitad la ahorra o la invierte y escapa a ese impuesto.
 
 Resultado: el mismo porcentaje pesa mucho más sobre la renta baja. Eso es exactamente lo que significa «regresivo».

@@ -31,7 +31,7 @@ Y una regla que conviene subrayar: el **cambio razonado de esquina puntúa como 
 - ¿Puede una región crecer año tras año y no converger? (retomamos la S4)
 - ¿Qué argumento de otra esquina os ha hecho dudar?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos de Eurostat y de la Encuesta de Condiciones de Vida del INE**: índice de Gini de España **antes y después** de impuestos y transferencias. **Actualiza las cifras.**
 - **Cuatro carteles** con las tesis de las esquinas, colocados en las cuatro esquinas del aula.
 - **Ficha de posicionamiento individual** con los cuatro campos, incluida la **fila de agentes**.
@@ -44,15 +44,15 @@ Y una regla que conviene subrayar: el **cambio razonado de esquina puntúa como 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El posicionamiento se expresa físicamente eligiendo esquina, lo que permite participar sin intervención oral; la portavocía es rotatoria y la ficha escrita recoge la aportación individual de todo el mundo con independencia de que hable o no.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>El cambio razonado de opinión se define explícitamente como virtud y no como derrota, lo que rebaja el coste emocional de reconsiderar la propia postura en público.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Las cuatro tesis están formuladas sin caricaturas y por escrito en los carteles, de modo que la elección no dependa de haber captado un matiz enunciado solo oralmente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La revisión de julio de 2026 no modifica la estructura ni la temporalización de esta sesión. Añade una única fila a la ficha de posicionamiento —«¿qué agente soporta el coste de tu modelo y cuál recibe el beneficio?»— y convierte esa identificación en **requisito formal de cierre** de cada intervención. Esta sesión es, junto a la S7, la principal fuente de evidencia oral del criterio 3.2 en la unidad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con **EPCD I** (criterios 2.1, 2.2 y 3.1; saberes EPCD.1.A.2.1, EPCD.1.A.2.3 y EPCD.1.B.3.3) es aplicable **si el centro oferta la materia**. Conviene confirmarlo.
 :::
 
@@ -83,7 +83,7 @@ sda8-s06-08.webp | Cierre
 
 Comparad el índice de Gini de España **antes** y **después** de impuestos y transferencias. Pensiones, sanidad, educación y prestaciones reducen sustancialmente la desigualdad medida.
 
-::: nota 🗂️ Y leed ese gráfico con el tarjetero de agentes delante
+::: nota Y leed ese gráfico con el tarjetero de agentes delante
 La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente —el **Sector Público**— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente es exactamente lo que pide el criterio 3.2.
 :::
 
@@ -95,7 +95,7 @@ La diferencia entre el Gini antes y el Gini después **no es un efecto automáti
 
 <table><thead><tr><th width="18%">Campo</th><th width="82%">Qué escribes</th></tr></thead><tbody><tr><td><b>1 · Tesis</b></td><td>Qué esquina eliges y por qué.</td></tr><tr><td><b>2 · Un dato</b></td><td>Un dato concreto de la unidad que la apoye, con su fuente.</td></tr><tr><td><b>3 · Un concepto</b></td><td>Un concepto económico de la unidad, correctamente usado.</td></tr><tr><td><b>4 · Los agentes</b></td><td>Qué agente <b>soporta el coste</b> de esa opción y cuál <b>recibe el beneficio</b>.</td></tr></tbody></table>
 
-::: aviso ⚠️ Requisito formal de cierre: innegociable
+::: aviso Requisito formal de cierre: innegociable
 Ninguna intervención de defensa se da por completa hasta que su portavoz responde en una frase a: **«¿quién paga y quién gana con vuestra opción?»**
 
 Obliga a que cada postura se haga cargo de sus costes en lugar de enunciar solo sus beneficios. Y la réplica puede consistir precisamente en discutir ese reparto: «no es cierto que solo lo paguen las empresas, también…».
@@ -103,7 +103,7 @@ Obliga a que cada postura se haga cargo de sus costes en lugar de enunciar solo 
 
 ### Y la regla que más importa
 
-::: nota 🔄 Cambiar de opinión puntúa como virtud
+::: nota Cambiar de opinión puntúa como virtud
 Cualquier persona puede **cambiar de esquina** en los cambios reglados. Pero solo si explica en voz alta **qué argumento le ha movido**. El cambio razonado no es una derrota: es la conducta intelectual que esta unidad quiere entrenar.
 :::
 
@@ -117,7 +117,7 @@ El mercado reparte la renta según lo que cada persona aporta y posee. Ese repar
 
 En España, la diferencia entre el Gini de mercado y el Gini final es sustancial: pensiones, sanidad, educación y prestaciones reducen apreciablemente la desigualdad medida.
 
-::: nota 🗂️ Y esa diferencia tiene un responsable
+::: nota Y esa diferencia tiene un responsable
 No es un efecto automático de la economía. Es el resultado de que un agente concreto —el **Sector Público**— toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente es exactamente lo que el criterio 3.2 pide diferenciar.
 :::
 
@@ -133,7 +133,7 @@ Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta
 
 ### 4. Lo que se evalúa hoy
 
-::: aviso ⭐ Dos cosas, y ninguna es «ganar»
+::: aviso Dos cosas, y ninguna es «ganar»
 **Primera:** que cada intervención cierre respondiendo a «¿quién paga y quién gana con vuestra opción?». Sin eso, la defensa está incompleta. Es el requisito formal de la sesión y la evidencia oral del criterio 3.2.
 
 **Segunda:** que el **cambio razonado de opinión** se valore como virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.

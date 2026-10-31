@@ -33,7 +33,7 @@ titulo: Sesión 5 · Oligopolio y competencia monopolística
 - Si el producto apenas se distingue, ¿qué estamos pagando cuando pagamos la marca?
 - La «tasa rosa»: ¿diferenciación legítima o discriminación de precios?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de decisión** (cooperar / traicionar) para el torneo y **matriz de pagos** proyectable.
 - **Marcador colectivo del torneo** para registrar las estrategias que emergen ronda a ronda.
 - **Nota de prensa real de la CNMC** sobre la sanción de 2015 a fabricantes de coches, con el guion de cuatro preguntas.
@@ -46,11 +46,11 @@ titulo: Sesión 5 · Oligopolio y competencia monopolística
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El torneo y la cata a ciegas son actividades manipulativas y experienciales: permiten acceder a conceptos abstractos —interdependencia estratégica, diferenciación percibida— viviéndolos antes de nombrarlos.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Cada concepto se presenta en dos momentos separados: primero la experiencia (juego, cata) y después la formalización, lo que garantiza que la definición llegue cuando ya existe una imagen concreta a la que asociarla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El quiz formativo de mitad de unidad permite a cada persona identificar sus lagunas antes de la sesión de fallos de mercado, que es la más exigente conceptualmente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con mucha actividad simultánea y ruido. En el torneo, exige que las decisiones se muestren **con la tarjeta visible** y no solo se anuncien en voz alta. En la cata, asegúrate de que las instrucciones están escritas y de que el gabinete comenta de uno en uno. Y verifica con especial cuidado alergias e intolerancias antes de repartir nada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S5 y S6. La compresión aplicada es la siguiente: el torneo pasa de 8 a 5 rondas con el giro de la clemencia adelantado a la ronda 3; el análisis de casos de la CNMC pasa de 2 cárteles a 1 (el de fabricantes de coches), quedando el **cártel lácteo** como material de la ampliación «Cazadores de precios»; y la cata se simplifica a un único producto. El quiz de mitad de unidad se mantiene íntegro y ahora cubre las sesiones 3 a 5.
 :::
 
@@ -87,7 +87,7 @@ sda6-s05-10.webp | Referente: Joan Robinson
 
 <table><thead><tr><th width="10%">Ronda</th><th width="20%">Nuestra decisión</th><th width="16%">La suya</th><th width="20%">Nuestro resultado</th><th width="34%">¿Por qué decidimos eso?</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🎲 Lo que vais a descubrir
+::: nota Lo que vais a descubrir
 Que un cártel es **inestable por dentro**. Cada miembro tiene un incentivo individual a traicionarlo, y ese incentivo es exactamente lo que explota el **programa de clemencia**: la autoridad de competencia convierte a los miembros del cártel en prisioneros del dilema.
 :::
 
@@ -97,7 +97,7 @@ Analizad la nota de prensa real de la sanción de 2015 de la CNMC a una veintena
 
 <table><thead><tr><th width="6%"></th><th width="44%">Pregunta</th><th width="50%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>¿Qué pactaron exactamente?</td><td></td></tr><tr><td>2</td><td>¿A quién perjudicó?</td><td></td></tr><tr><td>3</td><td>¿Cómo se descubrió?</td><td></td></tr><tr><td>4</td><td>¿Qué habría hecho vuestro torneo en su lugar?</td><td></td></tr></tbody></table>
 
-::: aviso 🥛 Y un caso disponible para ampliación
+::: aviso Y un caso disponible para ampliación
 El **cártel lácteo** —varias industrias sancionadas por coordinar los precios de **compra** de la leche cruda a los ganaderos, con efecto en ganaderías andaluzas— queda como material de la actividad de ampliación «Cazadores de precios». Muestra algo importante: el poder de mercado puede ejercerse también **comprando**, no solo vendiendo.
 :::
 
@@ -109,7 +109,7 @@ Vuestro gabinete prueba, **sin ver el envase**, dos versiones de un mismo produc
 
 <table><thead><tr><th width="16%">Muestra</th><th width="34%">¿Cuál creemos que es?</th><th width="28%">Grado de seguridad (0-10)</th><th width="22%">¿Acertamos?</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🤔 La pregunta central
+::: nota La pregunta central
 Si el producto apenas se distingue, **¿qué estamos pagando exactamente cuando pagamos la marca?**
 :::
 
@@ -117,7 +117,7 @@ Si el producto apenas se distingue, **¿qué estamos pagando exactamente cuando 
 
 <table><thead><tr><th width="30%">Rasgo</th><th width="70%">Qué significa</th></tr></thead><tbody><tr><td><b>Muchos oferentes y libre entrada</b></td><td>En eso se parece a la competencia perfecta: nada impide abrir otra cafetería o lanzar otra marca de galletas.</td></tr><tr><td><b>Pero productos diferenciados</b></td><td>Real o solo perceptivamente. Y esa diferenciación otorga a cada empresa un pequeño poder de mercado sobre su clientela fiel.</td></tr><tr><td><b>La publicidad como inversión</b></td><td>En diferenciación percibida. Desplaza la demanda y la hace más <b>inelástica</b>: reaparece el termómetro de la sesión 4.</td></tr></tbody></table>
 
-::: aviso ⚖️ La frontera ética: la «tasa rosa»
+::: aviso La frontera ética: la «tasa rosa»
 Productos funcionalmente idénticos comercializados a mayor precio en su versión «para mujeres», documentado por organizaciones de consumidores. ¿Diferenciación legítima o discriminación de precios apoyada en estereotipos? Ahí ya estáis anticipando la pregunta de eficiencia y equidad del criterio 2.3.
 :::
 
@@ -131,7 +131,7 @@ De esa interdependencia nace la tentación de la **colusión**: el pacto entre l
 
 ### 2. Por qué los cárteles se rompen: el dilema del prisionero
 
-::: nota 🎲 El mecanismo que acabáis de jugar
+::: nota El mecanismo que acabáis de jugar
 Un cártel es **inestable por dentro**. Si todos mantienen el precio alto, todos ganan bastante. Pero cada miembro tiene un incentivo individual a bajar el precio en secreto y quedarse con los clientes del resto: ganaría mucho más. Y como todos lo saben, todos sospechan de todos.
 
 El **programa de clemencia** es un diseño institucional que **explota** ese incentivo: la primera empresa que confiesa queda exenta de sanción. La autoridad de competencia convierte a los miembros del cártel en prisioneros del dilema, y por eso la mayoría de los cárteles sancionados en España se han destapado así.
@@ -149,7 +149,7 @@ Es la estructura donde vive buena parte de la economía cotidiana: cafeterías, 
 
 La diferenciación puede ser **real** (una receta distinta, un servicio mejor) o **solo perceptiva** (misma calidad, distinto envase y distinta publicidad). En ambos casos otorga a cada empresa un pequeño poder de mercado sobre su clientela fiel.
 
-::: aviso 📣 La publicidad, en clave económica
+::: aviso La publicidad, en clave económica
 La publicidad y la marca son **inversiones en diferenciación percibida**. Su efecto económico es doble: desplazan la demanda hacia fuera (más gente quiere ese producto) y la hacen más **inelástica** (esa gente está dispuesta a pagar más antes de cambiarse). Ahí reaparece el termómetro de la sesión 4: una clientela fiel es una clientela a la que puedes subir el precio sin perderla.
 :::
 
@@ -161,7 +161,7 @@ La pregunta es si se trata de diferenciación legítima o de **discriminación d
 
 ### 6. Referente: Joan Robinson y el monopsonio
 
-::: nota 📘 Economía de la competencia imperfecta (1933)
+::: nota Economía de la competencia imperfecta (1933)
 Ya la conocéis de la SdA 2. Aquí aparece por su aportación nuclear a esta unidad: construyó el aparato teórico de la **competencia imperfecta**, el territorio intermedio entre el monopolio y la competencia perfecta donde vive la inmensa mayoría de los mercados reales.
 
 Y acuñó el concepto de **monopsonio**: el poder de mercado del lado **comprador**, cuando hay un único o muy pocos compradores frente a muchos vendedores. Es exactamente la herramienta para releer el **cártel lácteo**, donde las industrias coordinaron el precio al que **compraban** la leche a los ganaderos.

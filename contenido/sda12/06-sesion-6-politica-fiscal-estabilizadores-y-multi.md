@@ -27,7 +27,7 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 - ¿Qué pasaría con el multiplicador si la gente ahorrara todo lo que recibe?
 - Si el multiplicador es 5, ¿por qué no aumentamos el gasto público indefinidamente?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Hoja de cálculo o simulador** con la tabla de rondas preparada, un dispositivo por grupo base. Alternativa sin dispositivos: tabla impresa y calculadora.
 - **Tarjetas con distintos valores de c** (0,5 · 0,6 · 0,7 · 0,8 · 0,9) para repartir entre grupos.
 - **Coordinación previa con el departamento de Matemáticas**: conviene avisar al profesorado de MACS I de que esta sesión se imparte, para que la progresión geométrica se trabaje en paralelo.
@@ -37,7 +37,7 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El modelo se presenta en tres notaciones equivalentes —tabla numérica, descripción verbal y fórmula algebraica— y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -78,7 +78,7 @@ Cada grupo recibe un valor distinto de **c**. Con la hoja de cálculo:
 3. Anotad el resultado y llevadlo a la puesta en común.
 4. Coevaluación: contrastad vuestro cálculo con el del grupo cuyo valor de c sea más parecido al vuestro.
 
-::: nota 🔗 Conexión con Matemáticas
+::: nota Conexión con Matemáticas
 La suma 1 + c + c² + c³ + … con c entre 0 y 1 es una **progresión geométrica convergente**, y su suma es 1/(1−c). Es el mismo objeto que estáis trabajando en MACS I (saberes MACS.1.C.1 y MACS.1.C.2). Allí se evalúa que sepáis generalizar el patrón; aquí, que sepáis qué significa el número y por qué no hay que creérselo del todo.
 :::
 
@@ -123,7 +123,7 @@ Un modelo es una herramienta para pensar, no una máquina de predecir. El multip
 - **Retardos.** Las rondas tardan meses o años. Una obra aprobada hoy puede no mover dinero hasta dentro de dos años, cuando quizá ya no haga falta.
 - **Momento del ciclo.** El multiplicador es mayor en una recesión con recursos ociosos y menor en una economía que ya funciona a pleno rendimiento, donde el gasto público adicional puede generar inflación en vez de actividad.
 
-::: nota 🧠 La lección doble de esta sesión
+::: nota La lección doble de esta sesión
 Has aprendido a usar un modelo y, a la vez, a no creértelo del todo. Las dos cosas juntas son lo que distingue a alguien que sabe economía de alguien que solo repite fórmulas. Y es exactamente lo que evalúa el saber A6.
 :::
 

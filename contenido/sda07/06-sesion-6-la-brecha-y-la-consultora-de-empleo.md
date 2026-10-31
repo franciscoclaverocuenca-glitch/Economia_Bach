@@ -31,7 +31,7 @@ Después descompón la brecha en sus cuatro componentes: segregación horizontal
 - ¿Corregir la brecha es solo una cuestión de justicia, o también de eficiencia?
 - ¿Quién pagaría vuestra propuesta y en qué dato concreto se notaría si funciona?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos de la última Encuesta de Estructura Salarial del INE** con la brecha bruta y, si está disponible, la ajustada. **Actualízalos cada curso.**
 - **Datos de la EPA** sobre parcialidad involuntaria por sexo.
 - **Tarjetas de rol** para las dos bancadas y para los observadores rotativos.
@@ -44,15 +44,15 @@ Después descompón la brecha en sus cuatro componentes: segregación horizontal
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate de bancadas incorpora el rol de <b>observador</b> con tarea propia —registrar qué argumentos usan datos y cuáles solo opiniones—, lo que ofrece una vía de participación evaluable que no exige intervención oral.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La regla de aportar un dato y un concepto para intervenir desplaza el debate del terreno de la opinión personal al del argumento verificable, lo que rebaja la carga emocional de un tema sensible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente: la exposición sobre salarios pasa de 20 a 12 minutos sin perder los componentes de la brecha, el debate de bancadas de 20 a 12 manteniendo su estructura, y los efectos y políticas de 15 a 8. El taller se centra en **dos** propuestas completas en el aula; la tercera se cierra al arrancar la sesión 7. El número final exigido por el producto —tres— no se reduce.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La conexión con **Antropología y Sociología** (criterio AYSO 1.4, saberes AYSO.1.A.3 y A.10) es una propuesta pendiente de confirmación.
 :::
 
@@ -89,7 +89,7 @@ sda7-s06-10.webp | Cierre
 
 <table><thead><tr><th width="32%">Componente</th><th width="68%">Qué significa</th></tr></thead><tbody><tr><td><b>Segregación horizontal</b></td><td>Las mujeres se concentran en sectores que, en conjunto, están peor pagados. No es que cobren menos por lo mismo: es que «lo suyo» vale menos.</td></tr><tr><td><b>Segregación vertical (techo de cristal)</b></td><td>Menor presencia en puestos directivos, incluso en sectores donde las mujeres son mayoría.</td></tr><tr><td><b>Parcialidad involuntaria</b></td><td>La jornada parcial no deseada se concentra en las mujeres.</td></tr><tr><td><b>Penalización por cuidados</b></td><td>La carrera salarial se frena tras la maternidad de una forma que no ocurre tras la paternidad.</td></tr></tbody></table>
 
-::: nota 🏅 Claudia Goldin · Nobel de Economía 2023
+::: nota Claudia Goldin · Nobel de Economía 2023
 Tercera mujer en recibirlo. Investigó la participación laboral femenina a lo largo de dos siglos, y su hallazgo central cambia el enfoque del problema:
 
 Buena parte de la brecha **no nace al firmar el contrato, sino años después**. Hay empleos que pagan desproporcionadamente bien la disponibilidad total —los llamó «trabajos codiciosos»— y esos empleos penalizan a quien asume los cuidados, que estadísticamente siguen siendo las mujeres.
@@ -99,7 +99,7 @@ Buena parte de la brecha **no nace al firmar el contrato, sino años después**.
 
 <table><thead><tr><th width="50%">BANCADA 1 · equidad</th><th width="50%">BANCADA 2 · eficiencia</th></tr></thead><tbody><tr><td>La brecha es una injusticia que exige corrección pública: registro salarial, planes de igualdad, permisos de cuidado iguales e intransferibles. Es una cuestión de derechos.</td><td>El mercado desperdicia talento cuando no lo promociona. Corregirla beneficia a la economía entera, no solo a las mujeres. El argumento económico convence a quien no convence el moral.</td></tr></tbody></table>
 
-::: aviso ⚠️ Regla innegociable para intervenir
+::: aviso Regla innegociable para intervenir
 Hay que aportar **un dato** —de los proyectados o de vuestra ficha de la sesión 4— y **un concepto** de la sesión: segregación, brecha ajustada, penalización por cuidados. Los observadores registran qué intervenciones usan datos y cuáles solo opiniones.
 :::
 
@@ -117,7 +117,7 @@ Vuestro grupo es una **consultora** contratada para mejorar la empleabilidad juv
 
 <table><thead><tr><th width="6%"></th><th width="94%">Requisito</th></tr></thead><tbody><tr><td>1</td><td>Responder a un problema <b>diagnosticado con un dato concreto</b> de vuestra ficha de la sesión 4.</td></tr><tr><td>2</td><td>Ser verosímil y estar <b>localizada</b> en Málaga o Andalucía.</td></tr><tr><td>3</td><td>Identificar <b>quién la pagaría y quién la ejecutaría</b>: Estado, Junta, ayuntamientos, empresas, o en colaboración.</td></tr><tr><td>4</td><td>Anticipar un <b>efecto medible</b>.</td></tr></tbody></table>
 
-::: nota 📏 El requisito 4 es el que más se olvida
+::: nota El requisito 4 es el que más se olvida
 Y es la costura con el criterio 3.3: **toda intervención debe poder evaluarse con datos**. Si no sabéis en qué cifra se notaría que vuestra propuesta funciona, la propuesta no está terminada. Y en el careo del Festival os lo van a preguntar.
 :::
 
@@ -133,7 +133,7 @@ El problema empieza cuando, descontadas todas esas razones, **sigue habiendo dif
 
 ### 2. Brecha bruta y brecha ajustada
 
-::: aviso ⚖️ La distinción que hay que dominar
+::: aviso La distinción que hay que dominar
 La **brecha bruta** es la diferencia entre el salario medio de hombres y mujeres, sin distinguir puestos, jornadas ni sectores. Es la cifra grande de los titulares, y mezcla causas legítimas con discriminación.
 
 La **brecha ajustada** es la que persiste comparando **puestos equivalentes**. Es una cifra menor, pero mucho más incómoda: lo que queda ya no se explica por diferencias de trabajo.
@@ -147,7 +147,7 @@ Confundir las dos es el error más frecuente del debate público, y en los dos s
 
 ### 4. Claudia Goldin: la brecha no nace al firmar el contrato
 
-::: nota 🏅 Premio Nobel de Economía 2023 · tercera mujer en recibirlo
+::: nota Premio Nobel de Economía 2023 · tercera mujer en recibirlo
 Goldin investigó la participación laboral femenina a lo largo de dos siglos. Su hallazgo central desplaza el foco del problema: buena parte de la brecha actual **no nace al firmar el contrato, sino años después**.
 
 Hay empleos que pagan desproporcionadamente bien la **disponibilidad total** —los llamó «trabajos codiciosos»: estar siempre localizable, viajar, alargar la jornada—. Esos empleos penalizan a quien asume los cuidados, que estadísticamente siguen siendo las mujeres. Dos personas con la misma formación y el mismo puesto de partida se separan salarialmente años después, cuando una de las dos reduce disponibilidad.
@@ -163,7 +163,7 @@ Hay empleos que pagan desproporcionadamente bien la **disponibilidad total** —
 
 Las dos son necesarias y no compiten entre sí: resuelven problemas distintos. La red **Andalucía Orienta** que conocisteis en la sesión 2 es una política activa.
 
-::: aviso 🎯 Y el criterio de calidad, otra vez
+::: aviso Y el criterio de calidad, otra vez
 No vale cualquier empleo. El **ODS 8** exige **trabajo decente**: con derechos, salario suficiente y seguridad. Es el listón con el que hay que juzgar cualquier propuesta de empleo, incluidas las vuestras.
 :::
 

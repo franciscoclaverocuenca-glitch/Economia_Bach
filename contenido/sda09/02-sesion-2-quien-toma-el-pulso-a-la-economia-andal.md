@@ -30,7 +30,7 @@ Reparte las preguntas entre personas concretas: el turno abierto sin asignar se 
 - ¿Coincide su relato con la cadena que simulamos ayer?
 - ¿Qué dato oficial recomendó y dónde se consulta?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar y confirmar con antelación a la persona invitada.** Perfiles sugeridos: un servicio de estudios con sede en Málaga, la delegación provincial de un organismo estadístico oficial ( **IECA** o **INE**), o el área de datos económicos de una institución local.
 - **Prioriza invitar a una economista**, como modelo de referencia profesional directo en un ámbito —el análisis macroeconómico— tradicionalmente masculinizado.
 - **Las dos preguntas obligatorias** preparadas en la sesión 1 y repartidas entre alumnos concretos.
@@ -42,11 +42,11 @@ Reparte las preguntas entre personas concretas: el turno abierto sin asignar se 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional del análisis económico andaluz ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de notas de cuatro entradas —agentes, flujos, filtraciones y un dato con su fuente— estructura la escucha y la orienta directamente al producto final, en lugar de dejarla en toma de apuntes indiscriminada.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Esta charla queda **pendiente de confirmación de disponibilidad**. Conviene gestionarla con antelación suficiente, porque es la sesión de Exploración obligatoria de la unidad.
 :::
 

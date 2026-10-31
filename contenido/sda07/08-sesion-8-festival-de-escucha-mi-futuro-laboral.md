@@ -31,7 +31,7 @@ Registra en paralelo EO (presentación y locución), R (valoración del producto
 - ¿Cómo sabéis que ese es el tipo de paro predominante en vuestro sector?
 - ¿Habéis usado la brecha bruta o la ajustada en ese análisis?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Episodios o informes entregados** por cada equipo, previamente subidos o disponibles.
 - **Equipo de audio** con volumen suficiente y proyector para la versión informe.
 - **Rúbrica de los criterios 3.1 y 3.3** visible para todo el mundo durante la sesión.
@@ -44,7 +44,7 @@ Registra en paralelo EO (presentación y locución), R (valoración del producto
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La franja se reparte entre los miembros del equipo y la emisión de fragmentos permite que parte de la intervención sea grabada previamente, lo que reduce la carga de la exposición en directo sin rebajar la exigencia.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas del careo se conocen de antemano y las preguntas obligatorias están anticipadas desde la sesión 7: solo el careo abierto es imprevisible.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Las tres menciones no numéricas reconocen públicamente distintos tipos de mérito —datos, entrevista, viabilidad de la propuesta— sin introducir competición en la calificación.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con escucha de audio y careo oral: la de mayor riesgo acústico de la unidad. Sitúa a este alumno/a cerca del altavoz y de frente a quien interviene, y facilita **por escrito** la transcripción de los fragmentos emitidos —cada equipo puede entregarla junto al episodio—. Exige que las preguntas del careo se formulen de pie, de una en una y de frente.
 :::
 
@@ -77,7 +77,7 @@ sda7-s08-06.webp | El cierre
 
 <table><thead><tr><th width="30%">Rol</th><th width="70%">Vuestra tarea</th></tr></thead><tbody><tr><td><b>Verificadores de datos</b></td><td>Comprobar que cada dato citado en directo lleva su fuente y su periodo. Si falta algo, esa es vuestra pregunta.</td></tr><tr><td><b>Analistas de propuestas</b></td><td>Comprobar que cada propuesta tiene agente pagador identificado y efecto medible.</td></tr><tr><td><b>Cronistas</b></td><td>Anotar los hallazgos más interesantes y las conexiones entre sectores. De vuestras notas sale el cierre colectivo.</td></tr></tbody></table>
 
-::: aviso 🎤 La regla del careo
+::: aviso La regla del careo
 Al menos **una pregunta a los datos**: «¿de qué fecha es esa tasa y de qué fuente sale?». Y **una pregunta a las propuestas**: «¿quién pagaría eso y en qué dato se notaría?».
 
 Y recordad: **preguntar bien también puntúa**. El careo se registra como instrumento D, tanto por las respuestas como por las preguntas.
@@ -87,7 +87,7 @@ Y recordad: **preguntar bien también puntúa**. El careo se registra como instr
 
 <table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · presentación y locución</td><td>Claridad, uso del tiempo y capacidad de sostener el hilo del episodio.</td></tr><tr><td><b>R</b> · el podcast o informe</td><td>El producto entregado, con los descriptores de la rúbrica general de los criterios 3.1 y 3.3.</td></tr><tr><td><b>D</b> · el careo</td><td>La calidad de vuestras preguntas y de vuestras respuestas.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Vuestra valoración razonada de los demás equipos, con un descriptor concreto de la rúbrica.</td></tr></tbody></table>
 
-::: nota 🛡️ Por qué el careo es la salvaguarda de autoría
+::: nota Por qué el careo es la salvaguarda de autoría
 Defender en directo la procedencia de un dato no se puede delegar. Es la principal protección frente a un uso indebido de la IA, y por eso pesa tanto en esta sesión.
 :::
 

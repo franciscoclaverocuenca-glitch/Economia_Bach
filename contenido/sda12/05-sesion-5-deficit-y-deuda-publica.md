@@ -27,7 +27,7 @@ titulo: Sesión 5 · Déficit y deuda pública
 - ¿Es lo mismo endeudarse para pagar nóminas que para construir una línea de tren?
 - Kelton dice que un Estado con moneda propia no quiebra como una familia. ¿Se aplica a España?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Serie histórica de la deuda pública española sobre el PIB (1995-2024)** del Banco de España o del INE, actualizada al último dato disponible. Una copia por grupo base.
 - **Datos de la deuda de la Junta de Andalucía** para el contraste local.
 - Esquema impreso o proyectado del «contador y el saldo».
@@ -38,7 +38,7 @@ titulo: Sesión 5 · Déficit y deuda pública
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -70,7 +70,7 @@ Vuestro grupo recibe la serie de la deuda pública española sobre el PIB de las
 
 <table><thead><tr><th width="5%"></th><th width="48%">Pregunta</th><th width="47%">Pista</th></tr></thead><tbody><tr><td>1</td><td>Identificad los cuatro grandes tramos y ponedle un nombre a cada uno.</td><td>Buscad primero los puntos de inflexión, no los valores.</td></tr><tr><td>2</td><td>¿Por qué la deuda casi se triplica entre 2008 y 2014?</td><td>Pensad en las dos cosas que pasan a la vez en una crisis: qué ocurre con los ingresos y qué con las prestaciones.</td></tr><tr><td>3</td><td>En 2020 hay otro salto brusco. ¿Fue por el mismo motivo que en 2008?</td><td>Comparad el origen del shock y la respuesta política de cada momento.</td></tr><tr><td>4</td><td>Entre 2014 y 2019 hay crecimiento y la deuda apenas baja. ¿Qué os dice eso?</td><td>Esta es la pregunta importante. La respuesta tiene nombre y aparece en los apuntes.</td></tr></tbody></table>
 
-::: nota 📈 Esto es exactamente el saber A6
+::: nota Esto es exactamente el saber A6
 Interpretar una serie de datos económicos reales, identificar sus tramos y explicarlos con conceptos es literalmente lo que evalúa el saber básico A6. Vuestro análisis va al portafolio (instrumento P).
 :::
 
@@ -84,7 +84,7 @@ El **déficit** es un **flujo**: lo que en *un año* el Estado gasta por encima 
 
 La **deuda** es un **stock**: la acumulación de todos los déficits pasados que aún no se han devuelto. Se mide en un instante concreto. Es como el saldo pendiente de una tarjeta de crédito frente al gasto de un mes.
 
-::: aviso ⚠️ La consecuencia que hay que entender
+::: aviso La consecuencia que hay que entender
 Cada año con déficit hace **crecer** la deuda. Reducir el déficit solo hace que crezca más despacio. Para que la deuda baje en términos absolutos hace falta superávit; para que baje en porcentaje del PIB basta con que la economía crezca más rápido que la deuda.
 :::
 
@@ -111,7 +111,7 @@ España no decide sola. Los países del euro acordaron en el **Pacto de Estabili
 
 Para vuestro Dictamen esto significa algo muy concreto: cualquier propuesta de gasto tiene que ser compatible con ese marco, o explicar de dónde saldría el ingreso que la financia.
 
-::: nota 🧠 Una voz heterodoxa: Stephanie Kelton
+::: nota Una voz heterodoxa: Stephanie Kelton
 La economista Stephanie Kelton, principal divulgadora de la Teoría Monetaria Moderna, sostiene que la analogía entre las cuentas de un Estado y las de una familia es engañosa: un Estado que emite su propia moneda no se queda sin dinero, y el límite real de su gasto no es la caja sino la inflación.
 
 Es una posición muy discutida y con un límite evidente para nosotros: **España no emite su propia moneda**, comparte el euro y no controla el Banco Central Europeo. Se te ofrece como una tesis a discutir con sus contrapesos, no como una verdad cerrada. Saber leer un argumento potente sin comprarlo entero es parte de lo que se evalúa en esta materia.

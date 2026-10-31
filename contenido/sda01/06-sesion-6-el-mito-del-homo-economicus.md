@@ -29,7 +29,7 @@ titulo: Sesión 6 · El mito del Homo Economicus
 - ¿Qué error comete Javier al seguir pagando por «no perder lo invertido»?
 - ¿Qué explicaciones se han propuesto para las diferencias de género en el acceso al crédito?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tres dilemas** preparados para proyectar o escribir en la pizarra, sobre decisiones de vivienda.
 - **Tarjetas de casos de «decisiones irracionales»** relacionadas con la vivienda, una por pareja.
 - **Caso de muestra**: «Javier lleva 8 meses pagando la hipoteca de un piso que, tras la reforma que le hizo su banco pagar de más, ya no le convence, pero sigue pagándola sin plantearse alternativas porque *ya ha invertido demasiado dinero* ».
@@ -41,7 +41,7 @@ titulo: Sesión 6 · El mito del Homo Economicus
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Los conceptos se extraen de dilemas concretos antes de nombrarse técnicamente, de modo que la definición llegue cuando ya existe una experiencia reconocible a la que asociarla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El torneo se desarrolla en parejas y la coevaluación se hace entre tríos de parejas, lo que reparte la exposición y multiplica el tiempo real de participación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -69,7 +69,7 @@ sda1-s06-07.webp | Y aquí no hay conclusión
 
 «Has pagado 300 € de fianza por un piso de alquiler, pero justo esa semana encuentras otro mejor y más barato a la vuelta de la esquina. ¿Te quedas con el primero para no perder la fianza, o te vas al segundo?»
 
-::: nota 💡 Dos conceptos en un solo dilema
+::: nota Dos conceptos en un solo dilema
 El dinero de la fianza ya pagada es un **coste irrecuperable**: lo recuperes o no, ya está fuera de tu bolsillo y **no debería influir** en la decisión de hoy. El piso mejor que dejas pasar es tu **coste de oportunidad**: lo que renuncias al elegir quedarte.
 :::
 
@@ -81,7 +81,7 @@ La pregunta correcta no es «¿he visto suficientes?». Es: **¿el beneficio de 
 
 ### El Consultor Racional
 
-::: aviso ⚖️ Vuestro caso de muestra
+::: aviso Vuestro caso de muestra
 «Javier lleva 8 meses pagando la hipoteca de un piso que, tras la reforma que le hizo su banco pagar de más, ya no le convence, pero sigue pagándola sin plantearse alternativas porque *ya ha invertido demasiado dinero*». **Analiza su decisión.**
 :::
 
@@ -95,7 +95,7 @@ Al terminar, cada pareja se empareja con otras dos para **coevaluar** sus dictá
 
 Se han apuntado varias: la **brecha salarial**, el **tipo de contrato** —temporalidad y parcialidad afectan a la concesión de una hipoteca— y la **socialización financiera**.
 
-::: nota 🔍 Y aquí no vamos a dar una conclusión
+::: nota Y aquí no vamos a dar una conclusión
 Es deliberado. El objetivo es que practiquéis la **lectura crítica de la propia investigación económica**, evitando tanto **negar** como **sobredimensionar** diferencias que la literatura sigue debatiendo.
 
 Saber decir «esto está discutido y estas son las posiciones» es una competencia, no una evasiva.
@@ -113,7 +113,7 @@ Es un modelo útil —simplifica y permite predecir—, pero es **solo un modelo
 
 <table><thead><tr><th width="24%"></th><th width="38%">COSTE DE OPORTUNIDAD</th><th width="38%">COSTE IRRECUPERABLE</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Aquello a lo que <b>renuncias</b> al elegir una opción</td><td>Un gasto <b>ya realizado</b> que no puedes recuperar decidas lo que decidas</td></tr><tr><td><b>¿Debe influir en tu decisión?</b></td><td><b>Sí.</b> Es exactamente lo que hay que valorar</td><td><b>No.</b> Ya está fuera de tu bolsillo pase lo que pase</td></tr><tr><td><b>En el dilema de la fianza</b></td><td>El piso mejor y más barato que dejas pasar</td><td>Los 300 € de fianza que ya pagaste</td></tr></tbody></table>
 
-::: aviso ⚠️ El error más frecuente y más caro
+::: aviso El error más frecuente y más caro
 Dejarse guiar por un coste irrecuperable. «No puedo dejarlo ahora, con lo que llevo invertido» es, económicamente, un mal argumento: lo invertido no vuelve. La pregunta correcta siempre es **hacia delante**: ¿qué me conviene **a partir de ahora**?
 :::
 
@@ -127,7 +127,7 @@ Y fijaos en que esta lógica hace irrelevante lo ya invertido: el análisis marg
 
 ### 4. Una pregunta abierta sobre género y vivienda
 
-::: nota 🔍 Sin conclusión, y a propósito
+::: nota Sin conclusión, y a propósito
 ¿Existen diferencias de género documentadas en el acceso al crédito hipotecario o en la capacidad de ahorro para la entrada de una vivienda?
 
 Se han propuesto varias explicaciones —brecha salarial, tipo de contrato, socialización financiera— y la literatura sigue debatiendo su alcance. El objetivo de esta pregunta no es que memoricéis una respuesta, sino que practiquéis la **lectura crítica**: ni negar diferencias documentadas ni sobredimensionar las que están en discusión.

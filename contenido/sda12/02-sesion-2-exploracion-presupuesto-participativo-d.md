@@ -37,7 +37,7 @@ Pedir identificar al **perjudicado** y no solo al ganador es lo que exige el raz
 - ¿A quién deja fuera vuestra propuesta?
 - ¿Qué criterio pesó de verdad en la votación, aunque nadie lo dijera en voz alta?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Acuerdo previo con el equipo directivo** sobre la partida real disponible y sobre el compromiso de ejecutar la propuesta ganadora. Sin eso, la sesión pierde lo que la hace única.
 - **Ficha de propuesta**, una por grupo base, con los cuatro campos verificables.
 - **Dispositivos con conexión** para buscar precios reales.
@@ -50,7 +50,7 @@ Pedir identificar al **perjudicado** y no solo al ganador es lo que exige el raz
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La decisión es real y se ejecuta, lo que sitúa al alumnado como agente de una decisión pública sobre su propio centro y no como espectador de un supuesto.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El cuarto ítem —aceptar un resultado adverso— y el análisis individual, que obliga a identificar al perjudicado, trabajan explícitamente la dimensión cívica de la decisión colectiva.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La feria de defensa genera conversación simultánea. Sitúa a este grupo en la zona más alejada, exige turnos de uno en uno y de frente, y entrega por escrito las fichas de propuesta de los demás grupos antes de la votación.
 :::
 
@@ -77,13 +77,13 @@ expl-sda12-06.webp | El análisis
 
 <table><thead><tr><th width="5%"></th><th width="27%">Campo</th><th width="68%">Qué exige</th></tr></thead><tbody><tr><td>1</td><td><b>Qué se hace</b></td><td>Descripción concreta. Nada de intenciones generales.</td></tr><tr><td>2</td><td><b>Cuánto cuesta</b></td><td>Con el <b>precio buscado</b>, con su fuente. No estimado a ojo.</td></tr><tr><td>3</td><td><b>A cuántas personas beneficia</b></td><td>Un número, y de qué manera. «A todo el mundo» no es una respuesta.</td></tr><tr><td>4</td><td><b>¿Dura más de un curso?</b></td><td>Si el efecto se agota este año o permanece.</td></tr></tbody></table>
 
-::: nota 📋 Por qué estos cuatro campos
+::: nota Por qué estos cuatro campos
 Son los que convierten un deseo en una propuesta presupuestaria. Cualquiera puede decir qué le gustaría; decir cuánto cuesta, a quién beneficia y cuánto dura es otra cosa.
 :::
 
 ### La feria de defensa
 
-::: aviso 🎤 La regla de las preguntas
+::: aviso La regla de las preguntas
 Cuando preguntéis a otro grupo, que sea una pregunta **de reparto** y no de gusto.
 
 **De reparto:** «¿a quién deja fuera vuestra propuesta?», «¿por qué esas personas y no otras?». **De gusto:** «¿no sería mejor comprar otra cosa?». La primera obliga a pensar en el reparto; la segunda solo expresa una preferencia.
@@ -97,7 +97,7 @@ Va a ganar una sola propuesta. **Aceptar el resultado aunque no sea el vuestro**
 
 <table><thead><tr><th width="6%"></th><th width="94%">La pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Qué <b>criterio implícito</b> pesó en la votación, aunque nadie lo dijera en voz alta? ¿El número de beneficiarios, la visibilidad, la simpatía del grupo que defendía?</td></tr><tr><td>2</td><td>¿Qué grupo de personas <b>quedó sin nada</b> y le afectaba especialmente?</td></tr><tr><td>3</td><td>¿Qué habría cambiado con el <b>doble</b> de presupuesto? ¿Y con la mitad?</td></tr></tbody></table>
 
-::: nota ⚖️ La segunda pregunta es la que se evalúa
+::: nota La segunda pregunta es la que se evalúa
 Identificar al ganador es fácil: lo dice el recuento. Identificar a quien queda fuera y a quien más le dolía exige **razonamiento distributivo**, que es exactamente lo que acredita la competencia específica 5.
 
 Y al ser de redacción personal, esta ficha es resistente a la copia.
@@ -115,7 +115,7 @@ Un mecanismo por el que quienes se ven afectados por una decisión de gasto púb
 
 ### 3. Toda decisión de gasto reparte
 
-::: nota ⚖️ La idea central de la sesión
+::: nota La idea central de la sesión
 Los recursos públicos son limitados, así que **financiar algo es no financiar otra cosa**. Esa es la razón de que la pregunta importante no sea qué ganó, sino **quién quedó fuera**.
 
 Es el coste de oportunidad aplicado a lo público, y es el hilo que recorre toda esta situación de aprendizaje.

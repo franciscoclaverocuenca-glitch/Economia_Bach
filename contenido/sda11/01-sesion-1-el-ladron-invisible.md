@@ -27,7 +27,7 @@ titulo: Sesión 1 · «El ladrón invisible»
 - ¿Alguien de vuestra familia ha notado la subida más que otros? ¿Por qué creéis que es?
 - Si la inflación es un ladrón invisible, ¿cómo podríamos medir cuánto nos roba?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tabla de la cesta de la compra 2021-2023** con precios reales de Málaga: barra de pan, litro de leche, botella de aceite de oliva, litro de gasolina y alquiler medio de un piso. Una copia por pareja. Fuentes: INE, IECA y portales inmobiliarios.
 - **Cuatro titulares reales** de prensa digital: energía y conflicto internacional, encarecimiento de alimentos, subida del euríbor y las hipotecas, y decisión de tipos del BCE. Proyectables.
 - **Plantilla de diagnóstico** con las tres preguntas, anónima, en papel o formulario digital.
@@ -38,7 +38,7 @@ titulo: Sesión 1 · «El ladrón invisible»
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la cesta de la compra que cada familia del alumnado ha vivido: un contexto local, cercano y auténtico que no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas dentro del grupo base permite participar sin exponerse ante el gran grupo, y el diagnóstico final es anónimo y escrito.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -75,7 +75,7 @@ Recibís una tabla con el precio de cinco productos cotidianos en 2021 y en 2023
 
 <table><thead><tr><th width="37%">Producto</th><th width="21%">Precio 2021</th><th width="21%">Precio 2023</th><th width="21%">Subida %</th></tr></thead><tbody><tr><td>Barra de pan</td><td></td><td></td><td></td></tr><tr><td>Litro de leche</td><td></td><td></td><td></td></tr><tr><td>Botella de aceite de oliva</td><td></td><td></td><td></td></tr><tr><td>Litro de gasolina</td><td></td><td></td><td></td></tr><tr><td>Alquiler medio de un piso en Málaga</td><td></td><td></td><td></td></tr><tr><td><b>TOTAL DE LA CESTA</b></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 💡 La idea que tiene que salir de aquí
+::: nota La idea que tiene que salir de aquí
 La inflación **no es que haya menos dinero**. El dinero es el mismo: los billetes siguen en tu cartera. Lo que ocurre es que cada euro **compra menos**. A eso lo llamamos pérdida de **poder adquisitivo**.
 :::
 
@@ -89,7 +89,7 @@ Se proyectan cuatro titulares reales sobre la escalada de precios. Por parejas, 
 
 <table><thead><tr><th width="50%">Sube UN precio</th><th width="50%">Suben LOS precios</th></tr></thead><tbody><tr><td>Una sequía encarece el aceite de oliva. Un huracán arrasa las cosechas de café.</td><td>El nivel medio de precios de toda la economía sube.</td></tr><tr><td>Es un cambio de <b>precio relativo</b>: ese producto se encarece respecto de los demás.</td><td>Sube de forma <b>generalizada</b> (muchos bienes y servicios a la vez).</td></tr><tr><td>Puede compensarse comprando otra cosa.</td><td>Y de forma <b>sostenida</b> (no un mes suelto, sino mantenida en el tiempo).</td></tr><tr><td><b>NO es inflación.</b></td><td><b>ESO es inflación.</b></td></tr></tbody></table>
 
-::: aviso 📝 Primera entrada de tu portafolio
+::: aviso Primera entrada de tu portafolio
 Escribe esta distinción con tus palabras y un ejemplo propio de cada caso. Vas a volver sobre ella varias veces, y en la prueba escrita se pregunta.
 :::
 
@@ -97,7 +97,7 @@ Escribe esta distinción con tus palabras y un ejemplo propio de cada caso. Vas 
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -110,7 +110,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -153,7 +153,7 @@ La **inflación** es el aumento **generalizado** y **sostenido** del nivel medio
 
 Esta distinción parece técnica y no lo es: buena parte de las conversaciones confusas sobre precios que oirás nacen de mezclar las dos cosas.
 
-::: aviso ⚠️ El error más común
+::: aviso El error más común
 «Ha subido el pan, o sea que hay inflación». No necesariamente. La pregunta correcta es: **¿ha subido el pan más que las demás cosas, o han subido todas a la vez?** Solo lo segundo es inflación.
 :::
 

@@ -27,7 +27,7 @@ Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagn
 - El euríbor ya está por encima del tipo oficial. ¿Qué está descontando el mercado?
 - ¿Qué le responderíais a una familia con hipoteca variable si subís los tipos?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de los instrumentos de política monetaria** para el trabajo en grupo.
 - **Diagrama del mecanismo de transmisión** proyectable, con las flechas paso a paso.
 - **Mini-escenarios de práctica**, uno por grupo base. Ejemplo: «la inflación está en el 7 % y subiendo, la economía crece con fuerza y el paro es bajo».
@@ -39,7 +39,7 @@ Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagn
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El mecanismo de transmisión se presenta como una cadena numerada de cinco pasos además de como diagrama de flechas, de modo que pueda seguirse secuencialmente por quien no procese bien la representación espacial.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 

@@ -29,7 +29,7 @@ El **Reto 3** es el más productivo: los peces del arrecife son un **recurso com
 - ¿Qué pasaría si las baterías fallaran del todo? ¿Qué relación tienen con los paneles?
 - ¿Qué servicio —no bien— podría acelerar la construcción de viviendas en la isla?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dossier del caso «Isla Utopía»** con el escenario y los cuatro retos, uno por grupo base.
 - **Un único folio de respuestas por grupo.** La restricción es deliberada: fuerza el consenso.
 - **Tarjetas de los cuatro roles cooperativos**: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell.
@@ -41,7 +41,7 @@ El **Reto 3** es el más productivo: los peces del arrecife son un **recurso com
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El escenario narrativo de la isla convierte el contenido en un problema por resolver en lugar de una materia por estudiar, y permite entrar por la vía de la historia antes que por la de la definición.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro roles reparten responsabilidades explícitas y el rol de Controlador/a del Cornell convierte el uso de la terminología en una tarea asignada y verificable.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Trabajo cooperativo simultáneo de todos los grupos, con nivel de ruido alto. Sitúa a este grupo en la zona más alejada, acuerda una norma de un solo turno de palabra, y entrega el dossier del caso **por escrito con antelación** para que pueda leerlo con calma. Si asume la Portavocía, garantiza un ensayo previo.
 :::
 
@@ -87,7 +87,7 @@ Y después, **como economistas**: justificad razonadamente qué demandas deben p
 
 <table><thead><tr><th width="46%">Elemento</th><th width="26%">¿Libre o económico?</th><th width="28%">¿Privado, público o común?</th></tr></thead><tbody><tr><td>Un <b>faro</b> costero construido con los restos del barco</td><td></td><td></td></tr><tr><td>Los <b>peces del arrecife</b>: de pesca libre, pero limitados si se sobreexplotan</td><td></td><td></td></tr><tr><td>Las primeras <b>10 cabañas</b> de madera, repartidas por sorteo entre las familias</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🐟 Los peces del arrecife son el caso de Elinor Ostrom
+::: nota Los peces del arrecife son el caso de Elinor Ostrom
 Un recurso del que nadie puede ser excluido fácilmente, pero que **se agota si se sobreexplota**. Es exactamente el tipo de bien que estudió y sobre el que documentó que las comunidades pueden darse reglas propias. Recordad la sesión de ayer.
 :::
 
@@ -99,7 +99,7 @@ Y una segunda parte: los **paneles solares** del barco y las **baterías** para 
 
 Y una propuesta de **tres líneas**: ¿cómo podría un **servicio** específico —no un bien material— creado por los colonos aumentar el ritmo de construcción de nuevas viviendas en la isla?
 
-::: aviso 📄 Un único folio por grupo
+::: aviso Un único folio por grupo
 La restricción es deliberada: con cuatro folios cada uno escribe lo suyo y no hay debate. Con uno, hay que ponerse de acuerdo.
 :::
 
@@ -113,7 +113,7 @@ Y hay una razón más: en una isla desde cero, la **vivienda** aparece inmediata
 
 ### 2. El problema económico básico, otra vez
 
-::: nota ⚖️ Cinco herramientas y una comunidad cansada
+::: nota Cinco herramientas y una comunidad cansada
 El Reto 1 es el problema económico en su forma más pura: hay recursos **limitados** —5 herramientas, mano de obra cansada— y necesidades que no lo son. Por tanto, **hay que elegir**. Y elegir significa renunciar.
 :::
 
@@ -125,7 +125,7 @@ El Reto 1 es el problema económico en su forma más pura: hay recursos **limita
 
 <table><thead><tr><th width="26%">Elemento</th><th width="24%">Clasificación</th><th width="50%">Por qué</th></tr></thead><tbody><tr><td><b>El faro</b></td><td>Bien público</td><td>Su luz sirve a todos los barcos a la vez y no se puede impedir que alguien la vea. Ni rival ni excluible.</td></tr><tr><td><b>Los peces del arrecife</b></td><td>Recurso común</td><td>Nadie puede ser excluido de pescar, pero <b>lo que pesca uno no lo pesca otro</b>, y se agota si se sobreexplota.</td></tr><tr><td><b>Las cabañas</b></td><td>Bienes privados</td><td>Repartidas por sorteo entre familias concretas: son excluibles y rivales.</td></tr></tbody></table>
 
-::: aviso 🐟 Y por qué el arrecife es el caso interesante
+::: aviso Y por qué el arrecife es el caso interesante
 Un **recurso común** sin reglas tiende a sobreexplotarse: a cada colono le interesa pescar más, y si todos hacen lo mismo el arrecife se agota y pierden todos. Es exactamente el problema que estudió **Elinor Ostrom**, y que documentó que puede resolverse con reglas comunitarias propias, sin necesidad de privatizarlo ni estatalizarlo.
 
 Guardad esta idea: en la sesión 8 vais a discutir si la vivienda debería tratarse como algo más cercano a un bien común.

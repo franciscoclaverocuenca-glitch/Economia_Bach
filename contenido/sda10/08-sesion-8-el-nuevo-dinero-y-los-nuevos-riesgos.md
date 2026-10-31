@@ -27,7 +27,7 @@ titulo: Sesión 8 · El nuevo dinero y los nuevos riesgos
 - ¿Qué papel, si alguno, podría tener un criptoactivo en una cartera? ¿Y con qué dinero?
 - ¿Qué haríais si recibierais un SMS de vuestro banco con un enlace pidiendo la clave?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Ejemplos reales anonimizados** de intentos de estafa: mensajes de phishing que suplantan a un banco, publicaciones de supuestos gurús de la inversión, esquemas piramidales. **Anonimiza marcas, perfiles y datos personales.**
 - **Esquema de blockchain** proyectable y explicable en dos minutos.
 - **Tarjetas de casos «¿fraude o no?»** para el cuestionario formativo.
@@ -39,7 +39,7 @@ titulo: Sesión 8 · El nuevo dinero y los nuevos riesgos
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El formato fishbowl permite participar cuando cada persona decide, entrando y saliendo del centro libremente, en lugar de imponer un turno rotatorio obligatorio ante todo el grupo.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El debate parte de un tema con presencia real en el entorno digital del alumnado, lo que permite traer conocimiento previo propio a la discusión académica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El fishbowl tiene turnos rápidos y no anunciados, con el grupo en círculo. Sitúa a este alumno/a en el círculo interior o con visión frontal de las sillas centrales, exige que quien habla lo haga desde el centro y de frente, y proyecta por escrito la pregunta del debate y la regla de entrada durante toda la actividad.
 :::
 
@@ -82,7 +82,7 @@ sda10-s08-08.webp | El decálogo
 
 Unas pocas sillas en el centro del círculo. Solo se habla desde el centro, y se entra y se sale libremente. Cuando quieres intervenir, ocupas una silla; cuando terminas, la dejas.
 
-::: aviso 🎤 Regla de entrada innegociable
+::: aviso Regla de entrada innegociable
 Para intervenir tienes que combinar un **concepto** financiero de la unidad —riesgo, diversificación, liquidez, especulación, volatilidad— con un **argumento**. Sin concepto, no se entra al centro.
 :::
 
@@ -105,7 +105,7 @@ Consensuad entre todos un decálogo. Estas son las seis reglas básicas; añadid
 5. Ante un enlace sospechoso: no pinchar y entrar a la app del banco por su vía habitual.
 6. Y una regla de oro: **nunca invertir en algo que no sepas explicar con tus palabras**.
 
-::: nota 🔒 Esto entra en vuestro Plan Financiero
+::: nota Esto entra en vuestro Plan Financiero
 El decálogo es una de las cinco piezas obligatorias del Plan Financiero Personal de la sesión 9, y desarrolla directamente el descriptor **CD4**. No es un añadido decorativo.
 :::
 
@@ -142,7 +142,7 @@ Saber a quién acudir es parte de la competencia financiera. En una situación d
 
 ### 5. «Esta vez es diferente»
 
-::: aviso 📉 La frase que precede a toda burbuja
+::: aviso La frase que precede a toda burbuja
 **Carmen Reinhart** estudió siglos de crisis financieras y encontró un patrón que se repite con una regularidad casi cómica: antes de cada burbuja, alguien explica convincentemente por qué *esta vez* las reglas no se aplican.
 
 Es la mejor vacuna contra el **FOMO** (*fear of missing out*, miedo a quedarse fuera). Cuando oigas esa frase —o cuando la pienses tú— esa es la señal de que hay que pararse.

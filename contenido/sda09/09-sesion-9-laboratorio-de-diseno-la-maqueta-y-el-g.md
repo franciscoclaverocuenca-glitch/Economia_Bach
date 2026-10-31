@@ -33,7 +33,7 @@ titulo: 'Sesión 9 · Laboratorio de diseño: la maqueta y el guion de la visita
 - Vuestro guion sigue el viaje de un euro: ¿por dónde empieza y por dónde acaba?
 - ¿Habéis cronometrado la visita? ¿Cabe en cuatro minutos?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Las piezas de la maqueta acumuladas en las sesiones 3 a 8**: esqueleto del diagrama, módulo del Sector Público, filtración e inyección, palanca de demanda y palanca de oferta. Recuérdales traerlas.
 - **Material de manualidades** (cartulina, rotuladores de los dos colores de la unidad, velcro o pinzas para los elementos móviles) **y/o dispositivos digitales** según el formato que elija cada grupo.
 - **Acceso a las webs del IECA y del INE**, con los enlaces preparados para no perder tiempo.
@@ -46,7 +46,7 @@ titulo: 'Sesión 9 · Laboratorio de diseño: la maqueta y el guion de la visita
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La lista de cotejo de cinco elementos y el control de calidad intermedio funcionan como andamiaje explícito de planificación y autorregulación antes de la evaluación sumativa; las piezas acumuladas sesión a sesión evitan que el producto haya que construirlo de cero.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El formato del producto es libre —maqueta física manipulable, infografía digital o mural con elementos móviles—, lo que permite a cada grupo elegir el medio de expresión en el que mejor se desenvuelve sin rebajar la exigencia conceptual.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto y bastante movimiento. Sitúa a este grupo en la zona más alejada, entrega por escrito la retroalimentación del control de calidad además de darla oralmente, y garantiza que el ensayo del guion se hace de frente y sin ruido de fondo. Si este alumno/a va a guiar, asegúrate de que sus paradas están escritas y ensayadas.
 :::
 
@@ -69,9 +69,9 @@ sda9-s09-06.webp | El control de calidad
 
 ## Los cinco elementos obligatorios
 
-<table><thead><tr><th width="5%"></th><th width="60%">Elemento</th><th width="25%">Se construyó en…</th><th width="10%">☐</th></tr></thead><tbody><tr><td>1</td><td>Los <b>agentes económicos</b> y sus funciones</td><td>Sesión 3</td><td></td></tr><tr><td>2</td><td>Los <b>dos mercados</b> y los <b>dos flujos</b>, diferenciados por color</td><td>Sesión 3</td><td></td></tr><tr><td>3</td><td>El <b>triple papel del Sector Público</b>, con operaciones malagueñas reales</td><td>Sesión 4</td><td></td></tr><tr><td>4</td><td>Una <b>filtración</b> y una <b>inyección</b> del circuito</td><td>Sesiones 5 y 6</td><td></td></tr><tr><td>5</td><td><b>Panel de escenarios</b> con una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 7 y 8</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="5%"></th><th width="60%">Elemento</th><th width="25%">Se construyó en…</th><th width="10%"></th></tr></thead><tbody><tr><td>1</td><td>Los <b>agentes económicos</b> y sus funciones</td><td>Sesión 3</td><td></td></tr><tr><td>2</td><td>Los <b>dos mercados</b> y los <b>dos flujos</b>, diferenciados por color</td><td>Sesión 3</td><td></td></tr><tr><td>3</td><td>El <b>triple papel del Sector Público</b>, con operaciones malagueñas reales</td><td>Sesión 4</td><td></td></tr><tr><td>4</td><td>Una <b>filtración</b> y una <b>inyección</b> del circuito</td><td>Sesiones 5 y 6</td><td></td></tr><tr><td>5</td><td><b>Panel de escenarios</b> con una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 7 y 8</td><td></td></tr></tbody></table>
 
-::: aviso ⚑ Esta vez la rúbrica se aplica completa
+::: aviso Esta vez la rúbrica se aplica completa
 En la SdA 8 el criterio 3.2 se evaluó de forma **parcial**: solo dos de sus tres operaciones. Aquí se aplica en su integridad, incluida la tercera —establecer las relaciones entre agentes mediante el modelo DA-OA—, que es el núcleo del elemento 5. Y la nota que obtengáis aquí es la **calificación definitiva** del criterio.
 :::
 
@@ -91,7 +91,7 @@ En cualquier formato: **mantened el código de color** de la unidad —un color 
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué hay que hacer</th></tr></thead><tbody><tr><td>a</td><td>Elegid el <b>sector malagueño</b> al que ancláis vuestra maqueta: turismo, comercio, puerto, tecnología…</td></tr><tr><td>b</td><td>Localizad en el <b>IECA</b> o el <b>INE</b> un dato oficial sobre ese sector.</td></tr><tr><td>c</td><td>Citadlo con <b>fuente y fecha</b>.</td></tr><tr><td>d</td><td>Y justificad <b>por escrito</b> por qué ese dato es fiable frente al titular de prensa que pudiera resumirlo.</td></tr></tbody></table>
 
-::: nota 🔍 La última parte es la que puntúa más
+::: nota La última parte es la que puntúa más
 Cualquiera puede copiar una cifra. Explicar **por qué la fuente original es más fiable que el titular** que la resume es alfabetización informacional, y es exactamente lo que se evalúa aquí.
 :::
 

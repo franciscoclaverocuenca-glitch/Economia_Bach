@@ -27,7 +27,7 @@ titulo: 'Sesión 7 · El gran debate: ¿austeridad o estímulo?'
 - ¿Habría sido posible la respuesta de 2020 sin el respaldo europeo?
 - ¿Cambiaría vuestra postura si el país tuviera la deuda al 40 % en lugar de al 100 %?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dossier de datos comparados** España 2010-2013 y 2020-2021: evolución del paro, del crecimiento, del déficit y de la deuda en cada periodo. Una copia por equipo.
 - **Tarjetas de rol** (Proposición, Oposición, Público) y disposición del aula enfrentada.
 - **Cronómetro visible** para todos: los turnos tasados son la esencia del formato Oxford.
@@ -38,7 +38,7 @@ titulo: 'Sesión 7 · El gran debate: ¿austeridad o estímulo?'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>Se ofrecen tres vías de participación con el mismo valor académico: intervención oral en el debate, intervención preparada y leída, o rol de documentalista del equipo localizando el dato que sostiene el argumento de otra persona.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas se asignan y no se eligen, de modo que nadie está defendiendo necesariamente lo que piensa; las reglas explícitas de turno y respeto reducen la ansiedad del formato adversarial.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -69,7 +69,7 @@ sda12-s07-08.webp | Síntesis
 
 <table><thead><tr><th width="16%">Turno</th><th width="16%">Quién</th><th width="12%">Tiempo</th><th width="56%">Regla</th></tr></thead><tbody><tr><td>Apertura</td><td>Cada equipo</td><td>3 min</td><td>Se plantea la tesis y los dos argumentos principales. Sin interrupciones.</td></tr><tr><td>Réplica</td><td>Cada equipo</td><td>2 min</td><td><b>Solo</b> se puede responder a lo dicho por el contrario. Nada de tesis nuevas.</td></tr><tr><td>Turno abierto</td><td>El público</td><td>8 min</td><td>Preguntas de 30 segundos dirigidas a un equipo concreto.</td></tr><tr><td>Votación</td><td>El público</td><td>5 min</td><td>Voto razonado: hay que explicar en una frase qué argumento os decidió.</td></tr></tbody></table>
 
-::: aviso ⚠️ Regla de oro
+::: aviso Regla de oro
 Toda intervención cita un dato del dossier. Sin dato, no cuenta y se corta. Esto no es una tertulia: es un ejercicio de argumentación con evidencia.
 :::
 

@@ -27,7 +27,7 @@ Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutie
 - ¿Qué rasgo os parece más determinante para que un mercado funcione bien?
 - ¿Se os ocurre algún mercado real que cumpla los cuatro supuestos de la competencia perfecta?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla Cornell**, una por alumno/a.
 - **Matriz de clasificación** (filas: 8 mini-casos; columnas: los cuatro rasgos + estructura resultante), una por gabinete.
 - **8 tarjetas de mini-casos**: la lonja de pescado, el mercado del aceite de oliva a granel, el sistema operativo de los móviles, las compañías eléctricas, la telefonía móvil, las cafeterías del centro, el agua embotellada de marca y el transporte ferroviario de viajeros antes de la liberalización.
@@ -39,7 +39,7 @@ Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutie
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro rasgos funcionan como andamiaje procedimental explícito: convierten una tarea abierta («clasifica este mercado») en cuatro preguntas cerradas y verificables que se repiten en los ocho casos.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura «lápices al centro» garantiza igualdad de participación: nadie puede avanzar por escrito mientras el grupo delibera, lo que impide que quien escribe más rápido monopolice la tarea.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de «lápices al centro» genera deliberación simultánea en todos los gabinetes. Sitúa a este alumno/a en la zona más alejada del centro del aula, entrega las ocho tarjetas también por escrito y acuerda con el gabinete la norma de un solo turno de palabra y de frente.
 :::
 
@@ -78,11 +78,11 @@ Es un **ideal teórico**: pocos mercados reales lo cumplen del todo. Pero sirve 
 
 <table><thead><tr><th width="30%">Mini-caso</th><th width="16%">¿Cuántos venden?</th><th width="14%">¿Homogéneo?</th><th width="13%">¿Barreras?</th><th width="13%">¿Información?</th><th width="14%">Estructura</th></tr></thead><tbody><tr><td>1 · La lonja de pescado</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2 · El aceite de oliva a granel</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 · El sistema operativo de los móviles</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4 · Las compañías eléctricas</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5 · La telefonía móvil</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6 · Las cafeterías del centro</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7 · El agua embotellada de marca</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 · El tren de viajeros antes de la liberalización</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso ✏️ La regla de «lápices al centro»
+::: aviso La regla de «lápices al centro»
 Para cada tarjeta: uno lee y propone, se debate **con los lápices en el centro de la mesa** —nadie escribe mientras se delibera— y solo cuando hay acuerdo se recogen los lápices y **todos** completan su fila. Si alguien está escribiendo, es que ha dejado de escuchar.
 :::
 
-::: nota 🗺️ Esta matriz no es un ejercicio suelto
+::: nota Esta matriz no es un ejercicio suelto
 Se archiva en el portafolio y es **la herramienta de diagnóstico del apartado 1 de vuestro informe pericial**. Rellenadla con cuidado.
 :::
 
@@ -103,7 +103,7 @@ La **competencia perfecta** es el mercado que cumple los cuatro rasgos en su ver
 - **Libre entrada y salida**: cualquiera puede entrar a competir si le resulta rentable.
 - **Información completa**: todo el mundo conoce precios y calidades.
 
-::: nota 🐟 Es un ideal teórico, y hay que decirlo
+::: nota Es un ideal teórico, y hay que decirlo
 Pocos mercados reales cumplen los cuatro supuestos del todo. Pero eso no lo invalida: sirve como **vara de medir**. Cuanto más se aleja un mercado de estos supuestos, más poder de mercado hay en juego, y más probable es que aparezca un fallo.
 
 La aproximación más cercana que tenéis a mano es la subasta de la **lonja del puerto de Málaga**: muchos pescadores, producto esencialmente homogéneo por especie y calibre, y precios formados a la vista de todos.

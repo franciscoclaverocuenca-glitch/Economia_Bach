@@ -31,7 +31,7 @@ La **función de riesgo** es la que menos se intuye y la que más conviene subra
 - ¿Qué aporta esta empresa a su entorno además de su producto?
 - De lo que dijimos el primer día, ¿qué acertamos y qué había que matizar?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Casos reales de empresas malagueñas y andaluzas**, de distinto tamaño y sector, con información suficiente para identificar sus elementos y sus cuatro funciones. 2-3 casos por pareja.
 - **Ficha de análisis** con las cuatro funciones y los elementos patrimoniales.
 - **La fotografía de la lluvia de ideas de la sesión 1**. Sin ella, la puesta en común pierde su núcleo.
@@ -43,7 +43,7 @@ La **función de riesgo** es la que menos se intuye y la que más conviene subra
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La división del trabajo se presenta primero como experiencia concreta y cotidiana (el experimento del bocadillo) y solo después se nombra técnicamente, de modo que la definición llegue cuando ya existe una imagen reconocible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El contraste con las ideas previas de la sesión 1 hace visible el propio progreso y valida las intuiciones acertadas del alumnado en lugar de sustituirlas sin más por la definición técnica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -76,7 +76,7 @@ Antes de las funciones, lo tangible. **¿Qué tiene** una empresa? Local, maquin
 
 <table><thead><tr><th width="20%">Función</th><th width="50%">En qué consiste</th><th width="30%">La pregunta que responde</th></tr></thead><tbody><tr><td><b>PRODUCTIVA</b></td><td>Combina los factores productivos para crear valor: alguien transforma harina, agua y trabajo en pan.</td><td>¿Cómo crea valor?</td></tr><tr><td><b>COMERCIAL</b></td><td>Hace llegar el producto a quien lo va a comprar: tienda, reparto, web.</td><td>¿Cómo llega al cliente?</td></tr><tr><td><b>DE RIESGO</b></td><td>Paga los factores <b>antes</b> de vender. Compra la materia prima, paga el alquiler y los salarios sin saber todavía si venderá.</td><td>¿Qué arriesga antes de vender?</td></tr><tr><td><b>SOCIAL</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad.</td><td>¿Qué aporta a su entorno?</td></tr></tbody></table>
 
-::: nota ⚠️ La función que más se olvida
+::: nota La función que más se olvida
 La **de riesgo**. Cuando se habla de empresas casi siempre se menciona el beneficio, pero rara vez que ese beneficio es la contrapartida de haber comprometido recursos **sin garantía** de recuperarlos. Sin riesgo asumido, no hay empresa.
 :::
 
@@ -90,7 +90,7 @@ Recuperamos la lista de ideas previas que hicisteis en la sesión 1, tal como qu
 
 <table><thead><tr><th width="6%"></th><th width="94%">La pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Qué intuiciones eran <b>acertadas</b>?</td></tr><tr><td>2</td><td>¿Cuáles había que <b>matizar</b>?</td></tr><tr><td>3</td><td>¿Qué <b>vocabulario técnico nuevo</b> ha aparecido hoy que entonces no teníais?</td></tr></tbody></table>
 
-::: aviso 🔄 Por qué hacemos esto
+::: aviso Por qué hacemos esto
 Contrastar lo que sabías con lo que sabes ahora es la forma más rápida de darte cuenta de que has aprendido algo. Y además valida vuestras intuiciones acertadas en lugar de sustituirlas sin más por una definición de libro.
 :::
 
@@ -120,7 +120,7 @@ Son todos los bienes y derechos con los que cuenta para desarrollar su actividad
 
 <table><thead><tr><th width="20%">Función</th><th width="80%">En qué consiste</th></tr></thead><tbody><tr><td><b>Productiva</b></td><td>Combina los factores productivos —trabajo, capital, recursos— para crear un bien o un servicio que antes no existía en esa forma. Es la función que genera <b>valor añadido</b>.</td></tr><tr><td><b>Comercial</b></td><td>Hace llegar ese producto a quien lo va a comprar: distribución, venta, atención al cliente. Sin ella, la función productiva no sirve de nada.</td></tr><tr><td><b>De riesgo</b></td><td>La empresa paga los factores <b>antes</b> de vender: compra materia prima, paga alquiler y salarios sin saber todavía si venderá y a qué precio.</td></tr><tr><td><b>Social</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad económica en el territorio.</td></tr></tbody></table>
 
-::: nota ⚠️ La función de riesgo, en detalle
+::: nota La función de riesgo, en detalle
 Es la que menos se intuye y la que más explica. Cuando se habla de empresas casi siempre se menciona el beneficio, pero rara vez que ese beneficio es la **contrapartida** de haber comprometido recursos sin garantía de recuperarlos.
 
 Un empresario que compra 500 kg de harina no sabe si venderá el pan. Si no lo vende, la pérdida es suya. Sin riesgo asumido, no hay empresa: hay otra cosa.

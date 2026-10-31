@@ -29,7 +29,7 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 - ¿Qué oportunidad y qué riesgo veis en vuestro ámbito?
 - ¿Cómo puede ser que la globalización haya reducido la pobreza y que la pobreza siga siendo el primer ODS?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Un objeto cotidiano real**: el propio smartphone del alumnado, o uno genérico proyectado.
 - **Mapa mudo mundial** y tarjetas de países-eslabón para reconstruir la cadena de valor.
 - **Presentación de los factores** de la globalización.
@@ -42,11 +42,11 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un objeto que todo el alumnado lleva encima: la globalización deja de ser un concepto abstracto y se convierte en algo que se puede sostener en la mano.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La fase de galería permite aportar por escrito mediante post-it, una vía de participación que no exige intervención oral ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de galería implica circulación y conversaciones simultáneas. Sitúa la tarjeta del grupo de este alumno/a en la zona más alejada, y en la puesta en común final exige que quien interviene lo haga de pie, de frente y de uno en uno.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Primera de las dos **coordinaciones con Historia del Mundo Contemporáneo** (competencia HMC.5, criterios HMC.1.5.1 y .2: análisis crítico del fenómeno histórico de la globalización y sus retos). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro.
 :::
 
@@ -80,7 +80,7 @@ sda3-s07-07.webp | El otro lado
 
 <table><thead><tr><th width="30%">Factor</th><th width="38%">En qué consiste</th><th width="32%">¿Cómo se ve en el móvil?</th></tr></thead><tbody><tr><td><b>Caída de los costes de transporte y comunicación</b></td><td>El contenedor, el transporte aéreo barato e internet</td><td></td></tr><tr><td><b>Liberalización del comercio y de los capitales</b></td><td>Décadas de acuerdos para reducir aranceles y permitir que el dinero cruce fronteras</td><td></td></tr><tr><td><b>Multinacionales y nuevas tecnologías</b></td><td>Empresas capaces de organizar la producción en varios continentes a la vez</td><td></td></tr></tbody></table>
 
-::: aviso 🌍 Un matiz importante
+::: aviso Un matiz importante
 La liberalización **no fue un fenómeno espontáneo**: fueron decisiones políticas, tomadas por gobiernos concretos a lo largo de décadas. La globalización no le ocurrió al mundo: el mundo la decidió.
 :::
 
@@ -90,7 +90,7 @@ La liberalización **no fue un fenómeno espontáneo**: fueron decisiones polít
 
 Apoyaos en ejemplos **ya trabajados en la unidad**: el Málaga TechPark como oportunidad de empleo cualificado, o la dependencia de un único mercado de exportación como riesgo.
 
-::: nota 🖼️ La galería
+::: nota La galería
 Cada grupo pega su tarjeta completada en una pared. El resto circula, lee todas, y añade **una pregunta o un matiz con un post-it** a la tarjeta de otro grupo. Solo entonces viene la puesta en común final.
 :::
 
@@ -112,7 +112,7 @@ Y las distintas fases **no generan el mismo valor añadido**. El diseño y la ma
 
 ### 4. El otro lado: desigualdad y pobreza
 
-::: nota ⚖️ Dos afirmaciones verdaderas a la vez
+::: nota Dos afirmaciones verdaderas a la vez
 La globalización ha sacado de la **pobreza extrema a cientos de millones de personas** en las últimas décadas, sobre todo en Asia. Es uno de los cambios sociales más grandes de la historia reciente.
 
 Y la Agenda 2030 de Naciones Unidas sigue señalando la **erradicación de la pobreza como su primer objetivo**, precisamente porque esos beneficios **no se han repartido de forma homogénea**: hay regiones y colectivos que se han quedado fuera.

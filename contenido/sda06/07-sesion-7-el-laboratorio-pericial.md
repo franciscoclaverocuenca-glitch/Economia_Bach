@@ -29,7 +29,7 @@ Los subroles ordenan el trabajo. Insiste en el **criterio de fiabilidad de fuent
 - ¿Habéis comparado DOS soluciones, o solo defendéis una?
 - Vuestra recomendación, ¿reconoce también sus propios costes?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Guion pericial de 5 apartados**, impreso, uno por gabinete.
 - **Rúbrica de los criterios 2.1 y 2.3** proyectada durante toda la sesión.
 - **La matriz de estructuras de la sesión 3** y la **plantilla de coste-beneficio de la sesión 6** sobre la mesa: son las herramientas de trabajo, no material de archivo.
@@ -42,7 +42,7 @@ Los subroles ordenan el trabajo. Insiste en el **criterio de fiabilidad de fuent
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de cinco apartados, los subroles y el semáforo de progreso intermedio funcionan como andamiaje explícito de planificación; y cada apartado tiene asignada de antemano la herramienta concreta con la que se resuelve, lo que evita el bloqueo ante una tarea abierta.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El control de calidad con semáforo permite constatar el avance por apartados en lugar de valorar el producto solo al final, lo que sostiene la implicación durante una sesión larga de trabajo autónomo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gabinete en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega **por escrito** el resultado del semáforo además de comentarlo oralmente. Si este alumno/a asume la Portavocía, garantiza un ensayo previo completo de los tres minutos de ratificación.
 :::
 
@@ -71,7 +71,7 @@ sda6-s07-06.webp | Control de calidad
 
 ### La regla documental y el criterio de fiabilidad
 
-::: aviso 📋 Al menos un dato oficial verificable, citado con su fuente
+::: aviso Al menos un dato oficial verificable, citado con su fuente
 Y con un criterio de fiabilidad explícito:
 
 - Resolución o nota de prensa oficial ( **CNMC**, **ACREA**) **por delante** del titular periodístico.
@@ -82,13 +82,13 @@ Y con un criterio de fiabilidad explícito:
 
 <table><thead><tr><th width="24%">Subrol</th><th width="76%">Qué hace hoy</th></tr></thead><tbody><tr><td><b>Documentación</b></td><td>Localiza y verifica el dato oficial. Responde de que cada cifra tenga su fuente citada.</td></tr><tr><td><b>Redacción</b></td><td>Integra el material en un texto coherente. El informe tiene que leerse como un documento, no como cinco fragmentos pegados.</td></tr><tr><td><b>Coordinación</b></td><td>Controla tiempos y guion. Se asegura de que ningún apartado se queda a medias.</td></tr><tr><td><b>Portavocía</b></td><td>Prepara la ratificación de 3 minutos y <b>anticipa</b> las posibles preguntas cruzadas.</td></tr></tbody></table>
 
-::: nota 🤖 Sobre el uso de herramientas de IA
+::: nota Sobre el uso de herramientas de IA
 El peso sumativo de esta unidad recae en la **ratificación presencial con preguntas cruzadas** y en la **prueba escrita**. Un eventual uso indebido en la redacción no puede sustituir la comprensión que ambas situaciones presenciales exigen demostrar: el informe se defiende en directo, y cualquier miembro puede ser requerido.
 :::
 
 ### Semáforo de control de calidad
 
-<table><thead><tr><th width="6%">☐</th><th width="76%">Comprobación</th><th width="18%">🟢 🟡 🔴</th></tr></thead><tbody><tr><td></td><td>¿El diagnóstico está justificado con los cuatro rasgos de la matriz?</td><td></td></tr><tr><td></td><td>¿Hay al menos un dato oficial con su fuente citada?</td><td></td></tr><tr><td></td><td>¿El análisis coste-beneficio compara DOS soluciones?</td><td></td></tr><tr><td></td><td>¿Menciona los efectos no monetizables y a quién beneficia y perjudica cada opción?</td><td></td></tr><tr><td></td><td>¿La recomendación reconoce los costes de la opción elegida?</td><td></td></tr><tr><td></td><td>¿Está repartida y ensayada la ratificación de 3 minutos?</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="76%">Comprobación</th><th width="18%"></th></tr></thead><tbody><tr><td></td><td>¿El diagnóstico está justificado con los cuatro rasgos de la matriz?</td><td></td></tr><tr><td></td><td>¿Hay al menos un dato oficial con su fuente citada?</td><td></td></tr><tr><td></td><td>¿El análisis coste-beneficio compara DOS soluciones?</td><td></td></tr><tr><td></td><td>¿Menciona los efectos no monetizables y a quién beneficia y perjudica cada opción?</td><td></td></tr><tr><td></td><td>¿La recomendación reconoce los costes de la opción elegida?</td><td></td></tr><tr><td></td><td>¿Está repartida y ensayada la ratificación de 3 minutos?</td><td></td></tr></tbody></table>
 
 ## Comprueba lo que sabes
 

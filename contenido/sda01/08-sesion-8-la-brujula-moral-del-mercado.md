@@ -29,7 +29,7 @@ Esa regla es lo que convierte el debate en un ejercicio filo-económico y no en 
 - ¿Es un problema de eficiencia, de equidad, o de los dos a la vez?
 - ¿Qué término económico y qué enfoque ético estás usando en tu intervención?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Sillas dispuestas en círculo** con cuatro en el centro. Prepara el aula antes de que entre el grupo.
 - **Tarjetas de casos límite** donde el mercado choca con la moral.
 - **Presentación breve** de Adam Smith, Karl Marx y la justicia distributiva.
@@ -41,11 +41,11 @@ Esa regla es lo que convierte el debate en un ejercicio filo-económico y no en 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El formato Fishbowl con núcleo rotativo permite participar por turnos y observar antes de intervenir, lo que rebaja la exposición frente a un debate abierto de gran grupo.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La regla de aportar un término económico y un enfoque ético desplaza el debate del terreno de la opinión personal al del argumento estructurado, lo que rebaja la carga de un tema sensible y cercano.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Segunda **coordinación con Filosofía** (criterios FILO.1.8.1 y .2: utilitarismo, ética del deber y comunitarismo). Pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro.
 :::
 
@@ -79,7 +79,7 @@ sda1-s08-07.webp | Ostrom, otra vez
 
 <table><thead><tr><th width="28%">Autor o enfoque</th><th width="72%">Su aportación</th></tr></thead><tbody><tr><td><b>Adam Smith</b></td><td>La <b>mano invisible</b>: la búsqueda del interés propio puede producir, sin proponérselo, un resultado colectivo beneficioso.</td></tr><tr><td><b>Karl Marx</b></td><td>La <b>distribución funcional de la renta</b>: cómo se reparte lo producido entre quienes aportan trabajo y quienes aportan capital no es neutral.</td></tr><tr><td><b>La justicia distributiva</b></td><td>El problema de qué criterio de reparto es defendible: ¿el mérito, la necesidad, el esfuerzo, la igualdad?</td></tr></tbody></table>
 
-::: nota 🐟 Y recordad a Elinor Ostrom
+::: nota Y recordad a Elinor Ostrom
 La conocisteis en la sesión 4. Documentó que entre **privatizar del todo** y **que lo gestione el Estado** hay una tercera vía: comunidades que se dan reglas propias para gestionar un recurso compartido. Esa idea es directamente aplicable al debate de hoy.
 :::
 
@@ -87,7 +87,7 @@ La conocisteis en la sesión 4. Documentó que entre **privatizar del todo** y *
 
 <table><thead><tr><th width="6%"></th><th width="94%">El caso</th></tr></thead><tbody><tr><td><b>1</b></td><td>¿Debería permitirse a los grandes fondos de inversión comprar bloques enteros de viviendas para ponerlas en alquiler, si eso <b>aumenta la oferta disponible</b> aunque sea a precios altos, o <b>vulnera el derecho</b> a una vivienda digna?</td></tr><tr><td><b>2</b></td><td>¿Es ético que un propietario multiplique el precio del alquiler de temporada en plena alta demanda turística, sabiendo que eso <b>reduce la vivienda disponible</b> para quienes viven todo el año en la ciudad?</td></tr><tr><td><b>3</b></td><td>Las <b>familias monoparentales</b>, mayoritariamente encabezadas por mujeres, tienen más dificultad para acceder a una vivienda en alquiler al depender de una única renta. ¿Es esto un problema de <b>eficiencia</b> del mercado, un problema de <b>equidad</b>, o ambos a la vez? ¿Debe la administración reservarles vivienda pública protegida, o eso limita la libertad contractual de quienes alquilan?</td></tr></tbody></table>
 
-::: aviso ⚖️ La regla de juego filo-económica
+::: aviso La regla de juego filo-económica
 Para hablar en el centro de la pecera hay que usar **las dos cosas**:
 
 1. Al menos **un término económico** de la sesión: bienestar social, eficiencia, equidad, escasez de recursos, coste de oportunidad.
@@ -106,7 +106,7 @@ Son los dos grandes criterios con los que se juzga cualquier decisión económic
 
 <table><thead><tr><th width="24%"></th><th width="38%">EFICIENCIA</th><th width="38%">EQUIDAD</th></tr></thead><tbody><tr><td><b>Qué busca</b></td><td>Maximizar el uso de los recursos disponibles</td><td>Que el reparto responda a un criterio de justicia defendible</td></tr><tr><td><b>Cómo asigna la vivienda escasa</b></td><td>A quien más esté dispuesto a pagar: se supone que eso revela quién más la valora</td><td>Por criterios de necesidad, sorteo o baremo entre solicitantes</td></tr><tr><td><b>Su punto ciego</b></td><td>«Estar dispuesto a pagar» depende de la renta que se tenga, no solo de cuánto se necesite</td><td>Puede desincentivar la construcción o generar listas de espera de años</td></tr></tbody></table>
 
-::: nota ⚖️ Ninguno de los dos criterios basta por sí solo
+::: nota Ninguno de los dos criterios basta por sí solo
 Un reparto perfectamente eficiente puede ser profundamente injusto. Y un reparto perfectamente equitativo puede desperdiciar recursos o desincentivar la producción. La discusión seria no es «eficiencia **o** equidad», sino **qué combinación** y a qué coste.
 :::
 
@@ -120,7 +120,7 @@ Un reparto perfectamente eficiente puede ser profundamente injusto. Y un reparto
 
 ### 4. Y el caso que cierra el círculo
 
-::: aviso 🏠 Las familias monoparentales
+::: aviso Las familias monoparentales
 En la sesión 1 quedó anotada esta pregunta: ¿por qué la ley las identifica como colectivo prioritario para la vivienda protegida?
 
 Ahora podéis responderla con herramientas. Depender de **una única renta** reduce la capacidad de pago sin reducir la necesidad. Para un mercado que asigna por capacidad de pago, eso las sitúa sistemáticamente en desventaja. ¿Es un fallo de eficiencia, un problema de equidad, o las dos cosas? Y si la administración les reserva vivienda protegida, ¿está corrigiendo una desigualdad o limitando la libertad contractual de quien alquila?

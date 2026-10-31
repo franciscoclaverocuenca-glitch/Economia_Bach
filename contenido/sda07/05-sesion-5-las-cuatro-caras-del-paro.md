@@ -27,7 +27,7 @@ Dedica un momento explícito al **matiz del estructural**: también existe cuand
 - ¿Qué medida correctora tendría sentido para este caso, y cuál no serviría de nada?
 - En el caso 4 hay dos tipos de paro. ¿Cuáles, y en qué momento cada uno?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuatro tarjetas-caso sectoriales con datos**: (1) serie mensual de paro registrado de un municipio turístico de la Costa del Sol, con sus «dientes de sierra»; (2) evolución del empleo tecnológico en el entorno de Málaga TechPark y vacantes sin cubrir; (3) cierre de una industria tradicional en una comarca dependiente, con parados de larga duración; (4) oleada de dimisiones voluntarias en expansión seguida de un frenazo de la contratación al llegar la recesión.
 - **Plantilla de diagnóstico**, una por grupo y caso: tipo o tipos de paro predominantes, evidencia que lo respalda y medida correctora razonable.
 - **Las tarjetas NO deben decir de qué tipo de paro se trata**: el patrón tiene que leerse en los datos.
@@ -38,7 +38,7 @@ Dedica un momento explícito al **matiz del estructural**: también existe cuand
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Los cuatro tipos de desempleo se presentan primero como micro-historias con personas concretas y solo después se nombran técnicamente, de modo que la definición llegue cuando ya existe una imagen reconocible a la que asociarla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de diagnóstico estructura el razonamiento en tres pasos fijos —tipo, evidencia, medida— que se repiten en los cuatro casos, lo que permite automatizar el procedimiento.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -68,7 +68,7 @@ sda7-s05-09.webp | Puesta en común
 
 <table><thead><tr><th width="18%">Tipo</th><th width="50%">Cuándo se produce</th><th width="32%">¿Se corrige solo?</th></tr></thead><tbody><tr><td><b>Friccional</b></td><td>El tiempo que se tarda en pasar de un empleo a otro</td><td>Sí, y en dosis pequeñas es hasta sano</td></tr><tr><td><b>Estacional</b></td><td>La actividad de un sector se concentra en unos meses del año</td><td>Vuelve cada año: se gestiona, no se elimina</td></tr><tr><td><b>Estructural</b></td><td>La cualificación de quien busca no encaja con la que piden las vacantes</td><td>No. Exige recualificar personas, no esperar</td></tr><tr><td><b>Cíclico</b></td><td>La economía entra en recesión y cae la demanda en todos los sectores</td><td>Se corrige cuando la economía se recupera</td></tr></tbody></table>
 
-::: aviso 💡 El matiz que suele pasarse por alto
+::: aviso El matiz que suele pasarse por alto
 El paro **estructural** también existe cuando hay **empleos sin personas**, no solo personas sin empleo. Málaga TechPark tiene vacantes sin cubrir por falta de perfiles: eso también es desajuste estructural, solo que en la otra dirección.
 :::
 
@@ -80,7 +80,7 @@ El paro **estructural** también existe cuando hay **empleos sin personas**, no 
 
 <table><thead><tr><th width="10%">Caso</th><th width="26%">Tipo(s) de paro predominante(s)</th><th width="34%">Evidencia en los datos</th><th width="30%">Medida correctora razonable</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 📈 Leed el patrón en los DATOS
+::: nota Leed el patrón en los DATOS
 Ninguna tarjeta dice de qué tipo de paro se trata. Lo dicen los números: una serie con picos anuales regulares no significa lo mismo que una caída sostenida sin recuperación. Eso es exactamente lo que evalúa el criterio 3.3.
 :::
 
@@ -90,7 +90,7 @@ Tres fuerzas están redibujando el trabajo que os espera. Cada grupo debe consid
 
 <table><thead><tr><th width="32%">Tendencia</th><th width="68%">Qué cambia</th></tr></thead><tbody><tr><td><b>Digitalización y automatización</b></td><td>Cambian qué tareas hace una persona y cuáles una máquina. No destruyen el empleo en bloque: recomponen qué perfiles hacen falta. Por eso el paro estructural es el gran tema de vuestra generación.</td></tr><tr><td><b>Transición ecológica y empleos verdes</b></td><td>Aparecen sectores enteros —energías renovables, eficiencia, rehabilitación— y otros se reducen. Andalucía tiene aquí una posición peculiar por sol, viento y territorio.</td></tr><tr><td><b>Envejecimiento y economía de los cuidados</b></td><td>Una población que envejece necesita más cuidados, más sanidad y más dependencia. Es uno de los sectores que más va a crecer, y arrastra un debate abierto sobre sus condiciones laborales.</td></tr></tbody></table>
 
-::: aviso 🎯 Y un criterio de calidad: el ODS 8
+::: aviso Y un criterio de calidad: el ODS 8
 No vale cualquier empleo: el Objetivo de Desarrollo Sostenible 8 habla de **trabajo decente**. Empleo con derechos, con salario suficiente y con seguridad. Ese es el listón con el que tendréis que juzgar vuestras propuestas en la sesión 6.
 :::
 
@@ -102,7 +102,7 @@ No todo el paro es igual, y la distinción importa porque **cada tipo se corrige
 
 <table><thead><tr><th width="16%">Tipo</th><th width="46%">Qué es</th><th width="38%">Ejemplo</th></tr></thead><tbody><tr><td><b>Friccional</b></td><td>El tiempo que transcurre entre dejar un empleo y encontrar otro. Es inevitable y, en dosis pequeñas, incluso saludable: indica que hay movilidad</td><td>El ingeniero que deja su empleo para buscar otro mejor y tarda dos meses</td></tr><tr><td><b>Estacional</b></td><td>El que se debe a que la actividad de un sector se concentra en determinados meses del año</td><td>La camarera de Torremolinos a la que no renuevan en noviembre</td></tr><tr><td><b>Estructural</b></td><td>El que se produce cuando la cualificación de quien busca no encaja con la que piden las vacantes disponibles</td><td>La cajera sustituida por cajas automáticas cuya cualificación ya no encaja</td></tr><tr><td><b>Cíclico</b></td><td>El que aparece cuando la economía entra en recesión y cae la demanda en todos los sectores a la vez</td><td>La plantilla entera despedida cuando llega la recesión</td></tr></tbody></table>
 
-::: aviso 💡 El matiz del paro estructural
+::: aviso El matiz del paro estructural
 También existe cuando hay **empleos sin personas**, no solo personas sin empleo. Málaga TechPark tiene vacantes sin cubrir por falta de perfiles cualificados: eso es desajuste estructural en la otra dirección, y explica por qué puede haber a la vez paro alto y vacantes sin cubrir.
 :::
 
@@ -127,7 +127,7 @@ Un diagnóstico serio no se hace leyendo el enunciado: se hace leyendo el **patr
 
 **Envejecimiento y economía de los cuidados.** Una población que envejece necesita más cuidados, más sanidad y más atención a la dependencia. Es uno de los sectores que más va a crecer, y arrastra un debate abierto sobre sus condiciones laborales.
 
-::: nota 🎯 El criterio de calidad: ODS 8
+::: nota El criterio de calidad: ODS 8
 No vale cualquier empleo. El Objetivo de Desarrollo Sostenible 8 habla de **trabajo decente**: con derechos, con salario suficiente y con seguridad. Es el listón con el que juzgarás tus propias propuestas en la sesión 6.
 :::
 

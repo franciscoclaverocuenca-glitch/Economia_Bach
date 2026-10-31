@@ -29,7 +29,7 @@ La segunda pregunta es libre; el guion ofrece arranques, pero **premia la pregun
 - ¿Por qué ese indicador libre y no otro?
 - ¿Cuál es el coste de oportunidad de vuestra primera propuesta?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Informes, gráficos y matrices** de cada delegación, listos para exponer y para entregar.
 - **Guion de preguntas cruzadas** con la pregunta fija destacada y arranques para la libre.
 - **Escala de coevaluación (1-4)** con los descriptores de las rúbricas de los criterios 3.1, 3.3 y 3.2 — **las mismas con las que calificará el docente** —.
@@ -42,7 +42,7 @@ La segunda pregunta es libre; el guion ofrece arranques, pero **premia la pregun
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La defensa se reparte obligatoriamente entre al menos dos miembros de la delegación, y el gráfico funciona como soporte visual permanente que reduce la dependencia de la memoria verbal. Se admite guion escrito ampliado sin penalización.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La pregunta cruzada fija se anuncia con antelación y se ha preparado en la sesión 7, de modo que solo la pregunta libre y la réplica son imprevisibles; las rúbricas están a la vista desde el inicio de la unidad.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de máxima carga oral con preguntas cruzadas y réplicas rápidas. Proyecta el turno de palabra y el nombre de la delegación que pregunta, exige que se hable de pie y de frente, y facilita a este alumno/a la pregunta cruzada fija por escrito —ya la conoce de la sesión 7—. Si va a intervenir, garantiza que su parte está escrita y ensayada.
 :::
 
@@ -75,7 +75,7 @@ sda8-s08-06.webp | Qué se evalúa
 
 <table><thead><tr><th width="12%"></th><th width="58%">Pregunta</th><th width="30%">Qué evalúa</th></tr></thead><tbody><tr><td><b>FIJA</b></td><td>«De vuestras propuestas, ¿quién paga y quién gana, y por qué eso mejora (o no) el bienestar del país?» Es la misma para todas las delegaciones y ya la preparasteis ayer.</td><td>Evidencia oral <b>principal</b> del criterio 3.2</td></tr><tr><td><b>LIBRE</b></td><td>La que vosotros elijáis. El guion ofrece arranques —«¿qué dato os contradiría?», «¿por qué ese indicador libre?», «¿cuál es el coste de oportunidad de vuestra primera propuesta?»— pero se <b>premia la pregunta propia</b> que nace de haber escuchado.</td><td>Criterios 3.1 y 3.3 · instrumento D</td></tr></tbody></table>
 
-::: aviso ⚡ Los quince segundos de réplica
+::: aviso Los quince segundos de réplica
 La delegación interpelada responde apoyándose en su matriz. Y la delegación que preguntó dispone de **quince segundos de réplica** para señalar un agente que considere olvidado.
 
 Ese intercambio breve es deliberadamente el momento de **mayor exigencia cognitiva** de la sesión, y el más resistente a un uso indebido de la IA: exige comprensión real del reparto, no un texto preparado de antemano.
@@ -93,7 +93,7 @@ Cerradas las defensas, la Cumbre delibera brevemente y cada delegación formula 
 
 <table><thead><tr><th width="6%"></th><th width="94%">Vuestra frase debe contener</th></tr></thead><tbody><tr><td>1</td><td>Al menos <b>un dato</b> trabajado en la unidad.</td></tr><tr><td>2</td><td>Un <b>concepto</b> de la unidad correctamente usado.</td></tr><tr><td>3</td><td>Un <b>agente económico</b> identificado.</td></tr></tbody></table>
 
-::: nota 📜 El acta del veredicto
+::: nota El acta del veredicto
 Las frases se recogen en el acta, que queda **expuesta en el aula**. Es la síntesis pública de la unidad y el **material de arranque del ensayo** del bloque 3 de la prueba escrita. Merece la pena que vuestra frase esté bien construida.
 :::
 

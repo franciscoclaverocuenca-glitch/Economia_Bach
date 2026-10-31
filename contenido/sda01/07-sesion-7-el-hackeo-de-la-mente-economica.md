@@ -27,7 +27,7 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 - ¿Qué diferencia hay entre un nudge y una prohibición?
 - ¿Vuestro nudge cambia el comportamiento sin quitarle la opción a nadie?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Presentación «Laboratorio de Kahneman»** con los sesgos principales.
 - **Material del experimento en vivo**: dos versiones de la misma consigna, una en clave de ganancia y otra de pérdida. **No avises de que es un experimento.**
 - **Post-its gigantes** y material de diseño: rotuladores y cartulina.
@@ -39,11 +39,11 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El experimento se realiza sobre el propio grupo y sin previo aviso: el contenido se descubre en la propia reacción, lo que genera una implicación difícil de conseguir con una explicación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La propuesta de <i>nudge</i> se presenta en formato visual sobre un post-it gigante, lo que permite comunicar una idea compleja sin depender de una exposición oral extensa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con Filosofía** (criterio FILO.1.3.2: detección de sesgos y falacias). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y el código exacto en la concreción curricular del centro. El diseño previsto es especialmente eficiente: el profesorado de Filosofía puede recoger **esta misma sesión** como evidencia para su criterio, sin repetir la actividad.
 :::
 
@@ -70,11 +70,11 @@ sda1-s07-06.webp | Los nudges
 
 <table><thead><tr><th width="24%">Sesgo</th><th width="34%">En qué consiste</th><th width="42%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente</td><td>Un propietario mantiene un piso vacío meses antes que bajar el precio: bajarlo se siente como una pérdida</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona todo lo que valoramos después</td><td>El precio de salida de un piso ancla toda la negociación posterior</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a hacer lo que vemos hacer a los demás</td><td>«Todo el mundo está comprando ahora, hay que entrar ya»</td></tr></tbody></table>
 
-::: nota 🧠 Racionalidad limitada
+::: nota Racionalidad limitada
 El concepto es de **Daniel Kahneman**: no es que seamos irracionales, es que nuestra racionalidad tiene **límites**. Decidimos con atajos mentales que funcionan bien casi siempre y fallan de forma sistemática en ciertos casos. Y como fallan de forma sistemática, se pueden predecir.
 :::
 
-::: aviso 🔗 Y esto también es Filosofía
+::: aviso Y esto también es Filosofía
 Lo que en Economía llamamos **sesgos cognitivos**, en Filosofía se estudia como **falacias y sesgos en la argumentación**. Es el mismo fenómeno visto desde dos materias, y esta sesión puede servir de evidencia en las dos.
 :::
 
@@ -86,7 +86,7 @@ Un *nudge* es un cambio en el entorno que altera el comportamiento de forma pred
 
 <table><thead><tr><th width="52%">Ejemplos de arquitectura de la decisión</th><th width="48%">Qué sesgo aprovechan</th></tr></thead><tbody><tr><td>Colocar la fruta a la altura de los ojos en la cafetería, y la bollería abajo</td><td>La facilidad de acceso condiciona la elección sin prohibir nada</td></tr><tr><td>Poner canastas de baloncesto sobre los cubos de reciclaje</td><td>Gamificación: convierte una obligación en un juego</td></tr></tbody></table>
 
-::: nota 👉 La clave de un buen nudge
+::: nota La clave de un buen nudge
 Que **nadie pierda ninguna opción**. Si prohibís la bollería, no es un nudge: es una prohibición. El nudge cambia el entorno, no las alternativas disponibles.
 
 Presentad vuestra propuesta en un **post-it gigante** en la pizarra.
@@ -108,7 +108,7 @@ Y ese «de forma sistemática» es lo importante: si los errores fueran aleatori
 
 ### 3. Los nudges
 
-::: nota 👉 Qué es un nudge
+::: nota Qué es un nudge
 Un **cambio en el entorno** que altera el comportamiento de forma predecible, **sin prohibir nada** y sin modificar los incentivos económicos. Se le llama también **arquitectura de la decisión**.
 
 La prueba para saber si algo es un nudge: **¿alguien pierde alguna opción?** Si la respuesta es sí, no es un nudge: es una prohibición o un impuesto.

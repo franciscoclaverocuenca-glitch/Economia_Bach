@@ -29,7 +29,7 @@ titulo: Sesión 1 · El podio engañoso y la paradoja malagueña
 - Si Málaga «va como un tiro», ¿por qué no lo nota todo el mundo por igual?
 - ¿Quién decide qué se cuenta y qué no en el PIB?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **6 tarjetas de países sin datos**, con nombre y bandera: Noruega, Catar, Costa Rica, Vietnam, Chile y Nigeria. Un juego por grupo base.
 - **Dos rankings reales** de esos mismos seis países, proyectables: uno por PIB per cápita en PPA (Banco Mundial) y otro por IDH (PNUD). **Actualiza las cifras** con la última edición.
 - **3 titulares reales y recientes de prensa sobre Málaga**: crecimiento del PIB provincial, récords turísticos y llegada de empresas tecnológicas.
@@ -42,7 +42,7 @@ titulo: Sesión 1 · El podio engañoso y la paradoja malagueña
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la intuición del propio alumnado, sin ningún dato previo: nadie parte en desventaja por no saber, y el conflicto cognitivo surge de comparar la propia respuesta con los datos, no de recibir una corrección.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La paradoja se presenta simultáneamente en tres soportes —titulares de prensa, tabla de rankings y mapa de renta por secciones censales—, de modo que la misma idea llegue por vía textual, numérica y espacial.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El podio se resuelve en grupo base antes de cualquier intervención en gran grupo, y el diagnóstico final es individual, escrito y sin calificación.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -78,7 +78,7 @@ Ordenad los seis países de mejor a peor según dónde creéis que se vive mejor
 
 <table><thead><tr><th width="28%">Ranking</th><th width="48%">Qué ordena</th><th width="24%">Vuestra sorpresa</th></tr></thead><tbody><tr><td><b>PIB per cápita en PPA</b></td><td>Cuánto produce el país por habitante, corrigiendo el coste de la vida</td><td></td></tr><tr><td><b>IDH</b></td><td>Vida larga y saludable, educación y nivel de vida digno</td><td></td></tr></tbody></table>
 
-::: nota 🔍 Dos casos que conviene mirar despacio
+::: nota Dos casos que conviene mirar despacio
 **Catar:** PIB per cápita entre los más altos del mundo, IDH comparativamente menor. Produce muchísimo por habitante, y eso no se traduce automáticamente en vidas más largas ni en más educación.
 
 **Costa Rica:** PIB per cápita modesto, esperanza de vida de país rico. Produce bastante menos y su población vive tanto o más que en países mucho más ricos.
@@ -88,7 +88,7 @@ Ordenad los seis países de mejor a peor según dónde creéis que se vive mejor
 
 Tres titulares reales sobre el momento económico de Málaga. Y al lado, el Atlas de Distribución de Renta de los Hogares del INE, que muestra secciones censales de la capital entre las de menor renta media de España.
 
-::: aviso 📌 Las preguntas que se quedan en la pizarra
+::: aviso Las preguntas que se quedan en la pizarra
 - Si Málaga «va como un tiro», ¿por qué no lo nota todo el mundo por igual?
 - ¿Qué está midiendo exactamente ese PIB que crece?
 - ¿Quién decide qué se cuenta y qué no?
@@ -105,7 +105,7 @@ La primera mitad organiza el trabajo con indicadores de las sesiones 3 a 5. La s
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -118,7 +118,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -156,7 +156,7 @@ El punto de partida de esta unidad es un desajuste incómodo: si ordenas los mis
 
 Eso significa que los dos indicadores **no miden lo mismo**, aunque los dos se usen para hablar de «cómo va» un país. El PIB per cápita mide cuánto se produce por habitante. El IDH intenta medir algo distinto: si la gente vive mucho, si está formada y si tiene un nivel de vida digno.
 
-::: nota 🔍 Los dos casos que hay que retener
+::: nota Los dos casos que hay que retener
 **Catar** tiene un PIB per cápita entre los más altos del mundo y un IDH comparativamente menor. Produce enormemente por habitante, pero eso no se traduce automáticamente en vidas más largas ni en más educación.
 
 **Costa Rica** tiene un PIB per cápita modesto y una esperanza de vida de país rico. Produce bastante menos y, sin embargo, su población vive tanto o más que en países mucho más ricos.
@@ -177,7 +177,7 @@ La unidad se organiza en torno a una pregunta con dos mitades, y conviene no per
 
 ### 4. Y una pregunta que dejamos abierta
 
-::: aviso 🔓 ¿Quién cocina el PIB?
+::: aviso ¿Quién cocina el PIB?
 ¿Quién cocinó ayer en tu casa, quién puso lavadoras, quién cuidó de alguien… y cuánto de todo eso aparece en el PIB del que hemos hablado hoy?
 
 No la respondemos hoy. Anótala en el margen de tu Cornell como **pregunta abierta**: la resolveremos con datos en la sesión 4, con la Encuesta de Empleo del Tiempo del INE y la figura de Marilyn Waring.

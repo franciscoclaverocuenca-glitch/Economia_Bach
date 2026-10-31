@@ -29,7 +29,7 @@ Presenta de manera **documentada y equilibrada** tanto los objetivos que persegu
 - ¿Por qué es tan difícil fijar precios sin mercado?
 - ¿Qué diferencia hay entre un objetivo declarado y un resultado constatado?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Ficha de caso histórico real** de una economía de planificación central, con el mismo formato y el mismo nivel de detalle documental que el caso de la sesión 8.
 - **La misma ficha de análisis de cuatro apartados** de ayer, para poder comparar en la sesión 10.
 - **Plantilla Cornell.**
@@ -41,7 +41,7 @@ Presenta de manera **documentada y equilibrada** tanto los objetivos que persegu
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha es idéntica a la de la sesión anterior, lo que elimina la carga de aprender un formato nuevo y permite concentrar el esfuerzo en el contenido y en la comparación.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El aplazamiento explícito de la valoración personal hasta la sesión 10 y la Cumbre enseña a separar la fase de recogida de evidencias de la fase de juicio, que es una competencia transferible más allá de la Economía.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -70,7 +70,7 @@ sda2-s09-06.webp | La misma ficha
 
 <table><thead><tr><th width="40%">Rasgo</th><th width="60%">En qué consiste</th></tr></thead><tbody><tr><td><b>El Estado es propietario de los medios de producción</b></td><td>Las fábricas, la tierra y el capital no pertenecen a particulares. Pertenecen al conjunto, gestionados por el Estado.</td></tr><tr><td><b>Decide de forma CENTRALIZADA qué, cómo y para quién producir</b></td><td>Un organismo planificador elabora un plan con objetivos de producción, asigna los recursos y fija los precios. No hay mercado que lo haga.</td></tr></tbody></table>
 
-::: nota 🧭 La diferencia esencial con el mercado
+::: nota La diferencia esencial con el mercado
 En el mercado **nadie tiene que saberlo todo**: los precios coordinan millones de decisiones sin que nadie los calcule. En la planificación, **alguien tiene que saberlo todo**. Y ahí está el problema técnico central del sistema.
 :::
 
@@ -82,7 +82,7 @@ En el mercado **nadie tiene que saberlo todo**: los precios coordinan millones d
 
 <table><thead><tr><th width="36%">Limitación</th><th width="64%">Por qué se produce</th></tr></thead><tbody><tr><td><b>Escasez crónica de bienes de consumo</b></td><td>El plan tiende a priorizar la industria pesada y los objetivos estratégicos sobre lo que la gente quiere comprar.</td></tr><tr><td><b>Falta de incentivos</b></td><td>Si el resultado personal no depende del esfuerzo, el esfuerzo tiende a decaer.</td></tr><tr><td><b>Dificultad para fijar precios sin mercado</b></td><td>Sin precios que informen de la escasez relativa, es muy difícil saber qué producir y en qué cantidad. Es el problema técnico más serio.</td></tr></tbody></table>
 
-::: aviso ⚖️ Objetivos declarados y resultados constatados
+::: aviso Objetivos declarados y resultados constatados
 No son lo mismo, y distinguirlos es parte del ejercicio. Un sistema puede perseguir un objetivo legítimo y no lograrlo, o lograrlo parcialmente y a un coste alto. Evaluarlo exige mirar las dos cosas.
 :::
 
@@ -99,7 +99,7 @@ Dos rasgos, y de ellos se deriva todo lo demás:
 - **El Estado es propietario de los medios de producción.** Las fábricas, la tierra y el capital no pertenecen a particulares.
 - **Decide de forma centralizada qué, cómo y para quién producir.** Un organismo planificador elabora un plan, asigna recursos y fija precios.
 
-::: nota 🧭 La diferencia esencial con el mercado
+::: nota La diferencia esencial con el mercado
 En el mercado **nadie tiene que saberlo todo**: los precios coordinan millones de decisiones sin que ningún organismo las calcule. En la planificación central, **alguien tiene que saberlo todo**: cuánto acero hace falta, cuántos zapatos, de qué tallas y en qué ciudad.
 
 Ese es el problema técnico central del sistema, y explica buena parte de sus limitaciones documentadas.
@@ -119,7 +119,7 @@ Ese es el problema técnico central del sistema, y explica buena parte de sus li
 
 Evaluar un sistema económico exige mirar **las dos cosas**: qué se proponía y qué consiguió. Y eso vale igual para el mercado que para la planificación.
 
-::: aviso ⚖️ La nota de método, otra vez
+::: aviso La nota de método, otra vez
 El objetivo de estas dos sesiones **no es que memoricéis un juicio cerrado** sobre qué sistema es mejor. Es que comparéis datos y argumentos de ambos con el mismo rigor.
 
 Vuestra valoración crítica personal se reserva para la **síntesis de la sesión 10** y para la **Cumbre**. Recoger evidencias primero y juzgar después es una competencia que sirve mucho más allá de la Economía.

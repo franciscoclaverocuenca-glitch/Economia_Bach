@@ -31,7 +31,7 @@ Dilo en voz alta: **la primera curva de demanda de la unidad no sale del libro, 
 - ¿Y si el viernes es el estreno de la película del año? ¿Se mueve el punto o se mueve la curva?
 - ¿Por qué sube la demanda de girasol si el que ha subido de precio es el aceite de oliva?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Formulario digital o papeletas** para la encuesta anónima de disposición a pagar, con la escala cerrada: 3, 5, 7, 9, 12 y 15 €.
 - **Pizarra cuadriculada o proyector** para tabular y representar la curva de la clase en directo.
 - **4 tarjetas de mini-caso** para colgar en las paredes del aula, y un **«pasaporte» de respuestas** por pareja.
@@ -43,11 +43,11 @@ Dilo en voz alta: **la primera curva de demanda de la unidad no sale del libro, 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La curva de demanda se construye con datos reales del propio grupo antes de presentarse como modelo abstracto, de modo que el concepto llegue después de una experiencia en la que cada persona ha participado con su propia respuesta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally por parejas con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El pasaporte descompone cada tarjeta en tres preguntas fijas —¿afecta?, ¿movimiento o desplazamiento?, ¿en qué sentido?— que se repiten en las cuatro, lo que automatiza el procedimiento.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las cuatro tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S3 y S4. La compresión aplicada es la siguiente: el rally pasa de 8 a 4 tarjetas (mínimo 3 resueltas) y se elimina la fase de consenso en cuartetos, de modo que las parejas resuelven directamente y la puesta en común se hace por sorteo de 2 tarjetas. Los cuatro factores de la demanda —precio propio, renta, sustitutivos y gustos— siguen todos representados.
 :::
 
@@ -84,7 +84,7 @@ Respuesta **anónima**, eligiendo entre esta escala: **3, 5, 7, 9, 12 o 15 €**
 
 <table><thead><tr><th width="24%">Precio</th><th width="76%">¿Cuántas personas pagarían ese precio O MÁS?</th></tr></thead><tbody><tr><td>15 €</td><td></td></tr><tr><td>12 €</td><td></td></tr><tr><td>9 €</td><td></td></tr><tr><td>7 €</td><td></td></tr><tr><td>5 €</td><td></td></tr><tr><td>3 €</td><td></td></tr></tbody></table>
 
-::: nota 📉 Fíjate en el «o más»
+::: nota Fíjate en el «o más»
 Quien pagaría 15 € también pagaría 9. Por eso la cantidad demandada se acumula al bajar el precio, y por eso la curva tiene **pendiente negativa**. Eso es la **ley de la demanda**: cuanto mayor es el precio, menor es la cantidad demandada, *ceteris paribus*.
 :::
 
@@ -108,7 +108,7 @@ Copiad la tabla y dibujad vuestra propia versión de la curva en el Cornell, rot
 
 <table><thead><tr><th width="5%"></th><th width="51%">Situación</th><th width="12%">(a) ¿Afecta?</th><th width="20%">(b) ¿Movimiento o desplazamiento?</th><th width="12%">(c) ¿Sentido?</th></tr></thead><tbody><tr><td>1</td><td>El precio de las entradas del Málaga CF baja un 20 % en la promoción de enero. ¿Qué ocurre con la cantidad demandada de entradas?</td><td></td><td></td><td></td></tr><tr><td>2</td><td>El precio del aceite de oliva se dispara. ¿Qué esperas que ocurra con la demanda de aceite de girasol… sin que el girasol haya cambiado de precio?</td><td></td><td></td><td></td></tr><tr><td>3</td><td>Bajan las tarifas de los datos móviles. ¿Qué ocurre con la demanda de plataformas de vídeo en streaming?</td><td></td><td></td><td></td></tr><tr><td>4</td><td>Un vídeo viral pone de moda el mango de la Axarquía como topping de desayuno. ¿Qué le ocurre a su curva de demanda?</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🏃 Mínimo tres resueltas
+::: aviso Mínimo tres resueltas
 No hace falta resolver las cuatro. Hace falta resolver **bien** tres. Y ojo a la tarjeta 4: anticipa exactamente lo que vais a vivir en el Parqué de la sesión 6.
 :::
 
@@ -124,7 +124,7 @@ No hace falta resolver las cuatro. Hace falta resolver **bien** tres. Y ojo a la
 
 ### 2. La ley de la demanda
 
-::: nota 📉 El enunciado
+::: nota El enunciado
 Cuanto mayor es el precio de un bien, manteniéndose todo lo demás constante, **menor** es la cantidad demandada. De ahí una curva con **pendiente negativa**.
 :::
 
@@ -140,7 +140,7 @@ Esta es la distinción que más se pregunta y la que más errores provoca. Convi
 
 <table><thead><tr><th width="22%">Factor</th><th width="44%">Cómo funciona</th><th width="34%">Ejemplo</th></tr></thead><tbody><tr><td><b>La renta</b></td><td>Si sube tu renta compras más de los bienes <b>normales</b>. Pero de los bienes <b>inferiores</b> compras menos: son los que se sustituyen en cuanto se puede</td><td>Te suben la paga: vas más al cine y menos a la marca más barata</td></tr><tr><td><b>Los gustos</b></td><td>Una moda, una campaña o un vídeo viral desplazan la curva sin que ningún precio haya cambiado</td><td>Se pone de moda un producto en redes</td></tr><tr><td><b>Bienes sustitutivos</b></td><td>Cubren la misma necesidad. Si sube el precio de uno, aumenta la demanda del otro</td><td>Sube el aceite de oliva → aumenta la demanda de girasol</td></tr><tr><td><b>Bienes complementarios</b></td><td>Se consumen juntos. Si baja el precio de uno, aumenta la demanda del otro</td><td>Bajan los datos móviles → aumenta la demanda de streaming</td></tr></tbody></table>
 
-::: aviso ⚠️ Cuidado con este error
+::: aviso Cuidado con este error
 «Sube el aceite de oliva y por eso sube la demanda de girasol» es un **desplazamiento** de la curva del girasol, no un movimiento. El precio del girasol no ha cambiado: lo que ha cambiado es un factor externo a él. Es la tarjeta 2 del rally, y es la que más se falla.
 :::
 

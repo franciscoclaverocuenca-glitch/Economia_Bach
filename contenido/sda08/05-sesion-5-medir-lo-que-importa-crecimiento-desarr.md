@@ -27,7 +27,7 @@ Presenta a **Esther Duflo** como referente actual: el enlace con el criterio 3.3
 - El PIB no desaparece del IDH: ¿qué papel juega dentro de él?
 - Si pudieras añadir un solo indicador al panel de mandos, ¿cuál sería y por qué?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas con los componentes reales del IDH** de dos países: esperanza de vida al nacer, años esperados y años medios de escolarización, y renta per cápita en PPA. Datos del Informe sobre Desarrollo Humano del PNUD, **última edición**.
 - **Plantilla de reconstrucción del IDH paso a paso**: normalizar cada dimensión entre el mínimo y el máximo dados y promediar. Con los valores de referencia ya facilitados.
 - **Tablas del IDH oficial** y del **ranking por PIB per cápita** de los mismos países, para la comparación final.
@@ -40,7 +40,7 @@ Presenta a **Esther Duflo** como referente actual: el enlace con el criterio 3.3
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La reconstrucción del IDH se apoya en una plantilla paso a paso con los valores de referencia ya facilitados, de modo que el esfuerzo se concentre en comprender la lógica del índice y no en recordar el procedimiento.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El contraste cruzado entre parejas valida el cálculo antes de la puesta en común, lo que permite detectar y corregir errores sin exposición ante el gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -69,7 +69,7 @@ sda8-s05-08.webp | Cierre
 
 <table><thead><tr><th width="30%">Dimensión</th><th width="70%">Cómo se mide</th></tr></thead><tbody><tr><td><b>Vida larga y saludable</b></td><td>Esperanza de vida al nacer</td></tr><tr><td><b>Educación</b></td><td>Años esperados de escolarización de la población infantil y años medios de escolarización de la población adulta</td></tr><tr><td><b>Nivel de vida digno</b></td><td>Renta per cápita en paridad de poder adquisitivo</td></tr></tbody></table>
 
-::: nota ⚖️ Fijaos en algo importante
+::: nota Fijaos en algo importante
 El **PIB no desaparece** del IDH: se convierte en una de sus tres patas. El IDH no sustituye al PIB, lo **relativiza** poniéndolo junto a la salud y la educación.
 :::
 
@@ -79,7 +79,7 @@ El **PIB no desaparece** del IDH: se convierte en una de sus tres patas. El IDH 
 
 <table><thead><tr><th width="34%">País</th><th width="24%">Puesto por PIB per cápita</th><th width="22%">Puesto por IDH</th><th width="20%">¿Sube o baja?</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🔍 Los dos hallazgos que hay que anotar
+::: aviso Los dos hallazgos que hay que anotar
 Buscad el país que **«vive mejor de lo que produce»** y el que **«produce más de lo que vive»**. Esas dos divergencias son la respuesta empírica al conflicto cognitivo de la sesión 1.
 :::
 
@@ -99,7 +99,7 @@ El **IDH** fue creado en 1990 por el economista **Mahbub ul Haq** con la colabor
 
 Combina tres dimensiones: **vida larga y saludable** (esperanza de vida al nacer), **educación** (años esperados y años medios de escolarización) y **nivel de vida digno** (renta per cápita en PPA).
 
-::: nota ⚖️ Un matiz que suele pasarse por alto
+::: nota Un matiz que suele pasarse por alto
 El PIB **no desaparece** del IDH: es una de sus tres patas. El IDH no sustituye al PIB, lo **relativiza** poniéndolo junto a la salud y la educación. Quien piense que el IDH «ignora» la economía no lo ha entendido.
 :::
 
@@ -109,7 +109,7 @@ El PIB **no desaparece** del IDH: es una de sus tres patas. El IDH no sustituye 
 
 ### 4. Referente: Esther Duflo
 
-::: aviso 🏅 Premio Nobel de Economía 2019
+::: aviso Premio Nobel de Economía 2019
 **Esther Duflo** recibió el Nobel junto a Abhijit Banerjee y Michael Kremer por someter la lucha contra la pobreza al **método experimental**: en lugar de discutir en abstracto qué funciona, diseñar experimentos que lo comprueben sobre el terreno.
 
 El enlace con el criterio 3.3 de esta materia es literal: **no basta con medir cuánto crece un país; hay que comprobar, con datos, qué políticas mejoran de verdad la vida de la gente**. Junto a Sabina Alkire, es referente actual de mujeres en la economía del desarrollo.

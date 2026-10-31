@@ -29,7 +29,7 @@ La **regla de juego** es doble y hay que sostenerla: para intervenir, cada perso
 - ¿Cómo afecta la economía sumergida a la financiación del Estado del bienestar?
 - ¿Estás respondiendo al argumento anterior, o solo exponiendo el tuyo?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Esquema de los pilares** del Estado del bienestar, proyectable.
 - **Tarjetas de datos reales** sobre los tres retos: pensiones y envejecimiento, flujos migratorios y economía sumergida. Verificados y actualizados.
 - **Tarjetas de las cuatro posturas** para el sorteo.
@@ -42,11 +42,11 @@ La **regla de juego** es doble y hay que sostenerla: para intervenir, cada perso
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Las posturas se asignan por sorteo y son grupales, de modo que nadie tiene que exponer una opinión personal sobre un tema con carga política; se defiende una posición asignada.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La regla de usar un término técnico desplaza el debate del terreno de la opinión al del argumento verificable, lo que rebaja notablemente la tensión en un tema sensible.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Segunda **coordinación con Historia del Mundo Contemporáneo** (criterio HMC.1.3.3: evolución del Estado social, logros, retrocesos y retos desde una perspectiva solidaria). Pendiente de confirmar oferta de la materia, matrícula común y el código exacto en la concreción curricular del centro.
 :::
 
@@ -81,7 +81,7 @@ sda3-s09-06.webp | Cierre
 
 <table><thead><tr><th width="6%"></th><th width="94%">Postura</th></tr></thead><tbody><tr><td><b>1</b></td><td>El Estado del bienestar debe <b>mantenerse tal como está</b>, financiado principalmente vía impuestos y cotizaciones sociales.</td></tr><tr><td><b>2</b></td><td>El sistema de pensiones necesita <b>reformas de calado</b> —retraso de la edad de jubilación, mayor peso del ahorro privado complementario— para garantizar su sostenibilidad.</td></tr><tr><td><b>3</b></td><td>La prioridad es <b>luchar contra la economía sumergida</b> y mejorar la eficiencia del gasto, antes que recortar prestaciones o subir impuestos.</td></tr><tr><td><b>4</b></td><td>Los <b>flujos migratorios</b>, correctamente gestionados, son parte de la solución a la sostenibilidad del sistema, no solo un reto a gestionar.</td></tr></tbody></table>
 
-::: aviso ⚖️ La regla de juego, y es doble
+::: aviso La regla de juego, y es doble
 Para intervenir hay que hacer **las dos cosas**:
 
 1. Usar al menos **un término económico** de la sesión: financiación, cotización, sostenibilidad, economía sumergida.
@@ -110,7 +110,7 @@ Todo ello se financia a través del **sistema fiscal**: impuestos y cotizaciones
 
 <table><thead><tr><th width="6%"></th><th width="30%">Postura</th><th width="64%">Su argumento central</th></tr></thead><tbody><tr><td><b>1</b></td><td>Mantenerlo tal como está</td><td>El sistema funciona y es un logro social que no conviene desmontar. Lo que hace falta es garantizar su financiación.</td></tr><tr><td><b>2</b></td><td>Reformas de calado en pensiones</td><td>Sin retrasar la edad de jubilación o complementar con ahorro privado, la aritmética demográfica hace insostenible el sistema.</td></tr><tr><td><b>3</b></td><td>Combatir la economía sumergida</td><td>Antes de recortar prestaciones o subir impuestos a quien ya paga, conviene hacer aflorar lo que no se declara y gastar mejor.</td></tr><tr><td><b>4</b></td><td>Los flujos migratorios como parte de la solución</td><td>Aportan población en edad de trabajar y cotizante, que es exactamente lo que el sistema necesita para sostener las pensiones.</td></tr></tbody></table>
 
-::: nota ⚖️ Las cuatro son defendibles con argumentos económicos
+::: nota Las cuatro son defendibles con argumentos económicos
 Y ninguna es completa por sí sola. El objetivo del debate no es que gane una: es que entendáis **qué problema real intenta resolver cada una** y qué coste tiene su propuesta.
 :::
 

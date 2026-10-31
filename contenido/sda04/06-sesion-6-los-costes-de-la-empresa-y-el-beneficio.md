@@ -29,7 +29,7 @@ Aquí es donde se falla después. Dedica tiempo a los casos dudosos —el salari
 - Si esta empresa vendiera la mitad, ¿qué costes bajarían y cuáles no?
 - Si los costes fijos suben un 10 %, ¿qué tres cosas podríais tocar para mantener el beneficio?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Fichas de clasificación de costes** fijos y variables, con casos dudosos incluidos deliberadamente.
 - **Caso guiado sencillo** con costes fijos, coste variable unitario, precio y cantidad vendida, para el cálculo paso a paso.
 - **Caso complejo con varias partidas** para la rotación de roles, diseñado de modo que las cuatro piezas sean equivalentes en dificultad.
@@ -41,7 +41,7 @@ Aquí es donde se falla después. Dedica tiempo a los casos dudosos —el salari
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El cálculo se descompone en cuatro pasos verificables y se practica primero de forma guiada y conjunta antes de aplicarlo a un caso complejo, lo que evita el bloqueo ante un enunciado con varias partidas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La rotación de roles asigna a cada persona una pieza acotada del cálculo y hace su aportación imprescindible para el resultado del equipo, lo que sostiene la implicación de quien tiende a delegar en los cálculos.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La rotación de roles genera conversación simultánea en todos los equipos. Sitúa a este equipo en la zona más alejada, entrega los datos del caso **por escrito** a cada miembro y acuerda que la puesta en común interna se haga de uno en uno y de frente.
 :::
 
@@ -70,7 +70,7 @@ sda4-s06-06.webp | Sensibilidad
 
 <table><thead><tr><th width="50%">Costes FIJOS</th><th width="50%">Costes VARIABLES</th></tr></thead><tbody><tr><td><b>No</b> dependen de cuánto produzcas.</td><td><b>Sí</b> dependen de cuánto produzcas.</td></tr><tr><td>Alquiler del local, seguros, cuota de autónomos, suscripciones.</td><td>Materia prima, envases, comisiones por venta, energía de producción.</td></tr><tr><td>Los pagas produzcas mil unidades o ninguna.</td><td>Si no produces nada, no los pagas.</td></tr><tr><td>Son los que te hunden si no vendes.</td><td>Crecen contigo.</td></tr></tbody></table>
 
-::: aviso 🤔 Los casos dudosos son los que se preguntan
+::: aviso Los casos dudosos son los que se preguntan
 ¿El salario de un empleado con contrato fijo? Fijo. ¿Las horas extra que se pagan solo cuando hay pedidos? Variable. ¿La luz del local? Fija. ¿La energía que consume la maquinaria al producir? Variable. La pregunta que resuelve casi todos los casos es: **«¿lo pagaría igual si no produjera nada?»**
 :::
 
@@ -84,7 +84,7 @@ Si el beneficio sale negativo, se llama **pérdida**. Y es una información tan 
 
 <table><thead><tr><th width="12%">Paso</th><th width="88%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1</b></td><td>Identificad qué costes son fijos y cuáles variables. <b>Aquí es donde se falla.</b></td></tr><tr><td><b>2</b></td><td>Calculad el coste total.</td></tr><tr><td><b>3</b></td><td>Calculad el ingreso total.</td></tr><tr><td><b>4</b></td><td>Restad. Y decid si esa empresa gana o pierde dinero.</td></tr></tbody></table>
 
-::: nota ✋ Nadie pasa al caso complejo sin tener claro este
+::: nota Nadie pasa al caso complejo sin tener claro este
 Si algo del caso guiado no ha quedado claro, decidlo **ahora**. Todo lo que viene después —el caso complejo, la sesión 9 y el bloque 2 del examen— se apoya en estos cuatro pasos.
 :::
 
@@ -133,7 +133,7 @@ Los roles **rotan** respecto a los que ya habéis usado en sesiones anteriores: 
 
 «Si los costes fijos subieran un 10 %, ¿qué tendría que pasar con el precio, la cantidad vendida o los costes variables para mantener el mismo beneficio?»
 
-::: aviso ⚖️ Hay tres palancas, no una
+::: aviso Hay tres palancas, no una
 Subir el precio, vender más unidades o reducir los costes variables. Cada una tiene sus consecuencias, y ninguna es gratis. Esta pregunta anticipa la **actividad de ampliación de la sesión 9**, donde la aplicaréis a vuestro propio proyecto.
 :::
 
@@ -143,7 +143,7 @@ Subir el precio, vender más unidades o reducir los costes variables. Cada una t
 
 <table><thead><tr><th width="22%"></th><th width="39%">Costes FIJOS</th><th width="39%">Costes VARIABLES</th></tr></thead><tbody><tr><td><b>Definición</b></td><td>No dependen de la cantidad producida</td><td>Dependen de la cantidad producida</td></tr><tr><td><b>Ejemplos</b></td><td>Alquiler, seguros, cuota de autónomos, suscripciones de software</td><td>Materia prima, envases, comisiones por venta, energía de producción</td></tr><tr><td><b>Si no produces nada</b></td><td>Los sigues pagando</td><td>No los pagas</td></tr><tr><td><b>Riesgo asociado</b></td><td>Son los que hunden a una empresa que no vende</td><td>Crecen con la actividad, así que se autorregulan</td></tr></tbody></table>
 
-::: aviso 🤔 La pregunta que resuelve casi todos los casos dudosos
+::: aviso La pregunta que resuelve casi todos los casos dudosos
 «**¿Lo pagaría igual si no produjera nada?**» Si la respuesta es sí, es fijo. Si es no, es variable.
 
 El salario de un empleado con contrato fijo: **fijo**. Las horas extra que solo se pagan cuando hay pedidos: **variable**. La luz del local: **fija**. La energía que consume la maquinaria al producir: **variable**.
@@ -170,7 +170,7 @@ Si los costes fijos suben —el casero sube el alquiler, sube el seguro— el be
 
 <table><thead><tr><th width="26%">Palanca</th><th width="38%">Qué implica</th><th width="36%">Su riesgo</th></tr></thead><tbody><tr><td><b>Subir el precio</b></td><td>Cada unidad vendida aporta más</td><td>Puedes vender menos unidades. Lo veréis con detalle en la SdA 5</td></tr><tr><td><b>Vender más unidades</b></td><td>El coste fijo se reparte entre más ventas</td><td>Exige captar más clientes, y eso también cuesta</td></tr><tr><td><b>Reducir los costes variables</b></td><td>Cada unidad cuesta menos de producir</td><td>Puede afectar a la calidad, y con ella a las ventas</td></tr></tbody></table>
 
-::: nota ⚖️ Y esto es exactamente lo que haréis en la sesión 9
+::: nota Y esto es exactamente lo que haréis en la sesión 9
 La actividad de ampliación pide recalcular el beneficio de vuestro proyecto con los costes un 20 % más altos, y decidir **qué palanca** tocaríais. No hay respuesta correcta: hay decisiones argumentadas.
 :::
 

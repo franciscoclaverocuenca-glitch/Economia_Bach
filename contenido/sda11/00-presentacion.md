@@ -10,7 +10,7 @@ Cada sesión de la SdA 11 es una página de este material. Dentro de cada págin
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ El escenario real de esta unidad
+::: aviso El escenario real de esta unidad
 Esta SdA se ha construido sobre una decisión de política monetaria **que todavía no se ha tomado**: el Consejo de Gobierno del BCE se reúne el **10 de septiembre de 2026**. En su reunión del 23 de julio mantuvo los tres tipos oficiales sin cambios (facilidad de depósito 2,25 %, operaciones principales 2,40 %, facilidad marginal 2,65 %) tras moderarse la inflación de la zona euro al 2,8 % en junio, primer descenso del año.
 
 Eso da a la unidad una autenticidad poco habitual: el alumnado decide antes que el BCE y después puede contrastar su razonamiento con el real. **Si impartes la unidad después de septiembre**, sustituye el escenario por la siguiente reunión pendiente y actualiza los tipos.
@@ -43,7 +43,7 @@ Durante esta unidad vuestro grupo no será una clase: será el **Consejo de Gobi
 
 <table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Comunicado de política monetaria</b></td><td>Documento con formato de nota de prensa oficial: diagnóstico del escenario, decisión sobre los tipos, mecanismo de transmisión previsto y valoración del impacto, con al menos un dato oficial verificable del INE, Eurostat o el BCE.</td><td>Instrumento R (valoración del producto), con la rúbrica general de los criterios</td></tr><tr><td><b>2. Rueda de prensa «El BCE informa»</b></td><td>Declaración introductoria de 2 minutos leída por la portavocía, en el papel de la Presidencia del BCE, seguida de un turno obligatorio de preguntas críticas de la prensa económica.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
-::: nota 🎯 Y el escenario es real
+::: nota Y el escenario es real
 El Consejo de Gobierno del BCE se reúne el **10 de septiembre de 2026** y la decisión está abierta. Vais a decidir con los mismos datos que ellos tienen sobre la mesa, y después podréis comparar vuestro razonamiento con el suyo. No se trata de acertar: se trata de razonar bien y de sostenerlo ante las preguntas.
 :::
 
@@ -57,7 +57,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

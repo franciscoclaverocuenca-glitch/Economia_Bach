@@ -29,7 +29,7 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 - ¿Qué se os viene a la cabeza al oír la palabra «empresa»?
 - ¿La gente emprendedora nace o se hace?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuestionario de autodiagnóstico emprendedor**: 8-10 ítems tipo Likert sobre iniciativa, tolerancia al riesgo y al fracaso, creatividad y trabajo en equipo. Anónimo. **Consérvalo**: se recupera en la sesión 11.
 - **Un caso real, reciente y verificado** de creación o cierre de una empresa del entorno del alumnado, con fuente citable. **Selecciónalo en los días previos a la sesión.**
 - **Pizarra o mural** para la lluvia de ideas, y **cámara** para fotografiarla: se recupera en la sesión 3.
@@ -41,11 +41,11 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Autorregulación</td><td>El autodiagnóstico es anónimo y explícitamente no calificable, lo que permite responder con sinceridad; su recuperación en la sesión 11 convierte el punto de partida en una referencia visible del propio cambio.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El caso real se elige del entorno cercano del alumnado y la lluvia de ideas recoge todas las aportaciones sin jerarquizarlas, de modo que cualquier intuición previa tenga cabida.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La lluvia de ideas admite aportaciones muy breves y no exige elaboración: es una vía de participación accesible para quien evita las intervenciones largas ante el gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con CEE — Competencia específica 1.** El cuestionario de autodiagnóstico es, en sí mismo, un ejercicio de autoconocimiento (saber CEE.1.A.3) trasladado al contexto económico, y responde al criterio 1.2 de CEE. Verificado en el Anexo II de la Orden de 30 de mayo de 2023. Pendiente únicamente de confirmar matrícula común.
 :::
 
@@ -75,7 +75,7 @@ sda4-s01-07.webp | Mañana
 
 Ocho a diez afirmaciones sobre **iniciativa**, **tolerancia al riesgo y al fracaso**, **creatividad** y **trabajo en equipo**, con escala de acuerdo.
 
-::: nota 📋 Tres cosas antes de empezar
+::: nota Tres cosas antes de empezar
 - Es **anónimo**: nadie va a leer tus respuestas.
 - No se corrige ni se califica. **No hay respuestas buenas ni malas.**
 - Contesta con sinceridad, no con lo que suena bien. Si mientes, el único que pierde información útil eres tú.
@@ -91,7 +91,7 @@ Anotad vuestras respuestas a la segunda pregunta: son, literalmente, **el mapa d
 
 En gran grupo, decid todo lo que se os venga a la cabeza al oír la palabra «empresa». Se recoge **todo**: ideas, ejemplos, prejuicios, dudas. No se corrige ni se ordena nada.
 
-::: aviso 📸 Y se fotografía
+::: aviso Y se fotografía
 Esta lista se recupera en la **sesión 3** para contrastarla con la definición técnica. Lo que hoy parece obvio puede resultar que estaba a medias.
 :::
 
@@ -99,7 +99,7 @@ Esta lista se recupera en la **sesión 3** para contrastarla con la definición 
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -112,7 +112,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -144,7 +144,7 @@ El producto final es una **empresa ficticia completa**, defendida en un pitch de
 
 <table><thead><tr><th width="16%">Fase</th><th width="62%">Qué haréis</th><th width="22%">Sesiones</th></tr></thead><tbody><tr><td><b>Detectar</b></td><td>Una necesidad real mal resuelta en vuestro entorno</td><td>8</td></tr><tr><td><b>Idear</b></td><td>Tres ideas de negocio distintas, y elegir una por consenso</td><td>8</td></tr><tr><td><b>Modelar</b></td><td>El Canvas: propuesta de valor, clientes, canales, costes e ingresos</td><td>8 y 9</td></tr><tr><td><b>Calcular</b></td><td>El beneficio estimado, con todos los supuestos explicitados</td><td>9</td></tr><tr><td><b>Defender</b></td><td>El pitch ante el jurado y su turno de preguntas</td><td>10</td></tr></tbody></table>
 
-::: nota 💡 Lo que distingue a esta unidad
+::: nota Lo que distingue a esta unidad
 Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay que llegar hasta el **número**: cuánto cuesta, cuánto se ingresa y si sale a favor o en contra. Y hay que poder explicar de dónde sale cada cifra.
 :::
 
@@ -162,6 +162,6 @@ Mañana no explica el profesorado: viene alguien que montó una empresa de verda
 
 ## Comprueba lo que sabes {.docente}
 
-::: aviso ⚑ Cuestionario pendiente
+::: aviso Cuestionario pendiente
 En la web original este bloque mostraba por error el cuestionario de la SdA 3 · Sesión 6, y no existe ningún formulario «SdA 4 · S1». Añade aquí un bloque `actividad` con las preguntas de esta sesión y quita la marca `{.docente}` del título para que lo vea el alumnado.
 :::

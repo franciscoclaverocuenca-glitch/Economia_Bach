@@ -27,7 +27,7 @@ titulo: 'Sesión 7 · Invertir: riesgo, rentabilidad y diversificación'
 - ¿Qué pasaría con cada perfil si el mercado cayera un 30 % el año que viene?
 - ¿Por qué el fondo de emergencia no puede estar en renta variable?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de clases de activos** (depósitos, renta fija, renta variable, fondos y ETF, inmuebles) y **tarjetas de los tres perfiles de riesgo**.
 - **Gráficos de rentabilidad-riesgo** proyectables.
 - **Dado o app de aleatoriedad** para la demostración de la diversificación.
@@ -38,7 +38,7 @@ titulo: 'Sesión 7 · Invertir: riesgo, rentabilidad y diversificación'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La diversificación se demuestra primero de forma manipulativa y aleatoria (con el dado) antes de formalizarse, de modo que el concepto estadístico llegue después de una experiencia concreta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El juego de perfiles obliga a decidir para otra persona, lo que separa la decisión del deseo propio y facilita el razonamiento sobre tolerancia al riesgo sin implicación emocional.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -65,7 +65,7 @@ sda10-s07-08.webp | Referente: Carmen Reinhart
 
 ### El principio central
 
-::: aviso ⚠️ No hay rentabilidad sin riesgo
+::: aviso No hay rentabilidad sin riesgo
 A mayor rentabilidad esperada, mayor riesgo. Si alguien te ofrece las dos cosas juntas —alta rentabilidad **y** garantía— no tienes delante una oportunidad: tienes delante una **señal de alarma**.
 :::
 
@@ -77,7 +77,7 @@ A mayor rentabilidad esperada, mayor riesgo. Si alguien te ofrece las dos cosas 
 
 <table><thead><tr><th width="9%">Perfil</th><th width="42%">Situación</th><th width="15%">Horizonte</th><th width="34%">Vuestra cartera (% por activo)</th></tr></thead><tbody><tr><td><b>A</b></td><td>Persona joven que invierte pensando en dentro de 30 años</td><td>Muy largo</td><td></td></tr><tr><td><b>B</b></td><td>Familia que ahorra para la entrada de un piso en 3 años</td><td>Corto</td><td></td></tr><tr><td><b>C</b></td><td>Persona jubilada que necesita liquidez y seguridad</td><td>Inmediato</td><td></td></tr></tbody></table>
 
-::: nota 🎯 Lo que se evalúa es la conexión perfil → horizonte → riesgo
+::: nota Lo que se evalúa es la conexión perfil → horizonte → riesgo
 No basta con proponer una cartera: hay que explicar **por qué encaja con esa persona**. Horizonte largo permite asumir más riesgo, porque hay tiempo de recuperarse de una caída. Horizonte corto obliga a ser conservador. Y necesitar liquidez lo cambia todo.
 :::
 
@@ -103,7 +103,7 @@ Los **fondos y ETF** merecen atención especial: permiten diversificar con muy p
 
 ### 4. El poder de la diversificación
 
-::: nota 🎲 «No pongas todos los huevos en la misma cesta» no es un refrán: es matemática
+::: nota «No pongas todos los huevos en la misma cesta» no es un refrán: es matemática
 Si repartes tu inversión entre varios activos que no se mueven exactamente igual, los resultados malos de unos se compensan parcialmente con los buenos de otros. El resultado es que **el riesgo del conjunto es menor que la suma de los riesgos individuales**, sin renunciar necesariamente a la rentabilidad esperada.
 
 Es la herramienta más poderosa y más accesible del pequeño inversor. Y no cuesta nada aplicarla.
@@ -120,7 +120,7 @@ Esta es exactamente la lógica que el Comité de la sesión 10 va a evaluar en v
 
 ### 6. Referente: Carmen Reinhart
 
-::: aviso 📉 «Esta vez es diferente»
+::: aviso «Esta vez es diferente»
 **Carmen Reinhart**, economista jefe del Banco Mundial entre 2020 y 2022, estudió siglos de crisis financieras en decenas de países. Encontró un patrón que se repite con una regularidad casi cómica: antes de cada burbuja, alguien explica convincentemente por qué *esta vez* las reglas no se aplican.
 
 Sus datos son la mejor vacuna contra el **FOMO**, el miedo a quedarse fuera. Retén la frase: la vas a necesitar en la sesión 8.

@@ -29,7 +29,7 @@ En la ficha del sistema de mercado se incluye a **Joan Robinson**, economista de
 - ¿En qué se parecen los tres sistemas? Porque también se parecen en algo.
 - Si tú no lo explicas, ¿quién se lo va a contar a tu grupo?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **3 fichas de experto** —mercado, planificación central y mixta— con estructura idéntica: definición, quién responde a las tres preguntas básicas y cómo, un ejemplo histórico o actual, una ventaja documentada y un límite documentado.
 - **Plantilla de tabla comparativa** de los tres sistemas, una por grupo base.
 - **El apartado sobre Joan Robinson** incluido en la ficha del sistema de mercado.
@@ -41,7 +41,7 @@ En la ficha del sistema de mercado se incluye a **Joan Robinson**, economista de
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El puzzle obliga a reformular el contenido con palabras propias para enseñarlo, que es una de las estrategias de consolidación más eficaces; y las tres fichas comparten estructura idéntica, lo que hace la comparación posible.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Cada persona expone ante tres compañeros de su grupo base, no ante el gran grupo, lo que reduce notablemente la exposición manteniendo la exigencia de explicar con claridad.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de expertos y la enseñanza cruzada generan conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, **entrégale su ficha de experto por escrito con antelación** para que pueda prepararla con calma, y pide a su grupo base que se hable de uno en uno y de frente.
 :::
 
@@ -71,7 +71,7 @@ sda2-s06-07.webp | Lo que viene
 
 <table><thead><tr><th width="6%"></th><th width="94%">Apartado</th></tr></thead><tbody><tr><td><b>1</b></td><td>Definición del sistema</td></tr><tr><td><b>2</b></td><td>Quién responde a las tres preguntas económicas básicas —qué, cómo y para quién— y <b>cómo</b> lo hace</td></tr><tr><td><b>3</b></td><td>Un ejemplo histórico o actual</td></tr><tr><td><b>4</b></td><td>Una ventaja <b>documentada</b></td></tr><tr><td><b>5</b></td><td>Un límite <b>documentado</b></td></tr></tbody></table>
 
-::: aviso ⚖️ Misma estructura, comparación posible
+::: aviso Misma estructura, comparación posible
 Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad: comparar exige haber medido con la misma vara. Y «documentada» significa que no vale la opinión: vale lo que está en la ficha.
 :::
 
@@ -79,7 +79,7 @@ Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad: compa
 
 <table><thead><tr><th width="28%"></th><th width="24%">Mercado</th><th width="24%">Planificación central</th><th width="24%">Mixta</th></tr></thead><tbody><tr><td><b>¿QUÉ se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿CÓMO se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿PARA QUIÉN se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>Una ventaja</b></td><td></td><td></td><td></td></tr><tr><td><b>Un límite</b></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔑 Son las tres preguntas de la sesión 1
+::: nota Son las tres preguntas de la sesión 1
 Aquellas mismas que formulasteis después de repartir las doce fichas. Ahora con tres respuestas distintas y con nombre técnico. Guardad bien esta tabla: es el esqueleto de toda la unidad y la base del dossier de la Cumbre.
 :::
 
@@ -103,7 +103,7 @@ Lo que cambia es el **mecanismo** de decisión, no el problema.
 
 ### 4. Referente: Joan Robinson
 
-::: nota 📘 El pensamiento económico no ha sido un relato exclusivamente masculino
+::: nota El pensamiento económico no ha sido un relato exclusivamente masculino
 **Joan Robinson** fue una de las grandes economistas del siglo XX. Trabajó en la Universidad de **Cambridge** y abrió el campo de la **competencia imperfecta**: ese territorio intermedio entre el monopolio y la competencia perfecta donde vive la mayoría de los mercados reales.
 
 Fue además una **analista comparada** de economías de mercado y planificadas, con conocimiento de primera mano de ambas. Aparece en la ficha del sistema de mercado por una razón concreta: conviene saber desde el principio que la historia del pensamiento económico no la escribieron solo hombres.

@@ -29,7 +29,7 @@ Presenta de forma **documentada** tanto sus logros habituales —innovación, va
 - ¿Cómo funcionan los precios como señales sin que nadie los calcule?
 - ¿Cuál es el límite documentado que más te ha llamado la atención?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Ficha de caso real** de una economía predominantemente de mercado, con datos suficientes para completar los cuatro apartados.
 - **Plantilla Cornell** y **ficha de análisis de cuatro apartados**, una por alumno/a.
 - **La misma ficha se usará mañana** para la planificación central: consérvala.
@@ -41,7 +41,7 @@ Presenta de forma **documentada** tanto sus logros habituales —innovación, va
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha de cuatro apartados fijos estructura el análisis y se repite idéntica en la sesión siguiente, lo que automatiza el procedimiento y hace posible la comparación posterior.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Logros y límites se presentan con el mismo formato y el mismo rigor documental, evitando que el alumnado reciba un juicio cerrado en lugar de material para juzgar.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -80,7 +80,7 @@ sda2-s08-06.webp | Por qué la misma ficha
 
 <table><thead><tr><th width="6%"></th><th width="44%">Apartado</th><th width="50%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td>Cómo responde este sistema a las TRES preguntas básicas</td><td></td></tr><tr><td><b>2</b></td><td>Un DATO que ilustre su funcionamiento</td><td></td></tr><tr><td><b>3</b></td><td>Una VENTAJA documentada</td><td></td></tr><tr><td><b>4</b></td><td>Una CRÍTICA documentada</td><td></td></tr></tbody></table>
 
-::: nota ⚖️ Por qué exactamente estos cuatro apartados
+::: nota Por qué exactamente estos cuatro apartados
 Porque mañana vais a rellenar **la misma ficha** para la planificación central, y en la sesión 10 vais a poner las dos lado a lado. **Comparar exige haber medido con la misma vara.**
 :::
 
@@ -98,7 +98,7 @@ Porque mañana vais a rellenar **la misma ficha** para la planificación central
 
 <table><thead><tr><th width="50%">Logros habituales</th><th width="50%">Límites conocidos</th></tr></thead><tbody><tr><td><b>Innovación.</b> Competir empuja a mejorar el producto o a abaratarlo.</td><td><b>Desigualdad.</b> Repartir según capacidad de pago deja fuera a quien tiene menos, aunque lo necesite más.</td></tr><tr><td><b>Variedad.</b> Hay incentivo a atender gustos minoritarios si hay quien los pague.</td><td><b>Fallos de mercado no corregidos.</b> Los bienes públicos, los comunes y las externalidades de la sesión 7.</td></tr><tr><td><b>Señales de precios eficientes.</b> Los precios informan de la escasez relativa sin que ningún organismo tenga que calcularla.</td><td><b>Ciclos económicos.</b> Expansiones y recesiones recurrentes, con sus consecuencias sobre el empleo.</td></tr><tr><td><b>Descentralización.</b> Nadie tiene que saberlo todo: el sistema coordina millones de decisiones sin un centro.</td><td><b>Externalidades.</b> Costes que recaen sobre terceros y que nadie paga.</td></tr></tbody></table>
 
-::: aviso ⚖️ La nota de método
+::: aviso La nota de método
 Los dos lados se presentan **documentados**, no opinados. Lo que se os pide no es adoptar un juicio, sino disponer de material fiable con el que juzgar. Vuestra valoración personal se reserva para la sesión 10 y para la Cumbre.
 :::
 

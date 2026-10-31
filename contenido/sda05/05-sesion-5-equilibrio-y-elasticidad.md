@@ -35,7 +35,7 @@ Presenta a **Susan Athey** al conectar la elasticidad con los precios digitales.
 - Si aumenta la demanda, ¿qué le pasa al precio Y a la cantidad? ¿Y si aumenta la oferta?
 - Cuando el precio de una entrada sube mientras haces cola virtual, ¿es eficiencia o es abuso?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Ficha de práctica compacta «El reloj del mercado»** con la tabla de oferta y demanda de los menús de la cafetería del instituto para seis precios, una por grupo base.
 - **Tarjetas de casos de elasticidad**: gasolina para quien va a trabajar en coche, medicamento esencial, entradas del concierto del año y sal.
 - **Normas del debate** proyectadas, con la regla del término técnico obligatorio.
@@ -48,11 +48,11 @@ Presenta a **Susan Athey** al conectar la elasticidad con los precios digitales.
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El equilibrio se aborda simultáneamente en tres registros —tabla numérica, gráfico y explicación verbal del ajuste—, de modo que quien no accede por la vía simbólica pueda comprobarlo contando en la tabla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate se estructura con turnos y réplica reglados, y la regla del término técnico obligatorio desplaza la intervención del terreno de la opinión al del argumento, lo que facilita participar sin exponerse personalmente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S6 y S7. La compresión aplicada es la siguiente: las cuatro perturbaciones del equilibrio ya no se resuelven por escrito y en grupo, sino mediante resolución oral guiada con ejemplos rápidos; los casos exprés de elasticidad bajan de 6 a 4 bienes; el cálculo guiado pasa de 2 elasticidades numéricas a 1; el debate se acorta de 18 a 13 minutos manteniendo su estructura; y los dos quiz formativos independientes se sustituyen por un único quiz integrado al cierre.
 :::
 
@@ -85,7 +85,7 @@ sda5-s05-10.webp | El debate
 
 <table><thead><tr><th width="26%">Si el precio está…</th><th width="50%">Qué ocurre</th><th width="24%">Hacia dónde presiona el precio</th></tr></thead><tbody><tr><td><b>Por encima</b> del equilibrio</td><td>Los vendedores quieren vender más de lo que los compradores quieren comprar: sobra producto (<b>excedente</b>)</td><td>A la <b>baja</b></td></tr><tr><td><b>Por debajo</b> del equilibrio</td><td>Los compradores quieren comprar más de lo que hay: falta producto (<b>escasez</b>)</td><td>Al <b>alza</b></td></tr><tr><td><b>En</b> el equilibrio</td><td>Coincide exactamente lo que se quiere comprar y lo que se quiere vender</td><td>No se mueve: es <b>estable</b></td></tr></tbody></table>
 
-::: nota ⚖️ La idea clave
+::: nota La idea clave
 El precio de equilibrio **no lo fija nadie en particular**: lo fijan a la vez todos los compradores y todos los vendedores. Es exactamente lo que vais a ver suceder en el Parqué de mañana.
 :::
 
@@ -108,6 +108,7 @@ instrucciones: Desplaza las curvas y observa qué les pasa al precio y a la cant
 producto: aceite de oliva
 unidad_precio: €/l
 unidad_cantidad: millones de litros
+unidad_gasto: millones de €
 precio_max: 10
 cantidad_max: 100
 demanda: { a: 80, b: 8 }
@@ -138,7 +139,7 @@ Mide cuánto **reacciona** la cantidad demandada ante un cambio de precio. O dic
 
 <table><thead><tr><th width="20%"></th><th width="40%">Demanda ELÁSTICA</th><th width="40%">Demanda INELÁSTICA</th></tr></thead><tbody><tr><td><b>Qué ocurre</b></td><td>La cantidad reacciona <b>más</b> que el precio</td><td>La cantidad reacciona <b>menos</b> que el precio</td></tr><tr><td><b>Ejemplo numérico</b></td><td>Sube un 10 % y las ventas caen un 30 %</td><td>Sube un 10 % y las ventas apenas se mueven</td></tr><tr><td><b>Qué significa</b></td><td>La gente se va a otra cosa</td><td>La gente lo sigue comprando</td></tr></tbody></table>
 
-::: aviso 💡 Y aquí está la clave del caso del aceite
+::: aviso Y aquí está la clave del caso del aceite
 La demanda de aceite de oliva es **inelástica**: la gente lo siguió comprando pese al precio. Por eso el precio pudo dispararse tanto. Con una demanda muy elástica, la subida habría sido mucho menor.
 :::
 
@@ -152,7 +153,7 @@ La demanda de aceite de oliva es **inelástica**: la gente lo siguió comprando 
 
 <table><thead><tr><th width="50%">EFICIENCIA</th><th width="50%">EQUIDAD</th></tr></thead><tbody><tr><td>El precio es una señal que asigna un recurso escaso a quien más lo valora, y atrae más oferta justo cuando hace falta.</td><td>Es explotar la necesidad, y expulsa del mercado a quien menos renta tiene.</td></tr></tbody></table>
 
-::: nota 🎤 La regla del juego
+::: nota La regla del juego
 Para intervenir hay que usar correctamente **al menos un término técnico** de la unidad: elasticidad, exceso de demanda, desplazamiento, equilibrio.
 
 Y el docente **cierra sin dictar veredicto**: la pregunta reaparece en el ensayo de la prueba escrita, y allí tendréis que posicionaros vosotros.
@@ -168,7 +169,7 @@ Y es **estable**, porque los desajustes se corrigen solos:
 
 <table><thead><tr><th width="28%">Si el precio está…</th><th width="38%">Aparece…</th><th width="34%">Y el precio presiona…</th></tr></thead><tbody><tr><td><b>Por encima</b> del equilibrio</td><td>Un <b>excedente</b>: sobra producto que nadie compra</td><td>A la <b>baja</b>, porque los vendedores rebajan para colocarlo</td></tr><tr><td><b>Por debajo</b> del equilibrio</td><td>Una <b>escasez</b>: falta producto y hay compradores sin atender</td><td>Al <b>alza</b>, porque los compradores compiten y pagan más</td></tr></tbody></table>
 
-::: nota ⚖️ La idea que hay que retener
+::: nota La idea que hay que retener
 El precio de equilibrio **no lo fija nadie en particular**. Lo fijan a la vez todos los compradores y todos los vendedores, sin ponerse de acuerdo y sin que nadie dirija el proceso. Es la respuesta definitiva al enigma de la sesión 1.
 :::
 
@@ -191,7 +192,7 @@ Mide la **sensibilidad** de los compradores al precio:
 
 <table><thead><tr><th width="36%">Determinante</th><th width="64%">Cómo funciona</th></tr></thead><tbody><tr><td><b>¿Existen sustitutivos cercanos?</b></td><td>Si los hay, la demanda es elástica: al subir el precio te vas a otra cosa. Si no los hay, es inelástica.</td></tr><tr><td><b>¿Es necesidad o capricho?</b></td><td>Un medicamento esencial no se deja de comprar aunque suba. Una entrada de concierto, sí.</td></tr><tr><td><b>¿Cuánto pesa en tu presupuesto?</b></td><td>Si un producto cuesta céntimos, apenas notas que suba un 20 %. Si cuesta media nómina, lo notas todo.</td></tr></tbody></table>
 
-::: aviso 🫒 Y por eso el aceite pudo subir tanto
+::: aviso Y por eso el aceite pudo subir tanto
 La demanda de aceite de oliva es **inelástica**: hay pocos sustitutivos realmente equivalentes en la cocina española, es un producto de uso cotidiano y su peso en el presupuesto familiar, aun subiendo, sigue siendo limitado. Por eso la gente lo siguió comprando y el precio pudo dispararse. Con una demanda muy elástica, la subida habría sido mucho menor.
 :::
 
@@ -201,7 +202,7 @@ La demanda de aceite de oliva es **inelástica**: hay pocos sustitutivos realmen
 
 ### 6. Referente: Susan Athey
 
-::: nota 🏅 La elasticidad ya no la calcula una persona: la calcula un algoritmo
+::: nota La elasticidad ya no la calcula una persona: la calcula un algoritmo
 **Susan Athey** fue la **primera mujer** galardonada con la Medalla John Bates Clark (2007), que la American Economic Association concede al mejor economista menor de 40 años.
 
 Su trabajo abrió el campo de la economía de los **mercados y plataformas digitales**, donde los precios se ajustan mediante algoritmos que estiman en tiempo real, precisamente, la elasticidad de la demanda. Cada vez que abrís una app de viajes o de entradas y el precio cambia, hay un sistema calculando cuánto estáis dispuestos a pagar.

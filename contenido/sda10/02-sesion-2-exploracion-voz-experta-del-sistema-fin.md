@@ -25,7 +25,7 @@ titulo: 'Sesión 2 · Exploración: voz experta del sistema financiero'
 - ¿Coincide lo que ha contado con las sospechas que anotasteis en el mural de la sesión 1?
 - ¿Qué os ha sorprendido más de cómo funciona un banco por dentro?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar y confirmar con antelación a la persona invitada.** Opciones sugeridas por cercanía: personal de una entidad con presencia local (por ejemplo **Unicaja Banco**, con sede en la ciudad), asesoría financiera independiente, o personal técnico de un programa de educación financiera como el del **Banco de España y la CNMV**.
 - **Prioriza invitar a una profesional del sector**, como modelo de referencia directo tras la pregunta abierta de género del cierre de la sesión 1.
 - **Guion mínimo de preguntas** revisado por ti, con las dos obligatorias repartidas entre alumnos concretos.
@@ -37,7 +37,7 @@ titulo: 'Sesión 2 · Exploración: voz experta del sistema financiero'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional real del sector financiero malagueño ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de notas de cuatro entradas estructura la escucha y evita la toma de apuntes indiscriminada, que es la principal dificultad de este tipo de sesión.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda.
 :::
 

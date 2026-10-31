@@ -29,7 +29,7 @@ El **grupo 4** es el que más impacta, porque habla literalmente de su futuro la
 - ¿Qué inconvenientes tiene la economía colaborativa en una zona turística como la Costa del Sol?
 - ¿Qué diferencia hay entre un dato agregado y un caso particular?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos reales y verificados del Málaga TechPark**: 719 empresas, cerca de 29.000 profesionales, 73 empresas de capital extranjero de 22 países, más de 255 millones de euros invertidos en I+D, y el proyecto de la planta de semiconductores de IMEC (615 millones de euros de inversión y 450 empleos previstos desde 2027).
 - **4 fichas de experto**: economía colaborativa, economía circular, plataformas digitales y empleo en la era digital.
 - **Datos para la ficha 4**: el 78 % de las empresas tecnológicas españolas no logra cubrir sus vacantes (ManpowerGroup) y faltan cerca de 4,8 millones de profesionales de ciberseguridad en el mundo (ISC2, 2024).
@@ -42,7 +42,7 @@ El **grupo 4** es el que más impacta, porque habla literalmente de su futuro la
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El puzle obliga a reformular el contenido con palabras propias para enseñarlo a los compañeros, que es una de las estrategias de consolidación más eficaces; cada ficha incluye datos concretos además de la explicación conceptual.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los datos sobre vacantes tecnológicas sin cubrir hablan directamente del itinerario formativo que el alumnado está a punto de elegir, lo que convierte el contenido en información personalmente relevante.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de expertos y la vuelta al grupo base generan conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, entrégale su ficha de experto por escrito con antelación para que pueda prepararla, y pide a su grupo que en la vuelta se hable de uno en uno y de frente.
 :::
 
@@ -74,7 +74,7 @@ sda3-s08-07.webp | Dato agregado y caso particular
 
 <table><thead><tr><th width="8%">Experto</th><th width="22%">Tema</th><th width="70%">Qué tienes que dominar</th></tr></thead><tbody><tr><td><b>1</b></td><td>Economía COLABORATIVA</td><td>Plataformas que permiten compartir bienes o servicios entre particulares (alojamiento, vehículo compartido). <b>Ventajas</b>: aprovechamiento de recursos ociosos. <b>Inconvenientes</b>: regulación laboral difusa e impacto en el alquiler de vivienda en zonas turísticas como la Costa del Sol.</td></tr><tr><td><b>2</b></td><td>Economía CIRCULAR y ecológica</td><td>Modelo que busca reducir, reutilizar y reciclar, frente al modelo lineal de «producir-usar-tirar». Empresas que diseñan productos pensando en su segunda vida.</td></tr><tr><td><b>3</b></td><td>PLATAFORMAS digitales</td><td>Mercados de dos caras: cómo las empresas tecnológicas conectan a oferentes y demandantes a escala global, generando <b>efectos de red</b>.</td></tr><tr><td><b>4</b></td><td>EMPLEO y renta en la era digital</td><td>Cómo transforma la revolución digital el mercado de trabajo. Con dos datos: el <b>78 %</b> de las empresas tecnológicas españolas no logra cubrir sus vacantes (ManpowerGroup), y faltan cerca de <b>4,8 millones</b> de profesionales de ciberseguridad en el mundo (ISC2, 2024).</td></tr></tbody></table>
 
-::: nota 🎯 La pregunta que deja el experto 4
+::: nota La pregunta que deja el experto 4
 Si sobran vacantes y falta gente cualificada, **¿de quién es la responsabilidad de cerrar esa brecha?** ¿Del sistema educativo, de las empresas, de las propias personas? Y una segunda, más directa: estáis a punto de elegir itinerario. Estos datos hablan literalmente de vuestro futuro laboral.
 :::
 
@@ -82,7 +82,7 @@ Si sobran vacantes y falta gente cualificada, **¿de quién es la responsabilida
 
 Retomamos la **pregunta abierta de la sesión 3** sobre la infrarrepresentación femenina en la empresa exportadora. Y la contrastamos con un dato positivo y muy cercano.
 
-::: aviso 📊 El caso de Ebury
+::: aviso El caso de Ebury
 En **Ebury**, empresa de tecnología financiera instalada en el Málaga TechPark, conviven **267 personas empleadas de 25 nacionalidades distintas**. Y **más de la mitad son mujeres**.
 :::
 
@@ -90,7 +90,7 @@ En **Ebury**, empresa de tecnología financiera instalada en el Málaga TechPark
 
 ¿Depende del tipo de empresa? ¿De sus políticas internas? ¿De otra cosa?
 
-::: nota 🔍 Y aquí no cerramos con una conclusión única
+::: nota Y aquí no cerramos con una conclusión única
 El objetivo de esta pregunta es que distingáis entre un **dato agregado** —lo que ocurre en el conjunto de un sector— y un **caso particular** —lo que ocurre en una empresa concreta—. Ninguno de los dos invalida al otro, y confundirlos es uno de los errores más frecuentes al leer estadísticas.
 
 Esa competencia os va a hacer falta en vuestra campaña: un dato particular presentado como si fuera general es exactamente el tipo de cosa que el Guardián del dato tiene que cazar.
@@ -110,7 +110,7 @@ Y el proyecto de la planta de semiconductores de **IMEC** —615 millones de eur
 
 ### 3. La paradoja del empleo tecnológico
 
-::: nota 💼 Dos datos que conviene retener
+::: nota Dos datos que conviene retener
 - El **78 %** de las empresas tecnológicas españolas **no logra cubrir sus vacantes** (ManpowerGroup).
 - Faltan cerca de **4,8 millones** de profesionales de **ciberseguridad** en el mundo (ISC2, 2024).
 
@@ -125,7 +125,7 @@ En la sesión 3 quedó abierta la pregunta sobre la infrarrepresentación femeni
 
 Lo que sí permite el caso particular es preguntarse **qué condiciones lo explican**: el tipo de empresa, sus políticas internas de contratación y promoción, su cultura organizativa. Y eso es información útil, no un contraejemplo que anule la estadística general.
 
-::: aviso 🔍 La competencia que se practica aquí
+::: aviso La competencia que se practica aquí
 Confundir un caso particular con una tendencia general es uno de los errores más frecuentes al leer estadísticas —y una de las formas más habituales de desinformación—. Vuestro **Guardián del dato** va a tener que cazar exactamente eso en la campaña final.
 :::
 

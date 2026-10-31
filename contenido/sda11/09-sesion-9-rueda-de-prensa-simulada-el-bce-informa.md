@@ -25,7 +25,7 @@ titulo: Sesión 9 · Rueda de prensa simulada «El BCE informa»
 - ¿Qué señales les harían cambiar de decisión en la próxima reunión?
 - Dos grupos con datos parecidos han decidido cosas distintas. ¿Quién tiene razón?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Comunicados entregados** por cada grupo, impresos o proyectables.
 - **Atril o mesa de comparecencia** y disposición del aula en formato sala de prensa.
 - **Identificadores de medios** para cada grupo-prensa (pueden ser medios reales o ficticios).
@@ -38,7 +38,7 @@ titulo: Sesión 9 · Rueda de prensa simulada «El BCE informa»
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La declaración puede leerse íntegramente desde un guion escrito sin penalización, y el grupo puede apoyar a su portavocía en el turno de preguntas. Se admite también intervención grabada previamente para quien lo necesite.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las reglas de turno y de respeto se explicitan antes de empezar y la rúbrica está a la vista, de modo que se sabe con antelación exactamente qué se valora.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de máxima carga oral con turnos cruzados. Proyecta el turno de palabra y el nombre del medio que pregunta, exige que se hable de pie y de frente, y facilita a este alumno/a los comunicados por escrito antes de la sesión para que pueda preparar sus preguntas. Considera asignarle el rol de Redactor/a con intervención preparada.
 :::
 
@@ -66,7 +66,7 @@ sda11-s09-05.webp | Síntesis final
 
 <table><thead><tr><th width="24%">Fase</th><th width="31%">Quién</th><th width="11%">Tiempo</th><th width="34%">Qué se evalúa</th></tr></thead><tbody><tr><td><b>Declaración introductoria</b></td><td>La portavocía, en el papel de la Presidencia del BCE</td><td>2 min</td><td><b>EO</b> · claridad del diagnóstico y solidez de la justificación</td></tr><tr><td><b>Turno de preguntas</b></td><td>Al menos dos grupos-medio</td><td>5 min</td><td><b>D</b> · pertinencia y calidad crítica de las preguntas</td></tr><tr><td><b>Respuestas</b></td><td>La portavocía, con apoyo del grupo</td><td>incluido</td><td><b>EO</b> · capacidad de sostener la decisión y reconocer sus efectos</td></tr><tr><td><b>Comunicado escrito</b></td><td>Entregado previamente</td><td>—</td><td><b>R</b> · valorado con los mismos descriptores de la rúbrica</td></tr></tbody></table>
 
-::: nota 🎤 Para intervenir como prensa
+::: nota Para intervenir como prensa
 La pregunta debe estar **bien formulada** y ser **pertinente**: sobre el impacto, la coherencia o los riesgos de la decisión. Una pregunta que localiza el punto débil de una propuesta ajena demuestra tanto conocimiento como una buena exposición propia.
 :::
 
@@ -74,6 +74,6 @@ La pregunta debe estar **bien formulada** y ser **pertinente**: sobre el impacto
 
 <table><thead><tr><th width="16%">Criterio</th><th width="84%">Qué se mira</th></tr></thead><tbody><tr><td><b>4.1</b></td><td>La comprensión del mecanismo: ¿entendéis por qué vuestra decisión afecta a los precios y por qué camino?</td></tr><tr><td><b>4.2 y 4.3</b></td><td>El impacto sobre los agentes: ¿sabéis conectar la decisión con las finanzas de una familia, de una empresa y del sector público?</td></tr><tr><td><b>Transparencia</b></td><td>Reconocer un efecto secundario no resta: suma. Es exactamente lo que hace el BCE real en cada comparecencia.</td></tr></tbody></table>
 
-::: aviso 🏛️ La conclusión de la unidad
+::: aviso La conclusión de la unidad
 Ante un mismo escenario **caben decisiones distintas y razonables**. Lo que se evalúa es la calidad del razonamiento económico y la transparencia, no la coincidencia con una «respuesta correcta» única. En el BCE real ocurre exactamente lo mismo: por eso las decisiones se votan.
 :::

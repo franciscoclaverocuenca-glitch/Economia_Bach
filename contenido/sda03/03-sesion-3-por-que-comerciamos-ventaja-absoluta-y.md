@@ -29,7 +29,7 @@ La **tarjeta 1** es la clave conceptual: un país más eficiente en todo sigue t
 - ¿Qué riesgo asume una región que se especializa al máximo en un único producto?
 - Si la ventaja comparativa no depende del género, ¿por qué las mujeres son minoría al frente de las empresas exportadoras?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Presentación de conceptos** con los datos del aceite de oliva andaluz verificados.
 - **Plantilla Cornell**, una por alumno/a.
 - **6 tarjetas de reto** para repartir por el aula, y un **«pasaporte» de respuestas** por pareja.
@@ -42,7 +42,7 @@ La **tarjeta 1** es la clave conceptual: un país más eficiente en todo sigue t
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La ventaja comparativa se modela primero con un caso real y reconocible (el aceite andaluz) y solo después con países imaginarios y cifras abstractas, de modo que el concepto llegue anclado a algo conocido.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura 1-2-4 permite pensar primero en solitario, contrastar después en pareja y solo finalmente exponer en cuarteto: tres niveles crecientes de exposición.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las seis tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
 :::
 
@@ -71,7 +71,7 @@ sda3-s03-08.webp | La pregunta abierta
 
 <table><thead><tr><th width="20%"></th><th width="38%">Ventaja ABSOLUTA</th><th width="42%">Ventaja COMPARATIVA</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Producir un bien usando <b>menos recursos</b> que otro país</td><td>Producir un bien con <b>menor coste de oportunidad</b>: renunciando a menos de otra cosa</td></tr><tr><td><b>¿Se puede tener en todo?</b></td><td>Sí. Un país puede ser más eficiente en todos los bienes</td><td><b>No.</b> Es imposible tener ventaja comparativa en todo</td></tr><tr><td><b>Consecuencia</b></td><td>Por sí sola no basta para decidir qué producir</td><td>Es la que explica por qué <b>siempre</b> hay comercio posible</td></tr></tbody></table>
 
-::: nota 🧮 El modelado: Aurora y Bóreal
+::: nota El modelado: Aurora y Bóreal
 Dos países imaginarios que producen aceite de oliva y maquinaria. Calculamos el **coste de oportunidad** de cada uno en cada bien: ¿a cuánta maquinaria renuncia Aurora por cada tonelada de aceite? ¿Y Bóreal?
 
 Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debería especializarse. Usamos países imaginarios a propósito: con cifras reales de un país concreto se induce a error.
@@ -95,7 +95,7 @@ La respuesta intuitiva es «porque uno tiene algo que el otro no tiene». Es cie
 
 <table><thead><tr><th width="22%"></th><th width="38%">Ventaja ABSOLUTA</th><th width="40%">Ventaja COMPARATIVA</th></tr></thead><tbody><tr><td><b>Definición</b></td><td>Producir un bien empleando menos recursos que otro país</td><td>Producir un bien con menor coste de oportunidad, es decir, renunciando a menos de otra cosa</td></tr><tr><td><b>Cómo se mide</b></td><td>Comparando directamente la eficiencia</td><td>Comparando a qué renuncia cada país para producir una unidad más</td></tr><tr><td><b>¿Se puede tener en todo?</b></td><td>Sí</td><td>No: es matemáticamente imposible</td></tr></tbody></table>
 
-::: nota 💡 La idea contraintuitiva y central
+::: nota La idea contraintuitiva y central
 Un país puede ser **más eficiente que otro produciendo absolutamente todo**, y aun así le sigue conviniendo comerciar. Porque su tiempo y sus recursos son limitados: si los dedica a producir aquello en lo que su ventaja es *mayor*, y compra lo demás, obtiene más de las dos cosas que si lo produjera todo él solo.
 
 Eso es la ventaja comparativa, y es la razón por la que **siempre** hay comercio posible entre dos países.
@@ -117,7 +117,7 @@ Es exactamente lo que vais a analizar mañana con los aranceles de 2025.
 
 ### 5. El dato de género
 
-::: aviso 🔍 ¿Quién exporta?
+::: aviso ¿Quién exporta?
 Pese al peso creciente de las exportaciones andaluzas, las mujeres siguen **infrarrepresentadas al frente de las empresas que exportan**. Hasta el punto de que el ICEX puso en marcha en 2024 el programa **«Internacionalizarse en Femenino»**, tras un grupo de trabajo «Mujer e Internacionalización» activo desde 2021.
 
 Y la pregunta abierta: si la ventaja comparativa depende del talento y los recursos de un país, y **no del género** de quien dirige la empresa, ¿por qué siguen siendo minoría? ¿Qué tiene esto que ver con la «escasez» de talento aprovechado de la que hablasteis en la SdA 1?

@@ -33,7 +33,7 @@ titulo: Sesión 1 · La cadena del euro
 - ¿Quién ha ganado y quién ha soportado el coste cuando el turista dejó de venir?
 - Si por el trabajo de cuidados no circula ningún euro, ¿aparecerá en nuestro modelo? ¿Debería?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **20-25 fichas-euro de cartulina** y **tarjetas de rol** reconocibles del entorno: turista, camarera de una cafetería del centro, dueño de una panadería de barrio, profesora del propio IES, Ayuntamiento, empresa de reformas, familia que ahorra. Incluye una tarjeta de **«hucha»** para la ronda 3.
 - **Plantilla de diagnóstico** con 4-5 preguntas de respuesta corta. La primera debe recuperar el mapa de agentes de la SdA 8: te dirá si la sesión 3 puede acelerarse.
 - **El tarjetero de agentes de la SdA 8**, recuperado: se usa como apoyo y como material de la ficha de refuerzo de la sesión 3.
@@ -45,7 +45,7 @@ titulo: Sesión 1 · La cadena del euro
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un recorrido reconocible por la propia ciudad, con roles del entorno inmediato del alumnado, y no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La simulación en círculo garantiza una intervención breve y pautada de todas las personas (decir a cambio de qué se recibe la ficha), de bajo riesgo y con turno asegurado; el diagnóstico posterior es individual, escrito y no calificable.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (columna de ideas clave, columna de notas y franja de resumen), que actúa como andamiaje directo de la autorregulación y se mantiene idéntico en todas las sesiones de la unidad.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La simulación en círculo tiene intervenciones rápidas desde puntos distintos del aula, lo que es especialmente difícil de seguir. Sitúa a este alumno/a en un punto con visión frontal del mayor número de compañeros posible, exige que quien tiene la ficha se ponga en pie y espere a tener la atención antes de hablar, y ve anotando en la pizarra cada paso de la cadena a medida que se produce, de modo que el recorrido quede siempre disponible por escrito.
 :::
 
@@ -77,7 +77,7 @@ sda9-s01-09.webp | La pregunta incómoda
 
 El aula se dispone en círculo. Cada persona recibe una tarjeta de rol. El turista recibe la ficha-euro y una consigna: **«gástalo»**.
 
-::: aviso 🔁 Regla única
+::: aviso Regla única
 Cada vez que la ficha cambia de manos, quien la recibe dice **en voz alta** a cambio de qué la recibe —un café, un salario, un impuesto, una barra de pan— y a quién se la entrega después y por qué.
 :::
 
@@ -89,7 +89,7 @@ Cada vez que la ficha cambia de manos, quien la recibe dice **en voz alta** a ca
 
 La puesta en común cierra con un dibujo colectivo en la pizarra: personas y empresas conectadas por flechas de dinero y de cosas. Ese dibujo intuitivo tiene nombre —el **flujo circular de la renta**— y la unidad entera consistirá en completarlo, entenderlo y usarlo para leer la realidad.
 
-::: nota 🎯 El salto respecto de la unidad anterior
+::: nota El salto respecto de la unidad anterior
 En la SdA 8 aprendisteis **quiénes** son los agentes y a preguntar «¿quién paga y quién gana?». Aquí vais a aprender **por qué** la respuesta es la que es.
 :::
 
@@ -97,7 +97,7 @@ En la SdA 8 aprendisteis **quiénes** son los agentes y a preguntar «¿quién p
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -110,7 +110,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -140,7 +140,7 @@ Has seguido un euro por la ciudad y has comprobado tres cosas:
 
 Esas tres observaciones son, respectivamente, la circularidad del flujo, la interdependencia de los agentes y la idea de filtración. Son el esqueleto de toda la unidad.
 
-::: nota 💡 La idea clave
+::: nota La idea clave
 La renta **no se destruye al gastarse: circula**. Es la formulación precisa de lo que dictasteis al Cornell en la SdA 8: «lo que para un agente es un gasto, para otro es un ingreso».
 :::
 
@@ -156,7 +156,7 @@ No hay que construirla al final: **cada sesión aporta una pieza**. Guárdalas t
 
 ### 4. Una pregunta que queda abierta
 
-::: aviso 🔍 El trabajo por el que ningún euro cambia de manos
+::: aviso El trabajo por el que ningún euro cambia de manos
 Fíjate en algo de nuestra propia simulación: en la cadena del euro nadie ha cuidado de un familiar enfermo, nadie ha cocinado en casa, nadie ha limpiado. Y sin embargo ese trabajo existe y sostiene todo lo demás.
 
 Según la **Encuesta de Empleo del Tiempo del INE**, las mujeres dedican en torno al doble de horas diarias que los hombres al trabajo doméstico y de cuidados no remunerado.

@@ -25,7 +25,7 @@ titulo: 'Sesión 2 · Exploración: la inflación vista desde Málaga'
 - ¿Qué dato os habéis apuntado y por qué ese y no otro?
 - ¿Se notó en Málaga lo que hizo el BCE, y cuánto tardó en notarse?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar y confirmar con antelación a la persona invitada.** Opciones sugeridas por cercanía y viabilidad: profesorado de la Facultad de Ciencias Económicas y Empresariales de la Universidad de Málaga; profesional del **Banco de España**, que mantiene sucursal en Málaga en la Alameda Principal; o analista de una entidad financiera o asociación de consumidores de la provincia.
 - **Prioriza invitar a una mujer experta**, coherente con el tratamiento de referentes femeninos que recorre la unidad (Anna Schwartz, Christine Lagarde, Isabel Schnabel).
 - **Guion de notas** impreso con las tres entradas, una copia por alumno/a.
@@ -37,7 +37,7 @@ titulo: 'Sesión 2 · Exploración: la inflación vista desde Málaga'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional real ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito económico y financiero.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de notas de tres entradas estructura la escucha y evita la toma de apuntes indiscriminada, que es la principal dificultad de este tipo de sesión.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda.
 :::
 
@@ -63,7 +63,7 @@ sda11-s02-05.webp | Cierre
 
 <table><thead><tr><th width="24%">Entrada</th><th width="34%">Qué anotar</th><th width="42%">Para qué te servirá</th></tr></thead><tbody><tr><td><b>Una idea que me ha sorprendido</b></td><td>Algo que no esperabas o que contradice lo que creías.</td><td>Es lo que más se recuerda meses después, y material excelente para el comunicado de la S8.</td></tr><tr><td><b>Un dato que quiero recordar</b></td><td>Una cifra concreta con su fuente.</td><td>Los datos de una persona experta local anclan vuestro comunicado en la realidad andaluza.</td></tr><tr><td><b>Una duda que me queda</b></td><td>Lo que no has entendido o lo que te ha generado más preguntas.</td><td>Orientará las sesiones siguientes y puede resolverse en el turno de preguntas.</td></tr></tbody></table>
 
-::: nota 🎤 Si solo pudieras hacer una pregunta
+::: nota Si solo pudieras hacer una pregunta
 «¿Se notó en Málaga lo que hizo el BCE, y **cuánto tardó** en notarse?» Es la pregunta que enlaza directamente con la sesión 7, cuando estudiéis cómo una decisión de Fráncfort acaba llegando a la tienda de la esquina.
 :::
 

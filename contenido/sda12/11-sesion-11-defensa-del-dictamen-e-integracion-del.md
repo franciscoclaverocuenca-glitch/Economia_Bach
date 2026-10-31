@@ -27,7 +27,7 @@ titulo: Sesión 11 · Defensa del Dictamen e integración del Pacto
 - ¿Vuestro Pacto solo recauda y reparte, u orienta la economía hacia algo?
 - ¿Qué conceptos de todo el curso habéis tenido que usar hoy?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dictámenes entregados** por cada comisión, impresos o proyectables.
 - **Rúbrica de los criterios 5.1, 5.2, 6.1 y 6.2** visible para todo el mundo durante la sesión.
 - **Plantilla del acta del «Pacto Fiscal 2050»** para recoger el acuerdo negociado.
@@ -39,7 +39,7 @@ titulo: Sesión 11 · Defensa del Dictamen e integración del Pacto
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La defensa se reparte entre los cuatro roles de la comisión, de modo que nadie soporta en solitario la carga de la exposición oral; se admite guion escrito ampliado o intervención grabada previamente sin penalización académica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las reglas de turno y de respeto se explicitan antes de empezar y la rúbrica está a la vista, de modo que se sabe con antelación exactamente qué se valora.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de máxima carga oral y con turnos cruzados. Proyecta el turno de palabra y el nombre de quien interviene, exige que se hable de pie y de frente, y facilita a este alumno/a los dictámenes por escrito antes de la sesión para que pueda preparar sus preguntas. Considera asignarle el rol de Redactor/a con intervención preparada.
 :::
 
@@ -66,7 +66,7 @@ sda12-s11-06.webp | Cierre
 
 <table><thead><tr><th width="16%">Fase</th><th width="48%">Qué ocurre</th><th width="36%">Qué se evalúa</th></tr></thead><tbody><tr><td><b>1 · Defensa</b></td><td>Cada comisión expone su reto, sus medidas, la cuantificación y los inconvenientes, y responde a un turno de preguntas cruzadas del resto.</td><td>EO (defensa oral) · R (el Dictamen como producto) · D (turno de contraste)</td></tr><tr><td><b>2 · Integración</b></td><td>Todas las comisiones negocian un paquete coherente que combine medidas de los cuatro retos, resolviendo los conflictos entre ellas. El acuerdo se recoge en un acta breve.</td><td>D (negociación) · Co.Ev. (coevaluación entre comisiones)</td></tr></tbody></table>
 
-::: aviso 🎤 Preguntar bien también puntúa
+::: aviso Preguntar bien también puntúa
 El turno de preguntas cruzadas se evalúa. Una pregunta que localiza el punto débil de una propuesta ajena demuestra tanto conocimiento como una buena exposición propia.
 :::
 

@@ -12,7 +12,7 @@ titulo: Autoevaluación y evaluación docente
 
 <table><thead><tr><th width="50%">Empezaste…</th><th width="50%">Has terminado…</th></tr></thead><tbody><tr><td>Repartiendo doce fichas entre cuatro personas, sin saber siquiera qué representaban las tres rondas.</td><td>Negociando un acuerdo internacional entre cuatro delegaciones con sistemas económicos distintos, y firmando un Acta de consenso.</td></tr></tbody></table>
 
-::: nota 🔚 El recorrido completo
+::: nota El recorrido completo
 Has **vivenciado** tres reglas distintas de reparto (S1), escuchado una forma real intermedia (S2), aprendido a **pensar** como un economista (S3), manejado las **herramientas** básicas y la **modelización matemática** (S4 y S5), **cooperado** en un puzzle donde tu grupo dependía de ti (S6), estudiado los sistemas con la misma vara (S7 a S10), **negociado** en una Cumbre (S11) y **evaluado** tu propio proceso (S12).
 
 ```actividad

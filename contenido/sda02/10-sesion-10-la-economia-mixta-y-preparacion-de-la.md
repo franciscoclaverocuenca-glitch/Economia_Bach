@@ -29,7 +29,7 @@ titulo: Sesión 10 · La economía mixta y preparación de la Cumbre
 - ¿Hasta qué punto el diseño del sistema económico condiciona la igualdad efectiva?
 - ¿Vuestro reparto de subroles repite patrones de sesiones anteriores?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos reales y actualizados del peso del gasto público sobre el PIB en España**, y de los sectores históricamente públicos o mixtos. **Actualízalos cada curso.**
 - **Plantilla de dossier de delegación**, una por grupo base.
 - **Las dos fichas de caso** de las sesiones 8 y 9, y la tabla comparativa del puzzle de la sesión 6: son el material de partida.
@@ -42,7 +42,7 @@ titulo: Sesión 10 · La economía mixta y preparación de la Cumbre
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El dossier se descompone en tres componentes explícitos y el reparto de subroles asigna una responsabilidad concreta a cada miembro, lo que estructura una tarea de preparación compleja.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El cooperativismo agrario andaluz se presenta como forma económica real y propia del territorio, y el dato sobre provisión pública de cuidados se plantea como pregunta abierta que conecta el diseño institucional con la igualdad efectiva.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Si este alumno/a asume la Portavocía, garantiza un **ensayo previo completo** de los 2 minutos de intervención inicial antes de la Cumbre.
 :::
 
@@ -70,7 +70,7 @@ sda2-s10-07.webp | El reto de la Cumbre
 
 <table><thead><tr><th width="36%">Dónde se ve</th><th width="64%">Qué significa</th></tr></thead><tbody><tr><td><b>El peso del gasto público sobre el PIB</b></td><td>Un porcentaje muy significativo de la economía española pasa por las administraciones públicas. Ese dato hay que actualizarlo cada curso.</td></tr><tr><td><b>Sectores históricamente públicos o mixtos</b></td><td>Sanidad, educación y algunas infraestructuras. Ninguno de ellos se deja enteramente al mercado.</td></tr><tr><td><b>El cooperativismo agrario andaluz</b></td><td>Con tradición histórica propia y muy presente en el sector oleícola y hortofrutícola. Una forma real de organización <b>intermedia</b>.</td></tr></tbody></table>
 
-::: nota 🌾 La charla de la sesión 2 no era una anécdota
+::: nota La charla de la sesión 2 no era una anécdota
 Era el **ejemplo vivo** de que entre el mercado puro y la planificación central hay mucho territorio. Ni empresa puramente capitalista ni propiedad estatal: socios que deciden colectivamente con sus propias reglas de voto y de reparto.
 
 Volved a vuestras notas de aquel día: son material para el dossier.
@@ -80,7 +80,7 @@ Volved a vuestras notas de aquel día: son material para el dossier.
 
 Los países con mayor provisión pública de **cuidado infantil** y **bajas parentales** —rasgo típico de las economías mixtas de tipo nórdico— presentan tasas de **participación laboral femenina más altas**.
 
-::: aviso ⚖️ La pregunta que queda abierta
+::: aviso La pregunta que queda abierta
 ¿Hasta qué punto el **diseño del sistema económico** condiciona la igualdad efectiva? No lo cerramos hoy: es exactamente el tipo de cuestión que puede aparecer en la Cumbre, y la delegación de economía mixta hará bien en tenerlo preparado.
 :::
 
@@ -104,7 +104,7 @@ Son las **tres preguntas de la sesión 1**, planteadas en una situación límite
 
 <table><thead><tr><th width="24%">Subrol</th><th width="76%">Responsabilidad</th></tr></thead><tbody><tr><td><b>Portavoz</b></td><td>Interviene los 2 minutos iniciales y lleva la voz en la negociación.</td></tr><tr><td><b>Secretario/a</b></td><td>Recoge por escrito los acuerdos y los puntos de desacuerdo.</td></tr><tr><td><b>Cartógrafo/a de datos</b></td><td>Responde de que cada afirmación del dossier se apoye en algo trabajado en clase.</td></tr><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y se asegura de que los tres componentes del dossier avanzan.</td></tr></tbody></table>
 
-::: aviso ⚖️ Una revisión explícita
+::: aviso Una revisión explícita
 Al repartir los subroles, **revisad que no se repitan patrones estereotipados por género** acumulados en sesiones anteriores. Es una comprobación que pide el propio diseño de la unidad, y conviene hacerla en voz alta.
 :::
 
@@ -122,7 +122,7 @@ Y es, con diferencia, el sistema más extendido en el mundo real.
 
 ### 3. El cooperativismo agrario andaluz
 
-::: nota 🌾 La forma intermedia que teníais al lado
+::: nota La forma intermedia que teníais al lado
 El cooperativismo agrario tiene en Andalucía una **tradición histórica propia** y está muy presente en el sector oleícola y hortofrutícola. Es una forma real de organización económica **intermedia**: ni empresa puramente capitalista ni propiedad estatal.
 
 La charla de la sesión 2 no era una anécdota local: era el ejemplo vivo de que entre el mercado puro y la planificación central hay mucho territorio, y de que ese territorio está habitado.

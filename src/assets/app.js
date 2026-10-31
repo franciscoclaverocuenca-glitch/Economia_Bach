@@ -499,7 +499,7 @@
       const inputs = $$('input[type=range]', el);
       const [iDd, iDo, iPend, iTope] = inputs;
       const linea = (pts, attrs) => svgEl('polyline', { points: pts.map(([q, p]) => `${X(q)},${Y(p)}`).join(' '), fill: 'none', ...attrs }, g);
-      const texto = (x, y, t, attrs = {}) => { const e = svgEl('text', { x, y, 'font-size': 12, 'font-family': 'Source Sans 3, sans-serif', ...attrs }, g); e.textContent = t; return e; };
+      const texto = (x, y, t, attrs = {}) => { const e = svgEl('text', { x, y, 'font-size': 12, 'font-family': 'system-ui, sans-serif', ...attrs }, g); e.textContent = t; return e; };
       const curva = (fQ) => { const pts = []; for (let p = 0; p <= PMAX; p += PMAX / 40) { const q = fQ(p); if (q >= 0 && q <= QMAX) pts.push([q, p]); } return pts; };
       function equilibrio(a, b, c, d) { const p = (a - c) / (b + d); return { p, q: a - b * p }; }
       const e0 = equilibrio(base.a, base.b, base.c, base.d);
@@ -537,7 +537,7 @@
           svgEl('circle', { cx: X(e.q), cy: Y(e.p), r: 6, fill: '#0F2C3D' }, g);
           $('[data-o="p"]', el).textContent = `${fmt(e.p)} ${u}`;
           $('[data-o="q"]', el).textContent = `${fmt(e.q, 1)}`;
-          $('[data-o="g"]', el).textContent = `${fmt(e.p * e.q, 0)} ${u}`;
+          $('[data-o="g"]', el).textContent = `${fmt(e.p * e.q, 0)}${cfg.unidad_gasto ? ' ' + cfg.unidad_gasto : ''}`;
           const elas = (b * e.p) / e.q;
           $('[data-o="e"]', el).textContent = `${fmt(elas)} · ${elas > 1 ? 'elástica' : elas < 1 ? 'inelástica' : 'unitaria'}`;
           const dp = e.p - e0.p, dq = e.q - e0.q;

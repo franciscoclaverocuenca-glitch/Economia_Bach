@@ -12,7 +12,7 @@ Al terminar el examen, completa la ficha. Es un instrumento evaluable (**Auto.Ev
 
 <table><thead><tr><th width="66%">Pregunta del termómetro</th><th width="17%">Sesión 1</th><th width="17%">Hoy</th></tr></thead><tbody><tr><td>¿Sabrías explicar qué es un monopolio?</td><td></td><td></td></tr><tr><td>¿Y qué es un cártel?</td><td></td><td></td></tr><tr><td>¿Por qué una marca puede cobrar más que su equivalente blanco?</td><td></td><td></td></tr><tr><td>¿Quién vigila que las empresas no pacten precios?</td><td></td><td></td></tr><tr><td>¿Qué es una externalidad?</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🌡️ El contraste entre las dos columnas
+::: nota El contraste entre las dos columnas
 Es la medida más directa y honesta de lo que has aprendido en nueve sesiones. Mucho más que cualquier nota.
 
 ```actividad

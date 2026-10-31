@@ -249,7 +249,7 @@ export function renderActividad(d, ctx, md) {
     : `<button type="button" class="boton act-corregir">Corregir</button><button type="button" class="boton-sec act-reiniciar" hidden>Volver a intentarlo</button>`;
 
   const aviso = d.revisar && ctx.modo !== 'scorm'
-    ? '<p class="act-revisar solo-docente">⚑ Clave de respuestas propuesta en la migración: revísala y quita <code>revisar: true</code>.</p>'
+    ? '<p class="act-revisar solo-docente">Pendiente: clave de respuestas propuesta en la migración: revísala y quita <code>revisar: true</code>.</p>'
     : '';
 
   return (

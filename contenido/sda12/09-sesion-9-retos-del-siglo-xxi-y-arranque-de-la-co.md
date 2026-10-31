@@ -25,7 +25,7 @@ titulo: Sesión 9 · Retos del siglo XXI y arranque de la Comisión
 - Un impuesto verde es eficaz y a la vez regresivo. ¿Cómo se resuelve eso?
 - ¿Qué reto de los cuatro afecta más directamente a Andalucía?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dossier de los cuatro retos**, uno por comisión, con 3-4 fuentes de partida ya localizadas.
 - **Plantilla del Dictamen** impresa o en Moodle, con los seis apartados del guion común.
 - **Tarjetas de subrol** (Coordinador/a, Documentalista, Analista de datos, Redactor/a-Portavoz).
@@ -37,11 +37,11 @@ titulo: Sesión 9 · Retos del siglo XXI y arranque de la Comisión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La elección del reto y del subrol dentro de la comisión permite a cada persona vincular la tarea a sus propios intereses y fortalezas, manteniendo la exigencia común.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Si el grupo es numeroso, pueden constituirse dos comisiones por reto y contrastar en la sesión 11 dos dictámenes distintos sobre el mismo desafío, lo que enriquece la coevaluación.
 :::
 
@@ -75,7 +75,7 @@ sda12-s09-07.webp | Fuentes
 
 ### Los cuatro criterios de calidad
 
-::: aviso 🎯 Esto es lo que separa un notable de un aprobado
+::: aviso Esto es lo que separa un notable de un aprobado
 1. Al menos **un dato oficial** citado con su fuente. No vale «se estima que».
 2. Una **estimación cuantitativa propia**: recaudación esperada, coste o población afectada.
 3. Una **valoración honesta de los inconvenientes** de vuestra propia propuesta.

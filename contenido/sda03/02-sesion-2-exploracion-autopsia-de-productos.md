@@ -37,7 +37,7 @@ El **historial de versiones** de la hoja compartida documenta quién introdujo q
 - ¿Hay algún país que aparezca mucho como fabricante y poco como sede?
 - ¿Estos datos están depurados, o hay el mismo país escrito de tres maneras?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Ficha de recogida domiciliaria**, repartida **en la sesión anterior**: cinco productos por estudiante con cinco campos cada uno.
 - **Hoja de cálculo compartida** creada y proyectada, con las columnas ya definidas y permisos de edición para toda la clase.
 - **Dispositivos con conexión** por grupo base.
@@ -50,7 +50,7 @@ El **historial de versiones** de la hoja compartida documenta quién introdujo q
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los productos analizados son los de la propia casa del alumnado, lo que convierte un contenido abstracto sobre comercio internacional en un inventario personal.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El recuento agregado hace visible un patrón que ningún caso individual muestra: la cadena de valor global emerge de los datos antes de nombrarse.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -79,7 +79,7 @@ expl-sda03-06.webp | El cierre
 
 <table><thead><tr><th width="5%"></th><th width="17%">Categoría</th><th width="17%">Marca</th><th width="21%">Empresa matriz</th><th width="20%">País de fabricación</th><th width="20%">País de la sede</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🔎 Los tres últimos campos son el trabajo
+::: aviso Los tres últimos campos son el trabajo
 La categoría y la marca están en el producto. La **empresa matriz**, el **país de fabricación** y el **país de la sede** hay que buscarlos. Ahí es donde empiezan las sorpresas.
 :::
 
@@ -87,7 +87,7 @@ La categoría y la marca están en el producto. La **empresa matriz**, el **paí
 
 <table><thead><tr><th width="6%"></th><th width="94%">Antes de dar un dato por bueno</th></tr></thead><tbody><tr><td>1</td><td>¿Está el mismo país escrito de varias maneras? Unificadlo.</td></tr><tr><td>2</td><td>¿Hay categorías mal puestas? Corregidlas.</td></tr><tr><td>3</td><td>¿Falta algún campo? Complétalo o márcalo como desconocido, pero no lo inventes.</td></tr></tbody></table>
 
-::: nota 🧹 Depurar es parte de la tarea
+::: nota Depurar es parte de la tarea
 Un recuento sobre datos sucios no dice nada. Y el historial de versiones de la hoja registra quién introdujo qué y quién corrigió qué: el trabajo de depuración se ve y cuenta.
 :::
 
@@ -99,7 +99,7 @@ Un recuento sobre datos sucios no dice nada. Y el historial de versiones de la h
 
 <table><thead><tr><th width="28%"></th><th width="72%">Qué escribes</th></tr></thead><tbody><tr><td><b>Tu conclusión personal</b></td><td>Qué te ha enseñado el recuento de toda la clase que tu lista de cinco productos no te decía.</td></tr><tr><td><b>Tu pregunta pendiente</b></td><td>Algo que estos datos te han hecho preguntarte.</td></tr></tbody></table>
 
-::: nota 📋 Se corrige con la rúbrica del criterio 1.1
+::: nota Se corrige con la rúbrica del criterio 1.1
 La ficha domiciliaria acredita el trabajo previo. La conclusión, redactada en clase, es **evidencia individual limpia** dentro de una tarea cooperativa.
 :::
 
@@ -115,7 +115,7 @@ Pero el hallazgo no es cuántos países hay. Es que **el país de la marca y el 
 
 <table><thead><tr><th width="22%"></th><th width="39%">País de la sede</th><th width="39%">País de fabricación</th></tr></thead><tbody><tr><td><b>Qué indica</b></td><td>Dónde está la empresa que diseña, decide y cobra la marca</td><td>Dónde se ensambla materialmente el producto</td></tr><tr><td><b>Qué fase concentra</b></td><td>Diseño, ingeniería, marca y estrategia</td><td>Ensamblaje y manufactura</td></tr><tr><td><b>Cuánto valor retiene</b></td><td>Mucho</td><td>Poco, aunque emplee a más gente</td></tr></tbody></table>
 
-::: nota 🌍 Ese patrón tiene nombre
+::: nota Ese patrón tiene nombre
 Se llama **cadena de valor global**, y lo vais a estudiar formalmente en la sesión 7 con el ejemplo del móvil. Hoy lo habéis descubierto vosotros a partir de vuestros propios armarios, que es la mejor forma de encontrárselo.
 :::
 

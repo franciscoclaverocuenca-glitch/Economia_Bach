@@ -31,7 +31,7 @@ Tras cada ronda, la misma pregunta guía: **«¿qué ha cambiado exactamente par
 - Si fueron los supermercados, ¿por qué lo bajaron después sin que nadie les obligara?
 - Si ellas sostienen el mostrador, ¿por qué no ocupan los despachos donde se deciden los precios?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Un bien subastable real y deseable**: por ejemplo, dos paquetes idénticos de 6 barritas de cereales. **Comprueba previamente alergias e intolerancias del alumnado.**
 - **Dos o tres tickets de compra reales** —o capturas de folletos o noticias verificables— del mismo aceite de oliva virgen extra en años distintos. Deben ser verificables: es una unidad sobre leer datos con rigor.
 - **Rincón de pizarra o mural digital** reservado para las hipótesis, que permanecerá visible hasta la sesión 4.
@@ -43,7 +43,7 @@ Tras cada ronda, la misma pregunta guía: **«¿qué ha cambiado exactamente par
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La subasta es una experiencia física, competitiva y con un bien real deseable: engancha sin exigir ningún conocimiento previo y permite participar a todo el mundo desde el primer minuto.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>Las hipótesis sobre el precio del aceite se anotan sin corregir y se recuperan tres sesiones después: el alumnado ve su propio punto de partida y comprueba, con datos, cuáles resistieron.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El mini-debate es por parejas y de un minuto: una exposición breve y acotada, mucho más asumible que intervenir ante el gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La subasta de viva voz es la actividad de mayor riesgo acústico de la unidad, con pujas rápidas y simultáneas. Sitúa a este alumno/a en primera fila y de frente, **repite en voz alta y anota en la pizarra cada puja** conforme se produzca, y ten preparada la opción de que participe mediante tarjetas escritas si prefiere no pujar oralmente.
 :::
 
@@ -75,7 +75,7 @@ sda5-s01-09.webp | Cierre transversal
 
 <table><thead><tr><th width="26%">Ronda</th><th width="38%">Qué cambia</th><th width="18%">Precio de cierre</th><th width="18%">¿Cuánta gente pujó?</th></tr></thead><tbody><tr><td>1 · Un solo paquete</td><td>Nada. Punto de partida.</td><td></td><td></td></tr><tr><td>2 · Dos paquetes</td><td>Hay el DOBLE de cantidad disponible.</td><td></td><td></td></tr><tr><td>3 · Se puede compartir</td><td>Quien gane podrá compartirlo con su grupo en el recreo.</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔨 La pregunta después de cada ronda
+::: nota La pregunta después de cada ronda
 «**¿Qué ha cambiado exactamente para que cambie el precio, si el producto es el mismo?**» Anotad vuestra respuesta antes de escuchar la de nadie.
 :::
 
@@ -87,7 +87,7 @@ El litro de aceite de oliva virgen extra costaba unos 4 € antes de 2022, super
 
 <table><thead><tr><th width="34%">Hipótesis habitual</th><th width="66%">¿La defendéis? ¿Con qué argumento?</th></tr></thead><tbody><tr><td>¿Fue el Gobierno?</td><td></td></tr><tr><td>¿Fueron los supermercados?</td><td></td></tr><tr><td>¿Fue «la avaricia»?</td><td></td></tr><tr><td>¿Fue la sequía?</td><td></td></tr><tr><td>Otra:</td><td></td></tr></tbody></table>
 
-::: aviso 🔍 No os vamos a dar la respuesta hoy
+::: aviso No os vamos a dar la respuesta hoy
 Vuestras hipótesis se quedan anotadas en la pizarra. Volveremos sobre ellas en la **sesión 4**, cuando ya tengáis el modelo de oferta y demanda para juzgarlas con datos oficiales. Entonces veremos cuáles resisten el contraste.
 :::
 
@@ -103,7 +103,7 @@ Anótala. La retomamos mañana en la charla, y de nuevo al repartir los roles de
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -116,7 +116,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -153,7 +153,7 @@ Las cuatro hipótesis que suelen aparecer son razonables, y por eso conviene tom
 
 <table><thead><tr><th width="24%">Hipótesis</th><th width="76%">Qué habría que comprobar para sostenerla</th></tr></thead><tbody><tr><td><b>El Gobierno</b></td><td>¿Fijó algún precio? ¿Existe alguna norma que lo regule? Si no, la hipótesis no se sostiene.</td></tr><tr><td><b>Los supermercados</b></td><td>Si el precio lo decidieron ellos, habría que explicar por qué lo bajaron después sin que nadie les obligara.</td></tr><tr><td><b>La avaricia</b></td><td>La avaricia, si existe, es más o menos constante en el tiempo. ¿Explica una subida seguida de una bajada?</td></tr><tr><td><b>La sequía</b></td><td>Habría que comprobar si hubo dos campañas de cosecha mínima, y si las fechas coinciden con la subida de precios.</td></tr></tbody></table>
 
-::: nota ⚖️ El compromiso de esta unidad
+::: nota El compromiso de esta unidad
 No os vamos a decir cuál es la buena. En la **sesión 4** tendréis el modelo y los **datos oficiales** —de POOLred, en Jaén, y del Observatorio de Precios y Mercados de la Junta— para juzgarlo vosotros. El veredicto lo dictarán los datos, no el profesorado.
 :::
 

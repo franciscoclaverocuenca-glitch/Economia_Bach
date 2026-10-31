@@ -31,7 +31,7 @@ Constituye los **cuatro roles fijos**. Dedícale tiempo: no rotan durante trece 
 - ¿Quién puede salir beneficiado con esta noticia y quién perjudicado?
 - ¿Se puede crecer para siempre?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dos fotografías reales contrastadas**: la fachada de un centro de operaciones tecnológicas en el centro de Málaga y un camión de aceituna entrando en una almazara de la campiña. Proyectables juntas.
 - **Los datos que las conectan**, verificados y actualizados: personas trabajadoras, empresas, facturación y peso sobre el PIB de la ciudad del **Málaga TechPark**; y exportaciones andaluzas no energéticas del último ejercicio.
 - **Cuestionario diagnóstico de 6 preguntas**, en papel o digital. **Consérvalo**: se recupera en la sesión 13.
@@ -43,7 +43,7 @@ Constituye los **cuatro roles fijos**. Dedícale tiempo: no rotan durante trece 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida son dos imágenes de la propia ciudad, reconocibles para todo el alumnado, que no exigen ningún conocimiento previo para participar en la conversación inicial.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El cuestionario diagnóstico se responde sin corrección y se recupera doce sesiones después: el alumnado ve su propio punto de partida y puede medir con precisión lo que ha aprendido.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La conversación inicial es en parejas y de tres minutos, un formato mucho más asumible que intervenir de entrada ante el gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -81,7 +81,7 @@ Seis preguntas. Individual, y **sin corrección**. No es un examen: es la foto d
 
 <table><thead><tr><th width="5%"></th><th width="55%">Pregunta</th><th width="40%">Mi respuesta hoy</th></tr></thead><tbody><tr><td>1</td><td>¿Qué es la globalización?</td><td></td></tr><tr><td>2</td><td>¿Qué es un arancel?</td><td></td></tr><tr><td>3</td><td>¿Qué es la Unión Europea para la economía española?</td><td></td></tr><tr><td>4</td><td>¿Conoces algún producto andaluz que se exporte?</td><td></td></tr><tr><td>5</td><td>¿Has oído hablar de los ODS?</td><td></td></tr><tr><td>6</td><td>¿Se puede crecer para siempre?</td><td></td></tr></tbody></table>
 
-::: nota 📋 Se guarda hasta la sesión 13
+::: nota Se guarda hasta la sesión 13
 Ese día vas a releer lo que has escrito hoy y a responder de nuevo. El contraste entre las dos columnas es la medida más honesta de lo que habrás aprendido.
 :::
 
@@ -95,7 +95,7 @@ En la sesión 12 vuestro grupo publicará y presentará una campaña de sensibil
 - Una **infografía** con datos reales y verificables.
 - Y una **propuesta concreta** vinculada a uno o varios ODS.
 
-::: aviso 🎧 El ejemplo-modelo
+::: aviso El ejemplo-modelo
 Se muestra **uno solo**, ya resuelto y ajeno a los retos que vais a elegir: un podcast de 4 minutos titulado «*Lo que la etiqueta no dice*», que explica por qué un móvil barato puede salir caro al planeta, con una infografía del ciclo de vida de un smartphone y una propuesta ligada al ODS 12 para el propio instituto.
 :::
 
@@ -103,7 +103,7 @@ Se muestra **uno solo**, ya resuelto y ajeno a los retos que vais a elegir: un p
 
 <table><thead><tr><th width="28%">Rol</th><th width="72%">Qué hace</th></tr></thead><tbody><tr><td><b>COORDINADOR/A</b></td><td>Gestiona el tiempo y las tareas. Vela por que las tres piezas cuenten una única historia coherente.</td></tr><tr><td><b>DOCUMENTALISTA</b></td><td>Registra fuentes y datos, y los traduce en la infografía.</td></tr><tr><td><b>PORTAVOZ</b></td><td>Interviene en los debates y protagoniza la grabación del podcast.</td></tr><tr><td><b>GUARDIÁN/A DEL DATO</b></td><td>Verifica que <b>cada</b> afirmación se apoye en una fuente real.</td></tr></tbody></table>
 
-::: nota 👥 No rotan
+::: nota No rotan
 Son los mismos durante las **trece sesiones**. Repartidlos con cuidado: un reparto mal hecho hoy se arrastra hasta el final.
 :::
 
@@ -111,7 +111,7 @@ Son los mismos durante las **trece sesiones**. Repartidlos con cuidado: un repar
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -124,7 +124,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -164,7 +164,7 @@ A esa conexión creciente entre las economías de todo el planeta —de mercanc�
 
 ### 3. La cuestión pendiente
 
-::: aviso 📌 Anótala en el margen de tu libreta
+::: aviso Anótala en el margen de tu libreta
 Ante el titular sobre comercio internacional que acabas de leer: **«¿quién puede salir beneficiado y quién perjudicado?»**
 
 No la respondemos hoy. La retomamos en la **sesión 4**, con los datos reales de los aranceles encima de la mesa. Entonces tendrás herramientas para responderla en serio.

@@ -31,7 +31,7 @@ Redacción individual de tres líneas: «un ejemplo de intervención del Estado 
 - ¿Por qué la sanidad pública se provee públicamente aunque podría venderse en el mercado?
 - ¿Qué fallo de mercado corrige la regulación ambiental?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de 8 bienes y servicios reales**: un iPhone, el alumbrado público de una calle, un concierto con entrada, el agua de riego de una comunidad de regantes, la sanidad pública, un parque, la pesca en alta mar y la señal de una emisora de radio.
 - **Plantilla de clasificación** con las dos preguntas —excluibilidad y rivalidad— y los cuatro tipos resultantes.
 - **Ejemplo del Servicio Andaluz de Salud** como bien preferente provisto públicamente.
@@ -43,7 +43,7 @@ Redacción individual de tres líneas: «un ejemplo de intervención del Estado 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>La clasificación se construye sobre dos preguntas binarias y observables, y el resultado se presenta en una matriz de dos por dos, de modo que el criterio sea verificable y no dependa de recordar cuatro definiciones.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El cierre pide un ejemplo de la propia vida cotidiana, lo que ancla un contenido teórico en la experiencia personal de cada alumno.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -76,7 +76,7 @@ sda2-s07-06.webp | El SAS y las externalidades
 
 <table><thead><tr><th width="5%"></th><th width="47%">Bien o servicio</th><th width="16%">¿Excluible?</th><th width="16%">¿Rival?</th><th width="16%">Tipo</th></tr></thead><tbody><tr><td>1</td><td>Un iPhone</td><td></td><td></td><td></td></tr><tr><td>2</td><td>El alumbrado público de una calle</td><td></td><td></td><td></td></tr><tr><td>3</td><td>Un concierto con entrada</td><td></td><td></td><td></td></tr><tr><td>4</td><td>El agua de riego de una comunidad de regantes</td><td></td><td></td><td></td></tr><tr><td>5</td><td>La sanidad pública</td><td></td><td></td><td></td></tr><tr><td>6</td><td>Un parque</td><td></td><td></td><td></td></tr><tr><td>7</td><td>La pesca en alta mar</td><td></td><td></td><td></td></tr><tr><td>8</td><td>La señal de una emisora de radio</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🐟 El número 4 os suena
+::: aviso El número 4 os suena
 El agua de riego de una comunidad de regantes es el mismo tipo de bien que **los peces del arrecife** de la Isla Utopía, que clasificasteis en la SdA 1. Un **bien común**: nadie puede ser excluido fácilmente, pero lo que usa uno no lo usa otro. Por eso tiende a sobreexplotarse si no hay reglas.
 :::
 
@@ -86,7 +86,7 @@ El agua de riego de una comunidad de regantes es el mismo tipo de bien que **los
 
 Que **nadie pagaría**. Porque no se puede impedir que lo disfrute quien no paga: la luz de la farola cae sobre todos por igual.
 
-::: nota 🚏 Free-rider: el polizón
+::: nota Free-rider: el polizón
 Si puedo disfrutarlo sin pagar, ¿por qué voy a pagar? Y si todos razonan así, el bien **no se produce**, aunque todos lo quieran.
 
 De ahí la conclusión importante: el mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad.
@@ -96,7 +96,7 @@ De ahí la conclusión importante: el mercado no provee bien los bienes público
 
 <table><thead><tr><th width="24%">Justificación</th><th width="50%">En qué consiste</th><th width="26%">El ejemplo</th></tr></thead><tbody><tr><td><b>Bienes preferentes</b></td><td>Se proveen públicamente para garantizar el acceso <b>independientemente de la capacidad de pago</b>. No porque el mercado no pudiera venderlos, sino porque se considera que no deben depender de la renta.</td><td>El <b>Servicio Andaluz de Salud</b></td></tr><tr><td><b>Externalidades ambientales</b></td><td>Costes que recaen sobre terceros que no participaron en la transacción: contaminación, sobreexplotación de recursos comunes.</td><td>La regulación ambiental, y el <b>ODS 12</b>: producción y consumo responsables</td></tr></tbody></table>
 
-::: aviso 🌍 Y esto conecta con la SdA 1
+::: aviso Y esto conecta con la SdA 1
 Un recurso común sin reglas tiende a sobreexplotarse. Es exactamente lo que visteis con los peces del arrecife y con **Elinor Ostrom**: cuando nadie puede ser excluido pero el recurso se agota al usarlo, hacen falta reglas colectivas o el recurso desaparece.
 :::
 
@@ -118,7 +118,7 @@ Que sea de verdad cotidiano: algo que hayas visto esta semana.
 
 ### 3. El problema del polizón
 
-::: nota 🚏 Por qué el mercado no puede con los bienes públicos
+::: nota Por qué el mercado no puede con los bienes públicos
 Si el alumbrado se vendiera solo a quien lo pagase, **nadie pagaría**: no hay forma de impedir que lo disfrute quien no paga. Y si todos razonan así, el bien no se produce aunque todos lo quieran.
 
 A eso se le llama **problema del polizón** (*free-rider*). Y la conclusión es importante: el mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad ni de ideología.
@@ -130,7 +130,7 @@ A eso se le llama **problema del polizón** (*free-rider*). Y la conclusión es 
 
 **Las externalidades.** Son costes o beneficios que recaen sobre terceros que no participaron en la transacción. La contaminación es el caso clásico: una empresa y un cliente cierran un trato voluntario y beneficioso para ambos, y el coste ambiental lo paga todo el mundo. Ahí aparece el **ODS 12**, sobre producción y consumo responsables.
 
-::: aviso 🐟 Y la conexión con la SdA 1
+::: aviso Y la conexión con la SdA 1
 Un **recurso común** sin reglas tiende a sobreexplotarse: nadie puede ser excluido, pero el recurso se agota al usarlo. Es exactamente el caso de los **peces del arrecife** de la Isla Utopía, y el trabajo por el que Elinor Ostrom recibió el Premio en Ciencias Económicas. Sin reglas colectivas, el recurso desaparece.
 :::
 

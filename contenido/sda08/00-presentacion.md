@@ -10,13 +10,13 @@ Cada sesión de la SdA 8 es una página de este material. Dentro de cada página
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ Dos avisos sobre la arquitectura de esta unidad
+::: aviso Dos avisos sobre la arquitectura de esta unidad
 **Es la versión rediseñada (rev. B, julio de 2026).** Mantiene el rediseño de 11 a 9 sesiones —se fusionaron las antiguas 3+4 en la actual sesión 3 y las antiguas 5+6 en la actual sesión 4— e incorpora la evaluación parcial del criterio 3.2 sin añadir ninguna sesión: redistribuye unos 20 minutos dentro de las sesiones 3, 7 y 9 y reformula, sin coste temporal, actividades ya existentes en las sesiones 4, 6 y 8.
 
 **Las sesiones 3 y 4 duran 55 minutos** y son las más densas del itinerario. Si tu grupo va justo, se señala qué se comprime y qué no: el cálculo de Economilandia por las tres vías **no se recorta** —el momento de la triple coincidencia es el núcleo de la sesión 3— y las cuatro estaciones de la sesión 4 se mantienen íntegras.
 :::
 
-::: nota 📐 El criterio 3.2 se evalúa aquí de forma PARCIAL
+::: nota El criterio 3.2 se evalúa aquí de forma PARCIAL
 Esta unidad evalúa dos de las tres operaciones del criterio 3.2: diferenciar los costes y beneficios que el flujo circular genera para cada agente, y determinar su repercusión sobre el desarrollo económico y el bienestar social. La tercera —establecer las relaciones entre agentes mediante el modelo de demanda y oferta agregadas— **no se trabaja ni se exige aquí**: es el núcleo de la SdA 9.
 
 En consecuencia, la rúbrica del criterio se aplica aquí de forma restringida y la calificación resultante es **provisional**: la SdA 9 aplica la rúbrica íntegra y su nota sustituye a esta sin promediarse. La ficha de autoevaluación de la sesión 9 advierte de ello al alumnado, y así se convierte en la explicación práctica de qué significa que la evaluación sea continua.
@@ -49,13 +49,13 @@ Vuestro grupo será una **delegación técnica**. Recibiréis el expediente de u
 
 <table><thead><tr><th width="22%">Pieza</th><th width="48%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Informe país</b></td><td>Tabla comparativa de siete indicadores con fuentes y años citados, gráfico de elaboración propia, diagnóstico razonado de «qué cuenta el PIB de este país y qué esconde», tres propuestas de desarrollo con su coste de oportunidad explícito y una matriz de ganadores y perdedores por agente económico.</td><td>Instrumento R (valoración del producto), con las rúbricas de 3.1, 3.3 y 3.2</td></tr><tr><td><b>2. Defensa en la Cumbre</b></td><td>Cuatro o cinco minutos con dos obligaciones formales: que intervengan al menos dos miembros y que el gráfico se use como soporte real de la argumentación. Después, dos preguntas cruzadas de otras delegaciones y una réplica de quince segundos.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
-::: nota 🎯 La pregunta motriz tiene DOS mitades
+::: nota La pregunta motriz tiene DOS mitades
 «Crecimiento, ¿a qué precio?» · «¿y para quién?»
 
 La primera mitad organiza el trabajo con indicadores de las sesiones 3 a 5. La segunda, el análisis de agentes que se levanta en la sesión 3 y culmina en la matriz del informe. **Ninguna delegación podrá cerrar su defensa sin responder a las dos.**
 :::
 
-::: aviso 🧠 Por qué esto no lo puede hacer una IA por ti
+::: aviso Por qué esto no lo puede hacer una IA por ti
 Los expedientes llegan **en papel y curados**, el gráfico se construye en el aula, y la pregunta cruzada fija exige responder en directo quién paga y quién gana con vuestras propias propuestas, con una réplica de quince segundos que puede señalar un agente olvidado. Ese intercambio no se prepara de antemano: exige comprensión real del reparto.
 :::
 
@@ -69,7 +69,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

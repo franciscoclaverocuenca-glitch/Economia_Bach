@@ -27,7 +27,7 @@ titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 - ¿Qué se sacrifica al elegir vuestra primera propuesta?
 - De vuestras tres propuestas, ¿cuál reparte los costes de forma más desigual?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Expedientes país impresos y curados** por el docente: Noruega, Catar, Costa Rica, Vietnam, Chile y Nigeria, con tablas oficiales del Banco Mundial, el PNUD y Naciones Unidas. Más la **ficha equivalente de España** y un **dato del IECA o del INE** como tercer término andaluz.
 - **Hoja de cálculo o papel milimetrado**: las dos opciones son plenamente válidas como alternativa DUA.
 - **Plantilla de la matriz de ganadores y perdedores**, con las filas ya rotuladas (familias, empresas, Sector Público y, opcionalmente, sector exterior), **una primera fila resuelta a modo de ejemplo** sobre una propuesta genérica ajena a todos los expedientes —una subida del salario mínimo— y las dos preguntas de síntesis al pie.
@@ -40,11 +40,11 @@ titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El gráfico admite hoja de cálculo o papel milimetrado como opciones equivalentes, y la matriz admite formato alternativo de esquema de flechas o de listado por agente para quien lo prefiera, sin rebajar la exigencia del contenido.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El informe se estructura en cuatro fases con tiempos explícitos, la matriz incluye una fila resuelta a modo de ejemplo disponible para todo el grupo sin señalar a nadie, y el control de calidad intermedio devuelve como máximo dos indicaciones para que sean accionables.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega por escrito las dos indicaciones del control de calidad además de darlas oralmente. Y si este alumno/a va a intervenir en la Cumbre, garantiza que su parte está escrita y ensayada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La revisión de julio de 2026 añade la **Fase 4** (matriz de ganadores y perdedores, 8 minutos), que es el entregable escrito principal del criterio 3.2. Para alojarla sin ampliar la sesión, las tres fases previas se comprimen ligeramente. La compresión es asumible porque la matriz **reutiliza íntegramente** las tres propuestas que el grupo acaba de redactar: no exige investigación nueva.
 :::
 
@@ -74,7 +74,7 @@ sda8-s07-07.webp | El control de calidad
 
 <table><thead><tr><th width="6%"></th><th width="94%">Indicador</th></tr></thead><tbody><tr><td>1</td><td>PIB per cápita en paridad de poder adquisitivo</td></tr><tr><td>2</td><td>Tasa de crecimiento</td></tr><tr><td>3</td><td>IDH y sus tres dimensiones</td></tr><tr><td>4</td><td>Índice de Gini</td></tr><tr><td>5</td><td>Emisiones de CO₂ per cápita</td></tr><tr><td>6</td><td>El <b>indicador libre</b> del grupo, elegido del mural de la sesión 5 y justificado en dos líneas</td></tr><tr><td>7</td><td>El dato andaluz del IECA o del INE</td></tr></tbody></table>
 
-::: aviso ⚖️ El coste de oportunidad no es un adorno
+::: aviso El coste de oportunidad no es un adorno
 Cada propuesta debe explicitar **qué se sacrifica al elegirla**. Es el concepto vertebrador de la SdA 1 y aquí se aplica de verdad: una propuesta sin coste declarado es una propuesta que no se ha pensado.
 :::
 
@@ -86,7 +86,7 @@ La plantilla tiene las filas ya rotuladas y tres columnas, una por cada propuest
 
 <table><thead><tr><th width="28%">Agente</th><th width="24%">Propuesta 1</th><th width="24%">Propuesta 2</th><th width="24%">Propuesta 3</th></tr></thead><tbody><tr><td><b>Familias</b></td><td></td><td></td><td></td></tr><tr><td><b>Empresas</b></td><td></td><td></td><td></td></tr><tr><td><b>Sector Público</b></td><td></td><td></td><td></td></tr><tr><td><b>Sector exterior</b> (opcional)</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🗂️ No se pide investigación nueva
+::: nota No se pide investigación nueva
 Se pide **releer vuestras propias propuestas** con el tarjetero de agentes delante. La plantilla trae además una primera fila resuelta a modo de ejemplo, sobre una propuesta genérica ajena a todos los expedientes. Y admite formato de esquema de flechas o de listado por agente si lo preferís.
 :::
 
@@ -96,7 +96,7 @@ Aquí está lo que separa una matriz rellena de una matriz útil. Dos líneas ca
 
 <table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>«De vuestras tres propuestas, <b>¿cuál reparte los costes de forma más desigual</b>, y sobre qué agente recaen?»</td></tr><tr><td>2</td><td>«¿<b>Mejora esa propuesta el desarrollo y el bienestar del país en su conjunto</b>, o solo el de alguno de sus agentes?»</td></tr></tbody></table>
 
-::: aviso ⭐ La segunda pregunta es literalmente el criterio
+::: aviso La segunda pregunta es literalmente el criterio
 Es la tercera operación del criterio 3.2: determinar la repercusión sobre el desarrollo económico y el bienestar social. Y su respuesta **la vais a defender oralmente en la Cumbre**, así que preparadla bien.
 :::
 
@@ -104,13 +104,13 @@ Es la tercera operación del criterio 3.2: determinar la repercusión sobre el d
 
 ### La checklist con la que se revisa vuestro informe
 
-<table><thead><tr><th width="7%">☐</th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Toda cifra tiene fuente y año?</td></tr><tr><td></td><td>¿El gráfico se entiende <b>sin explicación oral</b>?</td></tr><tr><td></td><td>¿El diagnóstico usa al menos <b>tres indicadores distintos</b>?</td></tr><tr><td></td><td>¿Cada propuesta explicita su <b>coste de oportunidad</b>?</td></tr><tr><td></td><td>¿La matriz identifica costes y beneficios para los tres agentes y <b>no deja celdas vacías</b>?</td></tr></tbody></table>
+<table><thead><tr><th width="7%"></th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Toda cifra tiene fuente y año?</td></tr><tr><td></td><td>¿El gráfico se entiende <b>sin explicación oral</b>?</td></tr><tr><td></td><td>¿El diagnóstico usa al menos <b>tres indicadores distintos</b>?</td></tr><tr><td></td><td>¿Cada propuesta explicita su <b>coste de oportunidad</b>?</td></tr><tr><td></td><td>¿La matriz identifica costes y beneficios para los tres agentes y <b>no deja celdas vacías</b>?</td></tr></tbody></table>
 
 ### Encargo de cierre
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué hay que preparar</th></tr></thead><tbody><tr><td>1</td><td>Repartir la defensa de modo que intervengan <b>al menos dos miembros</b> del grupo.</td></tr><tr><td>2</td><td>Revisar que el reparto de subroles <b>no reproduzca patrones estereotipados</b>.</td></tr><tr><td>3</td><td>Preparar específicamente la respuesta a la <b>pregunta cruzada fija de agentes</b>.</td></tr></tbody></table>
 
-::: nota 🎤 La pregunta cruzada fija: os la anunciamos ya
+::: nota La pregunta cruzada fija: os la anunciamos ya
 «**De vuestras propuestas, ¿quién paga y quién gana, y por qué eso mejora (o no) el bienestar del país?**»
 
 Se anuncia con antelación para que ninguna delegación pueda alegar sorpresa. La matriz **no se expone íntegra** en la Cumbre —no cabría en el tiempo—: se reserva como material de respuesta a esta pregunta.

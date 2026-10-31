@@ -31,7 +31,7 @@ Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real: 
 - ¿Por qué creéis que sigue existiendo esa diferencia entre hombres y mujeres?
 - ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas de empresas reales andaluzas y malagueñas**, un lote por equipo. Deben cubrir de verdad los **cuatro criterios**: distintos tamaños (de microempresa a grande), los tres sectores, varias formas jurídicas (incluidas **cooperativas**, muy presentes en Andalucía) y distintos ámbitos de actuación.
 - **Datos del DIRCE (INE) y del IECA** sobre el tejido empresarial andaluz, para contextualizar.
 - **Cuestionario breve de repaso** (tipo test / V-F) sobre objetivos y clasificación.
@@ -43,7 +43,7 @@ Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real: 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro criterios de clasificación funcionan como andamiaje procedimental: convierten una tarea abierta («clasifica estas empresas») en cuatro preguntas cerradas y verificables que se repiten en todas las tarjetas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La coevaluación entre equipos con la regla de justificar con datos y no con opiniones entrena la argumentación basada en evidencia y despersonaliza la discrepancia.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de clasificación e intercambio genera conversación simultánea de todos los equipos. Sitúa a este equipo en la zona más alejada, entrega las tarjetas **impresas** y acuerda una norma de un solo turno de palabra. En la coevaluación, exige que las discrepancias se expongan de una en una y de frente.
 :::
 
@@ -78,7 +78,7 @@ sda4-s04-06.webp | La pregunta abierta
 
 <table><thead><tr><th width="32%">Empresa</th><th width="17%">Tamaño</th><th width="17%">Sector</th><th width="20%">Forma jurídica</th><th width="14%">Ámbito</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔄 La regla de la coevaluación
+::: nota La regla de la coevaluación
 Intercambiad vuestra clasificación con otro equipo y coevaluadla con la escala de dedos. Y cualquier discrepancia se justifica **con datos**, no con opiniones. Si creéis que una empresa está mal clasificada, hay que decir por qué y con qué información.
 
 Ojo a las **cooperativas**: en Andalucía son muchas más de las que solemos imaginar.
@@ -88,7 +88,7 @@ Ojo a las **cooperativas**: en Andalucía son muchas más de las que solemos ima
 
 Los datos disponibles sobre emprendimiento en España muestran una **brecha persistente** entre hombres y mujeres, tanto en la titularidad de empresas como en el acceso a la financiación.
 
-::: aviso 📊 El dato exacto cambia; la pregunta no
+::: aviso El dato exacto cambia; la pregunta no
 El porcentaje concreto hay que consultarlo en la fuente actualizada. Lo que no cambia año a año es la pregunta que viene después.
 :::
 
@@ -96,7 +96,7 @@ El porcentaje concreto hay que consultarlo en la fuente actualizada. Lo que no c
 
 Se anota como **pregunta abierta**. No la respondemos hoy.
 
-::: nota 🔍 Y se recupera en un momento muy concreto
+::: nota Y se recupera en un momento muy concreto
 En la **sesión 8**, exactamente cuando repartáis los roles dentro de vuestro equipo: quién hace el cálculo, quién el diseño visual, quién la portavocía. Ahí veréis si la pregunta era abstracta o no.
 :::
 
@@ -114,7 +114,7 @@ Que un objetivo sea difícil de medir **no lo hace menos real**: la reputación 
 
 <table><thead><tr><th width="20%">Criterio</th><th width="36%">Categorías</th><th width="44%">Por qué importa</th></tr></thead><tbody><tr><td><b>Tamaño</b></td><td>Microempresa, pequeña, mediana, grande</td><td>Condiciona su acceso a financiación, su capacidad de negociación y las obligaciones legales que le aplican</td></tr><tr><td><b>Sector</b></td><td>Primario, secundario, terciario</td><td>Determina su ciclo, su estacionalidad y su exposición a la competencia internacional</td></tr><tr><td><b>Forma jurídica</b></td><td>Autónomo, sociedad limitada, sociedad anónima, cooperativa</td><td>Decide quién responde de las deudas, cómo se tributa y cómo se reparten las decisiones</td></tr><tr><td><b>Ámbito</b></td><td>Local, regional, nacional, internacional</td><td>Marca su mercado potencial y su nivel de competencia</td></tr></tbody></table>
 
-::: nota 🗺️ El tejido empresarial andaluz, en una idea
+::: nota El tejido empresarial andaluz, en una idea
 Está dominado por **microempresas y pequeñas empresas**, con fuerte peso del sector terciario y una presencia de **cooperativas** notablemente superior a la media, especialmente en el ámbito agroalimentario. Esa estructura explica muchas de sus fortalezas y de sus debilidades.
 :::
 
@@ -124,7 +124,7 @@ Está dominado por **microempresas y pequeñas empresas**, con fuerte peso del s
 
 ### 4. Y una pregunta abierta sobre quién emprende
 
-::: aviso 🔍 La brecha de género en el emprendimiento
+::: aviso La brecha de género en el emprendimiento
 Los datos disponibles muestran una brecha persistente entre hombres y mujeres tanto en la **titularidad de empresas** como en el **acceso a la financiación**. El porcentaje exacto conviene consultarlo en la fuente actualizada.
 
 La pregunta que queda abierta es doble: **¿por qué sigue existiendo esa diferencia?** Y **¿qué tendría que cambiar para que no importara el género de quien monta un negocio?** No la respondemos aquí: se recupera en la sesión 8, al repartir los roles dentro de cada equipo.

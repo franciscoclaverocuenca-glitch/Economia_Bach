@@ -31,7 +31,7 @@ Recupera explícitamente los casos frontera **C** y **D** del censo humano de ay
 - ¿Por qué la EPA capta a quien trabaja sin contrato y el paro registrado no?
 - ¿De qué fecha es ese dato y de qué operación estadística sale?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dos titulares reales** referidos al mismo periodo con cifras de paro diferentes: uno construido sobre la EPA y otro sobre el paro registrado.
 - **Aula TIC o dispositivos móviles** suficientes para trabajar por parejas.
 - **Ficha-ruta de navegación** paso a paso por INEbase, la web del SEPE y el Observatorio Argos. **Comprueba las rutas antes de la sesión**: los portales cambian de estructura.
@@ -43,11 +43,11 @@ Recupera explícitamente los casos frontera **C** y **D** del censo humano de ay
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha-ruta descompone la navegación por tres portales oficiales en pasos numerados y verificables, lo que convierte una tarea abierta y potencialmente frustrante en una secuencia manejable.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La diferencia entre encuesta y registro se presenta primero como un enigma concreto (dos titulares contradictorios) y solo después se formaliza, de modo que la explicación llegue cuando ya existe una pregunta que responder.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La conexión con **Antropología y Sociología** (criterios AYSO 2.3 y 2.5, saberes AYSO.1.B.3, B.5 y B.9) es una propuesta pendiente de confirmar oferta de la materia y matrícula común. Si se confirma, la ficha de datos de esta sesión puede recogerse allí como evidencia propia sin repetir la actividad.
 :::
 
@@ -81,7 +81,7 @@ sda7-s04-09.webp | Cierre
 
 <table><thead><tr><th width="18%"></th><th width="41%">La EPA (INE)</th><th width="41%">El paro registrado (SEPE)</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Una <b>encuesta</b> trimestral a una muestra amplia de hogares</td><td>Un <b>registro administrativo</b> mensual</td></tr><tr><td><b>A quién ve</b></td><td>También a quien trabaja sin contrato o busca sin estar inscrito</td><td>Solo a quien se inscribe en las oficinas públicas</td></tr><tr><td><b>Comparabilidad</b></td><td>Homologada por Eurostat y la OIT: comparable internacionalmente</td><td>No comparable con otros países</td></tr><tr><td><b>Detalle y rapidez</b></td><td>Trimestral, sin detalle municipal</td><td>Mensual y con detalle municipal: se publica antes</td></tr></tbody></table>
 
-::: nota 📍 Y una tercera fuente, la vuestra
+::: nota Y una tercera fuente, la vuestra
 El **Observatorio Argos** del Servicio Andaluz de Empleo es el sistema andaluz de prospección del mercado de trabajo: permite bajar a datos provinciales y municipales y a los perfiles más contratados en Andalucía. Es el que localiza vuestro análisis en Málaga.
 :::
 
@@ -93,7 +93,7 @@ El **Observatorio Argos** del Servicio Andaluz de Empleo es el sistema andaluz d
 
 <table><thead><tr><th width="32%">Elemento</th><th width="68%">Ejemplo</th></tr></thead><tbody><tr><td><b>Fuente</b></td><td>Instituto Nacional de Estadística (INE)</td></tr><tr><td><b>Operación estadística</b></td><td>Encuesta de Población Activa (EPA)</td></tr><tr><td><b>Periodo de referencia</b></td><td>Cuarto trimestre de 2025</td></tr><tr><td><b>Fecha de consulta</b></td><td>Consultado el 12 de febrero de 2026</td></tr></tbody></table>
 
-::: aviso 📋 Sin los cuatro, el dato no vale
+::: aviso Sin los cuatro, el dato no vale
 Y en el careo del Festival os van a preguntar exactamente por ellos: «¿de qué fecha es esa tasa y de qué fuente sale?». Esta ficha es la despensa de datos de vuestro podcast: cuidadla.
 :::
 
@@ -121,7 +121,7 @@ El **paro registrado** lo publica el SEPE cada mes y cuenta a las personas **ins
 - Se publica **antes** (mensualmente) y con **detalle municipal**, lo que lo hace muy útil para análisis locales.
 - Pero **solo ve a quien se inscribe**. Quien busca empleo por su cuenta sin pasar por la oficina, o quien trabaja sin contrato, es invisible para él.
 
-::: nota ⚖️ La conclusión
+::: nota La conclusión
 La EPA mide **la situación real** declarada en una encuesta. El paro registrado mide **las inscripciones administrativas**. Las dos son correctas y ninguna sustituye a la otra: sirven para propósitos distintos.
 :::
 
@@ -135,7 +135,7 @@ El **Observatorio Argos** es el sistema de prospección del mercado de trabajo d
 
 ### 6. Cómo se cita un dato
 
-::: aviso 📋 Cuatro elementos, siempre
+::: aviso Cuatro elementos, siempre
 **Fuente** (Instituto Nacional de Estadística) · **operación estadística** (Encuesta de Población Activa) · **periodo de referencia** (cuarto trimestre de 2025) · **fecha de consulta** (consultado el 12 de febrero de 2026).
 
 Un dato sin estos cuatro elementos no es verificable, y lo que no es verificable no sirve como argumento.

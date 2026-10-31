@@ -37,7 +37,7 @@ Tercer ítem: al comparar, **relaciona la modalidad con la estacionalidad del se
 - ¿Por qué en hostelería predomina esa modalidad de contrato y no otra?
 - ¿En qué te has equivocado al estimar, y qué consecuencia sacas de ello?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Coordinación previa con el departamento de FOL**: acuerdo de codocencia y, sobre todo, **acuerdo de las dos listas de cotejo** antes de entrar en el aula.
 - **Nómina real anonimizada**, una por pareja, con todas las partidas visibles.
 - **Ficha de comparación de contratos** con las cuatro modalidades y las cinco columnas.
@@ -50,7 +50,7 @@ Tercer ítem: al comparar, **relaciona la modalidad con la estacionalidad del se
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El trabajo se hace sobre documentos reales que el alumnado va a recibir en pocos años, lo que convierte un contenido curricular en información de uso inmediato.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La estimación inicial anotada y devuelta al cierre hace visible el propio punto de partida y convierte el error previo en material de aprendizaje en lugar de en una corrección.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión en codocencia con dos voces alternándose. Acordad de antemano que habla una sola persona cada vez y de frente. Sitúa al alumnado con condición auditiva donde tenga visión de ambos docentes, y entrega por escrito las consignas de cada fase.
 :::
 
@@ -79,7 +79,7 @@ expl-sda07-06.webp | El cierre
 
 <table><thead><tr><th width="44%">Partida</th><th width="28%">¿La ve el trabajador?</th><th width="28%">¿La paga la empresa?</th></tr></thead><tbody><tr><td>Salario base</td><td></td><td></td></tr><tr><td>Complementos</td><td></td><td></td></tr><tr><td>Cotizaciones a cargo del trabajador</td><td></td><td></td></tr><tr><td>Retención de IRPF</td><td></td><td></td></tr><tr><td><b>Cotizaciones a cargo de la empresa</b></td><td></td><td></td></tr><tr><td><b>Líquido a percibir</b></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔍 La fila que lo explica todo
+::: nota La fila que lo explica todo
 Las **cotizaciones a cargo de la empresa** no aparecen en lo que el trabajador cobra, y sin embargo la empresa las paga por él. Ahí está la diferencia entre el líquido y el coste real.
 :::
 
@@ -91,7 +91,7 @@ Las **cotizaciones a cargo de la empresa** no aparecen en lo que el trabajador c
 
 <table><thead><tr><th width="20%">Modalidad</th><th width="14%">Duración</th><th width="16%">Causa</th><th width="18%">Indemnización</th><th width="18%">Protección generada</th><th width="14%">Perfil típico</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🏖️ La pregunta que conecta con Málaga
+::: aviso La pregunta que conecta con Málaga
 ¿Por qué en hostelería predomina una modalidad y en la administración otra? En una provincia donde el turismo marca el calendario, la **estacionalidad** explica buena parte del tipo de contrato que se ofrece.
 :::
 
@@ -117,7 +117,7 @@ Porque las necesidades de las empresas no son iguales. Un puesto estable y otro 
 
 Y aquí Málaga aporta un caso propio: la **estacionalidad turística** concentra la actividad en unos meses, lo que explica el peso de determinadas modalidades en hostelería y comercio. La modalidad de contrato no es una decisión arbitraria: responde a la forma que tiene la demanda de trabajo en cada sector.
 
-::: nota 🛡️ Y tiene consecuencias
+::: nota Y tiene consecuencias
 Cada modalidad genera una **protección** distinta: distinta indemnización, distinto acceso a la prestación por desempleo, distinta capacidad para acceder a un alquiler o a una hipoteca. Elegir sector no es solo elegir tarea.
 :::
 

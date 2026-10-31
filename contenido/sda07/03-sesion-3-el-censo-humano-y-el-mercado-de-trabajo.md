@@ -33,7 +33,7 @@ Los casos **C** (subempleo) y **D** (sin contrato) son la semilla explícita de 
 - Si el trabajo se compra y se vende, ¿quién es el vendedor y quién el comprador?
 - ¿Puede bajar la tasa de paro sin que nadie haya encontrado empleo?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **16 tarjetas de personaje** con edad, situación y comportamiento de búsqueda, incluyendo obligatoriamente los cuatro casos frontera (desánimo, estudiante que busca, subempleo y trabajo sin contrato).
 - **Cuatro carteles de zona** para el aula: Ocupados, Parados, Inactivos y Menores de 16. Y espacio despejado: la actividad no se puede hacer sentados.
 - **Plantilla Cornell**, calculadoras y ficha de cálculo de las tres tasas.
@@ -46,11 +46,11 @@ Los casos **C** (subempleo) y **D** (sin contrato) son la semilla explícita de 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El censo humano es una actividad manipulativa y con movimiento físico: permite acceder a una clasificación abstracta situándose en el espacio, sin depender de la comprensión verbal previa.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Las tres tasas se presentan como fórmula, como enunciado verbal y como recuento físico de personas en el aula, de modo que el denominador de cada una pueda comprobarse contando.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El censo humano implica movimiento por el aula y varias conversaciones simultáneas. Entrega a este alumno/a su tarjeta por escrito con antelación, exige que las justificaciones se digan de una en una y de frente, y proyecta los cuatro nombres de zona además de anunciarlos. En el taller gráfico, asegúrate de que su pareja habla mirándole.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S3 y S4. Lo que se comprimió es esto: el censo pasa de 25-30 tarjetas a 16 conservando los cuatro casos frontera, la explicación del mercado de trabajo se condensa aprovechando que el modelo de oferta y demanda ya se conoce de la SdA 5, y el taller gráfico se acorta pero conserva su conclusión central. Ningún concepto del saber C3 queda sin tratar.
 :::
 
@@ -79,7 +79,7 @@ sda7-s03-10.webp | El taller gráfico
 
 ### Los tres requisitos del paro estadístico
 
-::: aviso ⚠️ Las tres condiciones, y tienen que darse A LA VEZ
+::: aviso Las tres condiciones, y tienen que darse A LA VEZ
 1. **No tener empleo.**
 2. **Buscarlo activamente.**
 3. **Estar disponible** para trabajar.
@@ -95,7 +95,7 @@ Si falla cualquiera de las tres, esa persona **no es parada** para la estadísti
 
 <table><thead><tr><th width="26%">Tasa</th><th width="48%">Fórmula</th><th width="26%">Nuestro resultado</th></tr></thead><tbody><tr><td>Tasa de <b>actividad</b></td><td>activos ÷ población de 16 y más × 100</td><td></td></tr><tr><td>Tasa de <b>empleo</b></td><td>ocupados ÷ población de 16 y más × 100</td><td></td></tr><tr><td>Tasa de <b>paro</b></td><td>parados ÷ <b>ACTIVOS</b> × 100</td><td></td></tr></tbody></table>
 
-::: nota 🎯 La trampa más importante de la unidad
+::: nota La trampa más importante de la unidad
 La tasa de paro se calcula sobre los **activos**, no sobre toda la población. Por eso puede bajar «por el motivo malo»: si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador, pero también el denominador… y la tasa mejora sin que nadie haya encontrado empleo.
 :::
 
@@ -136,7 +136,7 @@ Por parejas, sobre un mercado de trabajo ficticio con tabla de datos:
 2. Identificad el **salario de equilibrio**.
 3. Analizad gráficamente qué ocurre si se fija un **salario mínimo por encima** de él.
 
-::: aviso 📐 Y aquí la conclusión que importa
+::: aviso Y aquí la conclusión que importa
 El modelo predice un exceso de oferta de trabajo. Pero la evidencia empírica reciente **discute la magnitud real** de ese efecto según el nivel al que se fije el salario mínimo.
 
 No vamos a cerrar hoy el debate del SMI. La conclusión de la sesión es otra y es más importante: **el modelo predice direcciones; los datos miden magnitudes**. Ese es exactamente el puente hacia la sesión 4.
@@ -152,7 +152,7 @@ Confirmad el **sector** de vuestro podcast en el tablón de la unidad. Y anotad 
 
 <table><thead><tr><th width="30%">Categoría</th><th width="70%">Quiénes son</th></tr></thead><tbody><tr><td><b>Población total</b></td><td>Todos los habitantes</td></tr><tr><td><b>Población en edad de trabajar</b></td><td>16 años y más</td></tr><tr><td><b>Población ACTIVA</b></td><td>Ocupados + parados: quienes están en el mercado de trabajo</td></tr><tr><td><b>Población INACTIVA</b></td><td>Estudiantes, jubilados, personas dedicadas a labores del hogar, incapacitados, rentistas</td></tr><tr><td><b>Ocupados</b></td><td>Quienes tienen empleo. Basta una hora de trabajo en la semana de referencia</td></tr><tr><td><b>Parados</b></td><td>Sin empleo, buscándolo activamente y disponibles para trabajar</td></tr></tbody></table>
 
-::: aviso ⚠️ Los tres requisitos del paro, y tienen que darse a la vez
+::: aviso Los tres requisitos del paro, y tienen que darse a la vez
 (1) No tener empleo. (2) Buscarlo **activamente**. (3) Estar **disponible**. Si falla cualquiera de los tres, esa persona no cuenta como parada.
 :::
 
@@ -170,7 +170,7 @@ Confirmad el **sector** de vuestro podcast en el tablón de la unidad. Y anotad 
 
 <table><thead><tr><th width="16%">Tasa</th><th width="40%">Fórmula</th><th width="44%">Qué mide</th></tr></thead><tbody><tr><td><b>Actividad</b></td><td>activos ÷ población de 16 y más × 100</td><td>Qué proporción de la población en edad de trabajar está en el mercado</td></tr><tr><td><b>Empleo</b></td><td>ocupados ÷ población de 16 y más × 100</td><td>Qué proporción tiene efectivamente empleo</td></tr><tr><td><b>Paro</b></td><td>parados ÷ <b>activos</b> × 100</td><td>Qué proporción de quienes buscan no encuentra</td></tr></tbody></table>
 
-::: nota 🎯 La tasa de paro puede bajar «por el motivo malo»
+::: nota La tasa de paro puede bajar «por el motivo malo»
 Si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador (hay menos parados) pero también el denominador (hay menos activos), y la tasa **mejora sin que nadie haya encontrado empleo**. Por eso conviene mirar siempre la tasa de paro junto a la de actividad: si la primera baja mientras la segunda también, sospecha.
 :::
 

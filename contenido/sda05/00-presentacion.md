@@ -10,7 +10,7 @@ Cada sesión de la SdA 5 es una página de este material. Dentro de cada página
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ Antes de impartir: lo que hay que preparar
+::: aviso Antes de impartir: lo que hay que preparar
 Esta unidad tiene **cuatro materiales físicos** con gestión previa ineludible: el **bien subastable** de la sesión 1 (comprobando alergias e intolerancias), los **tickets o capturas verificables** del precio del aceite en distintos años, la **charla de Mercamálaga** de la sesión 2, y sobre todo las **tarjetas secretas del Parqué**, que hay que calibrar con cuidado.
 
 Actualiza también las series de **POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería, que sostienen la resolución del enigma en la sesión 4 y el apartado (f) del informe final.
@@ -49,7 +49,7 @@ Y en la sesión 7 analizaréis **los datos que vosotros mismos habéis generado*
 
 <table><thead><tr><th width="26%">Pieza</th><th width="48%">Qué es</th><th width="26%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. La simulación «El Parqué de Málaga»</b></td><td>Tres rondas de doble subasta: mercado libre, shock de oferta (una helada arrasa la cosecha) y shock de demanda (el mango se hace viral). Toda transacción queda registrada en directo por los notarios en una hoja de cálculo proyectada.</td><td>Instrumentos OD (observación) y Co.Ev. (coevaluación entre roles)</td></tr><tr><td><b>2. El informe grupal de datos</b></td><td>Siete apartados: descripción del mercado, curvas teóricas construidas con las tarjetas reveladas, contraste entre predicción y realidad, análisis de los dos shocks, cálculo de una elasticidad, comparación con un dato oficial real, y conclusión argumentada sobre en qué medida el mercado ha sido una fuente de mejora.</td><td>Instrumentos R (producto), EO (pitch de 2 minutos) y Co.Ev.</td></tr></tbody></table>
 
-::: nota 🔬 Vais a generar vuestros propios datos
+::: nota Vais a generar vuestros propios datos
 Eso es lo que distingue esta unidad. No analizaréis una tabla de un libro: analizaréis los precios que vosotros mismos habéis negociado, y comprobaréis si el modelo teórico predijo lo que realmente pasó. Es el método científico aplicado a la economía.
 :::
 
@@ -63,7 +63,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

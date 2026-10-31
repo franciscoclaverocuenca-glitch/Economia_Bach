@@ -29,7 +29,7 @@ Conecta explícitamente con lo que la SdA 8 dejó constatado sin explicarlo: all
 - ¿Describe bien el bienestar de una sociedad un modelo que solo ve lo que se paga?
 - En la SdA 8 dijisteis que hay un agente que aporta un beneficio que el modelo no le reconoce. ¿Cómo lo diríais ahora, con el diagrama delante?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Diagrama mural (capa 2)** proyectable, con el Sector Público incorporado.
 - **Cuatro tarjetas de operaciones del Sector Público** del entorno andaluz: «Carlos recibe una beca de la Junta de Andalucía», «la panadería paga el IVA trimestral», «el Ayuntamiento contrata una empresa de obras para reformar el paseo marítimo», «una profesora del IES cobra su nómina».
 - **Ficha del debate** con las dos posturas y las reglas de turno.
@@ -41,7 +41,7 @@ Conecta explícitamente con lo que la SdA 8 dejó constatado sin explicarlo: all
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>El código de dos colores para el flujo real y el monetario se mantiene sin excepción en todos los diagramas, murales y maquetas de la unidad, de modo que la distinción conceptual tenga siempre un anclaje visual constante. Para el alumnado con dificultad de discriminación cromática se acompaña de un tipo de línea distinto (continua / discontinua).</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (columna de ideas clave, columna de notas y franja de resumen), que actúa como andamiaje directo de la autorregulación y se mantiene idéntico en todas las sesiones de la unidad.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate se estructura en turnos reglados por grupos y no por intervenciones individuales espontáneas, y admite un cierre individual por escrito en el Cornell, de modo que quien no intervenga oralmente tenga igualmente una vía de evidencia del criterio.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las dos posturas del debate se asignan por grupos y no se eligen, de modo que defender una posición no implique sostenerla personalmente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -75,7 +75,7 @@ sda9-s04-09.webp | Cierre
 
 <table><thead><tr><th width="44%">Operación</th><th width="30%">¿Qué papel del Sector Público?</th><th width="26%">¿Qué flujos?</th></tr></thead><tbody><tr><td>Carlos recibe una beca de la Junta de Andalucía</td><td></td><td></td></tr><tr><td>La panadería paga el IVA trimestral</td><td></td><td></td></tr><tr><td>El Ayuntamiento contrata una empresa de obras para reformar el paseo marítimo</td><td></td><td></td></tr><tr><td>Una profesora del IES cobra su nómina</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔗 Esto explica algo que ya comprobasteis
+::: nota Esto explica algo que ya comprobasteis
 En la SdA 8 vimos con datos de Eurostat que el índice de Gini baja sensiblemente después de impuestos y transferencias. Hoy podéis ver **por dónde**: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta «¿quién paga y quién gana?» tiene ahora un recorrido dibujado.
 :::
 
@@ -91,13 +91,13 @@ Por el trabajo doméstico y de cuidados **no circula ningún euro**. Por tanto, 
 
 ### Marilyn Waring
 
-::: aviso 👁️ «Si las mujeres contaran» (1988)
+::: aviso «Si las mujeres contaran» (1988)
 **Marilyn Waring**, economista y política neozelandesa, formuló la crítica pionera a una contabilidad nacional que ignoraba por completo el trabajo no remunerado, realizado mayoritariamente por mujeres.
 
 Su argumento no era moral sino **técnico**: un sistema de medición que deja fuera una parte enorme del trabajo que sostiene la economía describe mal la realidad que pretende describir. Su trabajo impulsó que hoy existan encuestas de empleo del tiempo y cuentas satélite que intentan medirlo.
 :::
 
-::: nota 🎯 Por qué este debate cuenta para tu nota
+::: nota Por qué este debate cuenta para tu nota
 Valorar críticamente la relevancia y los **límites** de un modelo económico es literalmente el cierre del criterio 3.2, y el nivel **Sobresaliente** de la rúbrica lo exige de forma expresa. No es un añadido: es contenido evaluable.
 :::
 
@@ -113,7 +113,7 @@ El diagrama de la sesión anterior tenía una limitación deliberada: solo habí
 
 Las dos primeras formas no son exclusivas del Estado: cualquier empresa contrata factores y cualquier familia compra bienes. La **tercera sí lo es**: ningún otro agente puede recaudar impuestos de forma obligatoria.
 
-::: nota 🔗 Esto explica algo que ya sabías
+::: nota Esto explica algo que ya sabías
 En la SdA 8 comprobasteis con datos de Eurostat y de la Encuesta de Condiciones de Vida que el **índice de Gini baja sensiblemente después de impuestos y transferencias**. Ahora podéis ver *por dónde*: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta «¿quién paga y quién gana?» tiene un recorrido dibujado.
 :::
 
@@ -133,7 +133,7 @@ Su trabajo impulsó que hoy existan **encuestas de empleo del tiempo** y **cuent
 
 ### 4. Por qué esto es contenido evaluable
 
-::: aviso 🎯 El cierre del criterio 3.2
+::: aviso El cierre del criterio 3.2
 El criterio 3.2 no pide solo *usar* el modelo: pide **valorar críticamente su relevancia y sus límites**. El nivel Sobresaliente de la rúbrica lo exige de forma expresa.
 
 Un modelo es un **mapa, no el territorio**. Un mapa útil simplifica; un mapa que borra una carretera principal no simplifica, engaña. Saber decir qué aporta el flujo circular *y* qué deja fuera es exactamente lo que se te pide en el bloque 3 de la prueba escrita.

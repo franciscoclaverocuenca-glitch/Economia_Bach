@@ -27,7 +27,7 @@ titulo: Sesión 5 · «Ganadores y perdedores» e interés real
 - Si te suben el sueldo un 2 % y la inflación es del 3 %, ¿te han subido el sueldo?
 - ¿Por qué decimos que la inflación funciona como un impuesto que nadie ha aprobado?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Fichas de casos de agentes económicos**, una baraja por grupo base: persona ahorradora, persona endeudada a tipo fijo, persona pensionista con renta fija, persona asalariada.
 - **Plantilla de cálculo del tipo de interés real** con dos o tres casos numéricos resueltos como modelo.
 - **Calculadora u hoja de cálculo**, una por pareja.
@@ -38,7 +38,7 @@ titulo: Sesión 5 · «Ganadores y perdedores» e interés real
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Cada caso de agente se presenta con una situación narrativa concreta antes de formalizarse en términos económicos, de modo que el concepto abstracto (redistribución entre acreedores y deudores) llegue después de una imagen reconocible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El cierre pide situar la propia familia y el propio proyecto de vida en uno de los cuatro casos, conectando el contenido con decisiones financieras futuras (descriptor CPSAA1.2).</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -72,7 +72,7 @@ Vuestro grupo recibe fichas con distintos agentes económicos. Para cada uno hay
 
 <table><thead><tr><th width="48%">Agente</th><th width="18%">¿Gana o pierde?</th><th width="34%">Por qué</th></tr></thead><tbody><tr><td>Persona ahorradora con el dinero «bajo el colchón» o en depósitos a bajo interés</td><td></td><td></td></tr><tr><td>Persona endeudada a tipo fijo (una hipoteca antigua)</td><td></td><td></td></tr><tr><td>Persona pensionista o con rentas fijas que no se actualizan al ritmo de los precios</td><td></td><td></td></tr><tr><td>Persona asalariada</td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🤔 El caso que más se discute
+::: aviso El caso que más se discute
 El de la **persona endeudada a tipo fijo** suele resultar contraintuitivo. Pensadlo así: debe una cantidad *fija* de euros, y esos euros valen cada año menos. Su deuda se hace más ligera en términos reales sin que ella haga nada.
 :::
 
@@ -96,7 +96,7 @@ interés real ≈ interés nominal − inflación
 
 Si un banco te da un 2 % por tus ahorros pero la inflación es del 5 %, tu interés real es **−3 %**: tu dinero pierde un 3 % de poder adquisitivo. Tienes más euros que antes, pero compran menos cosas.
 
-::: aviso 👁️ La ilusión monetaria
+::: aviso La ilusión monetaria
 Consiste precisamente en fijarse solo en los euros nominales y olvidar lo que de verdad se puede comprar con ellos. Un ejemplo que te va a pasar: una subida de sueldo del 2 % con una inflación del 3 % **es una bajada de sueldo**. Ese cálculo lo vas a necesitar toda tu vida laboral.
 :::
 
@@ -116,7 +116,7 @@ La inflación funciona a menudo como un **impuesto regresivo**: pesa proporciona
 
 Por eso se dice que la inflación es un impuesto que nadie ha aprobado en ningún parlamento y que, sin embargo, recae con más fuerza sobre las rentas bajas. Es una conexión directa con el **ODS 10**, reducción de las desigualdades.
 
-::: nota 🔍 Un dato para leer con espíritu crítico
+::: nota Un dato para leer con espíritu crítico
 Se señala también que el impacto no es neutral en términos de género, por la sobrerrepresentación femenina en pensiones bajas y empleos precarios. **No cerramos aquí ninguna conclusión**: busca el dato, comprueba la fuente y decide tú qué dice exactamente y qué no dice. Distinguir lo que un dato demuestra de lo que solo sugiere es parte de lo que se evalúa en esta materia.
 :::
 

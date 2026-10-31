@@ -27,7 +27,7 @@ Reserva el tramo final para que reparten los turnos de la defensa y la **ensayen
 - ¿Qué pasaría si vuestro personaje se queda sin trabajo tres meses?
 - ¿Por qué esta opción de deuda y no otra? ¿Habéis comparado TAE?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla del Plan Financiero Personal** con las cinco piezas, en formato editable.
 - **Perfiles de personaje**, uno por grupo, asignados por sorteo. Deben ser personas jóvenes con circunstancias distintas: ingresos, estabilidad laboral, objetivos y horizontes diferentes.
 - **Hoja de cálculo** y acceso a fuentes oficiales: Banco de España, INE y comparadores reales de productos financieros.
@@ -39,7 +39,7 @@ Reserva el tramo final para que reparten los turnos de la defensa y la **ensayen
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El plan se estructura en cinco piezas con un orden de trabajo explícito, y el control de calidad intermedio actúa como andamiaje de planificación antes de la evaluación sumativa.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El ensayo previo de la defensa, con reparto de turnos y práctica en voz alta, reduce la ansiedad anticipatoria ante la comparecencia de la sesión siguiente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega por escrito la retroalimentación del control de calidad además de darla oralmente, y garantiza que el ensayo de la defensa se hace de frente y sin ruido de fondo.
 :::
 
@@ -64,18 +64,18 @@ sda10-s09-06.webp | Por qué esto no lo hace una IA
 
 <table><thead><tr><th width="24%">Pieza</th><th width="62%">Qué tiene que incluir</th><th width="14%">Sesión</th></tr></thead><tbody><tr><td><b>1 · Presupuesto y colchón</b></td><td>Presupuesto mensual realista con la regla 50/30/20 y un fondo de emergencia dimensionado en meses de gastos básicos, con el plazo para completarlo.</td><td>S5</td></tr><tr><td><b>2 · Decisión de deuda</b></td><td>Razonada y con números reales: alquiler frente a hipoteca, o el coste real (TAE) de una compra financiada. Comparad al menos dos opciones.</td><td>S4 · S6</td></tr><tr><td><b>3 · Cartera de inversión</b></td><td>Sencilla y diversificada, coherente con el perfil de riesgo y el horizonte del personaje. Con los porcentajes por clase de activo.</td><td>S7</td></tr><tr><td><b>4 · Seguros y ciberseguridad</b></td><td>Cobertura básica de seguros y las medidas de protección frente al fraude del decálogo.</td><td>S8</td></tr><tr><td><b>5 · Un dato oficial</b></td><td>Del Banco de España, del INE o de un comparador real de productos, <b>con su fuente citada</b>.</td><td>Todas</td></tr></tbody></table>
 
-::: aviso 🔗 La coherencia es lo que se evalúa
+::: aviso La coherencia es lo que se evalúa
 Las cinco piezas tienen que encajar entre sí. Una cartera brillante con un presupuesto que no da para ahorrar es un plan incoherente, y el Comité lo va a ver en la primera pregunta.
 :::
 
 ### Lista de comprobación antes de entregar
 
-<table><thead><tr><th width="6%"></th><th width="94%">Comprobación</th></tr></thead><tbody><tr><td>☐</td><td>¿Está el fondo de emergencia dimensionado en <b>meses de gastos básicos</b> y sabemos en cuántos meses se completa?</td></tr><tr><td>☐</td><td>¿La decisión de deuda compara al menos dos opciones por <b>TAE</b>, no por TIN?</td></tr><tr><td>☐</td><td>¿Cada porcentaje de la cartera está conectado con el <b>horizonte</b> y la <b>tolerancia al riesgo</b> del personaje?</td></tr><tr><td>☐</td><td>¿Están los seguros y el decálogo de ciberseguridad, o se han quedado fuera por falta de tiempo?</td></tr><tr><td>☐</td><td>¿Hay al menos un dato oficial con su <b>fuente citada</b>?</td></tr><tr><td>☐</td><td>¿Sobrevive el plan a la pregunta «¿y si se queda sin trabajo tres meses?»</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Está el fondo de emergencia dimensionado en <b>meses de gastos básicos</b> y sabemos en cuántos meses se completa?</td></tr><tr><td></td><td>¿La decisión de deuda compara al menos dos opciones por <b>TAE</b>, no por TIN?</td></tr><tr><td></td><td>¿Cada porcentaje de la cartera está conectado con el <b>horizonte</b> y la <b>tolerancia al riesgo</b> del personaje?</td></tr><tr><td></td><td>¿Están los seguros y el decálogo de ciberseguridad, o se han quedado fuera por falta de tiempo?</td></tr><tr><td></td><td>¿Hay al menos un dato oficial con su <b>fuente citada</b>?</td></tr><tr><td></td><td>¿Sobrevive el plan a la pregunta «¿y si se queda sin trabajo tres meses?»</td></tr></tbody></table>
 
 ### Y repartid la defensa
 
 Tenéis **2-3 minutos** ante el Comité. En dos minutos no cabe todo: elegid lo que mejor demuestre que el plan encaja con la persona. Y **ensayadlo en voz alta**, no mentalmente.
 
-::: nota 🧠 Por qué esto no lo puede hacer una IA por ti
+::: nota Por qué esto no lo puede hacer una IA por ti
 Es un plan aplicado a un **personaje concreto**, con datos que tenéis que buscar y verificar, defendido **en directo** y sometido a **preguntas imprevistas**. Una respuesta genérica se detecta en la primera pregunta del Comité.
 :::

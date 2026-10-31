@@ -31,7 +31,7 @@ Recuerda la medida DUA: quien tenga **ansiedad escénica documentada** puede hab
 - ¿Qué pasaría con vuestro beneficio si vendierais la mitad de lo previsto?
 - Ese compromiso social, ¿cómo se comprobaría que se cumple?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Canvas final** de cada equipo, impreso o proyectado.
 - **Cronómetro visible** para todo el grupo: el tiempo es tasado y sin cronómetro se desborda.
 - **Rúbrica del criterio 2.4** para el jurado y visible para el alumnado.
@@ -44,11 +44,11 @@ Recuerda la medida DUA: quien tenga **ansiedad escénica documentada** puede hab
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El pitch se reparte entre los miembros del equipo y admite <b>modalidad de vídeo grabado</b> para el alumnado con ansiedad escénica documentada, evaluado con los mismos descriptores de la rúbrica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica se conoce desde el inicio de la unidad, el tiempo está tasado y visible, y el turno de preguntas se limita a 1-2 por equipo: solo el contenido de las preguntas es imprevisible, y se ha anticipado en la sesión 9.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de exposición oral con turno de preguntas. Sitúa a este alumno/a con visión frontal de quien expone y del jurado, exige que las preguntas se formulen de pie, de una en una y de frente, y facilita **por escrito** los Canvas de los demás equipos antes de la sesión para que pueda seguir las cifras sin depender solo del oído.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con CEE — Competencia específica 2.** La defensa del proyecto ante un jurado conecta con los elementos curriculares propios de Cultura Emprendedora y Empresarial. Si hay matrícula común, las sesiones 8 a 10 pueden servir como evidencia compartida sin repetir la actividad en CEE.
 :::
 
@@ -80,7 +80,7 @@ sda4-s10-05.webp | Coevaluación
 
 <table><thead><tr><th width="22%">Bloque</th><th width="78%">Qué se valora</th></tr></thead><tbody><tr><td><b>El problema</b></td><td>Que sea <b>real</b> y esté bien delimitado. Un problema vago da lugar a una solución vaga.</td></tr><tr><td><b>La solución</b></td><td>Que responda exactamente a ese problema, y que se entienda en una frase.</td></tr><tr><td><b>Las cifras</b></td><td>Que sean <b>coherentes</b> entre sí y con la idea. No se pide precisión contable: se pide que los números cuenten la misma historia que la idea.</td></tr><tr><td><b>El compromiso</b></td><td>Que sea concreto y <b>verificable</b>. «Ser sostenibles» no es un compromiso; «usar envase retornable con depósito» sí lo es.</td></tr></tbody></table>
 
-::: aviso 🎤 Las dos preguntas que separan un proyecto pensado de uno improvisado
+::: aviso Las dos preguntas que separan un proyecto pensado de uno improvisado
 «**¿De dónde sale esa cifra de clientes?**» y «**¿por qué ese precio y no otro?**». Son también la principal salvaguarda frente a un uso indebido de la IA: una cifra que nadie del equipo sabe justificar se detecta al instante.
 :::
 
@@ -88,6 +88,6 @@ sda4-s10-05.webp | Coevaluación
 
 <table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué recoge</th></tr></thead><tbody><tr><td><b>EO</b> · exposición oral</td><td>El pitch: claridad, uso del tiempo y capacidad de sostener las preguntas.</td></tr><tr><td><b>R</b> · valoración de producto</td><td>El Canvas y el pitch como producto complejo, con los <b>mismos descriptores</b> de la rúbrica general del criterio 2.4.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Vuestra valoración razonada de los demás equipos, con escala de dedos.</td></tr></tbody></table>
 
-::: nota 🎥 Una opción disponible
+::: nota Una opción disponible
 Quien tenga **ansiedad escénica documentada** puede presentar su pitch en formato de **vídeo grabado previamente**, evaluado exactamente con los mismos descriptores. No es una versión rebajada: es otra vía al mismo estándar.
 :::

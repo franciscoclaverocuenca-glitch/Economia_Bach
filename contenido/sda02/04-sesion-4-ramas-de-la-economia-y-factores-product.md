@@ -29,7 +29,7 @@ Dos tareas: identificar un ejemplo concreto de cada factor, y explicar cuál ser
 - ¿Cuál sería el problema económico básico de la almazara en un año de sequía severa?
 - En una cooperativa, ¿quién ejerce el factor iniciativa empresarial?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **8 tarjetas de titulares** de prensa reales para clasificar en MICRO o MACRO.
 - **Caso de una almazara andaluza real** de la provincia de Málaga o de Jaén, con datos suficientes para identificar sus factores productivos.
 - **Ficha de trabajo** con las dos tareas del caso.
@@ -41,7 +41,7 @@ Dos tareas: identificar un ejemplo concreto de cada factor, y explicar cuál ser
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Los cuatro factores de producción se aplican a un caso concreto, cercano y ya conocido —la misma tipología de empresa de la charla de la sesión 2—, lo que permite anclar categorías abstractas en una realidad reconocible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La clasificación se hace en grupo base con coevaluación cruzada, de modo que la justificación se practica primero dentro del grupo antes de exponerse al gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -71,7 +71,7 @@ sda2-s04-07.webp | Cierre
 
 <table><thead><tr><th width="5%"></th><th width="50%">Titular</th><th width="18%">¿MICRO o MACRO?</th><th width="27%">¿Por qué?</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🔍 Justificad, no etiquetéis
+::: aviso Justificad, no etiquetéis
 No basta con poner MICRO o MACRO. Hay que decir **por qué**. Después intercambiáis con otro grupo y coevaluáis con la escala de dedos, y cualquier discrepancia se resuelve volviendo a la definición, no por votación.
 :::
 
@@ -79,7 +79,7 @@ No basta con poner MICRO o MACRO. Hay que decir **por qué**. Después intercamb
 
 <table><thead><tr><th width="26%">Factor</th><th width="38%">Qué es</th><th width="36%">En la almazara</th></tr></thead><tbody><tr><td><b>TIERRA</b></td><td>Los recursos naturales</td><td></td></tr><tr><td><b>TRABAJO</b></td><td>El esfuerzo humano, físico e intelectual</td><td></td></tr><tr><td><b>CAPITAL</b></td><td>Los bienes producidos que sirven para producir más bienes</td><td></td></tr><tr><td><b>INICIATIVA EMPRESARIAL</b></td><td>La capacidad de organizar los otros tres y asumir el riesgo</td><td></td></tr></tbody></table>
 
-::: nota ⚠️ El error más frecuente
+::: nota El error más frecuente
 **Capital no es dinero.** El capital son los bienes que sirven para producir más bienes: la maquinaria de molturación, los depósitos, las instalaciones. El dinero es otra cosa distinta.
 :::
 
@@ -87,7 +87,7 @@ No basta con poner MICRO o MACRO. Hay que decir **por qué**. Después intercamb
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué tenéis que hacer</th></tr></thead><tbody><tr><td>1</td><td>Identificad, para el caso de la almazara, <b>un ejemplo concreto</b> de cada uno de los cuatro factores de producción.</td></tr><tr><td>2</td><td>Explicad cuál sería el <b>problema económico básico</b> de la almazara en un año de <b>sequía severa</b>.</td></tr></tbody></table>
 
-::: aviso 🫒 La segunda tarea conecta con la SdA 1
+::: aviso La segunda tarea conecta con la SdA 1
 La falta de agua es una **restricción sobre un factor productivo**: la tierra deja de rendir lo mismo. Y ahí reaparece el **problema económico básico** que estudiasteis en la SdA 1 con la vivienda: recursos limitados frente a necesidades que no se reducen.
 :::
 
@@ -109,7 +109,7 @@ No son economías distintas: son escalas de análisis distintas. Y muchos fenóm
 
 <table><thead><tr><th width="24%">Factor</th><th width="40%">Qué es</th><th width="36%">En una almazara</th></tr></thead><tbody><tr><td><b>Tierra</b></td><td>Los recursos naturales utilizados en la producción</td><td>El olivar, el agua de riego, el suelo</td></tr><tr><td><b>Trabajo</b></td><td>El esfuerzo humano, físico e intelectual</td><td>Personal de campo, de molino y de administración</td></tr><tr><td><b>Capital</b></td><td>Los bienes ya producidos que sirven para producir más bienes</td><td>La maquinaria de molturación, los depósitos, las instalaciones</td></tr><tr><td><b>Iniciativa empresarial</b></td><td>La capacidad de organizar los otros tres factores y asumir el riesgo de la decisión</td><td>Quien decide qué variedad plantar, cuándo recolectar y a quién vender</td></tr></tbody></table>
 
-::: nota ⚠️ Capital no es dinero
+::: nota Capital no es dinero
 Es el error más frecuente y conviene fijarlo bien. El **capital** son los bienes que sirven para producir más bienes. El dinero es un medio de pago, no un factor productivo en sí mismo. Con dinero se **compra** capital, pero no son lo mismo.
 :::
 

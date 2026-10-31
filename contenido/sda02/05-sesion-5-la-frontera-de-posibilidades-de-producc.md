@@ -29,7 +29,7 @@ Circula resolviendo dudas de construcción gráfica. El obstáculo suele ser té
 - ¿Por qué ese sacrificio va aumentando conforme producimos más aceite?
 - ¿Qué diferencia hay entre moverse por la curva y que la curva entera se desplace?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tabla de datos del caso «Agroria»**: seis combinaciones posibles de producción de toneladas de aceite y toneladas de vino, con recursos limitados.
 - **Papel milimetrado o acceso a GeoGebra**, según lo que se coordine con Matemáticas.
 - **Calculadora** y ficha de respuestas escritas.
@@ -41,11 +41,11 @@ Circula resolviendo dudas de construcción gráfica. El obstáculo suele ser té
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo contenido se presenta en tres registros simultáneos: tabla numérica, gráfica y explicación verbal del coste de oportunidad, de modo que quien no accede por la vía gráfica pueda comprobarlo en la tabla.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La actividad se descompone en tres tareas numeradas y secuenciales —representar, identificar, calcular—, y el docente circula para que una dificultad técnica de trazado no bloquee el razonamiento económico.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con Matemáticas Aplicadas a las Ciencias Sociales I** (competencia específica MACS.1.7 y criterios MACS.1.7.1/.2: representar conceptos e información matemáticos seleccionando la tecnología más adecuada). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro. Se sugiere impartirla **en la misma semana** que el contenido correspondiente en Matemáticas.
 :::
 
@@ -79,7 +79,7 @@ sda2-s05-07.webp | La conexión con Matemáticas
 
 <table><thead><tr><th width="6%"></th><th width="94%">Tarea</th></tr></thead><tbody><tr><td><b>1</b></td><td>Representad gráficamente los <b>seis puntos</b> de la tabla y trazad la curva de la FPP, en papel milimetrado o con GeoGebra. <b>Rotulad ejes y unidades.</b></td></tr><tr><td><b>2</b></td><td>Identificad y <b>justificad</b> un punto eficiente (sobre la curva), uno ineficiente (por debajo) y uno inalcanzable (por encima) con los recursos actuales.</td></tr><tr><td><b>3</b></td><td>Calculad el <b>coste de oportunidad marginal</b> de pasar de un punto de la curva a otro: ¿cuántas toneladas de vino hay que sacrificar para producir una tonelada más de aceite? Y explicad <b>por qué ese coste va aumentando</b>.</td></tr></tbody></table>
 
-::: nota 📐 Por qué la curva es cóncava
+::: nota Por qué la curva es cóncava
 Porque los recursos **no son igual de buenos para todo**. Para producir las primeras toneladas de aceite se trasladan las tierras más aptas para el olivar, que son las peores para el viñedo: el sacrificio es pequeño. Pero conforme se sigue, hay que ir sacrificando las mejores tierras de viñedo, y el coste crece.
 
 Eso es la **ley de los rendimientos decrecientes**, y es lo que hace que la curva se doble en lugar de ser una recta.
@@ -103,7 +103,7 @@ Es una forma de dibujar el problema económico básico: como los recursos son li
 
 ### 3. La pendiente es el coste de oportunidad
 
-::: nota 📐 La equivalencia que hace interdisciplinar esta sesión
+::: nota La equivalencia que hace interdisciplinar esta sesión
 Matemáticamente, la FPP es la **gráfica de una función cóncava**. Y su **pendiente en cada punto** es exactamente el **coste de oportunidad marginal**: cuántas unidades de un bien hay que sacrificar para obtener una unidad más del otro.
 
 No son dos cosas parecidas: son la misma cosa dicha en dos lenguajes.

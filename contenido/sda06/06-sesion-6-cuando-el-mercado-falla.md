@@ -31,7 +31,7 @@ Con ejemplos graduados —la fábrica que contamina el río, la vacuna que prote
 - ¿Es lo mismo ocultar que mi coche está mal antes de venderlo que conducir peor una vez asegurado?
 - ¿Quién paga la fiesta de la vivienda turística en el centro de Málaga?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla Cornell**, una por alumno/a.
 - **Gráficos de datos** de evolución del precio del alquiler y del número de viviendas de uso turístico en el centro de Málaga. Fuentes: portales estadísticos oficiales y registros autonómicos. **Actualízalos**: son el dato más sensible de la unidad.
 - **Tres tarjetas de postura** para el mini-debate: propietario/a que alquila a turistas, vecino/a de toda la vida, y persona joven que busca alquiler.
@@ -44,15 +44,15 @@ Con ejemplos graduados —la fábrica que contamina el río, la vacuna que prote
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El mini-debate reparte tres posturas con tarjeta y establece que nadie puede intervenir dos veces hasta que todas hayan hablado, lo que garantiza turno a quien tiende a no pedirlo.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Los tres fallos de mercado se presentan de forma correlativa con ejemplos graduados que van de lo más evidente (la fábrica que contamina) a lo más sutil (la selección adversa), y los datos del caso se interpretan individualmente antes de debatirlos.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de coste-beneficio guiada estructura un razonamiento complejo en pasos verificables, y admite una extensión opcional para quien avance con soltura.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente: las dos exposiciones magistrales se funden en un bloque único de 12 minutos; el mini-debate se acorta de 20 a 16 minutos reduciendo de 4 a 3 las posturas; y la mini-práctica de coste-beneficio se simplifica a una única intervención a analizar, manteniendo el mismo método y la misma plantilla.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Segunda **coordinación con Historia del Mundo Contemporáneo** (criterio HMCO.1.6.1), pendiente de confirmación.
 :::
 
@@ -85,7 +85,7 @@ sda6-s06-10.webp | El análisis coste-beneficio
 
 <table><thead><tr><th width="24%">Fallo</th><th width="42%">En qué consiste</th><th width="34%">Ejemplo</th></tr></thead><tbody><tr><td><b>Externalidad negativa</b></td><td>El coste de una transacción recae parcialmente sobre quien no participa en ella. El mercado produce <b>demasiado</b> de esto.</td><td>La fábrica que contamina el río; la vivienda turística que encarece el alquiler del barrio</td></tr><tr><td><b>Externalidad positiva</b></td><td>El beneficio se derrama sobre terceros que no lo pagan. El mercado produce <b>demasiado poco</b> de esto.</td><td>La vacuna que protege también al vecino no vacunado</td></tr><tr><td><b>Bien público</b></td><td>No rival (que yo lo use no impide que tú lo uses) y no excluible (no se puede impedir que alguien lo disfrute).</td><td>El alumbrado, la seguridad, el pronóstico meteorológico</td></tr><tr><td><b>Información asimétrica</b></td><td>Una parte sabe algo relevante que la otra no sabe.</td><td>«Los cacharros» de Akerlof: el vendedor sabe si su coche es bueno; el comprador, no</td></tr></tbody></table>
 
-::: aviso ⚠️ Selección adversa y riesgo moral no son lo mismo
+::: aviso Selección adversa y riesgo moral no son lo mismo
 **Selección adversa**: ocurre **antes** de firmar. Una parte oculta información, la desconfianza hunde el precio, los buenos productos se retiran y el mercado puede llegar a deshacerse.
 
 **Riesgo moral**: ocurre **después** de firmar. Una parte cambia de comportamiento porque otra asume las consecuencias. Quien tiene el coche asegurado a todo riesgo conduce con menos cuidado. No ocultó nada: simplemente ahora se comporta distinto.
@@ -99,7 +99,7 @@ Después, tres posturas con tarjeta:
 
 <table><thead><tr><th width="38%">Postura</th><th width="62%">Vuestro punto de vista</th></tr></thead><tbody><tr><td><b>Propietario/a que alquila a turistas</b></td><td></td></tr><tr><td><b>Vecino/a de toda la vida</b></td><td></td></tr><tr><td><b>Persona joven que busca alquiler</b></td><td></td></tr></tbody></table>
 
-::: nota 🗣️ Dos reglas
+::: nota Dos reglas
 **1 ·** Cada intervención debe usar al menos un término técnico de la sesión: externalidad, coste social, bien público. **2 ·** Nadie puede intervenir dos veces hasta que todas las posturas hayan hablado.
 
 Y no buscamos un ganador: buscamos **cartografiar el conflicto**. Una actividad legal y rentable cuyos costes recaen parcialmente en quienes no participan de ella.
@@ -111,7 +111,7 @@ Y no buscamos un ganador: buscamos **cartografiar el conflicto**. Una actividad 
 
 <table><thead><tr><th width="28%">Herramienta</th><th width="40%">Cómo funciona</th><th width="32%">Su coste</th></tr></thead><tbody><tr><td><b>Impuestos correctores y subvenciones</b></td><td>Gravar la externalidad negativa, premiar la positiva</td><td>Es difícil calibrar la cuantía justa</td></tr><tr><td><b>Regulación y límites</b></td><td>Licencias, estándares, topes</td><td>Puede rigidizar el mercado o crear barreras de entrada</td></tr><tr><td><b>Provisión pública directa</b></td><td>El Estado produce el bien público</td><td>Coste presupuestario y riesgo de ineficiencia</td></tr><tr><td><b>Obligaciones de información</b></td><td>Etiquetado, garantías, hojas de reclamaciones</td><td>Carga administrativa para las empresas</td></tr><tr><td><b>Defensa de la competencia</b></td><td>Las sanciones de la CNMC y la ACREA</td><td>Lenta y difícil de probar</td></tr></tbody></table>
 
-::: aviso ⚖️ La idea crítica de la sesión
+::: aviso La idea crítica de la sesión
 La intervención **también tiene costes y también puede fallar**. Por eso la pregunta pericial correcta no es «¿mercado o Estado?», sino **«¿qué combinación produce el mejor resultado neto?»**. Anotadlo: es el corazón del apartado 4 de vuestro informe.
 :::
 
@@ -121,7 +121,7 @@ Por parejas, sobre la intervención propuesta: **limitar las nuevas licencias de
 
 <table><thead><tr><th width="32%"></th><th width="68%">Vuestro análisis</th></tr></thead><tbody><tr><td><b>Beneficios</b> (cuantificables)</td><td></td></tr><tr><td><b>Costes</b> (cuantificables)</td><td></td></tr><tr><td><b>Efectos NO monetizables</b></td><td></td></tr><tr><td><b>¿A quién beneficia?</b></td><td></td></tr><tr><td><b>¿A quién perjudica?</b></td><td></td></tr><tr><td><b>Resultado neto y valoración</b></td><td></td></tr></tbody></table>
 
-::: nota 📐 Esta plantilla es el método de vuestro informe
+::: nota Esta plantilla es el método de vuestro informe
 Es exactamente lo que el **apartado 4** del informe pericial os va a exigir aplicar a vuestro propio caso. Archivadla en el portafolio.
 
 Si vais con soltura, comparad además una **segunda alternativa**: implantar una tasa por pernoctación.
@@ -150,7 +150,7 @@ De ahí el **problema del polizón** (*free rider*): si puedo disfrutarlo sin pa
 
 ### 4. La información asimétrica: «los cacharros» de Akerlof
 
-::: nota 🚗 El mercado que se deshace solo
+::: nota El mercado que se deshace solo
 George Akerlof lo explicó con el mercado de coches de segunda mano. Quien vende **sabe** si su coche es bueno o es un «cacharro». Quien compra, **no**.
 
 El comprador, ante la duda, ofrece un precio intermedio. Pero a ese precio, a quien tiene un coche bueno no le compensa venderlo, y lo retira del mercado. Quedan más cacharros, el precio baja aún más, se retiran más coches buenos… y el mercado puede llegar a **deshacerse**. Eso es la **selección adversa**.
@@ -164,7 +164,7 @@ El mismo mecanismo se rastrea en los **seguros** (quien sabe que tiene más ries
 
 <table><thead><tr><th width="26%">Herramienta</th><th width="42%">Cómo funciona</th><th width="32%">Su coste</th></tr></thead><tbody><tr><td><b>Impuestos correctores y subvenciones</b></td><td>Gravar la externalidad negativa para que quien la genera la pague; subvencionar la positiva</td><td>Calibrar la cuantía justa es muy difícil</td></tr><tr><td><b>Regulación y límites</b></td><td>Licencias, estándares mínimos, topes de precio o cantidad</td><td>Puede rigidizar el mercado o convertirse en una barrera de entrada</td></tr><tr><td><b>Provisión pública directa</b></td><td>El Estado produce el bien público que el mercado no daría</td><td>Coste presupuestario y riesgo de ineficiencia</td></tr><tr><td><b>Obligaciones de información</b></td><td>Etiquetado, garantías, hojas de reclamaciones: reducen la asimetría</td><td>Carga administrativa para las empresas</td></tr><tr><td><b>Defensa de la competencia</b></td><td>Investigación y sanción de prácticas anticompetitivas</td><td>Lenta, costosa y difícil de probar</td></tr></tbody></table>
 
-::: aviso ⚖️ La pregunta pericial correcta
+::: aviso La pregunta pericial correcta
 La intervención **también tiene costes y también puede fallar**. Por eso un perito serio no pregunta «¿mercado o Estado?», sino **«¿qué combinación produce el mejor resultado neto?»**. Es la diferencia entre un dictamen y un eslogan.
 :::
 

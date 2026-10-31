@@ -27,7 +27,7 @@ Antes de abrir el turno libre, garantiza que se formulan las **tres preguntas ob
 - Según su experiencia, ¿quién gana y quién puede perder cuando un proyecto sale bien?
 - ¿Coincide lo que ha contado con las preguntas que dejamos ayer en la pizarra?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar y confirmar con antelación a la persona invitada.** Perfil: persona cooperante o técnica de proyectos de una ONGD andaluza, a través de la **Coordinadora Andaluza de ONGD** o de una entidad con delegación en Málaga. Presencial o por videollamada.
 - **Prioriza invitar a una cooperante o técnica de proyectos**, como modelo de referencia directo en un ámbito con nombres propios femeninos que el alumnado conocerá en la sesión 5 (Esther Duflo, Sabina Alkire).
 - **Plan B si no fuera posible la ONGD**: persona técnica del Observatorio de Medio Ambiente Urbano (OMAU) del Ayuntamiento de Málaga, que explique cómo se miden los indicadores de la Agenda Urbana de la ciudad. La sesión mantiene idéntica estructura y guion mínimo adaptado.
@@ -39,7 +39,7 @@ Antes de abrir el turno libre, garantiza que se formulan las **tres preguntas ob
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional de la cooperación al desarrollo andaluza ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Las tres preguntas obligatorias, repartidas de antemano entre personas concretas, estructuran la participación y evitan que el turno abierto dependa de la iniciativa espontánea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda.
 :::
 
@@ -62,7 +62,7 @@ sda8-s02-04.webp | Cierre
 
 <table><thead><tr><th width="48%">Pregunta</th><th width="52%">Con qué enlaza</th></tr></thead><tbody><tr><td><b>«¿Qué dato que NO sale en el PIB os cambia el trabajo diario sobre el terreno?»</b></td><td>Valida empíricamente toda la unidad: alguien que trabaja en desarrollo os dirá qué mira cuando el PIB no le sirve. Criterio 3.3.</td></tr><tr><td><b>«¿Qué indicador usáis para decidir dónde actuar y para saber si un proyecto ha funcionado?»</b></td><td>Enlaza con la sesión 5, cuando conozcáis el IDH, el IPM, el Gini y la tasa AROPE. Apuntad el nombre exacto del indicador. Criterio 3.3.</td></tr><tr><td><b>«Cuando un proyecto sale bien, ¿quién sale ganando exactamente —las familias, las empresas locales, la administración del país— y hay alguien que salga perdiendo?»</b></td><td>Siembra la segunda mitad de la pregunta motriz. Anotad la respuesta en el Cornell: se recupera <b>literalmente mañana</b>, al levantar el mapa de agentes. Criterio 3.2.</td></tr></tbody></table>
 
-::: nota 📝 Tu guion de escucha
+::: nota Tu guion de escucha
 - La distinción **crecer / vivir mejor** vista sobre el terreno, con ejemplos concretos.
 - Los **indicadores** que menciona, con su nombre exacto.
 - La respuesta a la **tercera pregunta**: quién gana y quién pierde.

@@ -10,7 +10,7 @@ Cada sesión de la SdA 10 es una página de este material. Dentro de cada págin
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ Antes de impartir: datos que caducan
+::: aviso Antes de impartir: datos que caducan
 Esta unidad trabaja con productos financieros reales y sus cifras cambian cada mes. Revisa antes de empezar: los tipos oficiales del BCE (en julio de 2026, facilidad de depósito al **2,25 %**), el **euríbor a 12 meses** (media provisional de julio de 2026 en torno al **2,8 %**), la tasa de inflación, las TAE reales de préstamos personales y tarjetas revolving, y los precios de alquiler y compra de vivienda en Málaga que se usan en la sesión 6.
 
 Todas las cifras del material van marcadas como orden de magnitud. La sesión 6 depende especialmente de que los datos de vivienda estén actualizados.
@@ -43,11 +43,11 @@ Vuestro grupo recibirá el perfil de una **persona joven real** —con sus ingre
 
 <table><thead><tr><th width="24%">Pieza</th><th width="46%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Plan Financiero Personal</b></td><td>Documento completo y coherente: presupuesto mensual con la regla 50/30/20 y fondo de emergencia dimensionado, decisión de deuda razonada con TAE, cartera de inversión diversificada acorde al perfil, cobertura de seguros y medidas de ciberseguridad. Con al menos un dato oficial citado.</td><td>Instrumento R (valoración del producto)</td></tr><tr><td><b>2. Defensa ante el Comité</b></td><td>Presentación de 2-3 minutos de la lógica del plan y de la cartera, seguida de un turno de preguntas cruzadas del Comité sobre riesgo, diversificación, coste de la deuda y ciberseguridad.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
-::: nota 🎯 La regla del Comité
+::: nota La regla del Comité
 El Comité **no premia la cartera más rentable**, sino la mejor fundamentada y la más adecuada a la persona. Podéis obtener la máxima calificación con un plan conservador si es el que le conviene a vuestro personaje y sabéis explicar por qué. Y podéis suspender proponiendo la inversión más rentable del mundo a alguien que no puede asumir su riesgo.
 :::
 
-::: aviso 🧠 Por qué esto no lo puede hacer una IA por ti
+::: aviso Por qué esto no lo puede hacer una IA por ti
 Es un plan aplicado a un **personaje concreto**, con datos que tenéis que buscar y verificar, defendido **en directo** y sometido a **preguntas imprevistas**. Una respuesta genérica se detecta en la primera pregunta del Comité.
 :::
 
@@ -61,7 +61,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

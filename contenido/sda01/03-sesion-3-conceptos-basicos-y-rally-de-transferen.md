@@ -27,7 +27,7 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 - ¿Puede ser el tiempo un recurso escaso? ¿Y la información?
 - ¿Qué necesidades distintas satisface una inmobiliaria y cuáles una constructora?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Presentación de conceptos** básicos y **plantilla Cornell**, una por alumno/a.
 - **6-8 tarjetas de reto grandes** (cartulinas) para colgar en las paredes del aula o repartir por las mesas.
 - **Un «pasaporte» de respuestas por pareja**: un único folio compartido.
@@ -40,7 +40,7 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros de la pareja y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura 1-2-4 escalona la exposición en tres niveles crecientes —individual, pareja, cuarteto— antes de cualquier intervención ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
 :::
 
@@ -77,7 +77,7 @@ sda1-s03-08.webp | Por qué funciona
 
 <table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td><b>Necesidad frente a bien.</b> «Una persona hereda de golpe un millón de euros y una furgoneta vieja sin ITV.» Usando la diferencia entre recurso, bien y necesidad: ¿cuál es el verdadero «bien» que le permite resolver su necesidad de vivienda, y por qué el dinero por sí solo no es una vivienda?</td><td></td></tr><tr><td><b>2</b></td><td><b>Escasez relativa.</b> Poned tres ejemplos de vuestra vida diaria donde el <b>tiempo</b> o la <b>información</b> disponible —y no solo el dinero— sea el recurso escaso que os dificultaría encontrar un piso de alquiler en Málaga.</td><td></td></tr><tr><td><b>3</b></td><td><b>Bienes frente a servicios.</b> Una inmobiliaria y una constructora. Clasificad qué ofrece cada una y detallad al menos dos necesidades distintas que satisface cada una al consumidor.</td><td></td></tr></tbody></table>
 
-::: nota 🏃 Por qué esta actividad funciona
+::: nota Por qué esta actividad funciona
 - **Valida el esfuerzo previo**: sin los apuntes Cornell no se puede resolver el rally. La utilidad de haberlos tomado bien es inmediata.
 - **Movimiento y energía**: las tarjetas repartidas por el aula rompen la pasividad.
 - **Interdependencia positiva**: en la fase 4 el éxito depende de que el cuarteto haya validado la respuesta entre todos, y quien tiene más dificultades recibe apoyo de sus compañeros.
@@ -113,7 +113,7 @@ explicacion: Fíjate en que el **coste de oportunidad** no es lo que pagas, sino
 
 ### 2. La escasez y el problema económico básico
 
-::: nota 🔑 La definición que hay que fijar
+::: nota La definición que hay que fijar
 Hay **escasez** cuando los recursos disponibles no bastan para satisfacer todas las necesidades. Y como las necesidades son prácticamente ilimitadas y los recursos no, la escasez es la situación **normal**, no la excepción.
 
 De ahí nace el **problema económico básico**: la obligación de **elegir**. Y de esa obligación nace la Economía como ciencia.

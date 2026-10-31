@@ -27,7 +27,7 @@ titulo: 'Sesión 4 · El precio del dinero: interés simple, compuesto y TAE'
 - ¿Puede un préstamo con TIN más alto ser más barato que otro con TIN más bajo?
 - Si empezar pronto multiplica el resultado, ¿qué efecto tiene a treinta años empezar diez años más tarde?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de hoja de cálculo** preparada, y aula de informática o dispositivos suficientes para trabajar por parejas.
 - **Datos reales de dos productos financieros**: una cuenta de ahorro y dos préstamos con distinto TIN y distintas comisiones. Consúltalos en comparadores o en la web de las entidades y **actualízalos**: con el euríbor a 12 meses en torno al 2,8 % en julio de 2026, las ofertas cambian rápido.
 - **Problema resuelto** proyectable, paso a paso, para el modelado.
@@ -39,11 +39,11 @@ titulo: 'Sesión 4 · El precio del dinero: interés simple, compuesto y TAE'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El interés compuesto se presenta en tres formatos equivalentes —tabla numérica año a año, gráfico de la curva y fórmula—, y se recorre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la visual.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El taller se organiza en tres bloques graduados de dificultad creciente, de modo que todo el alumnado complete al menos el primero y quien avance con soltura llegue a la tabla de amortización.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con MACS I (competencia MACS.CE1, criterio MACS.1.1, saber MACS.1.A.4) presupone que el centro oferta la materia y que hay alumnado matriculado en común. Si no se confirma, la sesión se imparte íntegramente desde Economía manteniendo el mismo contenido de matemática financiera.
 :::
 
@@ -76,7 +76,7 @@ sda10-s04-10.webp | Conexión con el reto
 
 <table><thead><tr><th width="5%"></th><th width="52%">Tarea</th><th width="43%">Qué se comprueba</th></tr></thead><tbody><tr><td>1</td><td>Calcula y grafica cuánto llega a valer un ahorro de <b>1.000 €</b>, y también de <b>30 € al mes</b>, a los 5, 10 y 30 años con interés compuesto.</td><td>El efecto de empezar antes. Compara qué pasa si empiezas diez años más tarde.</td></tr><tr><td>2</td><td>Compara <b>dos préstamos reales</b> con distinto TIN y distintas comisiones calculando su TAE, y decide de forma justificada cuál es más barato.</td><td>Que la TAE, y no el TIN, es la cifra comparable.</td></tr><tr><td>3</td><td>Construye una <b>tabla de amortización</b> sencilla de un préstamo pequeño: cuota, parte de intereses, parte de capital y capital pendiente.</td><td>Que al principio pagas sobre todo intereses, no capital.</td></tr></tbody></table>
 
-::: aviso 🔧 Y una última consigna
+::: aviso Y una última consigna
 Para cada tarea, anotad **qué herramienta ha sido más eficiente**: calculadora u hoja de cálculo, y por qué. Esa valoración es exactamente lo que evalúa el criterio de Matemáticas (MACS.1.1), y no es un añadido decorativo.
 :::
 
@@ -109,7 +109,7 @@ Y es el mismo concepto visto desde los dos lados del mostrador: si pides prestad
 
 <table><thead><tr><th width="20%"></th><th width="38%">Interés SIMPLE</th><th width="42%">Interés COMPUESTO</th></tr></thead><tbody><tr><td><b>Cómo funciona</b></td><td>Los intereses se calculan siempre sobre el capital inicial</td><td>Los intereses se suman al capital y generan a su vez intereses</td></tr><tr><td><b>1.000 € al 5 %</b></td><td>50 € cada año, siempre los mismos</td><td>50 € el primer año, 52,50 € el segundo, 55,13 € el tercero…</td></tr><tr><td><b>A los 10 años</b></td><td>1.500 €</td><td>≈ 1.629 €</td></tr><tr><td><b>A los 30 años</b></td><td>2.500 €</td><td>≈ 4.322 €</td></tr><tr><td><b>Crecimiento</b></td><td>Lineal</td><td>Exponencial: la «bola de nieve»</td></tr></tbody></table>
 
-::: nota ❄️ Lo importante del interés compuesto
+::: nota Lo importante del interés compuesto
 Fíjate en la forma de la curva: los primeros años apenas se nota, y los últimos diez años aportan más que los veinte primeros juntos.
 
 La conclusión práctica es contundente: **el interés compuesto premia el tiempo mucho más que la cantidad**. Empezar con poco pero pronto supera a empezar con mucho pero tarde. Y eso es la razón por la que esta sesión es la más útil de la unidad para tu vida.
@@ -124,7 +124,7 @@ Por eso la TAE es la **única cifra comparable** entre dos productos:
 - Un préstamo con TIN del 5 % y comisión de apertura del 2 % tiene una TAE bastante mayor que el 5 %.
 - Un préstamo con TIN del 6 % y sin comisiones puede resultar más barato que otro con TIN del 5 % y muchas comisiones.
 
-::: aviso ⚠️ Regla práctica para toda tu vida
+::: aviso Regla práctica para toda tu vida
 Cuando compares productos financieros —un préstamo, un depósito, una financiación a plazos— **mira la TAE. Siempre**. Y si no te la dan clara, eso ya es información.
 :::
 

@@ -33,7 +33,7 @@ titulo: Sesión 1 · ¿Quién decide? Simulación relámpago de tres sistemas
 - ¿Fue rápido, o costó llegar al reparto?
 - ¿Alguien se quedó descontento, y por qué?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **12 fichas o gomets por grupo**, que representen un bien escaso y deseable: minutos de música en clase, cromos o similar. Que sea algo que de verdad quieran.
 - **Tarjetas de rol** para la ronda 1 (autoridad planificadora).
 - **Puntos de puja desiguales** para la ronda 2: por ejemplo 20, 10, 5 y 2 por grupo. La desigualdad es deliberada.
@@ -45,7 +45,7 @@ titulo: Sesión 1 · ¿Quién decide? Simulación relámpago de tres sistemas
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La simulación es manipulativa y con un bien realmente deseable: permite participar y formarse una opinión sin ningún conocimiento previo de Economía.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>El reparto de papeles es aleatorio y las reglas vienen impuestas desde fuera, de modo que la frustración de una ronda concreta no es atribuible a nadie del grupo y puede analizarse con distancia.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Las tres rondas ofrecen tres formas distintas de participar —acatar, pujar, negociar—, de modo que cada persona encuentra al menos una en la que se desenvuelve con comodidad.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La ronda 2 (subasta de viva voz) y la 3 (negociación simultánea de todos los grupos) generan mucho ruido. Sitúa a este alumno/a en la zona más alejada, exige que las pujas se muestren también **con tarjeta escrita** además de anunciarse, y en la reflexión final anota en la pizarra cada aportación conforme se produzca.
 :::
 
@@ -77,7 +77,7 @@ sda2-s01-07.webp | Las tres preguntas
 
 <table><thead><tr><th width="5%"></th><th width="35%">Pregunta</th><th width="20%">Ronda 1</th><th width="20%">Ronda 2</th><th width="20%">Ronda 3</th></tr></thead><tbody><tr><td>1</td><td>¿Quién decidió?</td><td></td><td></td><td></td></tr><tr><td>2</td><td>¿Te pareció justo?</td><td></td><td></td><td></td></tr><tr><td>3</td><td>¿Fue rápido o costó?</td><td></td><td></td><td></td></tr><tr><td>4</td><td>¿Alguien quedó descontento?</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🎲 Las tres columnas de la pizarra
+::: aviso Las tres columnas de la pizarra
 Vuestras respuestas se recogen en tres columnas **sin nombre**. Esas tres columnas tienen nombre propio en Economía, y lo vais a descubrir a lo largo de la unidad.
 :::
 
@@ -87,7 +87,7 @@ Todo sistema económico del mundo tiene que responder a las mismas tres pregunta
 
 <table><thead><tr><th width="26%">La pregunta</th><th width="74%">Qué significa</th></tr></thead><tbody><tr><td><b>¿QUÉ producir?</b></td><td>Con recursos limitados no se puede producir todo. Alguien tiene que decidir qué bienes y servicios se producen y en qué cantidad.</td></tr><tr><td><b>¿CÓMO producir?</b></td><td>Con qué técnica, con qué combinación de trabajo y maquinaria, con qué reparto de tareas.</td></tr><tr><td><b>¿PARA QUIÉN producir?</b></td><td>Cómo se reparte lo producido entre las personas. Es la pregunta más incómoda de las tres.</td></tr></tbody></table>
 
-::: nota 🔑 Lo que cambia de un sistema a otro
+::: nota Lo que cambia de un sistema a otro
 No son las preguntas: son **quién las responde y con qué reglas**. En la ronda 1 respondía una autoridad. En la 2, el poder de compra. En la 3, el grupo negociando. Esas son, exactamente, las tres grandes respuestas históricas.
 :::
 
@@ -101,7 +101,7 @@ Y no es un juicio como el de la SdA 1: es una **negociación**. No gana nadie: s
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -114,7 +114,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -148,7 +148,7 @@ Fijaos en que ninguna de las tres es perfecta. La primera es rápida pero arbitr
 
 ### 2. Las tres preguntas económicas básicas
 
-::: nota 🔑 Toda economía, en todo lugar y en toda época, responde a estas tres
+::: nota Toda economía, en todo lugar y en toda época, responde a estas tres
 1. **¿QUÉ producir?** Con recursos limitados no se puede producir todo.
 2. **¿CÓMO producir?** Con qué técnica y con qué combinación de factores.
 3. **¿PARA QUIÉN producir?** Cómo se reparte lo producido. La más incómoda.

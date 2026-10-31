@@ -27,7 +27,7 @@ titulo: 'Sesión 7 · Estudio de grabación: producción del podcast'
 - ¿Quién pagaría esa propuesta y en qué cifra concreta se notaría si funciona?
 - ¿Habéis pedido consentimiento para grabar o citar a la persona entrevistada?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de guion por bloques** con la estructura mínima obligatoria, una por grupo.
 - **Plantilla de entrevista semiestructurada** con las tres reglas de la investigación social.
 - **La ficha de datos de la sesión 4** y el **lienzo de propuestas de la sesión 6** sobre la mesa: son las herramientas de trabajo, no material de archivo.
@@ -40,11 +40,11 @@ titulo: 'Sesión 7 · Estudio de grabación: producción del podcast'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura de cinco bloques del guion, el reparto de roles de producción y el plan de tareas con plazos y responsables funcionan como andamiaje explícito de planificación antes de la evaluación sumativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El producto admite dos formatos equivalentes —podcast en audio o informe escrito— y la entrevista puede ser síncrona o asíncrona, lo que permite a cada grupo elegir el medio en el que mejor se desenvuelve sin rebajar la exigencia.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega por escrito la retroalimentación del control de calidad. Si este alumno/a asume el rol de Entrevistador/a, prioriza la modalidad **asíncrona escrita** de la entrevista, que ya se admite y que elimina la barrera acústica sin reducir la exigencia.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La conexión con **Antropología y Sociología** (entrevista semiestructurada como técnica de recogida de datos, AYSO.1.B.3, y emisión de conclusiones públicas, AYSO 2.5) es una propuesta pendiente de confirmación.
 :::
 
@@ -71,7 +71,7 @@ sda7-s07-06.webp | Control de calidad
 
 <table><thead><tr><th width="5%"></th><th width="40%">Regla</th><th width="55%">Ejemplo de lo que NO vale</th></tr></thead><tbody><tr><td>1</td><td><b>Preguntas abiertas.</b> Nada de preguntas de sí o no: no dan información.</td><td>«¿Le gusta su trabajo?» → «¿Qué es lo que más y lo que menos le gusta de su trabajo?»</td></tr><tr><td>2</td><td><b>Sin inducir la respuesta.</b> Una pregunta no puede contener ya la conclusión.</td><td>«¿No cree que la temporalidad es un problema?» → «¿Cómo afecta la temporalidad a su sector?»</td></tr><tr><td>3</td><td><b>Con consentimiento explícito</b> para grabar o citar. Se pide antes, no después.</td><td>Grabar primero y avisar al final no es consentimiento.</td></tr></tbody></table>
 
-::: nota 🎙️ Si no da tiempo
+::: nota Si no da tiempo
 Se admite hacer la entrevista **asíncrona** —por audio o por escrito— y citarla como tal. Lo que no se admite es inventarla.
 :::
 
@@ -89,7 +89,7 @@ Se admite hacer la entrevista **asíncrona** —por audio o por escrito— y cit
 
 <table><thead><tr><th width="26%">Bloque</th><th width="50%">Qué contiene</th><th width="24%">De dónde sale</th></tr></thead><tbody><tr><td><b>1 · Radiografía del sector</b></td><td>Presentación y los <b>tres datos oficiales</b> citados</td><td>Ficha de la S4</td></tr><tr><td><b>2 · Diagnóstico de paro</b></td><td>Qué tipos de paro predominan y con qué evidencia en los datos</td><td>Plantilla de la S5</td></tr><tr><td><b>3 · Diferencias salariales</b></td><td>Análisis de la brecha, con la distinción bruta / ajustada</td><td>Conceptos de la S6</td></tr><tr><td><b>4 · Tres propuestas</b></td><td>Las dos diseñadas en la S6 más la tercera, cerrada hoy</td><td>Lienzo de la S6</td></tr><tr><td><b>5 · La entrevista</b></td><td>Extracto o síntesis de la entrevista real</td><td>Diseñada hoy</td></tr></tbody></table>
 
-::: aviso 🤖 Pauta explícita sobre el uso de IA
+::: aviso Pauta explícita sobre el uso de IA
 La IA **puede** ayudaros a transcribir la entrevista o a pulir la redacción de vuestro propio guion.
 
 La IA **no puede** inventar datos, testimonios ni citas. Y en el careo del Festival tendréis que defender en directo de dónde sale cada dato: se evalúa lo que sabéis sostener, no solo lo que habéis entregado.
@@ -97,7 +97,7 @@ La IA **no puede** inventar datos, testimonios ni citas. Y en el careo del Festi
 
 ### Lista de cotejo antes de cerrar
 
-<table><thead><tr><th width="7%">☐</th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Cada dato del guion lleva su citación completa: fuente, operación, periodo y fecha de consulta?</td></tr><tr><td></td><td>¿Está analizada la brecha usando la distinción bruta / ajustada?</td></tr><tr><td></td><td>¿Las tres propuestas tienen agente pagador identificado y efecto medible?</td></tr><tr><td></td><td>¿La entrevista está diseñada, con preguntas abiertas y consentimiento previsto?</td></tr><tr><td></td><td>¿Está cerrado el plan de producción con tareas, plazos y responsables?</td></tr></tbody></table>
+<table><thead><tr><th width="7%"></th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Cada dato del guion lleva su citación completa: fuente, operación, periodo y fecha de consulta?</td></tr><tr><td></td><td>¿Está analizada la brecha usando la distinción bruta / ajustada?</td></tr><tr><td></td><td>¿Las tres propuestas tienen agente pagador identificado y efecto medible?</td></tr><tr><td></td><td>¿La entrevista está diseñada, con preguntas abiertas y consentimiento previsto?</td></tr><tr><td></td><td>¿Está cerrado el plan de producción con tareas, plazos y responsables?</td></tr></tbody></table>
 
 ## Cierre
 

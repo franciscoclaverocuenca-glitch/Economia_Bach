@@ -31,7 +31,7 @@ El **careo de preguntas es el corazón evaluativo** de la sesión: responder raz
 - ¿Por qué ese desplazamiento y no un movimiento dentro de la curva?
 - ¿Qué queda fuera de vuestra maqueta que sin embargo sostiene la economía?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Maquetas e infografías expuestas**, con espacio suficiente entre expositores para que dos visitas simultáneas no se solapen acústicamente.
 - **Fichas del visitante**, una por persona, con las dos preguntas obligatorias y la **casilla de agentes** (quién gana y quién paga).
 - **Rúbrica del criterio 3.2** visible para todo el mundo durante la sesión.
@@ -44,7 +44,7 @@ El **careo de preguntas es el corazón evaluativo** de la sesión: responder raz
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La visita guiada se reparte en paradas entre los miembros del grupo, de modo que nadie soporta en solitario la carga de la exposición oral; el apoyo visual permanente de la maqueta reduce la dependencia de la memoria verbal.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible y las preguntas obligatorias se conocen y se han ensayado con antelación, de modo que solo el careo abierto es imprevisible; el formato de museo distribuye la atención y evita la exposición ante el gran grupo simultáneo.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con varias conversaciones simultáneas en el mismo espacio: es la de mayor riesgo acústico de toda la unidad. Sitúa el expositor de este grupo en la esquina más alejada y con la espalda a la pared, exige que quien pregunta lo haga de frente y de uno en uno, y facilita por escrito las dos preguntas obligatorias de la ficha. Si este alumno/a va a guiar, garantiza que sus paradas están escritas.
 :::
 
@@ -81,7 +81,7 @@ sda9-s10-06.webp | Cómo coevaluar
 
 <table><thead><tr><th width="26%">Instrumento</th><th width="74%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · visita guiada</td><td>Claridad y precisión al explicar el modelo siguiendo el viaje de un euro.</td></tr><tr><td><b>R</b> · la maqueta</td><td>Los cinco elementos obligatorios y la calidad del dato oficial documentado.</td></tr><tr><td><b>D</b> · careo de preguntas</td><td>La calidad de las respuestas a preguntas no ensayadas, <b>y la calidad de las preguntas que formuláis</b>.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Valoración de los dos expositores visitados, justificada con un descriptor concreto de la rúbrica.</td></tr></tbody></table>
 
-::: aviso 🎤 El careo es el corazón de la sesión
+::: aviso El careo es el corazón de la sesión
 Es la evidencia oral directa del criterio 3.2 en sus tres operaciones: diferenciar costes y beneficios para cada agente, establecer las relaciones entre ellos mediante el modelo DA-OA y determinar su repercusión sobre el desarrollo y el bienestar. Y es exactamente la evidencia que la evaluación parcial de la SdA 8 no podía producir.
 :::
 

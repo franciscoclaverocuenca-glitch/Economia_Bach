@@ -29,7 +29,7 @@ Lo pendiente —la primera prueba de grabación y el acabado de la infografía�
 - ¿La infografía cuenta la misma historia que el guion, o son dos cosas distintas?
 - ¿El reparto de tareas repite patrones de sesiones anteriores?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de guion de podcast y boceto de infografía**, una por grupo base.
 - **Los portafolios y apuntes Cornell** de toda la unidad, especialmente de las sesiones 3, 5, 8 y 9.
 - **Acceso a fuentes estadísticas oficiales**: Andalucía TRADE, IECA, Málaga TechPark.
@@ -42,7 +42,7 @@ Lo pendiente —la primera prueba de grabación y el acabado de la infografía�
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El objetivo triple está descompuesto en tres productos con requisitos explícitos, y el control de calidad intermedio funciona como andamiaje de planificación antes de la sesión evaluable.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El guion de apoyo del Guardián/a del dato convierte un rol abstracto —«verificar»— en tres preguntas concretas y aplicables, lo que lo hace ejercible por cualquier miembro del grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega **por escrito** el resultado del control de calidad. Y si este alumno/a ejerce la Portavocía, ten en cuenta que la grabación del podcast puede hacerse en un espacio tranquilo y con tantas tomas como haga falta.
 :::
 
@@ -70,15 +70,15 @@ sda3-s11-05.webp | Control de calidad
 
 <table><thead><tr><th width="6%"></th><th width="94%">Pregúntate antes de dar por válido cualquier dato</th></tr></thead><tbody><tr><td>1</td><td>«¿De qué fuente sale <b>exactamente</b> esta cifra?» No vale «lo he leído». Vale «lo publica el IECA en tal informe».</td></tr><tr><td>2</td><td>«¿Es un dato real que hemos visto en clase, o nos lo estamos inventando para que quede mejor?» Redondear al alza porque suena más impactante es exactamente lo que no se puede hacer.</td></tr><tr><td>3</td><td>«¿Podríamos explicárselo a alguien de fuera sin exagerar?» Si al contarlo en voz alta hay que añadir matices que no están en el podcast, algo falla.</td></tr></tbody></table>
 
-::: aviso 🔍 Por qué este rol es el más importante hoy
+::: aviso Por qué este rol es el más importante hoy
 Una campaña de sensibilización con un dato falso no sensibiliza: **desinforma**. Y os habéis pasado la unidad aprendiendo a distinguir un dato agregado de un caso particular y una fuente oficial de un titular. Aplicadlo aquí.
 :::
 
 ### Control de calidad: dos comprobaciones
 
-<table><thead><tr><th width="7%">☐</th><th width="93%">Lo que el docente va a verificar grupo por grupo</th></tr></thead><tbody><tr><td></td><td>Que el guion incluye <b>al menos un dato con su fuente citada</b>.</td></tr><tr><td></td><td>Que la propuesta ODS responde con claridad al criterio 5.1 —equidad, justicia y sostenibilidad— y <b>no es solo una idea general sin aterrizar</b>.</td></tr></tbody></table>
+<table><thead><tr><th width="7%"></th><th width="93%">Lo que el docente va a verificar grupo por grupo</th></tr></thead><tbody><tr><td></td><td>Que el guion incluye <b>al menos un dato con su fuente citada</b>.</td></tr><tr><td></td><td>Que la propuesta ODS responde con claridad al criterio 5.1 —equidad, justicia y sostenibilidad— y <b>no es solo una idea general sin aterrizar</b>.</td></tr></tbody></table>
 
-::: nota 🎯 La diferencia entre una idea y una propuesta
+::: nota La diferencia entre una idea y una propuesta
 «Habría que concienciar sobre el consumo responsable» **no es** una propuesta ODS: es un deseo.
 
 «Instalar un punto de recogida de móviles antiguos en el hall del instituto, gestionado por el alumnado de 4.º de ESO, con un convenio con un gestor autorizado de residuos electrónicos» **sí lo es**: tiene destinatario, acción concreta y forma de sostenerse.

@@ -27,7 +27,7 @@ titulo: Sesión 5 · Presupuesto, ahorro y colchón de emergencia
 - Si guarda el ahorro sin rentabilidad y la inflación es del 3 %, ¿cuánto valdrá en 3 años?
 - ¿Por qué el colchón se mide en meses de gastos y no en meses de ingresos?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Perfil de presupuesto de una persona joven realista**, uno por grupo: ingresos y lista de gastos con alquiler de habitación en Málaga, transporte, móvil, ocio, comida… **Actualiza los importes** a precios reales de la ciudad.
 - **Plantilla de presupuesto 50/30/20**, una por grupo.
 - **Rúbrica de coevaluación** con escala de dedos.
@@ -38,7 +38,7 @@ titulo: Sesión 5 · Presupuesto, ahorro y colchón de emergencia
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El perfil de trabajo es una persona joven en circunstancias reconocibles (habitación de alquiler en Málaga, transporte, móvil), lo que permite conectar el ejercicio con la propia situación o con la de personas cercanas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La regla 50/30/20 funciona como andamiaje estructurado: reduce una tarea abierta y difícil («haz un presupuesto») a tres bloques manejables con un criterio claro de reparto.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -68,7 +68,7 @@ sda10-s05-09.webp | Síntesis
 
 <table><thead><tr><th width="24%">Bloque</th><th width="10%">%</th><th width="66%">Qué entra</th></tr></thead><tbody><tr><td><b>Necesidades</b></td><td>50 %</td><td>Alquiler, comida, transporte, suministros, seguros: lo que no puedes dejar de pagar.</td></tr><tr><td><b>Deseos</b></td><td>30 %</td><td>Ocio, suscripciones, ropa que no necesitas, restaurantes: lo que mejora tu vida pero es opcional.</td></tr><tr><td><b>Ahorro y deuda</b></td><td>20 %</td><td>Fondo de emergencia, amortizar préstamos, invertir.</td></tr></tbody></table>
 
-::: nota 📊 Es una regla orientativa, no una ley
+::: nota Es una regla orientativa, no una ley
 En una ciudad con alquileres altos, el 50 % puede ser imposible. Lo importante no son los porcentajes exactos: es que **el tercer bloque exista** y no sea cero.
 :::
 
@@ -80,7 +80,7 @@ En una ciudad con alquileres altos, el 50 % puede ser imposible. Lo importante n
 
 <table><thead><tr><th width="34%">Rol</th><th width="66%">Responsabilidad</th></tr></thead><tbody><tr><td>Coordinador/a</td><td>Gestiona el tiempo y se asegura de que todo el mundo participa</td></tr><tr><td>Secretario/a</td><td>Redacta el presupuesto consensuado</td></tr><tr><td>Responsable de datos y cálculo</td><td>Asegura la coherencia de las cifras: que todo sume y cuadre</td></tr><tr><td>Portavoz</td><td>Expone el presupuesto y lo defiende ante las preguntas</td></tr></tbody></table>
 
-::: aviso 🤔 La pregunta que os van a hacer
+::: aviso La pregunta que os van a hacer
 «¿Esto es una necesidad o un deseo, y por qué?» No hay respuesta objetiva y por eso lo que se evalúa es **vuestra justificación**. Un móvil puede ser necesidad si trabajas con él y deseo si es el último modelo.
 :::
 
@@ -92,7 +92,7 @@ Vuestro personaje ha conseguido ahorrar. Decide guardarlo «bajo el colchón», 
 
 <table><thead><tr><th width="26%">Año</th><th width="34%">Euros que tiene</th><th width="40%">Poder de compra real (aprox.)</th></tr></thead><tbody><tr><td>Hoy</td><td>1.000 €</td><td>1.000 €</td></tr><tr><td>Dentro de 1 año</td><td>1.000 €</td><td>≈ 971 €</td></tr><tr><td>Dentro de 2 años</td><td>1.000 €</td><td>≈ 943 €</td></tr><tr><td>Dentro de 3 años</td><td>1.000 €</td><td>≈ 915 €</td></tr></tbody></table>
 
-::: aviso 💡 La conclusión de la sesión
+::: aviso La conclusión de la sesión
 Tiene los mismos 1.000 €. Pero compran un 8,5 % menos. **No hacer nada con el dinero también es una decisión, y también es arriesgada.** Ahí se abre la puerta a la inversión, que es el contenido de la sesión 7.
 :::
 
@@ -120,7 +120,7 @@ La frontera difícil está entre necesidad y deseo, y no tiene respuesta objetiv
 
 ### 3. El fondo de emergencia
 
-::: nota 🛡️ Entre 3 y 6 meses de GASTOS BÁSICOS
+::: nota Entre 3 y 6 meses de GASTOS BÁSICOS
 - **Para qué sirve:** absorber un imprevisto —una avería, una baja, quedarte sin trabajo— sin tener que endeudarte de urgencia y a cualquier precio.
 - **Cuánto:** entre 3 y 6 meses de tus **gastos básicos**, no de tus ingresos. Cuanto más inestables sean tus ingresos, más cerca de 6.
 - **Dónde:** disponible de forma inmediata y sin riesgo. **No en Bolsa**: si lo necesitas justo cuando el mercado ha caído, tendrías que vender con pérdidas.

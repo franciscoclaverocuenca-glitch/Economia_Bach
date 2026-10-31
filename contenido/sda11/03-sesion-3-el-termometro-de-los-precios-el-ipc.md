@@ -27,7 +27,7 @@ titulo: 'Sesión 3 · «El termómetro de los precios»: el IPC'
 - ¿Tiene la misma inflación una persona que va en coche que otra que va en autobús?
 - Si el IPC es un promedio, ¿de quién es exactamente ese promedio?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de hoja de cálculo** con una cesta reducida de 5-6 productos cotidianos y sus precios en dos momentos (año base y año actual). Un dispositivo por grupo base.
 - **Versión pautada de la plantilla** con la cesta y los precios ya introducidos ( **refuerzo**), para quien necesite concentrar el esfuerzo en la fórmula y la interpretación.
 - **Versión ampliada** con más productos y ponderación explícita ( **ampliación**) para quien avance con soltura.
@@ -39,11 +39,11 @@ titulo: 'Sesión 3 · «El termómetro de los precios»: el IPC'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo procedimiento se presenta en tres notaciones equivalentes —tabla numérica de la cesta, descripción verbal por fases y fórmula de la tasa de variación—, y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El taller se estructura en cinco fases guiadas y numeradas, con una plantilla pautada de refuerzo y otra ampliada, lo que permite ajustar la carga cognitiva sin cambiar el objetivo de aprendizaje.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con MACS I (competencia específica 1, criterio 1.1, saber MACS.1.A.4) sigue siendo una **propuesta**: confirma que el centro oferta la materia, que hay matrícula común y el código exacto del criterio en la concreción curricular del centro.
 :::
 
@@ -73,7 +73,7 @@ sda11-s03-09.webp | Coevaluación
 
 <table><thead><tr><th width="12%">Fase</th><th width="50%">Qué hacéis</th><th width="38%">Concepto que aparece</th></tr></thead><tbody><tr><td><b>1 · Elegir</b></td><td>Decidid cuántas unidades de cada producto consume una familia tipo al mes.</td><td>Aquí ya estáis <b>ponderando</b>: no todo pesa igual.</td></tr><tr><td><b>2 · Calcular</b></td><td>Obtened el coste total de la cesta en el año base y en el año actual (precio × cantidad, sumado).</td><td>Gasto total de la cesta.</td></tr><tr><td><b>3 · Construir</b></td><td>Fijad el gasto del año base en 100 y calculad el índice del año actual con una regla de tres.</td><td><b>Número índice</b> con año base 100.</td></tr><tr><td><b>4 · Hallar</b></td><td>Aplicad la fórmula: (Índice actual − 100) ÷ 100 × 100.</td><td><b>Tasa de variación</b> = tasa de inflación del periodo.</td></tr><tr><td><b>5 · Comparar</b></td><td>Contrastad vuestro resultado con la tasa oficial del INE para Andalucía o Málaga en ese periodo.</td><td>Y explicad por qué difieren.</td></tr></tbody></table>
 
-::: aviso 🔍 Vuestro dato NO va a coincidir con el del INE. Y está bien.
+::: aviso Vuestro dato NO va a coincidir con el del INE. Y está bien.
 - Vuestra cesta tiene 5 o 6 productos; la del INE, cientos. Cualquier producto que se dispare pesa enormemente en la vuestra y casi nada en la suya.
 - Vuestras ponderaciones son estimadas; el INE las mide con la Encuesta de Presupuestos Familiares.
 - **Y esa diferencia es lo interesante:** explica por qué mucha gente dice «a mí la inflación me ha subido mucho más de lo que dicen». Su cesta personal no es la cesta media.
@@ -99,7 +99,7 @@ El **Índice de Precios de Consumo (IPC)** es el número índice que calcula el 
 2. **Ponderar cada categoría.** No todo pesa igual. A cada categoría se le asigna una **ponderación** según el peso que tiene en el gasto medio de los hogares. La vivienda y el transporte pesan mucho más que, por ejemplo, la cultura, porque las familias destinan más dinero a lo primero.
 3. **Seguir los precios mes a mes.** Se recogen los precios y se recalcula el índice. La **tasa de inflación anual** es la variación porcentual del IPC respecto al mismo mes del año anterior.
 
-::: nota 🔢 La fórmula que necesitas
+::: nota La fórmula que necesitas
 Tasa de inflación = (Índice actual − Índice base) ÷ Índice base × 100
 
 Con índice base 100 y actual 108: (108 − 100) ÷ 100 × 100 = **8 %**.

@@ -19,7 +19,7 @@ Materiales elaborados por Francisco Clavero Cuenca · [CC BY-SA 4.0](https://cre
 |---|---|
 | 12 exportaciones con jQuery, Bootstrap y su propio tema repetidos en cada una (137 MB) | Una sola hoja de estilos y un solo script compartidos, sin dependencias (≈100 KB en total) |
 | Diapositivas en PNG (≈7 MB por unidad) | WebP con miniaturas que se cargan solo al verlas (≈3,5 MB por unidad) |
-| Fuentes cargadas desde Google | Fuentes alojadas en el propio sitio: sin rastreo de terceros y funcionan sin conexión |
+| Fuentes cargadas desde Google | Una sola tipografía de lectura (Literata) alojada en el propio sitio: sin rastreo de terceros y funciona sin conexión |
 | 57 Google Forms incrustados, **56 de ellos en una sesión o unidad que no era la suya** | Cuestionarios propios en su sitio correcto, con corrección inmediata y explicación de cada respuesta |
 | Los cuestionarios no llegaban a Moodle | La nota y cada respuesta llegan al libro de calificaciones de Moodle |
 | Autoevaluación en Google Forms con los descriptores recortados | Autoevaluación interactiva con la rúbrica completa, que se guarda y se puede imprimir |
@@ -31,9 +31,9 @@ Además hay **actividades nuevas**: clasificar, relacionar, ordenar, completar h
 
 Los detalles de la migración están en [`INFORME-MIGRACION.md`](INFORME-MIGRACION.md).
 
-> ⚑ **Pendiente de revisión.** Google Forms no publica las respuestas correctas, así que las claves de los
+> **Pendiente de revisión.** Google Forms no publica las respuestas correctas, así que las claves de los
 > 32 cuestionarios se redactaron a partir del contenido de cada sesión. Están todas en
-> [`REVISION-CLAVES.md`](REVISION-CLAVES.md). Mientras no se revisen, en la vista docente aparece un aviso ⚑
+> [`REVISION-CLAVES.md`](REVISION-CLAVES.md). Mientras no se revisen, en la vista docente aparece un aviso «Pendiente»
 > sobre cada cuestionario.
 
 ---

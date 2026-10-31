@@ -37,7 +37,7 @@ Primer ítem de observación: **escribe la hipótesis antes de mirar el resultad
 - ¿Qué crees que va a pasar si pones ese precio? Escríbelo antes de ejecutar.
 - ¿Se cumplió vuestra hipótesis? Y si no, ¿por qué creéis que falló?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Alta previa en el simulador** con las cuentas del alumnado creadas y comprobadas. Hazlo con días de antelación: es lo único que puede arruinar la sesión.
 - **Reparto de tres productos por pareja**, preparado de modo que haya variedad de niveles de competencia entre productos.
 - **Ficha de observación por pareja**: los datos de los tres productos, el pico identificado con su explicación, el precio decidido y la **hipótesis escrita**.
@@ -50,7 +50,7 @@ Primer ítem de observación: **escribe la hipótesis antes de mirar el resultad
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El simulador permite explorar un mercado tomando decisiones reales con consecuencias visibles, sin requerir ningún conocimiento teórico previo.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La hipótesis escrita antes de ejecutar obliga a explicitar el razonamiento y separa la calidad del razonamiento del acierto del resultado.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -75,7 +75,7 @@ expl-sda05-06.webp | La rotación
 
 ## Los dos retos del taller
 
-::: aviso ✍️ La regla que no se salta
+::: aviso La regla que no se salta
 Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a ocurrir y por qué. Si acertáis, bien; si no, también: lo que se valora es el razonamiento, no el resultado.
 :::
 
@@ -83,7 +83,7 @@ Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué hacéis</th></tr></thead><tbody><tr><td>1</td><td>Elegid uno de vuestros tres productos y abrid su <b>histórico de precios</b>.</td></tr><tr><td>2</td><td>Localizad un <b>pico</b>: una subida o una bajada llamativa.</td></tr><tr><td>3</td><td>Escribid qué creéis que pasó. Y aquí está lo importante: <b>¿lo provocó quien vende o quien compra?</b></td></tr></tbody></table>
 
-::: nota 🎯 «El mercado subió» no es una explicación
+::: nota «El mercado subió» no es una explicación
 Es repetir el hecho con otras palabras. Una explicación señala **un lado**: «se retiraron vendedores y quedó menos producto», o «entraron muchos compradores a la vez». Eso sí dice algo.
 :::
 
@@ -93,7 +93,7 @@ Es repetir el hecho con otras palabras. Una explicación señala **un lado**: «
 
 ### La rotación del dispositivo
 
-::: aviso 🔄 Se cambia de manos en cada reto
+::: aviso Se cambia de manos en cada reto
 Es obligatorio y se observa. Que una sola persona de la pareja maneje el dispositivo durante toda la sesión es exactamente lo que hay que evitar.
 :::
 
@@ -107,7 +107,7 @@ En las sesiones 3, 4 y 5 le vais a poner nombre: demanda, oferta, equilibrio y e
 
 ### 2. Dos lados, no uno
 
-::: nota ⚖️ La idea que vale más de esta sesión
+::: nota La idea que vale más de esta sesión
 Un precio se mueve porque cambia algo en **uno de los dos lados** del mercado: quien vende o quien compra. Decir «el mercado subió» es describir el hecho, no explicarlo.
 
 Cuando en la sesión 5 aparezcan los desplazamientos de curva, estaréis poniendo notación a algo que hoy ya habéis observado.

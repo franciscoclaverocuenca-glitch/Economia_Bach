@@ -27,7 +27,7 @@ titulo: Sesión 2 · Los guardianes del mercado
 - ¿Qué puedo hacer yo, como consumidor, si sospecho de un abuso?
 - ¿Ha visto algún caso parecido al de nuestro gabinete?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar con antelación suficiente** con la **ACREA** (Agencia de la Competencia y de la Regulación Económica de Andalucía, organismo de la Junta con sede en Sevilla, con departamentos de investigación y de promoción de la competencia) o con **FACUA-Consumidores en Acción** (asociación nacida en Sevilla, con delegación en Málaga). Charla presencial o por videoconferencia.
 - **Alternativa de contingencia**: si no fuera posible, la sesión puede sostenerse sobre materiales divulgativos audiovisuales de la propia CNMC y una entrevista escrita real, manteniendo la voz externa como fuente.
 - **Revisa las preguntas de los gabinetes** antes de la sesión: cada uno debe traer al menos una conectada con su caso pericial.
@@ -39,7 +39,7 @@ titulo: Sesión 2 · Los guardianes del mercado
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con personal de una institución real de defensa de la competencia o de una asociación de consumidores muestra una salida profesional del ámbito económico-jurídico y da respuesta directa a la pregunta abierta que el propio alumnado formuló el día anterior.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Cada gabinete llega con su pregunta preparada de casa y vinculada a su caso, lo que estructura la escucha y convierte la charla en una fuente documental identificada desde el principio.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda. Si la charla es por videoconferencia, activa los subtítulos automáticos de la plataforma.
 :::
 
@@ -66,7 +66,7 @@ sda6-s02-04.webp | Cierre
 
 <table><thead><tr><th width="34%">Contenido</th><th width="66%">Por qué os importa</th></tr></thead><tbody><tr><td><b>Cómo se detecta y se sanciona un cártel</b></td><td>Un pacto de precios es secreto por definición. La respuesta pasa por el <b>programa de clemencia</b>: la primera empresa que confiesa puede quedar exenta de multa. Guardadlo: es un guiño directo al juego de la sesión 5.</td></tr><tr><td><b>Quién vigila qué</b></td><td>La CNMC es la autoridad estatal; la ACREA, la andaluza, con sede en Sevilla. Y las asociaciones de consumidores como FACUA, nacida también en Sevilla, actúan desde otro lado.</td></tr><tr><td><b>Qué puede hacer un consumidor concreto</b></td><td>Hojas de reclamaciones, denuncia ante consumo, reclamación de daños tras una sanción por cártel. Es la parte más práctica de la charla.</td></tr><tr><td><b>Casos reales resueltos</b></td><td>Preguntad si conoce alguno parecido al vuestro. Puede daros el mejor material del informe.</td></tr></tbody></table>
 
-::: nota 🎤 Vuestra pregunta obligatoria
+::: nota Vuestra pregunta obligatoria
 Cada gabinete formula al menos **una pregunta conectada con su caso pericial**. Anotad la respuesta con cuidado: una fuente institucional de primera mano tiene mucho valor documental, y así se lo debéis reconocer en el informe.
 :::
 

@@ -27,7 +27,7 @@ titulo: Sesión 4 · Causas de la inflación y la deflación
 - ¿Por qué el BCE no persigue una inflación del 0 %?
 - El Brent ronda los 100 dólares. ¿Qué tipo de inflación genera eso?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Seleccionar y compartir con antelación** en Moodle Centros un vídeo divulgativo riguroso y breve sobre qué es la inflación y sus causas, con una o dos preguntas guía que el alumnado responde **antes** de la sesión. Canales de referencia de la programación: Econosublime, Economía desde casa, Ecomon Academy.
 - **Tarjetas del concurso «¿inflación o deflación?»** con situaciones reales o verosímiles, proyectables.
 - **Comprobar que el alumnado ha visto el vídeo** antes de la sesión: el aula invertida se cae si no se verifica.
@@ -38,7 +38,7 @@ titulo: Sesión 4 · Causas de la inflación y la deflación
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El formato de aula invertida permite que cada persona vea el vídeo a su ritmo, con pausas y subtítulos, y libera el tiempo de aula para la parte que requiere acompañamiento.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El concurso con escala de dedos y turnos de 15 segundos da a todo el mundo una vía de participación breve y de bajo riesgo, con feedback inmediato entre iguales.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Asegúrate de que el vídeo compartido tiene subtítulos verificados (no automáticos) o facilita la transcripción. Durante el concurso, proyecta cada tarjeta por escrito además de leerla, y repite en voz alta las justificaciones del resto de la clase.
 :::
 
@@ -70,7 +70,7 @@ Se proyecta una situación real o verosímil. Por parejas dentro del grupo base,
 
 <table><thead><tr><th width="44%">Situación</th><th width="20%">¿Qué generaría?</th><th width="36%">Pista</th></tr></thead><tbody><tr><td>Una crisis energética con el petróleo disparado</td><td></td><td>¿Qué le pasa a los costes de producción de casi todo?</td></tr><tr><td>Una recesión con paro al alza y demanda hundida</td><td></td><td>¿Quién compra cuando nadie tiene empleo?</td></tr><tr><td>Una guerra de precios entre supermercados</td><td></td><td>Ojo: ¿es generalizado o es un sector?</td></tr><tr><td>Un exceso de gasto público en una economía a pleno rendimiento</td><td></td><td>Mucho dinero persiguiendo pocos bienes.</td></tr><tr><td>Todo el mundo espera que los precios sigan subiendo el año que viene</td><td></td><td>¿Qué hacen las empresas y los sindicatos «por si acaso»?</td></tr></tbody></table>
 
-::: aviso 🎯 Se puntúa la justificación, no el acierto
+::: aviso Se puntúa la justificación, no el acierto
 Una respuesta correcta sin justificación no vale. Una respuesta equivocada con un razonamiento sólido enseña más que un acierto por intuición.
 :::
 
@@ -92,7 +92,7 @@ Vídeo del canal **Econosublime** (Javier Martínez Argudo, Málaga), incluido e
 
 **c) Inflación por expectativas.** Es la más sutil y la más peligrosa. Si todo el mundo espera que los precios sigan subiendo, las empresas suben precios «por si acaso» y las plantillas piden subidas salariales para no perder poder adquisitivo. Pero esas subidas salariales son un coste, que se traslada de nuevo a los precios. Es la **espiral precios-salarios**: la expectativa se cumple porque todo el mundo actúa como si fuera a cumplirse.
 
-::: nota 🗣️ Por eso los bancos centrales hablan tanto
+::: nota Por eso los bancos centrales hablan tanto
 Si la inflación se alimenta de expectativas, **convencer** a la gente de que los precios se van a estabilizar es en sí mismo una herramienta de política monetaria. Por eso el BCE cuida tanto sus comunicados: sus palabras mueven expectativas. Y por eso vuestro producto final es, precisamente, un comunicado.
 :::
 

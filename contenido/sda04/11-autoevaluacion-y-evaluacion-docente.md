@@ -10,7 +10,7 @@ Se te devuelve el **cuestionario de autodiagnóstico emprendedor** que respondis
 
 <table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Ha cambiado tu percepción de <b>lo que hace falta para montar un negocio</b>?</td></tr><tr><td>2</td><td>¿Qué te ha resultado más difícil de todo el proceso: el <b>Canvas</b> o el <b>pitch</b>?</td></tr><tr><td>3</td><td>¿Qué harías diferente si tuvieras que volver a diseñar vuestra empresa?</td></tr></tbody></table>
 
-::: nota 🔚 Hace tres semanas no sabías esto
+::: nota Hace tres semanas no sabías esto
 El primer día respondiste sobre iniciativa, riesgo y creatividad sin haber calculado nunca un coste ni haber defendido una idea ante un jurado. Ahora has hecho las dos cosas. Esa diferencia es exactamente lo que has aprendido.
 
 ```actividad

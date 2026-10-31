@@ -27,7 +27,7 @@ Cierra con Soledad Núñez, conectando la gestión de deuda personal con la gest
 - ¿Alquilar o comprar en Málaga? ¿De qué depende vuestra respuesta?
 - ¿Qué porcentaje de los ingresos consideráis un límite razonable para la cuota de una hipoteca?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuatro fichas de experto**: préstamo personal, hipoteca, tarjeta revolving y compra a plazos / «compra ahora, paga después». Una copia por persona experta.
 - **Datos reales aproximados de alquiler y compra de vivienda en la ciudad de Málaga**: precio medio de alquiler, precio medio de compra, entrada necesaria y cuota estimada. **Actualízalos**: es el dato más sensible de la unidad.
 - **TAE reales** de un préstamo personal y de una tarjeta revolving, para el contraste. Consúltalas en comparadores o en las condiciones publicadas por las entidades.
@@ -38,11 +38,11 @@ Cierra con Soledad Núñez, conectando la gestión de deuda personal con la gest
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El Puzzle de Aronson obliga a reformular el contenido con palabras propias para enseñarlo, lo que es una de las estrategias más eficaces de consolidación; cada ficha de experto incluye un ejemplo numérico resuelto además de la explicación.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La interdependencia positiva del puzzle —cada persona es la única fuente de su parte— sostiene la implicación de quien tiende a delegar en el grupo.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de expertos y la de origen implican conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, entrégale su ficha de experto por escrito con antelación para que pueda prepararla, y pide a su grupo que en la fase de origen se hable de uno en uno y de frente.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Los datos de vivienda de Málaga son el dato más volátil de toda la unidad y el que sostiene el caso estrella. Verifícalos con IECA, INE o portales inmobiliarios antes de impartir la sesión.
 :::
 
@@ -73,7 +73,7 @@ sda10-s06-08.webp | Referente: Soledad Núñez
 
 <table><thead><tr><th width="50%">Deuda que puede tener SENTIDO</th><th width="50%">Deuda PELIGROSA</th></tr></thead><tbody><tr><td>Financia algo que conserva o aumenta su valor: una vivienda, una formación.</td><td>Financia consumo que se deprecia: un móvil, un viaje, ropa.</td></tr><tr><td>O financia algo imprescindible que no puede esperar.</td><td>Tiene un coste muy alto: TAE de dos dígitos altos.</td></tr><tr><td>Tiene un coste asumible: una TAE razonable.</td><td>Está por encima de la capacidad de pago real.</td></tr><tr><td>Y encaja en la capacidad de pago: la cuota no ahoga el presupuesto.</td><td>O se contrata sin saber cuánto se acabará pagando en total.</td></tr></tbody></table>
 
-::: aviso ⚖️ El criterio no es la palabra «deuda»
+::: aviso El criterio no es la palabra «deuda»
 Son dos cosas: su **coste** (la TAE que aprendiste en la sesión 4) y su relación con tu **capacidad de pago**. Ese es el criterio que tendrás que aplicar en el Plan Financiero.
 :::
 
@@ -81,7 +81,7 @@ Son dos cosas: su **coste** (la TAE que aprendiste en la sesión 4) y su relaci�
 
 <table><thead><tr><th width="10%">Experto</th><th width="30%">Forma de deuda</th><th width="60%">Qué tienes que dominar</th></tr></thead><tbody><tr><td><b>A</b></td><td>El préstamo personal</td><td>Para qué sirve, cómo se calcula la cuota y qué TAE es razonable</td></tr><tr><td><b>B</b></td><td>La hipoteca</td><td>Plazo, tipo fijo o variable, relación cuota-ingresos y el riesgo de los tipos</td></tr><tr><td><b>C</b></td><td>La tarjeta revolving</td><td>Cómo el pago aplazado de un porcentaje mínimo dispara los intereses</td></tr><tr><td><b>D</b></td><td>La compra a plazos y el «compra ahora, paga después» (BNPL)</td><td>El atractivo del «sin intereses» y sus condiciones, comisiones y riesgos ocultos</td></tr></tbody></table>
 
-::: nota 🧩 La regla del puzzle
+::: nota La regla del puzzle
 Si tú no lo explicas, tu grupo no lo sabe. **Nadie más lo va a hacer por ti.** Sal de la fase de expertos siendo capaz de explicar tu forma de deuda con tus palabras y con un ejemplo numérico.
 :::
 
@@ -91,7 +91,7 @@ Con datos reales aproximados de alquiler y de compra de vivienda en la ciudad, c
 
 <table><thead><tr><th width="34%">Aspecto a valorar</th><th width="33%">Alquilar</th><th width="33%">Comprar con hipoteca</th></tr></thead><tbody><tr><td>Cuota mensual</td><td></td><td></td></tr><tr><td>Ahorro previo necesario</td><td></td><td></td></tr><tr><td>Plazo del compromiso</td><td></td><td></td></tr><tr><td>Riesgos principales</td><td></td><td></td></tr><tr><td>¿Para qué perfil encaja mejor?</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🏠 Conclusión anticipada
+::: nota Conclusión anticipada
 **No hay una única respuesta correcta.** Depende del perfil, del horizonte temporal y de la estabilidad de los ingresos. Una respuesta que empieza por «depende de…» y sigue con una justificación vale más que una respuesta rotunda.
 :::
 
@@ -117,7 +117,7 @@ Calculad el coste real de una compra pequeña financiada con tarjeta revolving. 
 
 **d) La compra a plazos y el «compra ahora, paga después» (BNPL).** El atractivo es el «sin intereses», que a veces es real y a veces no. Hay que leer tres cosas: si hay comisiones, qué ocurre si te retrasas un solo pago, y si el precio de partida es el mismo que al contado.
 
-::: aviso 🔴 La trampa de la tarjeta revolving
+::: aviso La trampa de la tarjeta revolving
 1. Pagas un **porcentaje mínimo** cada mes, no la deuda. La cuota es pequeña y parece cómoda.
 2. Pero esa cuota cubre sobre todo **intereses**, no capital.
 3. Como el capital baja muy despacio, los intereses siguen siendo altos mes tras mes.
@@ -138,7 +138,7 @@ En Málaga, con precios de alquiler y de compra tensionados, la comparación es 
 
 ### 4. Referente: Soledad Núñez
 
-::: nota 🏛️ De la deuda doméstica a la deuda pública
+::: nota De la deuda doméstica a la deuda pública
 **Soledad Núñez** es subgobernadora del Banco de España desde 2024. Antes dirigió la Dirección General del Tesoro en los años más duros de la crisis de deuda de la eurozona, cuando España tenía que colocar su deuda en unos mercados que desconfiaban.
 
 Su trabajo consistía exactamente en lo que estás haciendo hoy a escala doméstica: decidir **cuánto endeudarse, a qué plazo y a qué coste**, sabiendo que un error se paga durante años. Es un referente de mujeres al frente de las instituciones económicas españolas.

@@ -27,7 +27,7 @@ titulo: Sesión 1 · ¿De quién es tu dinero?
 - Si un banco te pediría diez documentos y ellos ninguno, ¿qué están cobrando por ese riesgo?
 - ¿Por qué puede haber menor participación femenina en las decisiones de inversión, y qué efecto tiene eso a treinta años?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **3-4 mensajes financieros reales** proyectables: una tarjeta o app de pago aplazado «sin intereses», una publicación de un supuesto experto que «garantiza» duplicar el dinero con criptomonedas, un anuncio de préstamo rápido «en 10 minutos y sin papeles» y un titular sobre el precio del alquiler en Málaga. **Anonimiza marcas y perfiles.**
 - **Cuestionario diagnóstico digital** de 8-10 preguntas de opción múltiple en Kahoot o Google Forms, inspirado en la Encuesta de Competencias Financieras del Banco de España (interés, inflación, diversificación).
 - **Plantilla de objetivo financiero personal**, una por alumno/a.
@@ -38,7 +38,7 @@ titulo: Sesión 1 · ¿De quién es tu dinero?
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida son mensajes publicitarios que el alumnado ve a diario en sus propias redes: un contexto reconocible que no exige ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El objetivo financiero personal, escrito por cada persona y recuperado en la sesión 10, convierte la unidad en un proyecto propio y no en un temario ajeno.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas con enfoques asignados permite participar sin exponerse ante el gran grupo; el diagnóstico es individual y sin nota.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -86,7 +86,7 @@ Un objetivo financiero útil tiene tres cosas: es **tuyo**, es **concreto** y ti
 
 <table><thead><tr><th width="44%">Objetivo poco útil</th><th width="56%">Objetivo útil</th></tr></thead><tbody><tr><td>«Ahorrar más»</td><td>«Ahorrar 300 € antes del verano»</td></tr><tr><td>«No gastar tanto»</td><td>«No acabar ningún mes en números rojos este trimestre»</td></tr><tr><td>«Ser rico»</td><td>«Tener 500 € de colchón para imprevistos en un año»</td></tr></tbody></table>
 
-::: nota 🎯 Esto no es un ejercicio
+::: nota Esto no es un ejercicio
 Este objetivo te va a acompañar durante toda la unidad y lo vas a recuperar en la sesión 10 para convertirlo en un compromiso real. Escríbelo en serio.
 :::
 
@@ -94,7 +94,7 @@ Este objetivo te va a acompañar durante toda la unidad y lo vas a recuperar en 
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -107,7 +107,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -159,7 +159,7 @@ Casi todos los errores financieros vienen de confundir estas tres cosas, o de sa
 
 ### 4. Una pregunta abierta para toda la unidad
 
-::: aviso 🔍 Brecha de género en decisiones financieras
+::: aviso Brecha de género en decisiones financieras
 Las encuestas oficiales de competencias financieras detectan, de media, **menor confianza y menor participación de las mujeres** en las decisiones de inversión y de pensiones.
 
 No cerramos aquí ninguna conclusión. La pregunta es doble: ¿por qué puede ocurrir? Y sobre todo, sabiendo lo que verás en la sesión 4 sobre el interés compuesto, **¿qué consecuencias tiene eso acumulado a treinta años?** Busca datos, comprueba las fuentes y forma tu propio juicio a lo largo de la unidad.

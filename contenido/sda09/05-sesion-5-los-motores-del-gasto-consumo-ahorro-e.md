@@ -27,7 +27,7 @@ titulo: 'Sesión 5 · Los motores del gasto: consumo, ahorro e inversión'
 - El ahorro sube en las crisis. ¿Eso ayuda o agrava la crisis?
 - Si bajan los tipos de interés, ¿qué le pasa al consumo, al ahorro y a la inversión?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tres dosieres de experto** (consumo, ahorro, inversión), tantas copias como personas vayan a especializarse en cada uno.
 - **Tabla-resumen de determinantes** de tres columnas, una por grupo base, para el portafolio.
 - **Tarjetas de casos exprés** y tarjetas de respuesta (↑C, ↓C, ↑A, ↓A, ↑I, ↓I).
@@ -39,7 +39,7 @@ titulo: 'Sesión 5 · Los motores del gasto: consumo, ahorro e inversión'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La estructura de grupos de expertos obliga a reformular el contenido con palabras propias para enseñarlo, que es una de las estrategias más eficaces de consolidación; cada dosier incluye un ejemplo resuelto además de la lista de determinantes.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La interdependencia positiva —cada persona es la única fuente de su dosier— sostiene la implicación de quien tiende a delegar en el grupo, y la coevaluación interna la hace visible.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La fase de expertos y el retorno al grupo base generan conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, entrégale su dosier por escrito con antelación para que pueda prepararlo, y pide a su grupo que en el retorno se hable de uno en uno y de frente.
 :::
 
@@ -71,7 +71,7 @@ Cada miembro de tu grupo base recibe **un** dosier y se reúne con los especiali
 
 <table><thead><tr><th width="20%">Dosier</th><th width="36%">Qué es</th><th width="44%">Determinantes que tienes que dominar</th></tr></thead><tbody><tr><td><b>A · El consumo privado</b></td><td>Gasto de las familias en bienes y servicios. Con una excepción importante: la vivienda nueva no cuenta como consumo, sino como inversión.</td><td>Renta disponible y renta permanente · tipos de interés y facilidades de crédito · riqueza · expectativas sobre el futuro</td></tr><tr><td><b>B · El ahorro</b></td><td>La parte de la renta disponible que no se consume. Importa para el país porque financia la inversión futura.</td><td>Renta disponible · seguridad de los ingresos futuros, incluido el papel protector de la Seguridad Social · tipo de interés</td></tr><tr><td><b>C · La inversión</b></td><td>Compra de bienes de capital <b>nuevos</b>: planta, equipo y vivienda nueva residencial.</td><td>Tipos de interés · capacidad productiva realmente utilizada · expectativas y confianza · impuestos</td></tr></tbody></table>
 
-::: aviso ⚠️ El error más frecuente de toda la unidad
+::: aviso El error más frecuente de toda la unidad
 En macroeconomía, **invertir es comprar bienes de capital nuevos**. Comprar acciones en Bolsa **no** es inversión en este sentido: al comprar una acción de segunda mano no se produce nada nuevo, solo cambia de manos un título. Esa distinción se pregunta en la prueba escrita.
 :::
 
@@ -87,7 +87,7 @@ Levantad la tarjeta de respuesta y justificadla en **una frase**.
 
 <table><thead><tr><th width="36%">Caso</th><th width="22%">Vuestra respuesta</th><th width="42%">Justificación</th></tr></thead><tbody><tr><td>Bajan los tipos de interés</td><td></td><td></td></tr><tr><td>Se teme una oleada de despidos</td><td></td><td></td></tr><tr><td>Sube el valor de las viviendas</td><td></td><td></td></tr><tr><td>El Estado baja el impuesto de sociedades</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🎲 Y la pregunta que abre mañana
+::: nota Y la pregunta que abre mañana
 ¿Qué le pasa al **conjunto** de la economía cuando la inversión se mueve? Mañana lo descubriréis con una simulación. Se llama el efecto multiplicador.
 :::
 
@@ -105,7 +105,7 @@ Y esto tiene una consecuencia directa sobre el circuito que construiste en las s
 - El **ahorro** es una **filtración**: saca el euro del circuito. Es exactamente lo que ocurrió en la ronda 3 de la sesión 1, cuando alguien guardó la ficha en la hucha y la cadena se detuvo.
 - Salvo que alguien tome prestado ese ahorro para **invertir**: entonces vuelve a entrar. La inversión es una **inyección**.
 
-::: nota 🔁 Filtraciones e inyecciones
+::: nota Filtraciones e inyecciones
 Son los dos conceptos que explican por qué el circuito puede acelerarse o frenarse. **Filtraciones:** ahorro, impuestos e importaciones sacan renta del circuito. **Inyecciones:** inversión, gasto público y exportaciones la devuelven. Una filtración y una inyección son la tercera pieza obligatoria de vuestra maqueta.
 :::
 
@@ -121,7 +121,7 @@ El ahorro es la parte de la renta disponible que no se consume. Para una familia
 
 Sus determinantes son la renta disponible, la seguridad de los ingresos futuros —donde el papel protector de la Seguridad Social es relevante: quien confía en tener pensión y prestación por desempleo necesita ahorrar menos por precaución— y el tipo de interés.
 
-::: aviso 📉 Un dato incómodo: el ahorro es contracíclico
+::: aviso Un dato incómodo: el ahorro es contracíclico
 - En las **expansiones** la tasa de ahorro **baja**: con empleo seguro, las familias consumen más.
 - En las **crisis** se **dispara**: ante la incertidumbre se ahorra por precaución, justo cuando la economía más necesitaría que se gastara.
 - El máximo histórico en España fue el **confinamiento de 2020**: no se podía consumir y la incertidumbre era máxima. Las dos fuerzas empujaron en el mismo sentido.

@@ -33,7 +33,7 @@ La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abi
 - ¿Por qué creéis que la ley identifica a las familias monoparentales como colectivo prioritario?
 - ¿Y qué tiene eso que ver con la escasez de la que hemos hablado hoy?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuatro noticias reales y recientes** sobre la crisis de vivienda en Málaga, con enlaces actualizados por ti: (a) el alquiler que absorbe buena parte del salario y las movilizaciones del Sindicato de Inquilinas e Inquilinos; (b) el precio medio de compra en Málaga capital y su ritmo de subida; (c) los datos del INE sobre viviendas de uso turístico en la provincia; (d) la concentración de grandes tenedores de vivienda en alquiler.
 - **Plantilla de manifiesto de consenso**, una por grupo base.
 - **Dato del Plan Vive en Andalucía** sobre colectivos con acceso prioritario a la vivienda protegida en alquiler.
@@ -45,7 +45,7 @@ La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abi
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un problema que el alumnado y sus familias viven directamente en la provincia, lo que permite participar desde la experiencia propia sin necesitar ningún conocimiento económico previo.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas de la controversia se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso rebaja la carga de un tema con implicación personal alta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate es por parejas dentro del grupo base, no ante el gran grupo, lo que multiplica el tiempo real de participación de cada persona y reduce la exposición.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -83,7 +83,7 @@ sda1-s01-07.webp | La pregunta abierta
 
 <table><thead><tr><th width="26%">Fase</th><th width="74%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Mientras una pareja habla, la otra <b>toma notas</b> de los argumentos.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura contraria.</td></tr><tr><td><b>3 · Manifiesto conjunto</b></td><td>El grupo de 4 debe llegar a acuerdos y redactar <b>tres medidas de consenso</b>.</td></tr></tbody></table>
 
-::: aviso 🔄 La fase 2 es la que importa
+::: aviso La fase 2 es la que importa
 Defender lo que no piensas obliga a entenderlo. Y es lo que hace posible la fase 3: sin haber estado en el otro lado, no se llega a un consenso real, se llega a un empate.
 :::
 
@@ -102,7 +102,7 @@ Cada grupo base representará una parte, preparará un **dossier estructurado** 
 
 ### Y un quinto dato, esta vez normativo
 
-::: nota 🏠 El Plan Vive en Andalucía
+::: nota El Plan Vive en Andalucía
 En Andalucía, las **familias monoparentales** —mayoritariamente encabezadas por mujeres— figuran, junto a los jóvenes, las víctimas de violencia de género y las personas mayores, entre los colectivos con **acceso prioritario** a la vivienda protegida en alquiler.
 :::
 
@@ -114,7 +114,7 @@ Anotadla en el margen del Cornell como **pregunta abierta**. La recuperamos en l
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -127,7 +127,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -169,7 +169,7 @@ Luego descubriréis que **no somos tan racionales como creemos** (S6 y S7), y qu
 
 Y finalmente prepararéis un dossier (S9) y lo defenderéis en un **Juicio** (S10).
 
-::: aviso 🔍 La pregunta abierta que queda en tu Cornell
+::: aviso La pregunta abierta que queda en tu Cornell
 «¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?»
 
 No la respondemos hoy. La recuperamos en la **sesión 4**, y vuelve otra vez como caso límite en el debate de la **sesión 8**.

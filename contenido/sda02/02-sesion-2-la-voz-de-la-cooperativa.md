@@ -29,7 +29,7 @@ Garantiza el **guion mínimo de preguntas**: quién decide qué se produce y cu�
 - ¿Vale lo mismo el voto de quien más aporta que el de quien menos aporta?
 - ¿En qué se parece y en qué se diferencia esto de una empresa privada tradicional, o de una decisión del Ayuntamiento?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Contactar con antelación** con un/a representante de una **cooperativa agroalimentaria andaluza**: preferiblemente una almazara cooperativa, coherente con el caso de la almazara que se trabajará en la sesión 4. También sirve una cooperativa hortofrutícola.
 - **Guion mínimo de preguntas**, repartido entre alumnos concretos para que el turno no se quede en silencio.
 - **Cuestionario formativo digital o en papel**, de 4-5 preguntas, montado y listo.
@@ -41,7 +41,7 @@ Garantiza el **guion mínimo de preguntas**: quién decide qué se produce y cu�
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una cooperativa agroalimentaria andaluza presenta una forma de organización económica real, cercana y con tradición propia en el territorio, que no aparece en los manuales como una de las tres opciones canónicas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La experiencia concreta llega antes que la formalización teórica de los tres sistemas, de modo que en la sesión 6 el alumnado disponga de una referencia real contra la que contrastar las fichas del puzzle.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, sin taparse la boca y a ritmo pausado, y solicita un guion escrito de la intervención. Sitúa al alumno/a en primera fila y repite en voz alta las preguntas del resto de la clase antes de que la persona invitada responda.
 :::
 
@@ -66,7 +66,7 @@ sda2-s02-04.webp | Cierre
 
 <table><thead><tr><th width="44%">Pregunta obligatoria</th><th width="56%">Por qué esta</th></tr></thead><tbody><tr><td><b>«¿Quién decide qué se produce y cuánto en la cooperativa?»</b></td><td>Es la pregunta de la unidad —<i>¿quién decide?</i>— formulada a alguien que lo vive cada campaña. Anotad la respuesta con sus palabras.</td></tr><tr><td><b>«¿Cómo se reparten los beneficios entre los socios?»</b></td><td>Es la tercera pregunta económica básica: <b>¿para quién?</b> Aplicada a un caso real y cercano.</td></tr><tr><td><b>«¿Vale lo mismo el voto de quien más aporta que el de quien menos aporta?»</b></td><td>Aquí está el corazón del modelo cooperativo, y la respuesta suele sorprender. Compárala con cómo funciona el voto en una sociedad anónima.</td></tr><tr><td><b>«¿En qué se parece y en qué se diferencia esto de una empresa privada tradicional, o de una decisión del Ayuntamiento?»</b></td><td>Es la pregunta que prepara la <b>sesión 10</b>, cuando estudiéis la economía mixta como combinación de formas.</td></tr></tbody></table>
 
-::: aviso 📝 Qué anotar exactamente
+::: aviso Qué anotar exactamente
 Prestad más atención a **cómo se toman las decisiones** que a los datos de producción. Quién decide, con qué reglas, cuántos votos tiene cada socio, cómo se reparte lo que se gana. Eso es lo que os va a servir durante toda la unidad.
 :::
 

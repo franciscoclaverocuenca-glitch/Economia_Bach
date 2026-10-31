@@ -29,7 +29,7 @@ Circula por las mesas. Los grupos con la Parte 4 necesitan un apoyo distinto: no
 - ¿Aparece en vuestro dossier la distinción entre escasez de vivienda y escasez natural?
 - ¿Vuestro reparto de subroles repite patrones de sesiones anteriores?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de dossier estructurado**, una por grupo base.
 - **Los portafolios y apuntes Cornell** de las sesiones 3, 4, 6 y 7: son el material de partida, no un complemento.
 - **Acceso a fuentes oficiales**: IECA, INE, Banco de España y Ministerio de Vivienda, para el dato obligatorio sobre vivienda turística, tasa de esfuerzo hipotecario, concentración de grandes tenedores o desahucios en la provincia.
@@ -41,7 +41,7 @@ Circula por las mesas. Los grupos con la Parte 4 necesitan un apoyo distinto: no
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El dossier se descompone en apartados explícitos y el control de calidad intermedio verifica los términos clave antes de la sesión evaluable, funcionando como andamiaje de planificación.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La revisión explícita del reparto de subroles para evitar patrones estereotipados acumulados hace visible una dinámica que suele pasar inadvertida y la corrige antes de la sesión sumativa.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega **por escrito** el resultado del control de calidad. Si asume la Portavocía, garantiza un ensayo previo completo de los 2 minutos de alegato.
 :::
 
@@ -68,7 +68,7 @@ sda1-s09-06.webp | Anticipad las preguntas
 
 <table><thead><tr><th width="5%"></th><th width="26%">La parte</th><th width="69%">Qué defiende</th></tr></thead><tbody><tr><td><b>1</b></td><td>Fondos de Inversión y Grandes Tenedores de Vivienda</td><td>La vivienda como <b>activo de inversión legítimo</b>: su actividad aumenta la oferta de alquiler disponible, genera rentabilidad y atrae inversión a la ciudad. Representan también a las familias con patrimonio que han ahorrado toda su vida y ven en su vivienda un activo cuyo valor no quieren ver reducido por la regulación.</td></tr><tr><td><b>2</b></td><td>Constructoras y Promotoras de Málaga</td><td>Condiciones realistas para poder construir, analizando el <b>coste de oportunidad</b> de dedicar suelo y capital a vivienda protegida a precio regulado frente a vivienda libre, en un contexto de subida de costes de materiales y mano de obra.</td></tr><tr><td><b>3</b></td><td>Plataforma Vecinal e Inquilina por el Derecho a la Vivienda</td><td>El acceso a la vivienda bajo criterios <b>éticos y de equidad</b>. Agrupa tanto a trabajadores de sectores como la hostelería con salarios cercanos al mínimo que no llegan a pagar el alquiler, como a jóvenes con empleos cualificados que no logran ahorrar la entrada ni cumplir el límite prudente del 33 % de esfuerzo. Prioriza las necesidades primarias (Maslow) frente al beneficio empresarial.</td></tr><tr><td><b>4</b></td><td>Administración Pública y Tribunal de Expertos</td><td><b>No defiende una parte</b>: modera el debate, plantea preguntas sobre vivienda pública frente a vivienda de mercado, y dicta una sentencia que maximice el bienestar social equilibrando eficiencia y equidad. Dispone de herramientas reales: declarar zonas de mercado residencial tensionado, construir vivienda pública o habilitar nuevo suelo urbanizable.</td></tr></tbody></table>
 
-::: aviso ⚖️ Una nota sobre la Parte 1
+::: aviso Una nota sobre la Parte 1
 No es «los malos». Representa también a familias que han ahorrado toda su vida y cuyo patrimonio es su vivienda. Defender bien esa parte exige entender por qué su posición es legítima para quien la sostiene, no caricaturizarla.
 :::
 
@@ -80,9 +80,9 @@ No es «los malos». Representa también a familias que han ahorrado toda su vid
 
 ### Control de calidad: los términos que el docente va a verificar
 
-<table><thead><tr><th width="7%">☐</th><th width="93%">Término clave</th></tr></thead><tbody><tr><td></td><td><b>Escasez de vivienda</b> frente a <b>escasez natural</b></td></tr><tr><td></td><td><b>Coste de oportunidad</b></td></tr><tr><td></td><td><b>Eficiencia</b> frente a <b>equidad</b></td></tr><tr><td></td><td>Los <b>sesgos de comportamiento</b> de la población</td></tr></tbody></table>
+<table><thead><tr><th width="7%"></th><th width="93%">Término clave</th></tr></thead><tbody><tr><td></td><td><b>Escasez de vivienda</b> frente a <b>escasez natural</b></td></tr><tr><td></td><td><b>Coste de oportunidad</b></td></tr><tr><td></td><td><b>Eficiencia</b> frente a <b>equidad</b></td></tr><tr><td></td><td>Los <b>sesgos de comportamiento</b> de la población</td></tr></tbody></table>
 
-::: nota 🏠 La distinción que más se olvida
+::: nota La distinción que más se olvida
 La escasez de vivienda **no es una escasez natural**. No falta suelo ni faltan materiales de forma absoluta: lo que hay es una asignación concreta de un recurso producible, condicionada por decisiones. Esa diferencia es el corazón del dossier.
 :::
 
@@ -90,7 +90,7 @@ La escasez de vivienda **no es una escasez natural**. No falta suelo ni faltan m
 
 <table><thead><tr><th width="28%">Subrol</th><th width="72%">Responsabilidad</th></tr></thead><tbody><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y el avance del dossier.</td></tr><tr><td><b>Secretario/a</b></td><td>Redacta las respuestas consensuadas.</td></tr><tr><td><b>Portavoz</b></td><td>Expone el alegato inicial de 2 minutos en el Juicio.</td></tr><tr><td><b>Controlador/a del Cornell</b></td><td>Verifica que se usan los términos clave con precisión.</td></tr></tbody></table>
 
-::: aviso ⚖️ Una revisión explícita
+::: aviso Una revisión explícita
 Comprobad que el reparto **no repite patrones estereotipados por género** acumulados en sesiones anteriores: que el Portavoz no sea sistemáticamente un chico ni la Secretaria sistemáticamente una chica. Si vuestro grupo repite patrón, hay que rotar.
 :::
 

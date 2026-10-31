@@ -29,7 +29,7 @@ Después los cuatro factores que desplazan la curva: precio de los factores de p
 - Si el precio lo hubieran decidido los supermercados, ¿por qué lo bajaron después?
 - ¿Cuál de vuestras hipótesis resiste el contraste con los datos?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos oficiales de producción** de aceite de oliva español de las últimas campañas, mostrando las dos de cosecha mínima.
 - **Serie de precios en origen de POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía. **Actualízalas** antes de impartir.
 - **Las hipótesis de la sesión 1**, conservadas en la pizarra o el mural digital. Sin ellas la sesión pierde su núcleo.
@@ -41,7 +41,7 @@ Después los cuatro factores que desplazan la curva: precio de los factores de p
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de gráficos guiada está disponible como medida de refuerzo, lo que permite que quien tiene dificultad con la representación se concentre en el razonamiento económico sin quedar bloqueado en el trazado.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La secuencia del caso se narra con las cifras a la vista y se representa después gráficamente, de modo que la misma historia esté disponible en formato verbal, numérico y gráfico.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La consigna de explicar el caso «a alguien de tu familia que cree que la subida fue un capricho» convierte la tarea en una comunicación con destinatario real, lo que aumenta la implicación y obliga a traducir el modelo a lenguaje propio.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -68,7 +68,7 @@ sda5-s04-08.webp | La lección de fondo
 
 ### La ley de la oferta
 
-::: nota 📈 El enunciado
+::: nota El enunciado
 Cuanto mayor es el precio de un bien, **mayor** es la cantidad que las empresas están dispuestas a producir y vender. Relación **directa**, curva de pendiente **positiva**. La razón la conocéis de la SdA 4: a mayor precio, más productores cubren sus costes y más unidades resulta rentable producir.
 :::
 
@@ -80,7 +80,7 @@ Cuanto mayor es el precio de un bien, **mayor** es la cantidad que las empresas 
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué ocurrió</th></tr></thead><tbody><tr><td>1</td><td><b>Sequía</b>: dos campañas consecutivas de cosecha mínima en el olivar español.</td></tr><tr><td>2</td><td><b>Desplome de la cosecha</b>: hay mucho menos aceite disponible a cada precio.</td></tr><tr><td>3</td><td><b>Desplazamiento de la curva de oferta hacia la izquierda.</b></td></tr><tr><td>4</td><td><b>Precio récord</b>, agravado porque la demanda de aceite es <b>poco sensible</b> al precio: la gente lo sigue comprando.</td></tr><tr><td>5</td><td><b>Recuperación</b> de la cosecha → desplazamiento de vuelta → <b>caída</b> del precio.</td></tr></tbody></table>
 
-::: aviso ⚖️ Y ahora juzgad vuestras hipótesis
+::: aviso Y ahora juzgad vuestras hipótesis
 ¿Aparece el Gobierno en algún punto de la secuencia? Si lo decidieron los supermercados, ¿por qué lo bajaron después sin que nadie les obligara? La avaricia, si existe, es constante: ¿explica una subida **seguida de una bajada**? **El veredicto lo dictan los datos, no el profesorado.**
 :::
 
@@ -102,7 +102,7 @@ La razón la conocéis de la SdA 4, cuando estudiasteis producción, costes y be
 
 <table><thead><tr><th width="30%">Factor</th><th width="70%">Cómo funciona</th></tr></thead><tbody><tr><td><b>El precio de los factores de producción</b></td><td>Si sube el coste de la energía, de los fertilizantes o de la mano de obra, producir sale más caro y se ofrece menos a cada precio: la curva se desplaza a la izquierda.</td></tr><tr><td><b>La tecnología</b></td><td>Una mejora técnica permite producir más con los mismos recursos: la curva se desplaza a la derecha.</td></tr><tr><td><b>Los precios de otros bienes relacionados</b></td><td>Si otro cultivo alternativo se paga mucho mejor, parte de los recursos se desvían hacia él y se ofrece menos del primero.</td></tr><tr><td><b>Las expectativas</b></td><td>Si se espera que el precio suba pronto, puede retenerse producto hoy para venderlo después.</td></tr></tbody></table>
 
-::: nota 🎤 Lo que os dijeron en Mercamálaga
+::: nota Lo que os dijeron en Mercamálaga
 «**Si hay poco género, el precio se dispara solo**». Esa frase, dicha con palabras de oficio, es exactamente lo que acabáis de modelizar: un desplazamiento de la curva de oferta hacia la izquierda. La teoría no ha inventado nada: le ha puesto nombre a algo que quien trabaja en el mercado sabe desde siempre.
 :::
 
@@ -116,7 +116,7 @@ Los datos que lo sostienen son públicos y verificables: la serie de precios en 
 
 <table><thead><tr><th width="24%">Hipótesis de la sesión 1</th><th width="76%">¿Resiste el contraste con los datos?</th></tr></thead><tbody><tr><td><b>El Gobierno</b></td><td>No. No aparece en ningún punto de la secuencia, ni fijó ningún precio.</td></tr><tr><td><b>Los supermercados</b></td><td>No. Si el precio lo hubieran decidido ellos, no se explica que lo bajaran después sin que nadie les obligara.</td></tr><tr><td><b>La avaricia</b></td><td>No. Es una explicación constante que no puede dar cuenta de una subida <b>seguida de</b> una bajada.</td></tr><tr><td><b>La sequía</b></td><td>Sí, pero <b>no directamente</b>: a través del desplazamiento de la curva de oferta. El precio es el mensajero, no la causa.</td></tr></tbody></table>
 
-::: aviso 🔍 La lección de fondo (ODS 12)
+::: aviso La lección de fondo (ODS 12)
 Los precios son **señales**, no caprichos. Leerlas con datos oficiales en lugar de con explicaciones conspirativas es lo que distingue a una persona consumidora crítica. Y eso vale para el aceite, para la luz y para cualquier producto del que oigáis hablar.
 :::
 

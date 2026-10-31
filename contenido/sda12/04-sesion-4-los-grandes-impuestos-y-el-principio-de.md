@@ -27,7 +27,7 @@ titulo: Sesión 4 · Los grandes impuestos y el principio de solidaridad
 - ¿Puede un sistema con un IRPF muy progresivo ser, en conjunto, poco redistributivo?
 - ¿Qué argumento del bando contrario os ha parecido más difícil de rebatir?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos reales de recaudación** por figura impositiva del último ejercicio (Agencia Tributaria e informe económico-financiero de la Seguridad Social) y tipos impositivos vigentes del IRPF.
 - **Ficha de argumentario** impresa, una por persona, con las dos columnas y espacio para la conclusión.
 - **Tarjetas de rol** para asignar postura y disposición de aula en dos mitades enfrentadas.
@@ -38,7 +38,7 @@ titulo: Sesión 4 · Los grandes impuestos y el principio de solidaridad
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Se ofrecen formatos alternativos de participación en el debate: intervención preparada por escrito y leída, o aportación como «documentalista» del equipo buscando el dato que sostiene el argumento de otro compañero, sin penalización académica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas se asignan, no se eligen: nadie defiende necesariamente lo que piensa, lo que rebaja la carga personal del desacuerdo y normaliza el cambio de opinión.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -68,7 +68,7 @@ sda12-s04-09.webp | Cierre
 
 «El sistema fiscal español es netamente redistributivo»
 
-::: aviso ⚠️ Regla innegociable
+::: aviso Regla innegociable
 Cada intervención debe apoyarse en **al menos un dato**. Una intervención que solo sea opinión no cuenta y se corta.
 :::
 
@@ -88,7 +88,7 @@ El sistema fiscal español descansa sobre cuatro grandes figuras. Conviene conoc
 
 <table><thead><tr><th width="18%">Impuesto</th><th width="27%">Qué grava</th><th width="23%">Naturaleza</th><th width="32%">Peso relativo</th></tr></thead><tbody><tr><td><b>Cotizaciones sociales</b></td><td>Los salarios (paga empresa y persona trabajadora)</td><td>Directo, con tope máximo</td><td>La mayor fuente de ingresos; financia sobre todo las pensiones</td></tr><tr><td><b>IRPF</b></td><td>La renta de las personas físicas</td><td>Directo y progresivo por tramos</td><td>El gran impuesto directo del sistema</td></tr><tr><td><b>IVA</b></td><td>El consumo de bienes y servicios</td><td>Indirecto y regresivo en la práctica</td><td>Aporta un volumen comparable al del IRPF</td></tr><tr><td><b>Impuesto de Sociedades</b></td><td>El beneficio de las empresas</td><td>Directo y proporcional</td><td>Muy sensible al ciclo económico</td></tr></tbody></table>
 
-::: nota 📊 Un dato que sorprende
+::: nota Un dato que sorprende
 Las cotizaciones sociales y el IVA aportan, juntas, bastante más que el IRPF. Como las cotizaciones tienen tope y el IVA es regresivo, esto tiene una consecuencia directa sobre la progresividad del conjunto del sistema. Es el núcleo del debate de hoy.
 :::
 

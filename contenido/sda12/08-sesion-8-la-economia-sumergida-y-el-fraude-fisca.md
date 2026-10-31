@@ -27,7 +27,7 @@ titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 - ¿Es lo mismo no pedir factura que defraudar? ¿Dónde está la línea?
 - ¿Se parece el alquiler turístico sin declarar a la economía sumergida clásica, o es otra cosa?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Datos del peso estimado** de la economía sumergida en España y en Andalucía, con al menos dos estimaciones distintas para que se vea la dispersión entre métodos.
 - **Cuatro casos de economía de plataformas**, uno por grupo base: reparto a domicilio, transporte con conductor, alquiler turístico y microtrabajos digitales.
 - **Ficha de análisis** con las cuatro preguntas del caso, una por grupo.
@@ -38,7 +38,7 @@ titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los casos de economía de plataformas se eligen entre realidades muy próximas al alumnado (reparto, alquiler turístico en Málaga, microtrabajos digitales), lo que permite conectar el contenido con experiencias familiares o propias.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -69,7 +69,7 @@ Cada grupo base recibe un caso real de la economía de plataformas. Cuatro pregu
 
 <table><thead><tr><th width="5%"></th><th width="42%">Pregunta</th><th width="53%">Por qué importa</th></tr></thead><tbody><tr><td>1</td><td>¿Quién declara los ingresos de esta actividad?</td><td>Si nadie los declara con claridad, ya tenéis un problema de recaudación.</td></tr><tr><td>2</td><td>¿Quién cotiza a la Seguridad Social y quién no?</td><td>Sin cotización no hay desempleo, ni baja, ni pensión futura.</td></tr><tr><td>3</td><td>¿En qué país tributa la plataforma?</td><td>La actividad transfronteriza es la novedad respecto a la economía sumergida clásica.</td></tr><tr><td>4</td><td>¿Quién asume el riesgo del negocio?</td><td>Es la pregunta que distingue a una persona autónoma real de un falso autónomo.</td></tr></tbody></table>
 
-::: nota 🧩 La pregunta final
+::: nota La pregunta final
 ¿Vuestro caso reproduce viejos problemas de la economía sumergida con formas nuevas, o es un fenómeno distinto que exige herramientas distintas? Justificadlo con lo que habéis contestado en las cuatro preguntas. Va al portafolio (instrumento P).
 :::
 
@@ -87,7 +87,7 @@ Aquí hay una paradoja interesante: si una actividad estuviera registrada, no se
 
 Se recurre a **métodos indirectos**: comparar el consumo de electricidad con la actividad declarada, medir el uso de efectivo por encima de lo que justificaría la economía formal, o cruzar la demanda de trabajo con las afiliaciones a la Seguridad Social. Distintos métodos dan cifras distintas para el mismo país y el mismo año, y esa dispersión no es un defecto que haya que ocultar: es información sobre la incertidumbre del dato.
 
-::: nota 📊 Un ejemplo perfecto del saber A6
+::: nota Un ejemplo perfecto del saber A6
 Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en el Dictamen citéis una estimación, decid con qué método se obtuvo y qué margen tiene. Eso distingue un informe técnico de un panfleto.
 :::
 
@@ -108,7 +108,7 @@ Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en
 
 **A la calidad de las decisiones públicas**, porque si una parte relevante de la actividad no se registra, los indicadores con los que se gobierna están sesgados.
 
-::: aviso 👁️ La otra economía invisible: Marilyn Waring
+::: aviso La otra economía invisible: Marilyn Waring
 Ya trabajasteis a Waring en las SdA 8 y 9. Aquí sirve para un paralelismo esclarecedor: además de la economía sumergida existe una **economía invisible que ni siquiera es ilegal** —el trabajo de cuidados no remunerado, realizado mayoritariamente por mujeres—, que sostiene toda la economía pero que ni las estadísticas contabilizan ni el sistema fiscal grava.
 
 Las dos son invisibles para el Estado, pero por razones opuestas: una se esconde, la otra nunca se consideró digna de contarse. La comparación obliga a preguntarse qué decide contar y gravar una sociedad, y qué deja fuera.

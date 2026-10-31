@@ -27,7 +27,7 @@ titulo: Sesión 1 · La factura sospechosa
 - ¿En qué se diferencia un perito de un abogado de parte?
 - ¿Quién vigila a los que ponen los precios?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuatro noticias reales y recientes**, con enlaces actualizados por ti cada curso: (a) la escalada del precio de la **electricidad** y el debate sobre la formación del precio; (b) la bajada de precios del **AVE** tras la entrada de nuevos operadores en líneas como Madrid–Málaga; (c) el encarecimiento del **alquiler** en el centro de Málaga y su relación con la vivienda turística; (d) una **sanción de la CNMC** a un cártel por pactar precios o intercambiar información.
 - **Tarjetas 0-10** para el termómetro de diagnóstico, un juego por alumno/a.
 - **Tarjetas de los seis casos periciales** con una descripción breve de cada uno.
@@ -40,7 +40,7 @@ titulo: Sesión 1 · La factura sospechosa
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La subasta permite que cada gabinete elija el caso que más le interesa, vinculando el trabajo de toda la unidad a una motivación propia; y los seis casos cubren realidades muy distintas (consumo doméstico, transporte, vivienda, compraventa entre particulares).</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El termómetro de diagnóstico se realiza con tarjetas a mano alzada y sin nota, lo que permite expresar desconocimiento sin coste; su recuperación en la sesión 9 convierte el punto de partida en una referencia visible del propio progreso.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La puja es grupal y breve (30 segundos), lo que reparte la exposición oral y la hace asumible también para quien evita intervenir ante el gran grupo.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -72,7 +72,7 @@ Cinco preguntas. Puntúa de **0 a 10** tu seguridad para responderlas **ahora mi
 
 <table><thead><tr><th width="6%"></th><th width="56%">Pregunta</th><th width="18%">Mi puntuación</th><th width="20%">Se resuelve en…</th></tr></thead><tbody><tr><td>1</td><td>¿Sabrías explicar qué es un monopolio?</td><td></td><td>Sesión 4</td></tr><tr><td>2</td><td>¿Y qué es un cártel?</td><td></td><td>Sesión 5</td></tr><tr><td>3</td><td>¿Por qué una marca puede cobrar más que su equivalente blanco?</td><td></td><td>Sesión 5</td></tr><tr><td>4</td><td>¿Quién vigila que las empresas no pacten precios?</td><td></td><td>Sesión 2</td></tr><tr><td>5</td><td>¿Qué es una externalidad?</td><td></td><td>Sesión 6</td></tr></tbody></table>
 
-::: nota 🌡️ Guarda tus puntuaciones
+::: nota Guarda tus puntuaciones
 En la sesión 9 vas a volver a puntuar estas cinco preguntas. El contraste entre las dos columnas es la mejor medida de lo que has aprendido.
 :::
 
@@ -82,7 +82,7 @@ En la sesión 9 vas a volver a puntuar estas cinco preguntas. El contraste entre
 
 <table><thead><tr><th width="26%">Caso</th><th width="48%">De qué va</th><th width="26%">Qué ilustra</th></tr></thead><tbody><tr><td><b>1 · El cártel de los fabricantes de coches</b></td><td>La CNMC sancionó en 2015 a una veintena de marcas por intercambiar información comercial sensible: uno de los expedientes de colusión más conocidos en España.</td><td>Oligopolio y colusión</td></tr><tr><td><b>2 · El cártel lácteo</b></td><td>Varias industrias sancionadas por coordinar los precios de compra de la leche cruda a los ganaderos. Afectó también a ganaderías andaluzas.</td><td>Poder de mercado del lado <b>comprador</b></td></tr><tr><td><b>3 · Del monopolio a la competencia en el AVE</b></td><td>La liberalización del tren de alta velocidad y la entrada de nuevos operadores frente a Renfe, observable en la propia línea Madrid–Málaga.</td><td>Monopolio, barreras de entrada y liberalización</td></tr><tr><td><b>4 · La vivienda turística en el centro de Málaga</b></td><td>El crecimiento de las viviendas de uso turístico y sus efectos sobre el precio del alquiler y la vida de los barrios.</td><td>Externalidades negativas</td></tr><tr><td><b>5 · «Los cacharros» de Akerlof, hoy</b></td><td>La desconfianza en el mercado de coches de segunda mano y en la reventa de entradas por internet.</td><td>Información asimétrica y selección adversa</td></tr><tr><td><b>6 · El mercado eléctrico español</b></td><td>Pocos grandes operadores, un sistema de formación de precios muy discutido y un consumidor especialmente vulnerable.</td><td>Oligopolio, regulación y equidad</td></tr></tbody></table>
 
-::: aviso 🔨 Cómo se adjudican
+::: aviso Cómo se adjudican
 Dos minutos para deliberar y **30 segundos para pujar**, justificando con al menos un argumento económico por qué os interesa ese caso. **No gana quien pide primero: gana quien mejor lo justifica.** La subasta es, en sí misma, el primer ejercicio de argumentación económica de la unidad, y se observa.
 :::
 
@@ -90,7 +90,7 @@ Dos minutos para deliberar y **30 segundos para pujar**, justificando con al men
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -103,7 +103,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -135,7 +135,7 @@ Y no funciona más a menudo de lo que parece. Las cuatro noticias de hoy señala
 
 ### 2. Vuestro papel en esta unidad: peritos, no partes
 
-::: nota ⚖️ La diferencia con el Juicio de la SdA 1
+::: nota La diferencia con el Juicio de la SdA 1
 Allí erais **partes**: cada equipo defendía unos intereses y buscaba convencer. Aquí sois **peritos económicos neutrales**.
 
 Un perito no defiende a nadie: analiza un caso y emite un dictamen fundamentado. Su credibilidad depende del **rigor y de los datos**, no de su capacidad de persuasión. Un perito que exagera para reforzar su tesis pierde toda su autoridad.

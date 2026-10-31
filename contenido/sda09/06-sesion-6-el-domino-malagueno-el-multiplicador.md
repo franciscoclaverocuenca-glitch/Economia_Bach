@@ -27,7 +27,7 @@ titulo: 'Sesión 6 · El dominó malagueño: el multiplicador'
 - Si la filtración fuera mayor, ¿el efecto total sería más grande o más pequeño?
 - En este dominó, ¿qué agente ha ganado y cuál ha soportado el coste? ¿Es igual en las dos direcciones?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **100 fichas-euro** de cartulina y **tarjetas de sector** (hotel, empresa de reformas, panadería, academia de idiomas, comercio de barrio), una por grupo base.
 - **Tabla de registro de rondas** común, proyectable, para ir anotando las fichas de cada ronda.
 - **Huchas** (vasos o sobres) para la filtración al ahorro de cada grupo.
@@ -39,11 +39,11 @@ titulo: 'Sesión 6 · El dominó malagueño: el multiplicador'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La simulación es manipulativa, con movimiento y roles sectoriales del entorno reconocible, lo que permite acceder al concepto sin depender de la abstracción numérica inicial.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El multiplicador se descubre en tres formatos sucesivos —experiencia física con las fichas, tabla numérica de rondas y generalización del patrón—, de modo que quien no accede por la vía simbólica llegue por la manipulativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La simulación implica anuncios en voz alta de varios grupos y bastante movimiento. Exige que quien anuncia su gasto se ponga en pie y espere silencio, y proyecta la tabla de rondas actualizada tras cada ronda para que el seguimiento no dependa solo de lo oído. Sitúa a este alumno/a con visión frontal de la pizarra.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con MACS I es una **propuesta pendiente de confirmación**: la tabla de rondas es un patrón numérico que el profesorado de Matemáticas puede formalizar como progresión geométrica y discutir su suma (saberes MACS.1.C.1 y MACS.1.C.2, criterio 1.1). Confirma oferta de la materia y matrícula común antes de formalizarla.
 :::
 
@@ -79,7 +79,7 @@ sda9-s06-09.webp | Cierre en clave de agentes
 
 <table><thead><tr><th width="14%">Ronda</th><th width="26%">Fichas que circulan</th><th width="30%">Va a la hucha (filtración)</th><th width="30%">Sector que recibe</th></tr></thead><tbody><tr><td>1</td><td>100</td><td>20</td><td>Empresa de reformas</td></tr><tr><td>2</td><td>80</td><td>16</td><td></td></tr><tr><td>3</td><td>64</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>…</td><td></td><td></td><td></td></tr><tr><td><b>TOTAL</b></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🎯 Lo que hay que descubrir
+::: nota Lo que hay que descubrir
 El gasto **no desaparece de golpe**: se va apagando poco a poco por la filtración del ahorro. Y cada ronda genera renta —y empleo— en un sector distinto. Sumad las rondas: los 100 € iniciales han producido bastante **más** de 100 € de gasto total. Eso es el **efecto multiplicador** de la inversión.
 :::
 
@@ -99,7 +99,7 @@ Cada ronda es **una fracción constante** de la anterior, porque en cada paso se
 
 <table><thead><tr><th width="18%">Ronda</th><th width="48%">Gasto que circula</th><th width="34%">Se filtra</th></tr></thead><tbody><tr><td>1</td><td>100 €</td><td>20 €</td></tr><tr><td>2</td><td>80 €</td><td>16 €</td></tr><tr><td>3</td><td>64 €</td><td>13 €</td></tr><tr><td>4</td><td>51 €</td><td>10 €</td></tr><tr><td>…</td><td>cada vez menos</td><td>…</td></tr><tr><td><b>Total</b></td><td><b>bastante más de 100 €</b></td><td></td></tr></tbody></table>
 
-::: nota 🔁 La conclusión
+::: nota La conclusión
 Un gasto inicial genera un aumento de la demanda total **mayor que él mismo**. Eso es el efecto multiplicador. Y cuanto **menor** sea la filtración, mayor será el efecto: si la gente gasta casi todo lo que recibe, el euro circula más veces antes de detenerse.
 :::
 
@@ -114,7 +114,7 @@ La inversión importa por dos razones distintas, en dos plazos distintos:
 
 El mecanismo funciona igual en las dos direcciones. Si el hotel **cancela** la reforma por puro pesimismo —sin que haya ocurrido nada objetivo todavía— la empresa de reformas despide, sus trabajadores consumen menos en la panadería y en el comercio, y esos sectores a su vez recortan.
 
-::: aviso ⚠️ Expectativas autorrealizables
+::: aviso Expectativas autorrealizables
 Pensar que las cosas irán mal **contribuye a que vayan mal**. La expectativa se cumple porque todo el mundo actúa como si fuera a cumplirse. Está documentado su papel en el arranque de las crisis recientes en España, donde el frenazo de la inversión activó el multiplicador en negativo con un enorme coste en empleo.
 
 De ahí la conclusión que va a tu Cornell: **la confianza es, en sí misma, una variable económica**.

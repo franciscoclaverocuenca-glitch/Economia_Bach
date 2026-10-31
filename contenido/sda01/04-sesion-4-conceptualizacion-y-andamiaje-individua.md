@@ -31,7 +31,7 @@ Ahí se presenta a **Elinor Ostrom**, primera mujer en recibir el Premio en Cien
 - ¿Puede una comunidad gestionar bien algo que comparte, sin privatizarlo ni estatalizarlo?
 - ¿Podéis responder ya mejor la pregunta que dejasteis abierta el primer día?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Presentación o proyector** con la Pirámide de Maslow y la clasificación de bienes.
 - **Plantilla Cornell**, una por alumno/a.
 - **Material sobre Elinor Ostrom**: primera mujer en recibir el Premio en Ciencias Económicas (2009) por su estudio de la gestión comunitaria de recursos compartidos.
@@ -43,7 +43,7 @@ Ahí se presenta a **Elinor Ostrom**, primera mujer en recibir el Premio en Cien
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La clasificación de bienes se aplica inmediatamente a la vivienda, un caso que el alumnado ya ha trabajado durante tres sesiones, de modo que la categoría abstracta llegue anclada a algo conocido.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El cierre del Cornell exige recuperar explícitamente la pregunta abierta de la sesión 1, lo que convierte la metacognición en un ejercicio concreto y comprobable en lugar de una reflexión genérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -76,13 +76,13 @@ sda1-s04-06.webp | Cierre del Cornell
 
 <table><thead><tr><th width="26%">Criterio</th><th width="22%">Tipos</th><th width="52%">En el caso de la vivienda</th></tr></thead><tbody><tr><td><b>Según su grado de escasez</b></td><td>Libres o económicos</td><td>La vivienda es un <b>bien económico</b>: es escasa y tiene precio. El aire es un bien libre; la vivienda, no.</td></tr><tr><td><b>Según la propiedad y el acceso</b></td><td>Privados, públicos o comunes</td><td><b>Vivienda privada de mercado</b> · <b>vivienda pública o protegida</b> · y el debate abierto sobre si debería tratarse como un bien más cercano a lo <b>común</b>.</td></tr></tbody></table>
 
-::: aviso 🏘️ Ese debate es el de la sesión 8
+::: aviso Ese debate es el de la sesión 8
 ¿Debe la vivienda regirse solo por la lógica del mercado privado? ¿O hay razones para tratarla, al menos en parte, como algo más cercano a un bien común, con reglas colectivas de acceso? No lo cerramos hoy.
 :::
 
 ### Referente: Elinor Ostrom
 
-::: nota 🏅 Primera mujer en recibir el Premio en Ciencias Económicas (2009)
+::: nota Primera mujer en recibir el Premio en Ciencias Económicas (2009)
 Ostrom estudió durante décadas cómo comunidades reales —de pescadores, de regantes, de pastores— gestionan de forma **sostenible** recursos y bienes compartidos sin que su sobreexplotación, o su privatización total, acabe perjudicando a todos.
 
 Frente a la idea de que un recurso común está condenado a agotarse, documentó cientos de casos en los que **no ocurrió**, y describió las reglas que lo hacían posible. Es un marco que vais a necesitar en la sesión 8, cuando debatáis si la vivienda debe regirse solo por la lógica del mercado.
@@ -112,7 +112,7 @@ La vivienda es interesante precisamente porque **aparece en varios niveles a la 
 
 <table><thead><tr><th width="16%">Tipo</th><th width="44%">Qué es</th><th width="40%">En el caso de la vivienda</th></tr></thead><tbody><tr><td><b>Privados</b></td><td>Excluibles: se puede impedir su uso a quien no paga. Y rivales: si lo usa uno, no lo usa otro.</td><td>La vivienda de mercado, comprada o alquilada</td></tr><tr><td><b>Públicos</b></td><td>No excluibles y no rivales: el Estado los provee porque el mercado no lo haría bien.</td><td>El alumbrado de la calle, una plaza</td></tr><tr><td><b>Comunes</b></td><td>Rivales pero difícilmente excluibles: se agotan si se sobreexplotan, y no hay forma sencilla de excluir a nadie.</td><td>Un caladero de pesca, un acuífero compartido</td></tr></tbody></table>
 
-::: aviso 🏘️ ¿Y dónde encaja la vivienda?
+::: aviso ¿Y dónde encaja la vivienda?
 Ahí está el debate. Hay **vivienda privada de mercado** y hay **vivienda pública o protegida**, con precio limitado y criterios de acceso regulados.
 
 Y hay una tercera posición que sostiene que la vivienda debería tratarse como un bien más cercano a lo **común**: algo que la sociedad gestiona colectivamente con reglas propias, ni puro mercado ni pura propiedad estatal. Es lo que debatiréis en la sesión 8.
@@ -124,7 +124,7 @@ Y hay una tercera posición que sostiene que la vivienda debería tratarse como 
 
 Estudió comunidades reales de pescadores, regantes y pastores en distintos continentes, y documentó cientos de casos en los que la gestión colectiva funcionó durante generaciones. Después identificó qué reglas lo hacían posible: límites claros, participación de los usuarios en las normas, supervisión mutua, sanciones graduales y mecanismos de resolución de conflictos.
 
-::: nota 🏅 Por qué importa aquí
+::: nota Por qué importa aquí
 Porque abre una **tercera vía** entre la privatización total y la propiedad estatal. Y la pregunta de la sesión 8 es exactamente si esa tercera vía es trasladable a la vivienda.
 :::
 

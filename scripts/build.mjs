@@ -19,13 +19,10 @@ const DIST = path.join(RAIZ, 'dist');
 const TMP = path.join(RAIZ, '.cache', 'scorm');
 const ASSETS = path.join(RAIZ, 'src', 'assets');
 const FUENTES = [
-  ['@fontsource-variable/bricolage-grotesque/files', 'bricolage-grotesque-latin-wght-normal.woff2'],
-  ['@fontsource/source-sans-3/files', 'source-sans-3-latin-400-normal.woff2'],
-  ['@fontsource/source-sans-3/files', 'source-sans-3-latin-400-italic.woff2'],
-  ['@fontsource/source-sans-3/files', 'source-sans-3-latin-600-normal.woff2'],
-  ['@fontsource/source-sans-3/files', 'source-sans-3-latin-700-normal.woff2'],
-  ['@fontsource/jetbrains-mono/files', 'jetbrains-mono-latin-400-normal.woff2'],
-  ['@fontsource/jetbrains-mono/files', 'jetbrains-mono-latin-600-normal.woff2'],
+  ['@fontsource/literata/files', 'literata-latin-400-normal.woff2'],
+  ['@fontsource/literata/files', 'literata-latin-400-italic.woff2'],
+  ['@fontsource/literata/files', 'literata-latin-700-normal.woff2'],
+  ['@fontsource/literata/files', 'literata-latin-700-italic.woff2'],
 ];
 
 const errores = [];

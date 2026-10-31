@@ -10,7 +10,7 @@ Al terminar la prueba, completa la ficha de autoevaluación. Es un instrumento e
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué se te pide</th></tr></thead><tbody><tr><td>1</td><td>Sitúate en los niveles de las rúbricas de los criterios <b>4.1, 4.2 y 4.3</b>, justificando cada posición con una <b>evidencia concreta</b> de la unidad.</td></tr><tr><td>2</td><td>Propón un aspecto concreto de mejora. Concreto: «estudiar más» no vale.</td></tr><tr><td>3</td><td>Recupera lo que respondiste en el diagnóstico de la sesión 1 —¿qué es la inflación?, ¿quién decide los tipos?, ¿es siempre mala?— y compáralo con lo que responderías hoy.</td></tr><tr><td>4</td><td>Y una última: cuando el BCE anuncie su decisión del <b>10 de septiembre</b>, ¿coincidirá con la que tomó tu grupo? Anota tu apuesta y su motivo.</td></tr></tbody></table>
 
-::: nota 🔚 El contraste antes/después
+::: nota El contraste antes/después
 Comparar lo que escribiste el primer día con lo que escribes hoy es, probablemente, la mejor medida de lo que has aprendido. Merece la pena hacerlo en serio.
 
 ```actividad

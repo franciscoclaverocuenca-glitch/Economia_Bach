@@ -31,7 +31,7 @@ Insiste en las tres: la primera idea casi nunca es la mejor, y generar alternati
 - «A todo el mundo» no es un segmento de clientes. ¿A quién exactamente?
 - ¿El canal que habéis elegido encaja de verdad con ese segmento?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Lienzo Canvas en blanco** (plantilla de 6 bloques), en A3 o proyectable, uno por equipo.
 - **Post-its de colores** para la generación de ideas y el llenado del Canvas.
 - **Las «3 ideas que me llevo»** que cada alumno/a anotó tras la charla de la sesión 2: son el banco de inspiración.
@@ -43,11 +43,11 @@ Insiste en las tres: la primera idea casi nunca es la mejor, y generar alternati
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es una necesidad real detectada por el propio alumnado en su entorno cercano —instituto, barrio, grupo de edad—, lo que vincula el proyecto a una motivación auténtica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La generación de ideas con post-its permite aportar por escrito sin necesidad de intervenir oralmente, y la validación cruzada es breve y ante un único equipo, no ante el gran grupo.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El reparto de roles se hace de forma explícita y revisando que no reproduzca patrones estereotipados, recuperando la pregunta abierta planteada en la sesión 4.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equipo en la zona más alejada y aprovecha que buena parte del trabajo es **escrito sobre post-its**. En la validación cruzada, garantiza que se hace de frente y sin ruido de fondo.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 **Coordinación con CEE — Competencia específica 2.** El proceso de generación de ideas, elección por consenso y diseño del modelo de negocio conecta con los elementos curriculares propios de Cultura Emprendedora y Empresarial, verificados en el Anexo II. Las sesiones 8 a 10 pueden servir como evidencia compartida si hay matrícula común.
 :::
 
@@ -76,7 +76,7 @@ sda4-s08-06.webp | La validación cruzada
 
 <table><thead><tr><th width="18%">Paso</th><th width="82%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Detectar</b></td><td>Por lluvia de ideas, UNA necesidad real no bien resuelta en vuestro entorno cercano.</td></tr><tr><td><b>2 · Generar</b></td><td><b>TRES</b> ideas de negocio distintas que podrían responder a ella.</td></tr><tr><td><b>3 · No descartar</b></td><td>Todavía no. La primera idea casi nunca es la mejor.</td></tr><tr><td><b>4 · Elegir</b></td><td>Y solo entonces, una sola idea, <b>por consenso</b>.</td></tr></tbody></table>
 
-::: nota 🤝 Consenso no es votación
+::: nota Consenso no es votación
 Consenso significa que **todo el equipo puede defenderla**, no que gane la mitad más uno. Si alguien no la defiende, la defensa del pitch se va a notar.
 :::
 
@@ -84,7 +84,7 @@ Consenso significa que **todo el equipo puede defenderla**, no que gane la mitad
 
 <table><thead><tr><th width="34%">Criterio</th><th width="66%">La pregunta</th></tr></thead><tbody><tr><td><b>¿Es viable?</b></td><td>¿Se podría montar de verdad con recursos razonables? No hace falta que sea fácil, pero sí posible.</td></tr><tr><td><b>¿Es original?</b></td><td>¿Aporta algo que no exista ya exactamente igual a vuestro alrededor?</td></tr><tr><td><b>¿Conecta con un compromiso social?</b></td><td>Enlazando con la sesión 7. Vuestro Canvas va a necesitar uno, así que mejor pensarlo desde el principio.</td></tr></tbody></table>
 
-::: aviso ⚖️ Y una advertencia sobre el reparto de roles
+::: aviso Y una advertencia sobre el reparto de roles
 Cálculo, diseño visual y portavocía. **Revisad que el reparto no reproduzca patrones estereotipados.** Es exactamente la pregunta que quedó abierta en la sesión 4 sobre género y emprendimiento, y hoy deja de ser abstracta.
 :::
 
@@ -96,6 +96,6 @@ Cálculo, diseño visual y portavocía. **Revisad que el reparto no reproduzca p
 
 <table><thead><tr><th width="6%"></th><th width="94%">Cómo funciona</th></tr></thead><tbody><tr><td>1</td><td>Presentáis vuestra idea a otro equipo en <b>un minuto</b>.</td></tr><tr><td>2</td><td>Ellos os dan una primera impresión <b>honesta</b>: ¿está clara la propuesta de valor? ¿es realista el segmento?</td></tr><tr><td>3</td><td>Y vosotros hacéis lo mismo con la suya.</td></tr></tbody></table>
 
-::: nota 🔍 El objetivo no es que os digan que está muy bien
+::: nota El objetivo no es que os digan que está muy bien
 El objetivo es **detectar los puntos débiles ahora**, antes de invertir toda la sesión 9 en el resto del Canvas. Un feedback amable y vacío no ayuda a nadie. Sed honestos.
 :::

@@ -33,7 +33,7 @@ El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas par
 - ¿Coincide el distrito más caro de alquiler con el más caro de compra?
 - ¿Qué distritos tienen más anuncios disponibles, y qué puede significar eso?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Reparto de distritos de Málaga**, uno por pareja, preparado de antemano para cubrir toda la ciudad sin repeticiones.
 - **Ficha de recogida de datos**, una por estudiante: cuatro campos numéricos, dos fuentes con fecha y tamaño de muestra, casilla de justificación ante discrepancia, conclusión personal y pregunta pendiente.
 - **Dispositivos con conexión**, uno por pareja como mínimo.
@@ -46,7 +46,7 @@ El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas par
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El distrito asignado puede ser el propio o uno conocido, de modo que la indagación parte de un territorio con el que el alumnado tiene relación directa.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha fija de antemano los campos que hay que rellenar y el orden de la búsqueda, lo que evita que la tarea se disuelva en una navegación sin criterio.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -75,7 +75,7 @@ expl-sda01-06.webp | El cierre
 
 <table><thead><tr><th width="5%"></th><th width="37%">Dato</th><th width="29%">Fuente 1</th><th width="29%">Fuente 2</th></tr></thead><tbody><tr><td>1</td><td>Precio medio del <b>alquiler</b></td><td></td><td></td></tr><tr><td>2</td><td>Precio medio de <b>compra</b> por m²</td><td></td><td></td></tr><tr><td>3</td><td><b>Número de anuncios</b> disponibles</td><td></td><td></td></tr><tr><td>4</td><td><b>Superficie media</b> ofertada</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔍 La regla de trazabilidad
+::: nota La regla de trazabilidad
 De cada fuente hay que anotar **tres cosas**: cuál es, de qué **fecha** es el dato y sobre **cuántos anuncios** está calculado. Una media sobre 12 anuncios y otra sobre 900 no valen lo mismo, aunque las dos sean ciertas.
 :::
 
@@ -83,7 +83,7 @@ De cada fuente hay que anotar **tres cosas**: cuál es, de qué **fecha** es el 
 
 <table><thead><tr><th width="30%">Dato en discrepancia</th><th width="24%">Fuente que tomamos</th><th width="46%">Por qué</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso ⚖️ Aquí está lo que se evalúa
+::: aviso Aquí está lo que se evalúa
 No se valora acertar el precio. Se valora **decidir con criterio** y poder explicarlo. Escoger al azar cuando dos fuentes no coinciden es exactamente lo que hay que evitar.
 :::
 
@@ -101,7 +101,7 @@ Con el mapa todavía proyectado, y **en el aula**:
 
 <table><thead><tr><th width="28%"></th><th width="72%">Qué escribes</th></tr></thead><tbody><tr><td><b>Tu conclusión personal</b></td><td>Una idea que te llevas del mapa. Tuya, no la de tu pareja.</td></tr><tr><td><b>Tu pregunta pendiente</b></td><td>Algo que el mapa te ha hecho preguntarte y que hoy no puedes responder.</td></tr></tbody></table>
 
-::: nota 📋 Por qué se recogen y se sellan
+::: nota Por qué se recogen y se sellan
 Los datos son de la pareja, pero **la conclusión y la pregunta son tuyas**. Eso permite valorar tu trabajo sin que dependa del de nadie. Las fichas se sellan al recogerlas y se devuelven en la sesión 3 para el portafolio.
 :::
 
@@ -113,7 +113,7 @@ Habéis construido una fotografía del mercado de la vivienda de Málaga con dat
 
 ### 2. La regla de trazabilidad del dato
 
-::: nota 🔍 Tres cosas por cada dato
+::: nota Tres cosas por cada dato
 1. **La fuente**: de dónde sale exactamente.
 2. **La fecha**: un precio de vivienda de hace tres años no describe el mercado de hoy.
 3. **El tamaño de muestra**: sobre cuántos anuncios está calculada esa media.

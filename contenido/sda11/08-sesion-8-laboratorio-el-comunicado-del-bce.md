@@ -27,7 +27,7 @@ Esta sesión es el andamiaje explícito de planificación antes de la evaluació
 - ¿Por qué no habéis actuado antes?
 - ¿Qué señales os harían cambiar de decisión en la próxima reunión?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla de comunicado de política monetaria** con formato de nota de prensa oficial y los cuatro apartados, una por grupo. En formato editable.
 - **Plantilla más pautada** ( **refuerzo**) para quien lo necesite, y **escenario de estanflación** ( **ampliación**) para quien avance con soltura.
 - **Escenarios macroeconómicos**, uno por grupo base, con datos de inflación, crecimiento y desempleo de la eurozona.
@@ -39,7 +39,7 @@ Esta sesión es el andamiaje explícito de planificación antes de la evaluació
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de cuatro apartados, la asignación de roles y el control de calidad intermedio actúan como andamiaje explícito de planificación antes de la evaluación sumativa; existe además una versión más pautada de la plantilla para quien la necesite.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El ensayo previo del turno de preguntas con apoyo de un compañero o compañera reduce la ansiedad anticipatoria ante la comparecencia de la sesión siguiente.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega por escrito la retroalimentación del control de calidad, además de darla oralmente. Si este alumno/a es Portavoz, garantiza un ensayo previo completo del turno de preguntas.
 :::
 
@@ -70,6 +70,6 @@ sda11-s08-06.webp | Y también sois prensa
 
 <table><thead><tr><th width="44%">Pregunta que os van a hacer</th><th width="56%">Cómo prepararla</th></tr></thead><tbody><tr><td>«Han subido los tipos: ¿qué le dicen a una familia con hipoteca variable?»</td><td>Es la más previsible de todas. Preparad la respuesta ahora, no en el atril.</td></tr><tr><td>«¿No temen provocar una recesión y destruir empleo?»</td><td>La curva de Phillips os la van a echar en cara. Reconoced el coste y explicad por qué lo asumís.</td></tr><tr><td>«¿Por qué no han actuado antes?»</td><td>Aquí se luce quien ha entendido los retardos del mecanismo de transmisión.</td></tr><tr><td>«¿Y si se equivocan?»</td><td>La mejor respuesta no es negar la posibilidad, sino explicar qué señales os harían cambiar de decisión.</td></tr></tbody></table>
 
-::: nota 🎤 No lo olvidéis
+::: nota No lo olvidéis
 En la sesión 9 vuestro grupo **también actuará como prensa económica**. Id pensando preguntas críticas para los demás: preguntar bien puntúa tanto como comparecer bien.
 :::

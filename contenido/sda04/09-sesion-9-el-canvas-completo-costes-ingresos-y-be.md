@@ -35,7 +35,7 @@ La consigna clave: **no se exige precisión contable, sino coherencia** entre la
 - ¿Por qué ese precio y no otro?
 - Si os subieran los costes un 20 %, ¿qué decisión tomaríais?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **El Canvas iniciado en la sesión 8**, con los tres primeros bloques completados.
 - **Plantilla de guion de pitch** (3-4 minutos) con los cuatro bloques obligatorios.
 - **Calculadora** u hoja de cálculo por equipo.
@@ -47,7 +47,7 @@ La consigna clave: **no se exige precisión contable, sino coherencia** entre la
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El Canvas descompone el modelo de negocio en bloques con contenido explícito y el guion del pitch fija cuatro apartados obligatorios, lo que convierte dos tareas abiertas en secuencias verificables.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La actividad de ampliación —recalcular el beneficio con costes un 20 % más altos— ofrece un reto adicional a quien avanza con soltura sin alterar la tarea común.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equipo en la zona más alejada y acuerda una norma de un solo turno de palabra. Al repartir las intervenciones del pitch, recuerda la **opción de vídeo grabado** prevista en las medidas DUA, evaluada con los mismos descriptores.
 :::
 
@@ -77,7 +77,7 @@ sda4-s09-07.webp | Repartid la defensa
 
 <table><thead><tr><th width="28%">Bloque</th><th width="72%">Qué hay que concretar</th></tr></thead><tbody><tr><td><b>ESTRUCTURA DE COSTES</b></td><td>Vuestros costes <b>fijos</b> (local, seguros, suscripciones) y <b>variables</b> (materia prima, envases, comisiones), aplicando exactamente lo de la sesión 6.</td></tr><tr><td><b>FUENTES DE INGRESOS</b></td><td>Cómo y cuánto cobráis: precio por unidad, suscripción, comisión… y a cuántos clientes esperáis llegar.</td></tr></tbody></table>
 
-::: aviso 🤔 La pregunta que resuelve la clasificación
+::: aviso La pregunta que resuelve la clasificación
 «**¿Lo pagaríamos igual si no vendiéramos nada?**» Si la respuesta es sí, es fijo. Un error aquí arrastra todo el cálculo del beneficio.
 :::
 
@@ -87,7 +87,7 @@ Beneficio = (precio × clientes estimados) − (costes fijos + costes variables)
 
 <table><thead><tr><th width="34%">Supuesto</th><th width="24%">Vuestro dato</th><th width="42%">¿De dónde sale?</th></tr></thead><tbody><tr><td>Precio de venta</td><td></td><td></td></tr><tr><td>Clientes estimados en el periodo</td><td></td><td></td></tr><tr><td>Costes fijos del periodo</td><td></td><td></td></tr><tr><td>Costes variables del periodo</td><td></td><td></td></tr><tr><td><b>Beneficio estimado</b></td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔍 La columna que más importa es la tercera
+::: nota La columna que más importa es la tercera
 Si decís que vais a tener 500 clientes el primer mes, tenéis que poder explicar **de dónde sale ese número**. Es la primera pregunta que os hará el jurado.
 
 Y un aviso: un **beneficio negativo** el primer mes no es un error. Puede ser perfectamente realista. Lo que hay que hacer es explicarlo, no maquillarlo.
@@ -101,7 +101,7 @@ Recalculad el beneficio bajo un escenario de **costes un 20 % más altos**. Y ar
 
 <table><thead><tr><th width="6%"></th><th width="26%">Bloque</th><th width="68%">Qué contar</th></tr></thead><tbody><tr><td><b>1</b></td><td>EL PROBLEMA</td><td>Qué necesidad real detectasteis y por qué está mal resuelta</td></tr><tr><td><b>2</b></td><td>LA SOLUCIÓN</td><td>Vuestra propuesta de valor, en una frase clara</td></tr><tr><td><b>3</b></td><td>LAS CIFRAS CLAVE</td><td>Precio, clientes estimados, costes principales y <b>beneficio estimado</b></td></tr><tr><td><b>4</b></td><td>EL COMPROMISO</td><td>Al menos <b>un compromiso concreto</b> de responsabilidad social o medioambiental</td></tr></tbody></table>
 
-::: aviso 🤖 Pauta sobre el uso de IA generativa
+::: aviso Pauta sobre el uso de IA generativa
 Si la usáis como apoyo a la investigación de mercado o a la redacción del guion, hay que **citarlo explícitamente**.
 
 Y **contrastar cualquier dato** que os dé con una fuente real antes de incorporarlo al proyecto. Una cifra inventada que llega al pitch se detecta en la primera pregunta del jurado.
@@ -111,7 +111,7 @@ Y **contrastar cualquier dato** que os dé con una fuente real antes de incorpor
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué hacer</th></tr></thead><tbody><tr><td>1</td><td>Repartid las intervenciones del pitch entre los miembros del equipo.</td></tr><tr><td>2</td><td><b>Ensayadlo con cronómetro</b>: 3-4 minutos son muchos menos de lo que parecen.</td></tr><tr><td>3</td><td>Anticipad las preguntas del jurado: «¿de dónde sale esa cifra?», «¿por qué ese precio?».</td></tr></tbody></table>
 
-::: nota 🎥 Y una opción disponible
+::: nota Y una opción disponible
 Quien tenga **ansiedad escénica documentada** puede presentar su pitch en formato de **vídeo grabado previamente**, evaluado con los mismos descriptores de la rúbrica.
 :::
 

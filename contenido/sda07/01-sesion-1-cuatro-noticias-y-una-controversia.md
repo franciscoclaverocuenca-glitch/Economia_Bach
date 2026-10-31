@@ -29,7 +29,7 @@ La fase de inversión es la que hace el trabajo: obliga a entender el argumento 
 - ¿Un estudiante que no busca trabajo está parado?
 - ¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Cuatro noticias reales y recientes** del mercado laboral malagueño y andaluz, con enlaces actualizados por ti al inicio del curso. Focos: (a) **paro juvenil** con datos EPA de menores de 25 años en Andalucía frente a la media española; (b) **estacionalidad turística** y los «valles» de empleo invernal en la hostelería de la Costa del Sol; (c) **empleo tecnológico** y vacantes sin cubrir en el entorno de Málaga TechPark; (d) **brecha de género** salarial o de tasa de paro, preferiblemente con datos andaluces.
 - **Plantilla de posicionamiento** para el consenso de tres líneas, una por grupo base.
 - **Tablón de la unidad** para registrar el sector elegido por cada grupo.
@@ -40,7 +40,7 @@ La fase de inversión es la que hace el trabajo: obliga a entender el argumento 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida son noticias reales sobre el mercado laboral que el alumnado va a encontrarse, en su propia provincia: un contexto directamente relevante para su proyecto vital que no exige ningún conocimiento previo.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas de la controversia se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso normaliza el cambio de opinión y rebaja la carga del desacuerdo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas dentro del grupo base permite participar sin exponerse ante el gran grupo, y el diagnóstico se realiza a mano alzada sin exigir intervención individual.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -74,7 +74,7 @@ sda7-s01-09.webp | La pregunta abierta
 
 <table><thead><tr><th width="24%">Fase</th><th width="76%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Mientras una pareja habla, la otra toma notas de los argumentos y de los datos que aparecen en las noticias.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura contraria, y con al menos <b>un argumento nuevo</b>.</td></tr><tr><td><b>3 · Consenso</b></td><td>El grupo redacta un posicionamiento de tres líneas: ¿de qué depende que el futuro laboral sea amenaza u oportunidad?</td></tr></tbody></table>
 
-::: aviso 🔄 La fase 2 es la que importa
+::: aviso La fase 2 es la que importa
 Defender lo que no piensas obliga a entenderlo. Y en la fase 3 casi siempre emerge la misma palabra: **depende**. Depende de los datos y de la preparación. Esa respuesta es justo el puente hacia el reto de la unidad.
 :::
 
@@ -84,7 +84,7 @@ A mano alzada y con respuesta razonada. **No se corrigen**: se quedan escritas e
 
 <table><thead><tr><th width="6%"></th><th width="70%">Pregunta</th><th width="24%">Se resuelve en…</th></tr></thead><tbody><tr><td>1</td><td>¿Quién de esta clase cuenta como parado para la estadística?</td><td>Sesión 3</td></tr><tr><td>2</td><td>¿Un estudiante que no busca trabajo está parado?</td><td>Sesión 3</td></tr><tr><td>3</td><td>¿Cobra todo el mundo lo mismo por el mismo trabajo?</td><td>Sesión 6</td></tr></tbody></table>
 
-::: nota 🔍 La pregunta abierta de la unidad
+::: nota La pregunta abierta de la unidad
 «**¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?**» Anótala en el margen de tu Cornell. La respondemos con datos en la sesión 6, de la mano de Claudia Goldin, Premio Nobel de Economía 2023.
 :::
 
@@ -92,7 +92,7 @@ A mano alzada y con respuesta razonada. **No se corrigen**: se quedan escritas e
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
 
-::: aviso 📋 Qué se hace con ellas en esta sesión
+::: aviso Qué se hace con ellas en esta sesión
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
@@ -105,7 +105,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
@@ -149,7 +149,7 @@ Y no pasa nada: casi nadie las responde bien la primera vez. Lo importante es qu
 
 **¿Cobra todo el mundo lo mismo por el mismo trabajo?** Aquí las respuestas se dividen, y con motivo: la respuesta correcta exige distinguir dos cifras distintas que casi nunca se distinguen en los titulares. Es el contenido de la sesión 6.
 
-::: aviso 🔍 La pregunta abierta de la unidad
+::: aviso La pregunta abierta de la unidad
 «¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?» Guárdala. En la sesión 6 tendrás las herramientas para responderla con precisión: la distinción entre **brecha bruta** y **brecha ajustada**, y los cuatro componentes que la explican.
 :::
 

@@ -29,7 +29,7 @@ La pregunta guía del Cornell es la que da nombre al modelo: **¿por qué el flu
 - ¿Pueden el flujo real y el monetario ir en el mismo sentido? ¿Por qué no?
 - En la SdA 8 supisteis a qué agente asignar esta operación. ¿Qué sabéis hacer ahora que entonces no?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla Cornell**, una por alumno/a.
 - **Diagrama mural del flujo circular (capa 1)** proyectable, y una copia en **A3** por grupo base.
 - **Seis tarjetas de operaciones reales** del entorno: «Lucía compra un móvil por 150 € en una tienda de calle Larios», «una vecina de Pedregalejo es contratada como camarera y cobra 1.100 € al mes», «un hotel de Torremolinos paga el alquiler del local», «una familia compra pan cada mañana en la panadería del barrio»… **Dos de ellas deben venir del reto de agentes de la SdA 8**: recupera ese material.
@@ -42,11 +42,11 @@ La pregunta guía del Cornell es la que da nombre al modelo: **¿por qué el flu
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>El código de dos colores para el flujo real y el monetario se mantiene sin excepción en todos los diagramas, murales y maquetas de la unidad, de modo que la distinción conceptual tenga siempre un anclaje visual constante. Para el alumnado con dificultad de discriminación cromática se acompaña de un tipo de línea distinto (continua / discontinua).</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (columna de ideas clave, columna de notas y franja de resumen), que actúa como andamiaje directo de la autorregulación y se mantiene idéntico en todas las sesiones de la unidad.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Los **minutos ganados** en el repaso activo de los agentes deben ir íntegramente a los dos mercados, los dos flujos y la razón de la circularidad: es el núcleo real de la sesión y lo único íntegramente nuevo.
 :::
 
@@ -82,7 +82,7 @@ Vuestro grupo recibe el diagrama de la capa 1 en A3 y seis tarjetas con operacio
 
 <table><thead><tr><th width="5%"></th><th width="34%">Comprobación</th><th width="61%">El error típico</th></tr></thead><tbody><tr><td>1</td><td>¿Está el <b>mercado</b> correcto?</td><td>Confundir el mercado de bienes con el de factores. Pregunta: ¿lo que se intercambia es un producto o es trabajo/capital?</td></tr><tr><td>2</td><td>¿Están las <b>flechas</b> bien orientadas?</td><td>Poner el flujo real y el monetario en el mismo sentido. Siempre van en sentidos opuestos.</td></tr><tr><td>3</td><td>¿Están los <b>colores</b> bien aplicados?</td><td>Mezclar los dos colores. Real de uno, monetario del otro, sin excepciones.</td></tr></tbody></table>
 
-::: nota 📏 Dos de las tarjetas ya las conocéis
+::: nota Dos de las tarjetas ya las conocéis
 Dos de las seis vienen del reto de agentes de la SdA 8. Entonces solo sabíais asignarlas a un agente; ahora podéis además situarlas en un mercado y descomponerlas en dos flujos. **Esa diferencia es la medida exacta de lo que habéis aprendido.**
 :::
 
@@ -109,7 +109,7 @@ Es el mismo par de agentes, en dos mercados, con los papeles cambiados. Ahí est
 
 <table><thead><tr><th width="22%"></th><th width="39%">Flujo REAL</th><th width="39%">Flujo MONETARIO</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Lo que se mueve materialmente: bienes y servicios, o factores productivos</td><td>Los pagos correspondientes: precios, salarios, alquileres</td></tr><tr><td><b>En el mercado de bienes</b></td><td>El móvil va de la empresa a la familia</td><td>El dinero va de la familia a la empresa</td></tr><tr><td><b>En el mercado de factores</b></td><td>El trabajo va de la familia a la empresa</td><td>El salario va de la empresa a la familia</td></tr><tr><td><b>Dirección</b></td><td>Siempre en sentido opuesto al monetario</td><td>Siempre en sentido opuesto al real</td></tr></tbody></table>
 
-::: aviso 🎨 El código de color de la unidad
+::: aviso El código de color de la unidad
 Un color para el flujo real y otro para el monetario, **sin excepciones**, en todos los diagramas y en tu maqueta. Es uno de los cinco elementos obligatorios del producto final y se comprueba en la corrección cruzada.
 :::
 

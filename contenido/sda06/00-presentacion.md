@@ -10,7 +10,7 @@ Cada sesión de la SdA 6 es una página de este material. Dentro de cada página
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ Antes de impartir: lo que hay que preparar
+::: aviso Antes de impartir: lo que hay que preparar
 Esta unidad tiene **tres materiales físicos** con gestión previa ineludible: las **cuatro noticias** de la sesión 1 (enlaces actualizados cada curso), la **charla** de la sesión 2 (ACREA o FACUA, con antelación suficiente) y los **productos de la cata a ciegas** de la sesión 5, comprobando previamente alergias e intolerancias del alumnado.
 
 Actualiza también los datos de **evolución del alquiler y de viviendas de uso turístico** del centro de Málaga que sostienen el mini-debate y el análisis coste-beneficio de la sesión 6, y comprueba que las notas de prensa de la CNMC citadas siguen accesibles.
@@ -43,11 +43,11 @@ Vuestro grupo se constituye como **gabinete pericial**: un equipo de peritos eco
 
 <table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Informe pericial «El mercado a juicio»</b></td><td>Documento con cinco apartados: estructura o fallo identificado; causas; consecuencias sobre eficiencia y equidad; análisis coste-beneficio comparado de dos soluciones; y recomendación motivada. Con al menos un dato oficial verificable citado con su fuente.</td><td>Instrumento R (valoración del producto), con la rúbrica general de los criterios</td></tr><tr><td><b>2. Ratificación ante la Comisión</b></td><td>Tres minutos de exposición de lo esencial del informe y dos de preguntas cruzadas de los demás gabinetes y del docente. La Portavocía expone, pero cualquier miembro puede ser requerido.</td><td>Instrumentos EO (exposición oral), D (preguntas cruzadas) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
-::: nota ⚖️ Aquí sois peritos, no partes
+::: nota Aquí sois peritos, no partes
 Es la diferencia deliberada con el Juicio de la SdA 1. Allí cada equipo defendía unos intereses; aquí **nadie defiende intereses de parte**. Vuestra credibilidad como peritos depende del rigor y de los datos: un perito que exagera pierde toda su autoridad.
 :::
 
-::: aviso 📁 Los seis casos periciales
+::: aviso Los seis casos periciales
 1. **El cártel de los fabricantes de coches** — oligopolio y colusión.
 2. **El cártel lácteo** — poder de mercado del lado comprador, con efecto en ganaderías andaluzas.
 3. **Del monopolio a la competencia en el AVE** — monopolio, barreras de entrada y liberalización.
@@ -66,7 +66,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

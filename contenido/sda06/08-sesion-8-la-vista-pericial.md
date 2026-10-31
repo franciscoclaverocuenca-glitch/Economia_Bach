@@ -29,7 +29,7 @@ Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y
 - ¿Quién sale perdiendo con vuestra recomendación?
 - ¿Qué fallo de mercado os ha parecido más grave de todos los expuestos?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Informes entregados** por cada gabinete al abrir la vista.
 - **Disposición del aula en semicírculo** como Comisión de Competencia. Prepárala antes de que entre el grupo.
 - **Rúbrica de los criterios 2.1 y 2.3** visible para todo el mundo durante la sesión.
@@ -41,7 +41,7 @@ Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La ratificación es breve (3 minutos) y se apoya en un informe ya redactado, lo que reduce la carga de la exposición oral; y el turno de preguntas puede responderse entre varios miembros del gabinete.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas se conocen de antemano y el registro es deliberativo y no adversarial: se busca la verdad del caso, no derrotar a nadie. Solo las preguntas cruzadas son imprevisibles, y se han anticipado en la sesión 7.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con turnos orales cruzados en semicírculo. Sitúa a este alumno/a en un extremo del semicírculo con visión frontal del conjunto, exige que quien pregunta se identifique y hable de frente y de uno en uno, y facilita **por escrito** los informes de los demás gabinetes antes de la sesión para que pueda preparar sus preguntas.
 :::
 
@@ -78,7 +78,7 @@ sda6-s08-06.webp | Cierre
 
 <table><thead><tr><th width="40%">Caso</th><th width="60%">Qué ilustra</th></tr></thead><tbody><tr><td>Cártel de coches · mercado eléctrico</td><td>Oligopolio y colusión</td></tr><tr><td>Cártel lácteo</td><td>Poder de compra: el monopsonio de Joan Robinson</td></tr><tr><td>El AVE</td><td>Monopolio, barreras de entrada y liberalización</td></tr><tr><td>Vivienda turística en Málaga</td><td>Externalidades negativas</td></tr><tr><td>«Los cacharros» de Akerlof</td><td>Información asimétrica y selección adversa</td></tr></tbody></table>
 
-::: nota 🗺️ Escuchar a los demás es repasar
+::: nota Escuchar a los demás es repasar
 No es casualidad: el conjunto de las seis ratificaciones es, deliberadamente, el **temario completo de la prueba escrita** de mañana. Tomad notas.
 :::
 

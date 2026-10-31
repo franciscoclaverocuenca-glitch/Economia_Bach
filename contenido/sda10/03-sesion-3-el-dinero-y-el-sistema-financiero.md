@@ -29,7 +29,7 @@ Menciona brevemente el papel supervisor del Banco de España y del BCE, pero **n
 - ¿Por qué el dinero fiduciario vale algo si no está respaldado por oro?
 - ¿Qué función del dinero cumple mal cuando hay inflación alta?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla Cornell** impresa o digital, una por alumno/a.
 - **6-8 tarjetas de reto «¿quién es quién en el sistema financiero?»** repartidas por el aula, con situaciones cotidianas: una familia deposita sus ahorros, una empresa emite acciones, alguien contrata un seguro de hogar, un banco concede una hipoteca, una persona compra participaciones de un fondo, el Estado emite deuda pública.
 - **Presentación de conceptos** y espacio en la pizarra para el ejemplo numérico de la reserva fraccionaria.
@@ -40,11 +40,11 @@ Menciona brevemente el papel supervisor del Banco de España y del BCE, pero **n
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (ideas clave, notas y resumen), que es un andamiaje directo de la autorregulación (descriptor CPSAA5).</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 El rally implica movimiento y conversación simultánea de varias parejas, lo que eleva mucho el ruido ambiental. Coloca las tarjetas de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrégale las tarjetas también en papel para que no dependa de instrucciones orales.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 El papel supervisor del Banco de España y del BCE se menciona aquí solo de pasada: su desarrollo completo corresponde a la SdA 11. Conviene decirlo en voz alta al alumnado para que perciba la coherencia entre unidades.
 :::
 
@@ -77,7 +77,7 @@ sda10-s03-08.webp | Síntesis
 
 <table><thead><tr><th width="54%">Situación</th><th width="46%">Agente e institución que interviene</th></tr></thead><tbody><tr><td>Una familia deposita sus ahorros en una cuenta</td><td></td></tr><tr><td>Una empresa emite acciones para financiarse</td><td></td></tr><tr><td>Alguien contrata un seguro de hogar</td><td></td></tr><tr><td>Un banco concede una hipoteca</td><td></td></tr><tr><td>Una persona compra participaciones de un fondo de inversión</td><td></td></tr><tr><td>El Estado emite deuda pública para financiarse</td><td></td></tr></tbody></table>
 
-::: aviso 🎯 La exigencia de la fase 2
+::: aviso La exigencia de la fase 2
 Usa la terminología exacta. «Un banco» no es una respuesta: «un **intermediario financiero** que capta depósitos del público y concede crédito» sí lo es. Esa precisión es lo que se evalúa en el portafolio.
 :::
 
@@ -104,7 +104,7 @@ Esta es probablemente la idea más contraintuitiva de la sesión. La mayor parte
 3. Quien recibe esos 900 € los ingresa en su banco, que guarda 90 € y presta 810 €.
 4. Y así sucesivamente. Del depósito inicial han surgido muchos más euros de dinero bancario en circulación.
 
-::: nota 🏦 La frase que hay que retener
+::: nota La frase que hay que retener
 El dinero que ves en tu cuenta **no está guardado en una caja fuerte esperándote**: está prestado. El sistema funciona porque no todo el mundo lo reclama a la vez. Cuando eso ocurre, se llama pánico bancario, y es la razón de que exista un supervisor.
 :::
 

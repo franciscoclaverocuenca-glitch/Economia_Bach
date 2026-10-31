@@ -29,7 +29,7 @@ Retoma el dato ya trabajado en la sesión 4: el **superávit comercial andaluz n
 - Si el euro se aprecia, ¿le conviene a quien exporta aceite a Estados Unidos?
 - ¿Por qué una apreciación del euro puede reducir la competitividad exportadora?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Esquema de la balanza de pagos** proyectable, con sus dos grandes bloques.
 - **6 tarjetas de transacciones económicas reales**, una baraja por pareja.
 - **Calculadora** y cuestionario de aplicación.
@@ -40,7 +40,7 @@ Retoma el dato ya trabajado en la sesión 4: el **superávit comercial andaluz n
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Las seis transacciones son situaciones cotidianas y reconocibles —un turista, una remesa, una empresa de software— antes de clasificarse en categorías técnicas, de modo que la abstracción llegue anclada a algo concreto.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El caso del tipo de cambio se responde primero individualmente y solo después se contrasta con la pareja, lo que garantiza que cada persona haya pensado por su cuenta antes de escuchar otra respuesta.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -71,7 +71,7 @@ sda3-s06-06.webp | Cierre del Bloque A
 
 <table><thead><tr><th width="5%"></th><th width="70%">Transacción</th><th width="25%">¿Qué balanza?</th></tr></thead><tbody><tr><td>1</td><td>Una empresa malagueña de software cobra por un servicio prestado a un cliente alemán</td><td></td></tr><tr><td>2</td><td>Una persona migrante envía dinero a su familia en otro país</td><td></td></tr><tr><td>3</td><td>Google invierte en construir una nueva sede en el Málaga TechPark</td><td></td></tr><tr><td>4</td><td>Un turista francés paga un hotel en la Costa del Sol</td><td></td></tr><tr><td>5</td><td>España recibe fondos europeos de cohesión</td><td></td></tr><tr><td>6</td><td>Una empresa andaluza cobra dividendos de una filial en Portugal</td><td></td></tr></tbody></table>
 
-::: aviso ⚠️ Las dos que más se fallan
+::: aviso Las dos que más se fallan
 La **1** y la **3**. Cobrar por un servicio prestado a otro país es una **exportación de servicios** (cuenta corriente). Que una empresa extranjera construya una sede aquí es una **inversión** (balanza financiera). No son lo mismo, aunque en ambos casos entre dinero.
 :::
 
@@ -81,7 +81,7 @@ Si el euro se APRECIA frente al dólar, ¿le conviene eso a una empresa malague�
 
 Responded **primero individualmente**. Después contrastad con vuestra pareja y razonad el porqué.
 
-::: nota 💱 La respuesta, y su razón
+::: nota La respuesta, y su razón
 Le **perjudica**. Si el euro vale más, el aceite andaluz resulta más caro en dólares para el comprador estadounidense, y eso puede reducir su competitividad. Una **depreciación** del euro tendría el efecto contrario.
 :::
 
@@ -140,7 +140,7 @@ Se organiza en dos grandes bloques:
 
 <table><thead><tr><th width="22%">Bloque</th><th width="26%">Sub-balanza</th><th width="52%">Qué registra</th></tr></thead><tbody><tr><td><b>Cuenta corriente</b></td><td>Balanza comercial</td><td>Exportaciones e importaciones de <b>bienes</b></td></tr><tr><td></td><td>Balanza de servicios</td><td>Turismo, transporte, software, servicios profesionales</td></tr><tr><td></td><td>Balanza de rentas</td><td>Dividendos, intereses y salarios cobrados o pagados al exterior</td></tr><tr><td></td><td>Balanza de transferencias</td><td>Remesas de migrantes, fondos europeos, ayudas</td></tr><tr><td><b>Balanza financiera</b></td><td>—</td><td>Inversiones extranjeras, compra de deuda, préstamos: movimientos de <b>capital</b></td></tr></tbody></table>
 
-::: nota 📊 Un dato que ya conocéis
+::: nota Un dato que ya conocéis
 El **superávit comercial andaluz no energético superó los 9.000 millones de euros** en el último ejercicio. Eso significa que Andalucía vendió al exterior bastante más de lo que compró en bienes no energéticos: una balanza comercial claramente positiva.
 :::
 
@@ -159,7 +159,7 @@ Es el **precio de una moneda en términos de otra**. Si un euro se cambia por 1,
 - **Apreciación**: la moneda gana valor frente a la otra. Un euro pasa a valer más dólares.
 - **Depreciación**: la moneda pierde valor. Un euro pasa a valer menos dólares.
 
-::: aviso 💱 Y por qué le importa a una almazara de la provincia
+::: aviso Y por qué le importa a una almazara de la provincia
 Si el **euro se aprecia**, el aceite de oliva andaluz resulta **más caro en dólares** para el comprador estadounidense, aunque su precio en euros no haya cambiado. Eso reduce su competitividad exportadora.
 
 Si el **euro se deprecia**, ocurre lo contrario: el aceite se abarata para el comprador extranjero y gana competitividad. Por eso una moneda «fuerte» no siempre es una buena noticia para quien exporta.

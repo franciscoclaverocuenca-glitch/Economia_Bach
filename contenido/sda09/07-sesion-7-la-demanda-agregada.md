@@ -29,7 +29,7 @@ A partir de ahí todo es nuevo: la curva, su pendiente negativa (si baja el nive
 - ¿Es lo mismo un titular que dice «cayó el consumo» que uno que dice «se prevé que caiga»?
 - ¿Qué factores desplazan la curva a la derecha? ¿Y a la izquierda?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **8-10 tarjetas de titulares económicos reales y recientes** (adaptados): bajada de tipos de interés, previsiones de desempleo, subida de las transferencias, un mal año turístico, un episodio de inflación… **Incluye deliberadamente titulares de previsión** junto a titulares de hecho, porque la penalización por confundirlos es parte del ejercicio.
 - **Gráficas de demanda agregada en A3**, una por grupo, y proyectables para la corrección.
 - **Plantilla del método de tres pasos** y cartulina para dejarlo visible en el mural del aula.
@@ -41,11 +41,11 @@ A partir de ahí todo es nuevo: la curva, su pendiente negativa (si baja el nive
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método de tres pasos es un andamiaje procedimental explícito que permanece visible en el mural durante el resto de la unidad, de modo que la resolución de escenarios no dependa de recordar la secuencia.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión sin conocimiento previo relevante de la SdA 8, con una única excepción aprovechable: la descomposición C + I + G + (X − M) se dedujo allí al calcular el PIB por la vía del gasto. Conviene abrir recuperándola explícitamente, porque convierte una fórmula aparentemente nueva en un reencuentro.
 :::
 
@@ -80,7 +80,7 @@ sda9-s07-08.webp | Cierre
 
 <table><thead><tr><th width="10%">Paso</th><th width="90%">Qué haces</th></tr></thead><tbody><tr><td><b>I</b></td><td>Detectar qué <b>factor</b> está variando.</td></tr><tr><td><b>II</b></td><td>Deducir a qué <b>componente</b> del gasto afecta: C, I, G o XN.</td></tr><tr><td><b>III</b></td><td>Explicar qué ocurre con la <b>curva</b>: movimiento o desplazamiento, y en qué sentido.</td></tr></tbody></table>
 
-::: nota 🧭 Este método se queda en el mural del aula
+::: nota Este método se queda en el mural del aula
 Lo vas a usar en esta sesión, en la sesión 8, en tu panel de escenarios de la maqueta y en el bloque 2 de la prueba escrita. Es el procedimiento central de la unidad.
 :::
 
@@ -90,7 +90,7 @@ Vuestro grupo recibe 8-10 tarjetas con titulares económicos reales. Contrarrelo
 
 <table><thead><tr><th width="40%">Titular</th><th width="18%">Factor</th><th width="18%">Componente</th><th width="24%">Efecto en la curva</th></tr></thead><tbody><tr><td>Baja el tipo de interés oficial</td><td></td><td></td><td></td></tr><tr><td>Se prevé un aumento del desempleo el año que viene</td><td></td><td></td><td></td></tr><tr><td>El Estado sube las transferencias a las familias</td><td></td><td></td><td></td></tr><tr><td>Mal año turístico: caen las visitas extranjeras</td><td></td><td></td><td></td></tr><tr><td>Sube el nivel general de precios</td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso ⚠️ Cuidado con esto: −0,5 puntos
+::: aviso Cuidado con esto: −0,5 puntos
 Se descuenta medio punto si el grupo **confunde un hecho con una previsión**. «Cayó el consumo» y «se prevé que caiga el consumo» no son lo mismo, y la diferencia importa: una previsión actúa a través de las **expectativas**, que ya sabéis que son en sí mismas una variable económica.
 :::
 

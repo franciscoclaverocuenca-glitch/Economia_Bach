@@ -27,7 +27,7 @@ En el debate exige dos cosas en cada intervención: que **cite el modelo** (curv
 - ¿Por qué la receta de una crisis puede ser contraproducente en la otra?
 - ¿Qué agente soporta el coste de vuestra propuesta? Nombradlo.
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tres fichas de crisis** con los rasgos esenciales de cada caso: **1973** (encarecimiento brusco del petróleo: caída de la producción con fuerte subida de precios), **2008** (desplome de la confianza, la riqueza y el crédito: caída de la producción con precios contenidos) y **2020** (parón simultáneo por la pandemia).
 - **Gráficas DA-OA en A3**, una por grupo, y proyectables para la corrección conjunta.
 - **Plantilla del método de tres pasos** (la misma de la sesión 7) y el mural con el método visible.
@@ -39,11 +39,11 @@ En el debate exige dos cosas en cada intervención: que **cite el modelo** (curv
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El paralelismo explícito con la sesión 7 —mismo método de tres pasos, distinta curva— reduce la carga cognitiva de un contenido nuevo al presentarlo como aplicación de un procedimiento ya automatizado.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate del gabinete se desarrolla con turnos reglados y con el diagnóstico gráfico ya resuelto por escrito, de modo que la intervención oral se apoye en un trabajo previo y no dependa de la improvisación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con MACS I es una **propuesta pendiente de confirmación**: la lectura e interpretación gráfica de las curvas DA-OA como funciones (pendiente, desplazamiento frente a movimiento) es conectable con el saber MACS.1.C.4.
 :::
 
@@ -80,7 +80,7 @@ sda9-s08-10.webp | Cierre
 
 Juntando las dos curvas aparece el punto donde la producción que las empresas ofrecen coincide con la que los agentes demandan. Ese punto fija **a la vez** el nivel general de precios y la producción del país.
 
-::: nota ⚖️ La gran consecuencia
+::: nota La gran consecuencia
 Desplazar la demanda o la oferta agregada **desplaza el equilibrio**, y con él la producción, los precios y el empleo de todo el país. Y el equilibrio puede quedar **por debajo del potencial**: con factores sin usar o mal usados. Eso es, en el modelo, lo que significa una crisis.
 :::
 
@@ -88,7 +88,7 @@ Desplazar la demanda o la oferta agregada **desplaza el equilibrio**, y con él 
 
 <table><thead><tr><th width="12%">Crisis</th><th width="58%">Los síntomas que se observaron</th><th width="30%">¿Qué curva se desplazó?</th></tr></thead><tbody><tr><td><b>1973</b></td><td>Encarecimiento brusco del petróleo: caída de la producción con <b>fuerte subida</b> de precios.</td><td></td></tr><tr><td><b>2008</b></td><td>Desplome de la confianza, la riqueza y el crédito: caída de la producción con precios <b>contenidos</b>.</td><td></td></tr><tr><td><b>2020</b></td><td>Parón simultáneo por la pandemia.</td><td></td></tr></tbody></table>
 
-::: aviso 🔍 La diferencia que hay que ver
+::: aviso La diferencia que hay que ver
 Una **crisis de oferta** produce paro **con** inflación. Una **crisis de demanda** produce paro **sin** inflación. Dibujadlo en la gráfica y comprobad que el modelo predice exactamente los síntomas observados. Esa es la prueba de que el modelo sirve.
 :::
 
@@ -110,7 +110,7 @@ Su curva tiene **pendiente positiva**: a mayores precios, más empresas cubren s
 
 <table><thead><tr><th width="44%">La curva de OA se desplaza cuando cambia…</th><th width="56%">Ejemplos</th></tr></thead><tbody><tr><td>La <b>cantidad de factores</b> disponibles</td><td>Más población activa, nuevos recursos naturales, más capital instalado</td></tr><tr><td>La <b>productividad</b></td><td>Formación de la población trabajadora, progreso técnico, mejor organización</td></tr><tr><td>El <b>precio de los factores</b></td><td>Salarios, energía, materias primas</td></tr></tbody></table>
 
-::: nota 🧭 Mismo método, distinta curva
+::: nota Mismo método, distinta curva
 El **método de tres pasos** de la sesión 7 funciona exactamente igual aquí: detectar el factor, deducir a qué afecta, explicar el efecto sobre la curva. No hay que aprender un procedimiento nuevo.
 :::
 
@@ -128,7 +128,7 @@ Pero —y esto es lo importante— **el equilibrio puede quedar por debajo del p
 
 <table><thead><tr><th width="12%">Crisis</th><th width="34%">Qué ocurrió</th><th width="20%">Qué curva</th><th width="34%">Síntomas</th></tr></thead><tbody><tr><td><b>1973</b></td><td>Encarecimiento brusco del petróleo: se dispara el precio de un factor esencial</td><td>OA a la izquierda</td><td>Caída de la producción <b>con fuerte subida de precios</b></td></tr><tr><td><b>2008</b></td><td>Desplome de la confianza, la riqueza y el crédito</td><td>DA a la izquierda</td><td>Caída de la producción con precios <b>contenidos</b></td></tr><tr><td><b>2020</b></td><td>Parón simultáneo de la actividad por la pandemia</td><td>Ambas a la izquierda</td><td>Caída muy brusca de la producción</td></tr></tbody></table>
 
-::: aviso ⚠️ La distinción clave
+::: aviso La distinción clave
 Una **crisis de oferta** produce paro **con** inflación. Una **crisis de demanda** produce paro **sin** inflación. Y de ahí se deduce algo importante: **la receta de una crisis puede ser contraproducente en la otra**. Estimular la demanda en una crisis de oferta agrava la inflación sin resolver el problema de fondo.
 :::
 

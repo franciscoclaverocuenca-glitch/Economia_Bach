@@ -31,7 +31,7 @@ Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo,
 - ¿A partir de qué punto cada trabajador adicional aporta menos que el anterior? ¿Por qué?
 - ¿Qué decisiones solo puede tomar una empresa a largo plazo?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Caso original de una fábrica ficticia** con la tabla de producto total según el número de trabajadores. Debe estar diseñado para que el producto marginal **crezca primero y decrezca después**: si no, la actividad pierde su sentido.
 - **Plantilla de tabla** producto total / producto medio / producto marginal, una por pareja.
 - **Ejemplo de las dos tecnologías** proyectable: envasado manual frente a línea semiautomática, con sus costes respectivos.
@@ -43,7 +43,7 @@ Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo,
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo fenómeno se presenta en tres registros: la comparación narrativa de las dos tecnologías, la tabla numérica de los tres productos y la interpretación verbal de lo que ocurre, de modo que quien no accede por la vía numérica pueda hacerlo por la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La tabla está estructurada en columnas fijas que se rellenan en orden, lo que convierte un cálculo encadenado en una secuencia de pasos verificables.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -81,7 +81,7 @@ sda4-s05-07.webp | Corto y largo plazo
 
 <table><thead><tr><th width="6%"></th><th width="60%">Pregunta</th><th width="34%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>¿Con cuántos trabajadores se alcanza el <b>máximo</b> de producto total?</td><td></td></tr><tr><td>2</td><td>¿A partir de qué punto cada trabajador adicional aporta <b>menos</b> que el anterior?</td><td></td></tr></tbody></table>
 
-::: nota 💡 Lo que hay que entender (no memorizar)
+::: nota Lo que hay que entender (no memorizar)
 Llega un punto en que cada persona añadida **aporta menos que la anterior**. ¿Por qué? Porque comparten el mismo espacio, la misma maquinaria y las mismas herramientas. Con doce personas en una cocina de cuatro fogones, la duodécima estorba más de lo que produce.
 
 Esta intuición la vais a necesitar en la **sesión 9**, cuando estiméis los costes de vuestro propio proyecto y tengáis que decidir cuánta gente hace falta.
@@ -101,7 +101,7 @@ Fijaos en que **cuánto dura** el corto plazo depende del sector: para una peluq
 
 ### 1. Qué es realmente la tecnología
 
-::: nota 🔧 Una definición que sorprende
+::: nota Una definición que sorprende
 Cualquier **combinación de factores productivos** implica ya una tecnología, por rudimentaria que sea. Un embudo es tecnología. Y el progreso técnico consiste, simplemente, en encontrar combinaciones mejores.
 :::
 
@@ -121,7 +121,7 @@ Si añadís trabajadores a una empresa manteniendo fija la maquinaria y el espac
 - Pero llega un punto en que cada persona añadida **aporta menos** que la anterior. Comparten el mismo espacio, la misma maquinaria y las mismas herramientas.
 - Y en el extremo, una persona más puede incluso **reducir** la producción total: estorba.
 
-::: aviso 🍳 La imagen que lo explica
+::: aviso La imagen que lo explica
 Doce personas en una cocina con cuatro fogones. La quinta ya no puede cocinar; la duodécima estorba. No es que trabaje peor: es que **el factor fijo está saturado**.
 :::
 

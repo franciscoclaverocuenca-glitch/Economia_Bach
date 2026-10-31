@@ -29,7 +29,7 @@ Si el centro dispone de canales de difusión propios y con el visto bueno de las
 - ¿Cómo se sostendría en el tiempo?
 - ¿Qué le diríais a alguien que dijera que vuestro reto no es tan grave?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Guiones y bocetos de infografía terminados** por cada grupo.
 - **Un móvil o tablet por grupo** para la grabación.
 - **Cartulina o dispositivo digital** para la infografía final.
@@ -42,7 +42,7 @@ Si el centro dispone de canales de difusión propios y con el visto bueno de las
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El podcast está <b>grabado</b>, no se narra en directo: eso permite repetir tomas y elimina la presión de la exposición oral simultánea, sin rebajar la exigencia comunicativa.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El formato rotativo garantiza que todo el alumnado presente su propia campaña y conozca las demás, en un registro de divulgación y escucha entre iguales en lugar de competición.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica se conoce de antemano y la valoración del público es razonada y por escrito, no una votación popular, lo que evita dinámicas de popularidad.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con escucha de audio simultánea en varias estaciones: la de mayor riesgo acústico de la unidad. Sitúa la estación de este alumno/a en el rincón más aislado, y **pide a todos los grupos que entreguen la transcripción escrita de su podcast** junto al archivo: resuelve el problema de raíz y además mejora el producto de todos. En la ronda de preguntas cruzadas, exige que se hable de pie, de uno en uno y de frente.
 :::
 
@@ -71,7 +71,7 @@ sda3-s12-06.webp | Y después
 
 <table><thead><tr><th width="6%"></th><th width="94%">Lo que tenéis que hacer en cada estación que visitéis</th></tr></thead><tbody><tr><td>1</td><td>Escuchar el podcast <b>completo</b>. Los 3-4 minutos: no basta con asomarse.</td></tr><tr><td>2</td><td>Observar la infografía: ¿cuenta la misma historia que el podcast?</td></tr><tr><td>3</td><td>Hacer <b>al menos una pregunta</b>. Y que sea una pregunta de verdad, no un cumplido.</td></tr><tr><td>4</td><td>Anotar vuestra valoración razonada con la rúbrica de los criterios 5.1 y 5.2.</td></tr></tbody></table>
 
-::: aviso 🔍 Fijaos especialmente en los datos
+::: aviso Fijaos especialmente en los datos
 ¿Cita la fuente? ¿Es verificable? ¿O es una cifra que suena bien y no se sabe de dónde sale? Lleváis once sesiones practicando exactamente eso.
 :::
 
@@ -79,7 +79,7 @@ sda3-s12-06.webp | Y después
 
 <table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · narración del podcast</td><td>La intervención de cada Portavoz: claridad, ritmo y capacidad de contar la historia en 3-4 minutos.</td></tr><tr><td><b>D</b> · turno de preguntas</td><td>La calidad de vuestras preguntas <b>y</b> de vuestras respuestas.</td></tr><tr><td><b>R</b> · las tres piezas</td><td>Podcast, infografía y propuesta ODS, con los mismos descriptores de la rúbrica general de los criterios.</td></tr><tr><td><b>Co.Ev.</b> · ficha de escucha</td><td>Vuestra valoración razonada de <b>al menos tres</b> campañas distintas de la vuestra.</td></tr></tbody></table>
 
-::: nota 📣 Y una última posibilidad
+::: nota Y una última posibilidad
 Si el centro dispone de canales de difusión propios y con el visto bueno de las familias, las mejores piezas podrán compartirse bajo el hashtag **#GlobalizAcción**. Una campaña que se queda en el aula sensibiliza a veintiséis personas; publicada, puede llegar bastante más lejos.
 :::
 

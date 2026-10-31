@@ -10,7 +10,7 @@ Cada sesión de la SdA 12 es una página de este material. Dentro de cada págin
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica de la sesión, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. Haz clic en cualquier miniatura para abrirlo. El mismo mazo se entrega aparte en formato .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ Antes de impartir
+::: aviso Antes de impartir
 Este material se apoya en datos oficiales que cambian cada ejercicio (Presupuestos Generales del Estado, presupuesto de la Junta y del Ayuntamiento de Málaga, recaudación por figuras impositivas, deuda/PIB). Todas las cifras están marcadas en el texto y en la guía docente de cada sesión con el ejercicio al que corresponden. Revísalas antes de empezar la unidad.
 :::
 
@@ -41,7 +41,7 @@ Durante esta unidad no vais a ser una clase: vais a ser una **Comisión de Exper
 
 <table><thead><tr><th width="24%">Pieza</th><th width="46%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Dictamen de reforma fiscal</b></td><td>Documento técnico grupal: diagnóstico del problema, propuestas concretas de ingreso y de gasto, estimación cuantificada de su impacto y fuentes oficiales citadas.</td><td>Rúbrica · instrumento P (producción) y R (rúbrica de producto)</td></tr><tr><td><b>2. Comparecencia ante la Comisión</b></td><td>Defensa oral del dictamen, turno de preguntas del resto de comisiones y negociación de un acuerdo común de mínimos.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
-::: nota 🧠 Por qué esto no lo puede hacer una IA por ti
+::: nota Por qué esto no lo puede hacer una IA por ti
 El dictamen exige datos concretos de **Málaga y Andalucía** que tendréis que buscar y verificar, una estimación cuantitativa propia y una defensa oral con réplica en directo. Una respuesta genérica se detecta en el primer turno de preguntas.
 :::
 
@@ -55,7 +55,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 

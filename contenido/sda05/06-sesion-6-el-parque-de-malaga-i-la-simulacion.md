@@ -29,7 +29,7 @@ titulo: 'Sesión 6 · El Parqué de Málaga (I): la simulación'
 - ¿Qué ha pasado en la ronda 2, y con qué desplazamiento de qué curva lo explicaríais?
 - ¿Por qué el efecto sobre la cantidad no es el mismo en la ronda 2 que en la 3?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tarjetas secretas de valor de reserva** (compradores) y **de coste** (vendedores). **Los valores deben estar escalonados** de modo que, reveladas al final, dibujen exactamente una curva de demanda y una de oferta. **Es el material más delicado de la unidad**: compruébalo gráficamente antes de imprimir.
 - **Juegos adicionales de tarjetas** para la ronda 2 (costes más altos) y la ronda 3 (valores de reserva más altos).
 - **Chalecos o distintivos de rol** para distinguir compradores, vendedores y notarios.
@@ -42,11 +42,11 @@ titulo: 'Sesión 6 · El Parqué de Málaga (I): la simulación'
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La simulación es una experiencia física, con roles diferenciados y resultado individual visible, lo que permite implicarse desde la acción y no desde la exposición verbal.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El modelo de oferta y demanda se experimenta antes de volver a representarse gráficamente: las tarjetas reveladas al final <b>son</b> las dos curvas, lo que hace tangible una abstracción.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rol de <b>notario/a de mercado</b> ofrece una vía de participación plenamente evaluable que no exige negociar de viva voz, y que además es imprescindible para el producto final.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La negociación de viva voz en el centro del aula es la actividad de mayor ruido de toda la unidad. **Considera asignar a este alumno/a el rol de notario/a de mercado**: es un rol central, imprescindible y evaluable, que se ejerce desde un puesto fijo y con registro escrito. Si prefiere negociar, acuerda que las ofertas se muestren **por escrito en tarjeta** además de anunciarse.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 La coordinación con **CDPC** (registro sistemático de transacciones en hoja de cálculo compartida: recogida y generación de datos de una simulación social con agentes identificados, saberes CDPC.1.B.1 y B.2) es una propuesta pendiente de confirmación.
 :::
 
@@ -98,7 +98,7 @@ Se anota en la pizarra **antes** de empezar. Es una hipótesis científica en to
 
 <table><thead><tr><th width="16%">Ronda</th><th width="30%">Precio medio observado</th><th width="54%">Nuestra explicación (hipótesis)</th></tr></thead><tbody><tr><td>1</td><td></td><td></td></tr><tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr></tbody></table>
 
-::: aviso 🔬 Todo esto son hipótesis
+::: aviso Todo esto son hipótesis
 Hoy solo las anotamos. Mañana, en el laboratorio de datos, las verificáis formalmente construyendo las curvas teóricas y comparándolas con lo que realmente ocurrió.
 :::
 

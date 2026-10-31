@@ -33,7 +33,7 @@ Ese «¿bajo qué condiciones?» es la clave del formato: no se pide abandonar e
 - ¿Qué impacto ambiental tiene vuestra propuesta a largo plazo?
 - ¿Vuestro Acta refleja elementos de más de un sistema?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dossieres de delegación** entregados por cada grupo al abrir la Cumbre.
 - **Aula organizada en mesas por delegación**. Prepárala antes de que entre el grupo.
 - **Rúbrica de coevaluación** de argumentación y negociación, visible durante toda la sesión.
@@ -46,7 +46,7 @@ Ese «¿bajo qué condiciones?» es la clave del formato: no se pide abandonar e
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La intervención inicial es breve (2 minutos) y se apoya en un borrador ya redactado y ensayado en la sesión anterior, lo que reduce la carga de la exposición oral sin rebajar la exigencia.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La postura se defiende como delegación asignada, no como opinión personal, y el registro es cooperativo y no adversarial: se busca acuerdo, no derrotar a nadie.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La delegación 4 no defiende sistema propio sino que introduce la dimensión de sostenibilidad, lo que ofrece un rol plenamente evaluable con una lógica de intervención distinta de la confrontación.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sesión con turnos orales cruzados entre mesas. Sitúa la mesa de esta delegación en un extremo con visión frontal del conjunto, exige que quien pregunta se identifique y hable de frente y de uno en uno, y facilita **por escrito** los dossieres de las demás delegaciones antes de la sesión para que pueda preparar sus preguntas.
 :::
 
@@ -78,7 +78,7 @@ sda2-s11-07.webp | La pregunta de fondo
 
 <table><thead><tr><th width="12%">Tiempo</th><th width="24%">Fase</th><th width="64%">Qué ocurre</th></tr></thead><tbody><tr><td>5 min</td><td><b>Apertura</b></td><td>El aula se organiza en mesas por delegación y se recogen los dossieres. El docente es el moderador y secretario general.</td></tr><tr><td>15 min</td><td><b>Intervenciones iniciales</b></td><td>Cada Portavoz dispone de <b>2 minutos</b> para presentar el sistema de su delegación y su postura ante el reto.</td></tr><tr><td>20 min</td><td><b>Ronda de negociación</b></td><td>El moderador lanza preguntas cruzadas y las delegaciones deben responder y <b>buscar puntos en común</b>, pese a partir de sistemas distintos.</td></tr><tr><td>8 min</td><td><b>Acta de conclusiones</b></td><td>Redacción en gran grupo de un acuerdo de consenso de <b>3-4 puntos</b> que refleje elementos de varios sistemas.</td></tr><tr><td>2 min</td><td><b>Coevaluación</b></td><td>Escala de dedos según la rúbrica de argumentación y negociación.</td></tr></tbody></table>
 
-::: nota 🤝 El tipo de pregunta que hace el moderador
+::: nota El tipo de pregunta que hace el moderador
 «¿Podría una delegación de economía de mercado aceptar una distribución de emergencia planificada durante la crisis? **¿Bajo qué condiciones?**»
 
 Fijaos en la segunda parte. Ahí está la clave del formato: **no se os pide que abandonéis vuestro sistema**, sino que identifiquéis en qué condiciones concretas podríais aceptar algo del otro.
@@ -88,7 +88,7 @@ Fijaos en la segunda parte. Ahí está la clave del formato: **no se os pide que
 
 Entre todos, guiados por el moderador, se redacta un acuerdo de consenso de **tres o cuatro puntos** que refleje elementos de **varios** sistemas. Por ejemplo, una respuesta mixta a la crisis alimentaria.
 
-::: aviso 📜 Qué es y qué no es el Acta
+::: aviso Qué es y qué no es el Acta
 **No es** un empate ni un promedio. **Es** un acuerdo que cada delegación pueda firmar sin traicionar su posición de partida.
 
 Y si el Acta no incluye elementos de al menos **dos sistemas distintos**, no ha habido negociación: ha habido cuatro discursos seguidos.
@@ -98,7 +98,7 @@ Y si el Acta no incluye elementos de al menos **dos sistemas distintos**, no ha 
 
 <table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · intervención inicial</td><td>Los 2 minutos de cada Portavoz: claridad al presentar el sistema y la postura.</td></tr><tr><td><b>D</b> · turno de negociación</td><td>La calidad de vuestras respuestas <b>y</b> de vuestras preguntas en la ronda cruzada.</td></tr><tr><td><b>R</b> · el dossier de delegación</td><td>El producto entregado, con los mismos descriptores de la rúbrica general de los criterios 1.3 y 1.4.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación final</td><td>Vuestra valoración razonada de las otras delegaciones, con la escala de dedos.</td></tr></tbody></table>
 
-::: nota 🔑 Y recordad de dónde venís
+::: nota Y recordad de dónde venís
 En la sesión 1 repartisteis **doce fichas** de tres formas distintas y discutisteis cuál era más justa. Hoy hacéis lo mismo, pero con una crisis alimentaria global, cuatro sistemas y un acuerdo que firmar. **La pregunta es la misma: ¿quién decide?**
 :::
 

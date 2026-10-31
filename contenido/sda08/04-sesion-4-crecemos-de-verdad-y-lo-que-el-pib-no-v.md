@@ -29,7 +29,7 @@ titulo: Sesión 4 · ¿Crecemos de verdad? y lo que el PIB no ve
 - Si mañana todo el trabajo de cuidados se pagara, el PIB subiría de golpe. ¿Seríamos más ricos?
 - De las cuatro estaciones, ¿qué agente aparece más veces soportando costes sin recibir el beneficio?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Tablas de datos oficiales** del INE, Eurostat y Banco Mundial para el Torneo de tasas, y **Contabilidad Regional de España e IECA** para la comparación andaluza. **Actualiza las cifras.**
 - **Tarjetas del Torneo de tasas** (2 rondas) y plantilla de soluciones para la corrección cruzada.
 - **Un titular real** del tipo «la economía crece a ritmo récord» junto al dato de inflación del mismo periodo.
@@ -42,11 +42,11 @@ titulo: Sesión 4 · ¿Crecemos de verdad? y lo que el PIB no ve
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Las tres «gafas» se introducen con un único ejemplo conductor que se transforma paso a paso, en lugar de tres definiciones independientes: la carga conceptual se reparte y cada nuevo concepto se apoya en el anterior.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El folio giratorio permite aportar por escrito sin intervenir oralmente, y admite rebatir lo escrito por otros grupos, de modo que la participación no dependa de la exposición pública.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La rotación por estaciones implica movimiento y cuatro conversaciones simultáneas. Ordena la rotación de este grupo para que empiece por la estación más alejada del centro del aula, asegúrate de que las preguntas de cada folio están escritas y no solo enunciadas, y en el mini-debate exige que se hable de uno en uno y de frente.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Sesión resultante de **fusionar** las antiguas S5 (nominal/real/PPA y Torneo de tasas) y S6 (galería de las 4 estaciones). El Torneo se reduce a 2 rondas y cada estación dura 5 minutos. La revisión de julio de 2026 no altera la temporalización: solo añade a cada estación una segunda pregunta de una línea en el folio giratorio, que se responde dentro de los mismos 5 minutos porque el tarjetero de agentes de la S3 permite contestarla sin explicación adicional.
 :::
 
@@ -77,7 +77,7 @@ sda8-s04-10.webp | Cierre
 
 <table><thead><tr><th width="10%">Ronda</th><th width="46%">El cálculo</th><th width="44%">Y la interpretación</th></tr></thead><tbody><tr><td><b>1</b></td><td>Tasa de variación nominal y tasa real aproximada, descontando la inflación</td><td>Una línea: ¿ha crecido de verdad ese país?</td></tr><tr><td><b>2</b></td><td>PIB per cápita y comparación en paridad de poder adquisitivo</td><td>Una línea: ¿en cuál de los dos se vive mejor y por qué?</td></tr></tbody></table>
 
-::: nota 🏆 Puntúan las dos cosas
+::: nota Puntúan las dos cosas
 Cada acierto de cálculo suma, y cada interpretación defendible suma también. Un número correcto sin interpretar vale la mitad: lo que se evalúa es que sepáis **leer** el dato, no solo obtenerlo.
 :::
 
@@ -85,7 +85,7 @@ Cada acierto de cálculo suma, y cada interpretación defendible suma también. 
 
 Con datos de la Contabilidad Regional de España y del IECA, calculad qué porcentaje representa el PIB per cápita de Andalucía sobre la media española. Históricamente se ha situado en torno a **tres cuartas partes** de la media nacional.
 
-::: aviso ❓ Y la pregunta incómoda
+::: aviso Y la pregunta incómoda
 ¿Puede una región crecer año tras año y **no converger**? Guardad la respuesta: la retomamos en la sesión 6.
 :::
 
@@ -99,7 +99,7 @@ Un minuto. Aquí tenéis un titular real del tipo «la economía crece a ritmo r
 
 Cada estación tiene un caso breve, un dato oficial y un **folio giratorio** con dos preguntas en la cabecera. Vuestro grupo lee, debate y añade sus dos respuestas debajo de las anteriores. **Podéis rebatir** lo que haya escrito el grupo anterior.
 
-::: aviso 🗂️ La segunda pregunta es la misma en las cuatro
+::: aviso La segunda pregunta es la misma en las cuatro
 «**¿Qué agente soporta este coste o recibe este beneficio, y cuál NO aparece?**» El tarjetero de agentes de ayer se queda sobre la mesa: lo vais a necesitar en las cuatro.
 :::
 
@@ -107,7 +107,7 @@ Cada estación tiene un caso breve, un dato oficial y un **folio giratorio** con
 
 ### La Estación A cierra dos preguntas abiertas
 
-::: nota 👁️ Marilyn Waring y las dos preguntas pendientes
+::: nota Marilyn Waring y las dos preguntas pendientes
 En la Estación A se cierran la pregunta de la **sesión 1** («¿quién cocinó ayer en tu casa?») y la de la **sesión 3** («¿es cierto que en una casa no se produce nada?»).
 
 **Marilyn Waring**, economista y política neozelandesa, denunció en *Si las mujeres contaran* (1988) que la contabilidad nacional declara «improductivo» precisamente el trabajo que sostiene la vida. Su trabajo impulsó que hoy existan encuestas de empleo del tiempo y cuentas satélite que intentan medirlo.
@@ -121,7 +121,7 @@ Y la pregunta de agentes convierte su crítica en un enunciado económico precis
 
 <table><thead><tr><th width="50%">«El PIB está tan cojo que habría que jubilarlo»</th><th width="50%">«El PIB mide bien lo que dice medir»</th></tr></thead><tbody><tr><td>No cuenta el trabajo que sostiene la vida.</td><td>El error es pedirle lo que nunca prometió.</td></tr><tr><td>No ve la economía sumergida.</td><td>Es un indicador de producción, no de bienestar.</td></tr><tr><td>Puede subir cuando el país se empobrece.</td><td>Sin él no podríamos comparar economías ni periodos.</td></tr><tr><td>Y esconde el reparto detrás de una media.</td><td>La solución no es jubilarlo: es acompañarlo de otros indicadores.</td></tr></tbody></table>
 
-::: aviso ⚠️ Regla única del debate
+::: aviso Regla única del debate
 Para intervenir hay que **citar un dato** de alguna estación. Sin dato, no cuenta.
 :::
 
@@ -155,7 +155,7 @@ Aquí está el corazón de la unidad. No son cuatro defectos accidentales: son c
 
 ### 4. Referente: Marilyn Waring y las dos preguntas abiertas
 
-::: aviso 👁️ «Si las mujeres contaran» (1988)
+::: aviso «Si las mujeres contaran» (1988)
 **Marilyn Waring**, economista y política neozelandesa, formuló la crítica pionera a una contabilidad nacional que declara «improductivo» precisamente el trabajo que sostiene la vida —el trabajo doméstico y de cuidados, realizado mayoritariamente por mujeres—.
 
 Su trabajo no se quedó en la denuncia: impulsó que hoy existan **encuestas de empleo del tiempo** y **cuentas satélite** que intentan medir ese trabajo. Según la Encuesta de Empleo del Tiempo del INE, las mujeres dedican en torno al doble de horas diarias que los hombres a ese trabajo.

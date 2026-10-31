@@ -29,7 +29,7 @@ Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar 
 - ¿Cuál de las medidas proteccionistas ha aparecido en vuestro dosier?
 - ¿Por qué unos sectores logran compensar cambiando de mercado y otros lo tienen más difícil?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Dos dosieres de noticias reales** sobre los aranceles de 2025, uno por postura. Deben incluir los datos verificables: aranceles de EE. UU. del 10 % desde abril y del 15 % desde agosto de 2025; caída en torno al 17 % de las ventas andaluzas a ese país, especialmente en combustibles y aceite de oliva; y compensación parcial vía Asia, con China creciendo un 19,6 % ese año, además de Portugal y los Países Bajos.
 - **Plantilla de manifiesto de consenso**, una por grupo base.
 - **Tarjetas de rol** para las parejas A y B, y cronómetro visible.
@@ -40,7 +40,7 @@ Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso normaliza el cambio de opinión y rebaja la carga del desacuerdo en un tema con carga política.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La controversia se desarrolla por parejas dentro del grupo base, no ante el gran grupo, lo que reduce la exposición y multiplica el tiempo real de participación de cada persona.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -78,7 +78,7 @@ sda3-s04-07.webp | Cierre
 
 <table><thead><tr><th width="26%">Fase</th><th width="74%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Entre las dos parejas del grupo base. Mientras una habla, la otra <b>toma notas</b> de los argumentos.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura contraria.</td></tr><tr><td><b>3 · Manifiesto conjunto</b></td><td>El grupo de 4 redacta <b>3 medidas realistas</b> que una empresa exportadora andaluza podría tomar ante un escenario de aranceles crecientes.</td></tr></tbody></table>
 
-::: aviso ⚠️ «Realistas» significa esto
+::: aviso «Realistas» significa esto
 Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. «Que el Gobierno negocie» no es una medida que pueda tomar una empresa. «Buscar dos distribuidores en Asia antes de fin de año» sí lo es.
 :::
 
@@ -86,7 +86,7 @@ Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. «Qu
 
 <table><thead><tr><th width="30%">Medida</th><th width="46%">En qué consiste</th><th width="24%">¿Ha aparecido en vuestro dosier?</th></tr></thead><tbody><tr><td><b>ARANCEL</b></td><td>Un impuesto sobre el producto importado, que encarece su precio final</td><td></td></tr><tr><td><b>CONTINGENTE</b></td><td>Un límite máximo a la cantidad que se puede importar</td><td></td></tr><tr><td><b>SUBVENCIÓN A LA EXPORTACIÓN</b></td><td>Ayuda pública que abarata el producto nacional en el exterior</td><td></td></tr><tr><td><b>BARRERAS ADMINISTRATIVAS Y SANITARIAS</b></td><td>Requisitos técnicos, certificaciones y controles que dificultan la entrada</td><td></td></tr></tbody></table>
 
-::: nota 🎯 La pregunta de cierre
+::: nota La pregunta de cierre
 «Si los aranceles no afectan solo al aceite de oliva sino también a los combustibles, ¿por qué unos sectores logran compensar la pérdida cambiando de mercado y otros lo tienen más difícil?»
 
 Pensad en la tarjeta 3 del rally de ayer.
@@ -106,7 +106,7 @@ Son las dos grandes posiciones sobre el comercio internacional, y las dos tienen
 
 ### 3. El caso real de 2025
 
-::: aviso 📉 Lo que pasó y lo que se pudo medir
+::: aviso Lo que pasó y lo que se pudo medir
 - Estados Unidos impuso aranceles del **10 %** desde abril y del **15 %** desde agosto de 2025 a las importaciones procedentes de la Unión Europea.
 - Las ventas andaluzas a ese país cayeron en torno al **17 %**, especialmente en **combustibles** y **aceite de oliva**.
 - Andalucía compensó parte de esa caída intensificando sus ventas hacia **Asia** —China creció un 19,6 % ese año— y hacia socios europeos como **Portugal** y los **Países Bajos**.

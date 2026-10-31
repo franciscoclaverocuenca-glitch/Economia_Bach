@@ -12,7 +12,7 @@ titulo: Autoevaluación y Evaluación docente
 
 <table><thead><tr><th width="40%">Pregunta</th><th width="30%">Lo que respondí entonces</th><th width="30%">Lo que respondería hoy</th></tr></thead><tbody><tr><td>¿Qué es la globalización?</td><td></td><td></td></tr><tr><td>¿Qué es un arancel?</td><td></td><td></td></tr><tr><td>¿Qué es la UE para la economía española?</td><td></td><td></td></tr><tr><td>¿Conoces algún producto andaluz que se exporte?</td><td></td><td></td></tr><tr><td>¿Has oído hablar de los ODS?</td><td></td><td></td></tr><tr><td>¿Se puede crecer para siempre?</td><td></td><td></td></tr></tbody></table>
 
-::: nota 🔚 El mejor momento de la unidad
+::: nota El mejor momento de la unidad
 Hace cuatro semanas contestaste estas seis preguntas a ciegas. Hoy has recorrido la ventaja comparativa, los aranceles de 2025, la escalera europea, la balanza de pagos, la cadena de valor de tu móvil, el Málaga TechPark, el Estado del bienestar y los ODS. Y has producido una campaña propia.
 
 La diferencia entre las dos columnas es, exactamente, lo que has aprendido.

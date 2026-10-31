@@ -31,7 +31,7 @@ Cierre con la ficha de reto y el primer termómetro de viabilidad, **sin ánimo 
 - ¿Qué reto queréis abordar en vuestra campaña, y por qué ese?
 - ¿Qué ODS conecta mejor con vuestro reto?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Gráfico de crecimiento del PIB a largo plazo**, proyectable.
 - **Ficha de los 17 ODS** de la Agenda 2030.
 - **Datos de la Estrategia Andaluza de Desarrollo Sostenible 2030**: aprobada en 2018, con 37 líneas de actuación, 226 medidas y 46 indicadores de seguimiento calculados por el IECA.
@@ -43,7 +43,7 @@ Cierre con la ficha de reto y el primer termómetro de viabilidad, **sin ánimo 
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La elección del reto de la campaña permite a cada grupo vincular el trabajo final de la unidad con aquello que más le preocupa, entre cuatro opciones que cubren ámbitos muy distintos.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La exigencia de anotar el argumento más sólido de la postura contraria obliga a un ejercicio metacognitivo explícito y previene la polarización en un tema con carga ideológica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
@@ -71,7 +71,7 @@ sda3-s10-07.webp | El termómetro
 
 <table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td>La tecnología permite <b>desacoplar</b> crecimiento e impacto ambiental: renovables, eficiencia, economía circular. Y sin crecimiento no hay recursos para financiar la transición ecológica ni para sostener el Estado del bienestar que estudiasteis ayer.</td><td>El desacoplamiento <b>no está ocurriendo a la velocidad necesaria</b>. Solo reduciendo deliberadamente producción y consumo en los países más ricos se respetan los límites ecológicos. No es empobrecerse: es reorientar qué se produce y para qué, y redistribuir mejor lo que ya hay.</td></tr></tbody></table>
 
-::: aviso ⚖️ La consigna que hace útil este debate
+::: aviso La consigna que hace útil este debate
 Antes de concluir, cada grupo debe **anotar por escrito el argumento más sólido de la postura contraria**. No el más fácil de rebatir: el más sólido. Es lo que separa un debate de un intercambio de eslóganes.
 :::
 
@@ -89,7 +89,7 @@ Cada grupo base elige, de forma razonada y con el visto bueno del docente, el re
 
 <table><thead><tr><th width="6%"></th><th width="50%">Reto</th><th width="44%">Con qué sesiones conecta</th></tr></thead><tbody><tr><td><b>1</b></td><td>Globalización y comercio justo</td><td>Sesiones 3, 4 y 7</td></tr><tr><td><b>2</b></td><td>Revolución digital y brecha tecnológica</td><td>Sesión 8</td></tr><tr><td><b>3</b></td><td>Estado del bienestar y colectivos vulnerables</td><td>Sesión 9</td></tr><tr><td><b>4</b></td><td>Decrecimiento, ODS y sostenibilidad ambiental</td><td>Sesión 10</td></tr></tbody></table>
 
-::: nota 🎯 Una regla de reparto
+::: nota Una regla de reparto
 Cada grupo debe elegir un reto **distinto** al de, al menos, los dos grupos más próximos en el aula. Así la Gala de la sesión 12 cubre las cuatro perspectivas y escuchar a los demás sirve realmente de repaso.
 :::
 
@@ -97,7 +97,7 @@ Cada grupo debe elegir un reto **distinto** al de, al menos, los dos grupos más
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué anotáis</th></tr></thead><tbody><tr><td>1</td><td>El reto elegido.</td></tr><tr><td>2</td><td>Por qué lo habéis elegido (una frase).</td></tr><tr><td>3</td><td>Una primera idea en bruto de campaña.</td></tr></tbody></table>
 
-::: aviso 🌡️ El primer termómetro
+::: aviso El primer termómetro
 El resto de la clase valora vuestra idea en bruto con la escala de dedos (1 a 4). **Sin ánimo evaluador todavía**: es solo un primer termómetro de viabilidad. Una idea que recibe dedos bajos hoy es una idea que se puede arreglar mañana.
 :::
 
@@ -113,7 +113,7 @@ Pero tiene dos consecuencias que no conviene ignorar: sus frutos **no se distrib
 
 <table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td><b>Tesis:</b> la tecnología permite desacoplar el crecimiento del impacto ambiental.</td><td><b>Tesis:</b> ese desacoplamiento no está ocurriendo a la velocidad necesaria.</td></tr><tr><td>Renovables, eficiencia energética y economía circular hacen posible crecer con menos huella.</td><td>Solo reduciendo deliberadamente producción y consumo en los países ricos se respetan los límites ecológicos.</td></tr><tr><td>Y sin crecimiento no hay recursos para financiar la propia transición ecológica ni el Estado del bienestar.</td><td>No es empobrecerse: es reorientar qué se produce y para qué, y redistribuir mejor lo que ya existe.</td></tr></tbody></table>
 
-::: aviso ⚖️ Cómo se discute esto en serio
+::: aviso Cómo se discute esto en serio
 No basta con elegir bando. Antes de concluir hay que ser capaz de formular **el argumento más sólido de la postura contraria** —no el más fácil de rebatir—. Si no puedes hacerlo, todavía no has entendido el debate.
 :::
 
@@ -123,7 +123,7 @@ Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unid
 
 Que sea difícil no significa que no merezca intentarse. Y no son una declaración vacía: tienen despliegue concreto.
 
-::: nota 🎯 Los ODS en Andalucía
+::: nota Los ODS en Andalucía
 La **Estrategia Andaluza de Desarrollo Sostenible 2030**, aprobada en 2018, despliega **37 líneas de actuación** en **226 medidas**, con **46 indicadores de seguimiento** calculados por el **Instituto de Estadística y Cartografía de Andalucía (IECA)**.
 
 El dato de los indicadores es el que importa: significa que hay quien **mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.

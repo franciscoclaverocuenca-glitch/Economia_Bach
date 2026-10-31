@@ -31,7 +31,7 @@ Cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colec
 - ¿Qué ventaja y qué inconveniente tiene compartir moneda?
 - ¿Qué perdería y qué ganaría Andalucía si España abandonara la Unión Europea?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Presentación de los niveles de integración** en formato escalera.
 - **Plantilla Cornell**, una por alumno/a.
 - **Cuatro fichas de institución europea**: Comisión Europea, Parlamento Europeo, Consejo de la UE y Banco Central Europeo.
@@ -43,7 +43,7 @@ Cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colec
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La metáfora de la escalera hace visible una progresión abstracta —niveles crecientes de integración— y permite situar organismos reales en cada peldaño en lugar de memorizar una lista.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
@@ -70,7 +70,7 @@ sda3-s05-06.webp | Síntesis individual
 
 <table><thead><tr><th width="28%">Peldaño</th><th width="44%">Qué implica</th><th width="28%">Ejemplo</th></tr></thead><tbody><tr><td><b>Zona de libre comercio</b></td><td>Se eliminan los aranceles entre los miembros</td><td>Acuerdos comerciales bilaterales</td></tr><tr><td><b>Unión aduanera</b></td><td>Además, arancel exterior común frente a terceros países</td><td>Mercosur</td></tr><tr><td><b>Mercado único</b></td><td>Libre circulación de bienes, servicios, capitales y personas</td><td>La UE desde 1993</td></tr><tr><td><b>Unión económica y monetaria</b></td><td>Además, moneda y política monetaria comunes</td><td>La zona euro</td></tr></tbody></table>
 
-::: nota 🪜 Cooperar no es integrarse
+::: nota Cooperar no es integrarse
 La **ONU**, la **OMC** y el **FMI** son organismos de **cooperación** internacional: se acuerda, pero cada Estado conserva sus competencias. La **Unión Europea** y **Mercosur** son procesos de **integración** regional: se ceden competencias a instituciones comunes.
 :::
 
@@ -78,7 +78,7 @@ La **ONU**, la **OMC** y el **FMI** son organismos de **cooperación** internaci
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué tenéis que completar</th></tr></thead><tbody><tr><td>1</td><td>Su función principal, en <b>una frase</b>.</td></tr><tr><td>2</td><td>Un ejemplo <b>real y verificable</b> de cómo afecta a la vida económica de Andalucía.</td></tr><tr><td>3</td><td>Una <b>ventaja</b> y un <b>inconveniente</b> de pertenecer a la Unión Europea y a la moneda única.</td></tr></tbody></table>
 
-::: aviso 💡 Pistas para el punto 2
+::: aviso Pistas para el punto 2
 Los **fondos FEDER** que financian infraestructuras. La **Política Agraria Común** que subvenciona el olivar. Las **normas del mercado único** que permiten exportar aceite de oliva sin aranceles dentro de la UE. Todo eso son ejemplos reales y verificables.
 :::
 
@@ -108,7 +108,7 @@ Cada peldaño **exige ceder más soberanía a cambio de más beneficios conjunto
 
 **En qué se invierte mayoritariamente:** política agraria y política de cohesión territorial. Son las dos grandes partidas, y las dos afectan directamente a Andalucía, que es **una de las regiones españolas que más fondos europeos recibe** por su nivel de renta relativo.
 
-::: aviso ⚖️ Y también tiene costes
+::: aviso Y también tiene costes
 Pertenecer a la UE implica ceder soberanía, aceptar normas comunes que no siempre encajan con la situación local, y aportar al presupuesto. La pregunta seria no es «¿nos compensa?», sino **«¿en qué nos compensa y en qué no?»**.
 :::
 

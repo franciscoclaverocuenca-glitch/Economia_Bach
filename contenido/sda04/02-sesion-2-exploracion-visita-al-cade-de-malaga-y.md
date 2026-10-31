@@ -35,7 +35,7 @@ Y la consigna de entrega: **al dorso, cada integrante escribe una línea** indic
 - Os acaban de decir que el segmento es demasiado amplio. ¿Qué cambiáis?
 - ¿Qué mediríais para saber si vuestra idea funciona?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Visita concertada con el CADE de Málaga** (Andalucía Emprende), con el taller de Lean Canvas acordado de antemano en contenido y duración.
 - **Autorizaciones familiares** y gestión del desplazamiento.
 - **Lienzos Lean Canvas en A3**, uno por equipo, impresos antes de salir.
@@ -48,7 +48,7 @@ Y la consigna de entrega: **al dorso, cada integrante escribe una línea** indic
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con un servicio público real de acompañamiento empresarial muestra que emprender no es una aventura individual, y presenta un recurso al que el alumnado puede acudir de verdad.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El lienzo Lean Canvas descompone una idea de negocio en cuatro bloques con preguntas explícitas, lo que estructura una tarea que de otro modo sería demasiado abierta.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Actividad fuera del centro: comprueba la accesibilidad física del espacio con antelación. Para el alumnado con condición auditiva, pide al personal técnico que hable de frente y solicita un guion escrito de la presentación; en el taller, sitúa al equipo en la mesa más alejada de la zona de mayor ruido.
 :::
 
@@ -77,7 +77,7 @@ expl-sda04-06.webp | El dorso
 
 <table><thead><tr><th width="24%">Bloque</th><th width="38%">La pregunta que responde</th><th width="38%">El error habitual</th></tr></thead><tbody><tr><td><b>PROBLEMA</b></td><td>¿Qué problema real y concreto resolvéis?</td><td>Describir el producto en lugar del problema</td></tr><tr><td><b>SEGMENTO DE CLIENTES</b></td><td>¿De quién es ese problema, exactamente?</td><td>Decir «todo el mundo»</td></tr><tr><td><b>PROPUESTA DE VALOR ÚNICA</b></td><td>¿Por qué vuestra solución y no otra?</td><td>Enumerar características en lugar de decir qué gana el cliente</td></tr><tr><td><b>MÉTRICAS CLAVE</b></td><td>¿Qué mediríais para saber si funciona?</td><td>Elegir algo que no se puede medir</td></tr></tbody></table>
 
-::: aviso 🎯 La regla del taller
+::: aviso La regla del taller
 El problema hay que formularlo en términos de **una persona identificable**, no de «la gente». «Los estudiantes de bachillerato que van a clase en autobús y no pueden…» es un problema. «La gente necesita…» no lo es.
 :::
 
@@ -85,7 +85,7 @@ El problema hay que formularlo en términos de **una persona identificable**, no
 
 En los últimos diez minutos, el personal técnico del CADE pasa por vuestro equipo y os cuestiona. Son personas que acompañan proyectos reales.
 
-::: nota ✏️ Y aquí está lo que se observa
+::: nota Y aquí está lo que se observa
 Que **modifiquéis el Canvas** en lugar de defenderlo. No es una prueba de firmeza: es una prueba de si sabéis usar información nueva. Un equipo que sale con el mismo lienzo con el que entró ha desaprovechado la sesión.
 :::
 
@@ -107,7 +107,7 @@ Hoy habéis trabajado cuatro bloques. Los demás llegarán en la sesión 9, cuan
 
 <table><thead><tr><th width="26%">Bloque</th><th width="74%">Por qué es el que discrimina</th></tr></thead><tbody><tr><td><b>Problema</b></td><td>Un problema vago produce una solución vaga. Y casi todo el mundo describe su producto en lugar del problema que quita.</td></tr><tr><td><b>Segmento de clientes</b></td><td>«Todo el mundo» no es un segmento. Si no podéis describir a una persona concreta que tiene ese problema, todavía no sabéis a quién os dirigís.</td></tr></tbody></table>
 
-::: nota 👤 La regla de la persona identificable
+::: nota La regla de la persona identificable
 Formulad el problema en términos de alguien a quien podríais reconocer por la calle. No «la gente necesita transporte», sino «quien vive en un barrio sin línea directa y tarda una hora en llegar al centro». Lo segundo se puede resolver; lo primero, no.
 :::
 

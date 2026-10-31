@@ -29,7 +29,7 @@ No pases por alto **las cigarreras**: las Reales Fábricas de Sevilla y de Mála
 - ¿Por qué el Estado creó el estanco del tabaco? ¿Y por qué lo desmanteló?
 - ¿Qué modelo de desarrollo defendía cada uno de estos monopolios?
 
-::: aviso 🛠️ Material que debes preparar tú
+::: aviso Material que debes preparar tú
 - **Plantilla Cornell**, una por alumno/a.
 - **Tarjetas de hitos históricos** para la línea del tiempo: el estanco del tabaco y la Tabacalera (con las Reales Fábricas de Sevilla y de Málaga y sus cigarreras), Campsa y el monopolio de petróleos, la Telefónica del siglo XX como concesionaria única, y la Renfe anterior a la liberalización ferroviaria.
 - **Cada tarjeta debe llevar la pregunta clave**: ¿por qué el Estado creó, protegió o desmanteló este monopolio y qué doctrina lo justificaba?
@@ -41,11 +41,11 @@ No pases por alto **las cigarreras**: las Reales Fábricas de Sevilla y de Mála
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El monopolio se aborda con doble mirada —la técnica y la histórica— y la línea del tiempo permite anclar un concepto abstracto en hitos concretos y localizables, incluidos dos edificios de Sevilla y Málaga que el alumnado puede visitar.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas sobre tarjetas manipulables permite construir la secuencia física antes de verbalizarla, lo que reduce la carga de la exposición oral.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
-::: nota 👂 Alumnado con condición auditiva
+::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso ⚑ Nota de coordinación docente
+::: aviso Nota de coordinación docente
 Primera de las dos **coordinaciones con Historia del Mundo Contemporáneo** (criterio HMCO.1.6.2). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y el código exacto del criterio en la concreción curricular del centro.
 :::
 
@@ -81,11 +81,11 @@ sda6-s04-09.webp | Conexión con el informe
 
 <table><thead><tr><th width="22%">Monopolio</th><th width="40%">Qué fue</th><th width="38%">¿Por qué lo creó, protegió o desmanteló el Estado?</th></tr></thead><tbody><tr><td><b>El estanco del tabaco</b></td><td>Monopolio fiscal secular, con la Tabacalera y las Reales Fábricas de Sevilla y de Málaga</td><td></td></tr><tr><td><b>Campsa</b></td><td>El monopolio de petróleos</td><td></td></tr><tr><td><b>Telefónica</b></td><td>La concesionaria única de la telefonía durante el siglo XX</td><td></td></tr><tr><td><b>Renfe</b></td><td>El ferrocarril de viajeros antes de la liberalización</td><td></td></tr></tbody></table>
 
-::: aviso 🏭 Las cigarreras
+::: aviso Las cigarreras
 Las Reales Fábricas de Tabacos de Sevilla y la Tabacalera de Málaga —hoy espacios culturales de ambas ciudades— albergaron uno de los **primeros grandes colectivos laborales femeninos e industriales** del país. El monopolio del tabaco no es solo un capítulo de historia fiscal: es también un capítulo de la historia del trabajo de las mujeres en Andalucía.
 :::
 
-::: nota 🔗 La pregunta interdisciplinar
+::: nota La pregunta interdisciplinar
 Cada monopolio tuvo su **doctrina económica** justificándolo: recaudación fiscal, nacionalismo económico, servicio público. Y su desmantelamiento tuvo la suya: liberalización europea, defensa de la competencia. Comparar unas y otras es exactamente el criterio HMCO.1.6.2 de Historia del Mundo Contemporáneo.
 :::
 
@@ -103,7 +103,7 @@ Un monopolio no se mantiene solo porque sí. Necesita **barreras de entrada** qu
 
 ### 3. La elasticidad, ahora como termómetro del poder de mercado
 
-::: nota 🌡️ El giro de la SdA 5
+::: nota El giro de la SdA 5
 Ya conoces la elasticidad de la demanda. Aquí adquiere una función nueva: **es el termómetro del poder de mercado**.
 
 Cuanto más **inelástica** es la demanda —medicamentos esenciales, electricidad en invierno—, más margen tiene quien controla la oferta para subir precios sin perder clientes. Con demanda **elástica**, ese poder se evapora: si subes, la gente se va a otra cosa.
@@ -115,7 +115,7 @@ De ahí se sigue el resultado central: el monopolista **produce menos y cobra m�
 
 <table><thead><tr><th width="22%">Monopolio</th><th width="42%">Qué fue</th><th width="36%">Doctrina que lo justificaba</th></tr></thead><tbody><tr><td><b>El estanco del tabaco</b></td><td>Monopolio fiscal secular. Su Tabacalera y las Reales Fábricas de Sevilla y de Málaga —hoy espacios culturales— son su huella física.</td><td>Recaudación fiscal: el Estado se reserva un mercado para financiarse.</td></tr><tr><td><b>Campsa</b></td><td>El monopolio de petróleos.</td><td>Nacionalismo económico: control estatal de un sector estratégico.</td></tr><tr><td><b>Telefónica</b></td><td>La concesionaria única de la telefonía durante buena parte del siglo XX.</td><td>Servicio público y monopolio natural de la red.</td></tr><tr><td><b>Renfe</b></td><td>El ferrocarril de viajeros antes de la liberalización.</td><td>Servicio público y cohesión territorial.</td></tr></tbody></table>
 
-::: aviso 🏭 Las cigarreras: historia del monopolio e historia del trabajo
+::: aviso Las cigarreras: historia del monopolio e historia del trabajo
 Las Reales Fábricas de Tabacos albergaron uno de los **primeros grandes colectivos laborales femeninos e industriales** de España. Miles de mujeres trabajando en un mismo recinto, con sus propias formas de organización. El monopolio fiscal del tabaco es también, por tanto, un capítulo de la historia del trabajo de las mujeres en Andalucía.
 :::
 

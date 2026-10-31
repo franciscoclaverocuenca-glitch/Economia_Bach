@@ -12,7 +12,7 @@ titulo: Autoevaluación y evaluación docente
 
 <table><thead><tr><th width="50%">Empezaste…</th><th width="50%">Has terminado…</th></tr></thead><tbody><tr><td>Leyendo cuatro noticias sobre el precio del alquiler en Málaga y defendiendo una postura que te asignamos, para después defender la contraria.</td><td>Dictando —o rebatiendo— un veredicto económico razonado sobre ese mismo problema, con un dossier documentado y un dato oficial detrás.</td></tr></tbody></table>
 
-::: nota 🔚 El recorrido completo
+::: nota El recorrido completo
 Has **debatido** sin conceptos (S1), escuchado a quien conoce el mercado por dentro (S2), construido las **herramientas** conceptuales (S3 y S4), **transferido** todo a una isla desde cero (S5), descubierto los **límites de tu propia racionalidad** (S6 y S7), discutido los **dilemas morales** del mercado (S8), **preparado** un dossier documentado (S9), **juzgado** el problema en un tribunal (S10) y **evaluado** tu propio proceso (S11).
 
 ```actividad

@@ -10,14 +10,14 @@ Cada sesión de la SdA 9 es una página de este material. Dentro de cada página
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso ⚑ La regla de sustitución del criterio 3.2
+::: aviso La regla de sustitución del criterio 3.2
 Esta unidad se ha construido sobre la **revisión de julio de 2026 (rev. B)** dla secuenciación, que la armoniza con la evaluación parcial del criterio 3.2 realizada en la SdA 8. Dos consecuencias prácticas que conviene tener presentes en el aula:
 
 - La SdA 8 evaluó solo **dos** de las tres operaciones del criterio (diferenciar costes y beneficios por agente, y determinar su repercusión sobre el desarrollo y el bienestar), con una aplicación restringida de la rúbrica. La tercera —establecer las relaciones entre agentes mediante el modelo de demanda y oferta agregadas— es el **núcleo de esta unidad**, y aquí la rúbrica se aplica **íntegra**.
 - La nota de esta SdA es la **calificación definitiva** del criterio 3.2 y **sustituye** a la parcial de la SdA 8, sin promediarse con ella. Conviene decírselo explícitamente al alumnado en la sesión 9: el listón se ha elevado y hay que explicar por qué.
 :::
 
-::: nota 🔗 Los tres puntos de conocimiento previo
+::: nota Los tres puntos de conocimiento previo
 El alumnado llega sabiendo ya quiénes son los cuatro agentes económicos y habiendo practicado la pregunta «¿quién paga y quién gana?». Eso **no vacía de contenido** ninguna sesión, pero cambia cómo se imparten tres de ellas:
 
 - **Sesión 1.** La simulación puede correr algo más rápida —lo que aquí se descubre es la circularidad, no el censo de agentes— y el diagnóstico se reformula para medir qué queda del mapa de agentes. Los dos o tres minutos ganados van a la ronda 3 (la fuga), que es la que siembra las filtraciones.
@@ -56,11 +56,11 @@ En la sesión 10 esta aula se va a convertir en un **museo económico**. Cada gr
 
 <table><thead><tr><th width="5%"></th><th width="71%">Elemento</th><th width="24%">Se construye en</th></tr></thead><tbody><tr><td>1</td><td>Los agentes y sus funciones</td><td>Sesión 3</td></tr><tr><td>2</td><td>Los dos mercados y los dos flujos, diferenciados por color</td><td>Sesión 3</td></tr><tr><td>3</td><td>El triple papel del Sector Público, con operaciones malagueñas reales</td><td>Sesión 4</td></tr><tr><td>4</td><td>Una filtración y una inyección</td><td>Sesiones 5-6</td></tr><tr><td>5</td><td>Panel de escenarios: una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 7-8</td></tr></tbody></table>
 
-::: nota 🧩 Cada sesión aporta una pieza
+::: nota Cada sesión aporta una pieza
 No hay que construir la maqueta al final: se va montando a lo largo de la unidad. Al cierre de cada sesión de estructuración recibes una pieza, y en la sesión 9 se ensamblan todas. Guárdalas.
 :::
 
-::: aviso 🧠 Por qué esto no lo puede hacer una IA por ti
+::: aviso Por qué esto no lo puede hacer una IA por ti
 El corazón de la evaluación es el **careo de preguntas**: responder razonadamente a una pregunta que nadie ha ensayado, sobre vuestra propia maqueta y vuestro propio sector. Una respuesta genérica se detecta en la primera pregunta.
 :::
 
@@ -74,7 +74,7 @@ Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de 
 
 Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
-::: idea 🎯 Lo que separa un nivel del siguiente
+::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
 :::
 
