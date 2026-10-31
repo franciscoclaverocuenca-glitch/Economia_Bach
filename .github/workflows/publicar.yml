@@ -1,0 +1,64 @@
+# Cada vez que se sube un cambio a «main»:
+#   1. comprueba el contenido y genera la web y los paquetes SCORM
+#   2. publica la web en GitHub Pages
+#   3. deja los .zip SCORM descargables en la pestaña «Actions» (artefacto «scorm»)
+# Al crear una etiqueta vX.Y (p. ej. v1.0), además publica una «Release» con los 12 paquetes SCORM.
+name: Publicar web y SCORM
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .cache/img
+          key: imagenes-${{ hashFiles('contenido/*/img/**') }}
+          restore-keys: imagenes-
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: scorm
+          path: dist/scorm/*.zip
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: dist
+      - name: Publicar Release con los paquetes SCORM
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/scorm/*.zip
+          generate_release_notes: true
+
+  desplegar:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: generar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4

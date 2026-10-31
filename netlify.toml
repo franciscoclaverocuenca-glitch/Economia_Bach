@@ -1,0 +1,12 @@
+# Opcional: si mantienes Netlify conectado a este repositorio, compila igual que GitHub Pages.
+[build]
+  command = "npm ci && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"

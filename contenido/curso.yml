@@ -1,0 +1,49 @@
+# Datos generales del curso. Edita aquí los textos de la portada.
+# Cada unidad tiene sus propios datos en contenido/sdaXX/unidad.yml.
+
+titulo: Economía · 1.º de Bachillerato
+centro: IES · Málaga
+curso_escolar: "2026-2027"
+descripcion: Doce situaciones de aprendizaje de Economía para 1.º de Bachillerato. Curso 2026-2027.
+idioma: es
+autor: Francisco Clavero Cuenca
+licencia: Creative Commons Reconocimiento-CompartirIgual 4.0
+licencia_url: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+
+portada:
+  etiqueta: Humanidades y Ciencias Sociales
+  # El texto entre *asteriscos* se resalta en color.
+  titular: Doce preguntas para entender la *economía*
+  entradilla: >-
+    Cada unidad arranca con una pregunta sin respuesta fácil y termina con algo que
+    construyes tú: un juicio, una cumbre, una campaña, un mercado montado en el aula.
+    Elige la tuya y entra.
+
+trimestres:
+  1: { nombre: Primer trimestre, sub: "Los cimientos: escasez, sistemas y el mundo" }
+  2: { nombre: Segundo trimestre, sub: Cómo funcionan los mercados y el trabajo }
+  3: { nombre: Tercer trimestre, sub: El dinero, los precios y lo público }
+
+pie:
+  - titulo: Sobre este curso
+    parrafos:
+      - >-
+        Doce situaciones de aprendizaje para la materia de Economía de 1.º de Bachillerato,
+        ancladas en la realidad económica de Málaga y Andalucía.
+      - >-
+        Marco normativo: LOMLOE · Real Decreto 243/2022 · Decreto 103/2023 · Orden de 30 de mayo de 2023.
+  - titulo: Cómo se evalúa
+    lista:
+      - Nueve instrumentos con el mismo peso
+      - Rúbricas de cinco niveles
+      - Autoevaluación al cierre de cada unidad
+  - titulo: Fuentes que usarás
+    lista:
+      - INE · IECA · Banco de España
+      - Andalucía TRADE · Observatorio Argos
+      - CNMC · POOLred
+
+# SCORM: nota mínima (0-100) para considerar superada una unidad en Moodle.
+# Déjalo vacío para que Moodle solo registre «completado» y la nota.
+scorm:
+  nota_minima:

@@ -1,0 +1,59 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 6
+carpeta: sda06
+titulo: El mercado al banquillo
+titulo_largo: SdA 6 · El mercado al banquillo · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 6: estructuras y fallos de mercado. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 2
+sesiones: 9
+producto: Un <b>informe pericial</b> sobre un caso real de mercado, ratificado ante la Comisión de Competencia del aula.
+ce: CE2
+criterios: 2.1 · 2.3
+saberes: B3
+referente: Cani Fernández · Joan Robinson
+interdisciplinar: Historia del Mundo Contemporáneo (sesiones 4 y 6)
+temas: estructuras de mercado competencia perfecta monopolio barreras de entrada oligopolio cártel colusión dilema del prisionero clemencia competencia monopolística externalidades bienes públicos información asimétrica akerlof selección adversa cnmc acrea coste beneficio
+rubricas:
+- criterio: '2.1'
+  descripcion: Valorar la repercusión de los fallos del mercado a nivel microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo el funcionamiento del mismo.
+  competencia: '2'
+  saberes: B1/B2/B3
+  descriptores: CCL2/CCL3/STEM1/STEM2/STEM4/CPSAA4/CC3/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No distingue las estructuras básicas del mercado ni reconoce sus fallos o su repercusión: comete errores graves al clasificar mercados tanto en sus producciones escritas (matriz, prueba escrita, portafolio) como en sus intervenciones orales y en el trabajo del gabinete observado por el docente.'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Identifica de manera muy elemental las estructuras de mercado y menciona algún fallo con su repercusión más evidente, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente de forma guiada.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Clasifica correctamente mercados reales según su estructura y explica los principales fallos y su repercusión microeconómica sin profundizar; lo demuestra con corrección tanto en la prueba escrita como en su participación en el trabajo cooperativo observado por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza justificadamente el funcionamiento de las distintas estructuras y valora la repercusión de los fallos del mercado sobre precios, cantidades y decisiones de los agentes, apoyándose en la elasticidad y el comportamiento estratégico; lo argumenta con solidez tanto de forma oral —en la ratificación pericial y el turno de preguntas— como por escrito —en la prueba escrita, el portafolio y el informe—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Valora con profundidad y precisión técnica la repercusión microeconómica de los fallos del mercado en casos reales e inéditos, integrando estructura, elasticidad y estrategia con datos verificables, y lo demuestra de manera consistente en todos los instrumentos aplicados: ratificación oral, debate, prueba escrita, portafolio, informe pericial y coevaluación entre iguales.'
+- criterio: '2.3'
+  descripcion: Analizar con espíritu crítico las dimensiones relacionadas con la eficiencia y la equidad asociadas a los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.
+  competencia: '2'
+  saberes: B1/B2/B3
+  descriptores: CCL2/CCL3/STEM1/STEM2/STEM4/CPSAA4/CC3/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No relaciona los fallos del mercado con sus consecuencias sobre la eficiencia o la equidad, ni plantea soluciones: sus respuestas escritas (cuestionario, prueba escrita, informe) y sus intervenciones en el debate y en el gabinete observadas por el docente muestran errores graves o ausencia de análisis.'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Describe de forma básica o guiada alguna consecuencia de los fallos del mercado y menciona alguna solución sin evaluarla, ya sea en el portafolio, en el cuestionario o cuando se le pregunta directamente en clase.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Analiza con corrección las consecuencias de los fallos del mercado sobre la eficiencia y la equidad y propone soluciones pertinentes con una evaluación sencilla; lo demuestra tanto en la prueba escrita como en sus intervenciones orales durante el mini-debate y la ratificación.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Evalúa con espíritu crítico las tensiones entre eficiencia y equidad de casos reales, comparando soluciones alternativas con un análisis coste-beneficio argumentado; lo sostiene tanto de forma oral —en el debate y ante las preguntas cruzadas de la Comisión— como por escrito —en la prueba escrita y en la recomendación motivada del informe pericial—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Analiza con alto sentido crítico y de forma autónoma las dimensiones de eficiencia y equidad de fallos de mercado complejos, evaluando soluciones con criterios explícitos, datos oficiales y conciencia de sus límites, y lo demuestra de manera consistente en la exposición oral, el debate, la prueba escrita, el portafolio, el informe pericial y su propia autoevaluación.

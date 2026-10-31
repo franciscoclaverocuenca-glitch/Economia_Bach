@@ -1,0 +1,59 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 8
+carpeta: sda08
+titulo: Crecimiento, ¿a qué precio?
+titulo_largo: SdA 8 · Crecimiento, ¿a qué precio? · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 8: crecimiento, desarrollo e indicadores macroeconómicos. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 2
+sesiones: 9
+producto: Un <b>informe país</b> comparando PIB e IDH, defendido en la Cumbre del Desarrollo Humano.
+ce: CE3
+criterios: 3.1 · 3.2 · 3.2
+saberes: C1 · C2
+referente: Marilyn Waring · Esther Duflo · Sabina Alkire
+interdisciplinar: Educación para la Ciudadanía (sesiones 4 y 6)
+temas: pib producto interior bruto vías de cálculo valor añadido doble contabilización agentes económicos idh ipm gini arope desarrollo humano crecimiento desigualdad waring duflo alkire amartya sen desarrollo sostenible
+rubricas:
+- criterio: '3.1'
+  descripcion: Conocer cómo se produce el desarrollo económico y el bienestar social, valorando con sentido crítico y analítico, cómo se evalúa, mediante macromagnitudes y otros indicadores, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta.
+  competencia: '3'
+  saberes: C1/C2/C3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CPSAA4/CPSAA5/CC3/CC4/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: No explica cómo se produce el desarrollo económico ni qué miden las principales macromagnitudes, con errores graves de concepto que se repiten tanto en sus producciones escritas (prueba escrita, portafolio) como en sus intervenciones orales y en el trabajo de equipo observado por el docente.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Define el PIB y menciona algún indicador de desarrollo de manera muy elemental, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente de forma guiada, aunque confunde ocasionalmente crecimiento con desarrollo.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente qué mide el PIB, sus principales limitaciones y la diferencia entre crecimiento y desarrollo, sin profundizar en las causas; lo demuestra con corrección tanto en la prueba escrita como en su participación oral durante el trabajo cooperativo y las estaciones observadas por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza justificadamente cómo se evalúa el desarrollo y el bienestar mediante macromagnitudes e indicadores alternativos, comparando críticamente sus fortalezas y puntos ciegos; lo argumenta con solidez tanto de forma oral —en el debate de las Cuatro Esquinas y al defender el informe en la Cumbre— como por escrito —en la prueba escrita y el portafolio—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Evalúa con profundidad y sentido crítico la relación entre crecimiento, distribución y bienestar, integrando indicadores diversos en un diagnóstico propio y coherente, y lo demuestra de manera consistente en todos los instrumentos aplicados: exposición y debate oral, prueba escrita, portafolio, Informe país y coevaluación entre iguales.'
+- criterio: '3.3'
+  descripcion: Valorar la importancia de la recopilación sistemática de datos estadísticos y su correcta interpretación para comprender la realidad económica y evaluar las consecuencias de las intervenciones de los agentes.
+  competencia: '3'
+  saberes: C1/C2/C3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CPSAA4/CPSAA5/CC3/CC4/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: No localiza los datos relevantes en una tabla estadística sencilla ni aplica correctamente las fórmulas básicas (tasas de variación, PIB per cápita), y sus interpretaciones contradicen los datos, tanto en sus respuestas escritas (cuestionario, prueba escrita) como en el trabajo con los expedientes observado por el docente.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Localiza datos evidentes y realiza cálculos básicos con apoyo o de forma guiada, ofreciendo interpretaciones literales pero correctas, ya sea en el portafolio, en el cuestionario o cuando se le pregunta directamente en clase.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Recopila, calcula e interpreta con corrección los indicadores trabajados, citando la fuente de los datos; lo demuestra tanto en las prácticas de cálculo de la prueba escrita como en su participación oral durante el laboratorio de datos y el trabajo cooperativo.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Interpreta los datos con rigor y sentido crítico, distinguiendo dato oficial, estimación y titular, y detectando la «trampa nominal» y otros usos engañosos; lo sostiene tanto de forma oral —al responder a las preguntas cruzadas de la Cumbre— como por escrito —en la prueba escrita y en el diagnóstico del Informe país—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Valora de forma autónoma la calidad y las limitaciones de las fuentes estadísticas, integra indicadores contradictorios en conclusiones fundamentadas sobre las consecuencias de las intervenciones de los agentes, y lo demuestra de manera consistente en la exposición oral, el debate, la prueba escrita, el portafolio y su propia autoevaluación.

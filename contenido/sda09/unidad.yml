@@ -1,0 +1,38 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 9
+carpeta: sda09
+titulo: El viaje de un euro
+titulo_largo: SdA 9 · El viaje de un euro · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 9: el flujo circular de la renta y el modelo de demanda y oferta agregadas. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 3
+sesiones: 11
+producto: El recorrido de un euro por el circuito económico, con el criterio 3.2 cerrado de forma definitiva.
+ce: CE3
+criterios: '3.2'
+saberes: C1
+referente: Marlyn Waring
+interdisciplinar: Matemáticas Aplicadas a las CCSS I (sesiones 6 y 8)
+temas: circuito económico flujo circular renta agentes económicos familias empresas sector público exterior euro
+rubricas:
+- criterio: '3.2'
+  descripcion: Diferenciar los costes y beneficios que se generan en el flujo circular de la renta para cada uno de los agentes económicos, estableciendo las principales características de las relaciones entre ellos mediante el uso del modelo de demanda y de oferta agregadas, y determinando su repercusión en el desarrollo económico y el bienestar social, para comprender la importancia de sus interacciones y la relevancia de los modelos económicos en su interpretación.
+  competencia: '3'
+  saberes: C1/C2/C3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CPSAA4/CPSAA5/CC3/CC4/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No identifica a los agentes económicos ni sus relaciones en el flujo circular de la renta, y no es capaz de usar el modelo de demanda y oferta agregadas ni siquiera de forma guiada: ni lo explica en sus intervenciones orales (visita guiada, debates) ni lo refleja en sus producciones escritas (prueba escrita, portafolio) o en la maqueta del equipo.'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Identifica a los agentes económicos y describe de forma muy elemental sus relaciones en el flujo circular, y resuelve escenarios sencillos de demanda o de oferta agregada con apoyo o de forma guiada, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente durante la feria.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente las relaciones entre los agentes en el flujo circular (mercados y tipos de flujo) y resuelve escenarios básicos con el modelo DA-OA distinguiendo movimiento de desplazamiento, aunque sin profundizar en costes, beneficios ni repercusión social; lo demuestra con corrección tanto en la prueba escrita como en su participación en el trabajo cooperativo observado por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza justificadamente los costes y beneficios que el flujo circular genera para cada agente y resuelve con soltura escenarios de demanda y de oferta agregadas, conectándolos con sus efectos sobre producción, precios y empleo; lo argumenta con solidez tanto de forma oral —en la visita guiada de la feria y en el gabinete de crisis— como por escrito —en la prueba escrita y el portafolio— y en la propia maqueta del equipo.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Evalúa con alto sentido crítico las interacciones entre los agentes y la repercusión del flujo circular sobre el desarrollo económico y el bienestar social —incluyendo las limitaciones del modelo, como el trabajo no remunerado que deja fuera—, y maneja el modelo DA-OA con autonomía y creatividad ante escenarios inéditos o combinados; lo demuestra de manera consistente en todos los instrumentos aplicados: visita guiada, debates, prueba escrita, portafolio, maqueta del equipo, autoevaluación y coevaluación entre iguales.'

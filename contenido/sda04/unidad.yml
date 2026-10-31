@@ -1,0 +1,38 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 4
+carpeta: sda04
+titulo: La empresa y sus lógicas
+titulo_largo: SdA 4 · La empresa y sus lógicas · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 4: la empresa, el proceso productivo, los costes y el beneficio. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 1
+sesiones: 11
+producto: Un <b>modelo de negocio completo</b> y su defensa en un pitch de cuatro minutos ante un jurado.
+ce: CE2
+criterios: '2.4'
+saberes: B1
+referente: —
+interdisciplinar: Cultura Emprendedora y Empresarial (triple coordinación)
+temas: empresa funciones producción riesgo social sectores tejido empresarial andaluz forma jurídica cooperativa productividad producto marginal costes fijos variables beneficio innovación valor añadido responsabilidad social canvas pitch design thinking
+rubricas:
+- criterio: '2.4'
+  descripcion: Comprender la relevancia del papel de las empresas y otras instituciones en los procesos de innovación y generación de valor añadido que contribuyen a la resolución de los problemas económicos y sociales con eficiencia y creatividad, valorando en casos concretos la aportación de los agentes implicados a la mejora del bienestar social.
+  competencia: '2'
+  saberes: B1/B2/B3
+  descriptores: CCL2/CCL3/STEM1/STEM2/STEM4/CPSAA4/CC3/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: Muestra errores graves al explicar los elementos, funciones y objetivos de la empresa, y no logra clasificar correctamente empresas reales ni justificar costes o beneficio, tanto en el cuestionario y la prueba escrita como en el Canvas y el pitch, que carecen de coherencia interna.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Identifica de forma básica los elementos y funciones de la empresa y clasifica ejemplos sencillos con apoyo; el Canvas recoge los bloques mínimos exigidos y el pitch, aunque con limitaciones de fluidez, transmite la idea central del negocio.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica con corrección los objetivos y el proceso productivo de la empresa, calcula costes y beneficio sin errores relevantes, y lo demuestra tanto en la prueba escrita como en un Canvas coherente y un pitch claro ante el jurado.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con rigor el papel de la empresa como generadora de valor añadido, integrando datos reales del tejido empresarial andaluz en el cuestionario y el Canvas, y defiende con solidez y creatividad su proyecto en el pitch, incorporando alguna referencia justificada a la responsabilidad social de su empresa ficticia.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Demuestra un dominio completo y crítico del papel de la empresa en la generación de valor añadido y bienestar social, aportando un análisis original y bien fundamentado —tanto en la prueba escrita como en el Canvas y el pitch final ante el jurado— que integra la viabilidad económica del proyecto con un compromiso genuino de innovación y responsabilidad social, respondiendo con solvencia a las preguntas del jurado.

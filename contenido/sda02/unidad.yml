@@ -1,0 +1,59 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 2
+carpeta: sda02
+titulo: ¿Quién decide?
+titulo_largo: SdA 2 · ¿Quién decide? · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 2: sistemas económicos, método de la Economía y frontera de posibilidades de producción. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 1
+sesiones: 12
+producto: Una <b>Cumbre de Sistemas Económicos</b> entre cuatro delegaciones, con acta de conclusiones negociada.
+ce: CE1
+criterios: 1.3 · 1.4
+saberes: A1 · A3 · A6 · D1
+referente: Joan Robinson
+interdisciplinar: Matemáticas Aplicadas a las CCSS I (sesión 5)
+temas: sistemas económicos mercado planificación central economía mixta frontera posibilidades producción fpp método científico economía positiva normativa microeconomía macroeconomía factores producción bienes públicos polizón cooperativa cumbre robinson
+rubricas:
+- criterio: '1.3'
+  descripcion: Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad.
+  competencia: '1'
+  saberes: A1/A2/A3/C4/D1
+  descriptores: CCL2/CP3/STEM2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'Muestra errores graves al explicar la toma de decisiones de los agentes y su repercusión social: no distingue entre los distintos sistemas económicos ni en sus intervenciones orales (Jigsaw, Cumbre) ni en sus producciones escritas (portafolio, prueba escrita).'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Describe de forma básica o guiada cómo deciden los agentes individuales y colectivos en la sociedad, y menciona algún sistema económico de forma elemental, tanto por escrito como cuando se le pregunta oralmente.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica con corrección los procesos de toma de decisiones y reconoce su impacto social general; distingue correctamente los tres sistemas económicos en la prueba escrita y en su participación oral durante el Jigsaw y la Cumbre.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con detalle la toma de decisiones de los agentes, argumentando con claridad y coherencia su impacto; compara con solidez los sistemas económicos tanto de forma oral —en el Jigsaw y la Cumbre— como por escrito —en la prueba escrita y el dossier de delegación—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Evalúa con alto sentido crítico las decisiones de los agentes, conectando causas y efectos sociales complejos de forma autónoma, y lo demuestra de manera consistente en la exposición oral de la Cumbre, el Jigsaw, la prueba escrita, el portafolio y su propia autoevaluación.
+- criterio: '1.4'
+  descripcion: Valorar la relevancia de los modelos económicos y de la investigación científica, diferenciando lo positivo de lo normativo.
+  competencia: '1'
+  saberes: A1/A2/A3/C4/D1
+  descriptores: CCL2/CP3/STEM2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: No diferencia entre el enfoque positivo y normativo, ni entiende la utilidad de un modelo, ya sea en el cuestionario “Detective Económico”, en su portafolio o en sus intervenciones orales.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Diferencia con dificultad u omisiones lo positivo de lo normativo y define qué es un modelo económico, tanto por escrito (cuestionario, portafolio) como cuando se le pregunta oralmente de forma guiada.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Distingue correctamente la economía positiva de la normativa y explica la utilidad básica de los modelos científicos (incluida la Frontera de Posibilidades de Producción), con corrección en la prueba escrita y en el trabajo cooperativo observado por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Valora la relevancia de los modelos y la investigación, argumentando con solidez el salto de lo positivo a lo normativo, tanto oralmente —en la Cumbre, al justificar sus propuestas de política económica— como por escrito —en la prueba escrita y el dossier de delegación—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Demuestra un dominio excelente en el uso de modelos, discerniendo de forma impecable y crítica lo positivo de lo normativo en cualquier contexto, de manera consistente en la exposición oral, el debate de la Cumbre, la prueba escrita, el portafolio y su propia autoevaluación.

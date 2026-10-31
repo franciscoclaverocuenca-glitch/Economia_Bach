@@ -1,0 +1,38 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 5
+carpeta: sda05
+titulo: ¿Cuánto cuestan las cosas?
+titulo_largo: SdA 5 · ¿Cuánto cuestan las cosas? · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 5: el mercado y sus fuerzas. Oferta, demanda, equilibrio y elasticidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 2
+sesiones: 8
+producto: '<b>El Parqué de Málaga</b>: un mercado real montado en el aula, y el informe con los datos que generes en él.'
+ce: CE2
+criterios: '2.2'
+saberes: B2
+referente: Susan Athey
+interdisciplinar: Cultura y Práctica Digital (sesiones 6 y 7)
+temas: oferta demanda ley de la demanda curva equilibrio excedente escasez elasticidad precio aceite de oliva poolred mercamálaga desplazamiento movimiento bienes sustitutivos complementarios precios dinámicos athey parqué mango axarquía
+rubricas:
+- criterio: '2.2'
+  descripcion: Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes implicados y reflexionado sobre su importancia como fuente de mejora económica y social.
+  competencia: '2'
+  saberes: B1/B2/B3
+  descriptores: CCL2/CCL3/STEM1/STEM2/STEM4/CPSAA4/CC3/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No identifica los elementos básicos del mercado (demanda, oferta, equilibrio) ni construye o interpreta sus representaciones gráficas: los errores son graves tanto en sus producciones escritas (prueba escrita, informe grupal, portafolio) como en su participación en la simulación y en el trabajo cooperativo observados por el docente.'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Define demanda, oferta y equilibrio y construye una gráfica sencilla de forma guiada, ya sea al responder al cuestionario, en sus apuntes Cornell del portafolio o cuando se le pregunta oralmente en clase; participa en la simulación de mercado de forma mecánica, siguiendo las instrucciones de su tarjeta.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente el funcionamiento del mercado y los efectos básicos de un desplazamiento de la demanda o de la oferta sobre el precio y la cantidad de equilibrio; lo demuestra con corrección tanto en la prueba escrita como en su trabajo cooperativo observado durante la simulación y el laboratorio de datos.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con precisión los cambios de equilibrio y la elasticidad, aplicándolos a casos reales; lo argumenta con solidez tanto de forma oral —en el debate sobre precios dinámicos y en el pitch de datos del informe— como por escrito —en la prueba escrita y en el informe grupal—, conectando el modelo teórico con los datos observados.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Domina el análisis del mercado integrando desplazamientos, elasticidad y una reflexión crítica y autónoma sobre su papel como fuente de mejora económica y social y sobre sus límites, de forma consistente en todos los instrumentos aplicados: simulación y debate, informe grupal y su defensa oral, prueba escrita, portafolio, y su propia autoevaluación y coevaluación entre iguales.'

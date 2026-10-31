@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página no encontrada · Economía 1.º Bachillerato</title>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#FDF3EC;color:#0F2C3D;font:18px/1.5 system-ui,sans-serif;text-align:center;padding:20px}h1{font-size:2.4rem;margin:0 0 10px}a{color:#C1694A}</style>
+</head>
+<body>
+<main><h1>Esta página no existe</h1><p>Puede que la dirección haya cambiado.</p><p><a id="volver" href="/">Volver a las doce unidades</a></p></main>
+<script>
+// En GitHub Pages el sitio vive en /<repositorio>/: enlaza a esa raíz.
+var p = location.pathname.split('/').filter(Boolean);
+if (location.hostname.endsWith('github.io') && p.length) document.getElementById('volver').href = '/' + p[0] + '/';
+</script>
+</body>
+</html>

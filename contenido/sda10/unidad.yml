@@ -1,0 +1,80 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 10
+carpeta: sda10
+titulo: Mi dinero, mis reglas
+titulo_largo: SdA 10 · Mi dinero, mis reglas · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 10: economía financiera y finanzas personales. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 3
+sesiones: 10
+producto: Decisiones financieras personales analizadas con datos reales de productos y de vivienda en Málaga.
+ce: CE4
+criterios: 4.1 · 4.2 · 4.3
+saberes: A4 · C5
+referente: Soledad Nuñez y Carmen Reinhart
+interdisciplinar: Matemáticas Aplicadas a las CCSS I (sesión 4)
+temas: finanzas personales ahorro presupuesto crédito interés tae hipoteca euríbor vivienda málaga banco de españa cnmv unicaja productos financieros riesgo
+rubricas:
+- criterio: '4.1'
+  descripcion: Conocer y comprender el funcionamiento del sistema financiero y de las políticas monetarias, valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, el ahorro, los productos financieros y la búsqueda de fuentes de financiación, para planificar y gestionar con mayor responsabilidad y autonomía las propias finanzas y adoptar decisiones financieras fundamentadas.
+  competencia: '4'
+  saberes: A4/C5/D3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CD4/CPSAA1.2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No comprende el funcionamiento básico del sistema financiero ni identifica los elementos de una decisión financiera (coste, riesgo, rentabilidad): ni lo explica en sus intervenciones orales (debate, defensa) ni lo refleja en sus producciones escritas (prueba escrita, portafolio, hoja de cálculo).'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Describe de manera muy elemental qué es el sistema financiero y algún producto (cuenta, préstamo), y reconoce de forma guiada la idea de coste o riesgo, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente el papel de los intermediarios financieros y los rasgos básicos de los principales productos de ahorro, financiación e inversión, y calcula o interpreta con corrección elementos como el interés o la TAE, tanto en la prueba escrita como en su participación durante el trabajo cooperativo observado.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza justificadamente el funcionamiento del sistema financiero y compara críticamente productos según su coste, riesgo y rentabilidad; lo argumenta con solidez tanto de forma oral —en el debate y al defender su cartera ante el Comité— como por escrito —en la prueba escrita, la hoja de cálculo y el portafolio—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Argumenta y evalúa con profundidad el funcionamiento del sistema financiero y de sus productos, demostrando dominio técnico (interés compuesto, TAE, riesgo-rentabilidad, diversificación) de forma consistente en todos los instrumentos aplicados: exposición y debate oral, prueba escrita, portafolio, Plan Financiero y coevaluación entre iguales.'
+- criterio: '4.2'
+  descripcion: Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y comprensión del sistema financiero, valorando los elementos que intervienen en las decisiones financieras y los efectos que estos pueden provocar en la economía real.
+  competencia: '4'
+  saberes: A4/C5/D3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CD4/CPSAA1.2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: Muestra errores graves al planificar unas finanzas personales sencillas (presupuesto, ahorro, deuda) o no llega a hacerlo, tanto en sus respuestas escritas (cuestionario, prueba escrita, presupuesto) como en su participación oral y en el trabajo de equipo observado.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Elabora de forma básica o guiada un presupuesto o un plan de ahorro elemental y reconoce alguna decisión financiera responsable, ya sea en el portafolio, en el cuestionario o cuando se le pregunta directamente en clase.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Planifica con corrección un presupuesto realista con la regla 50/30/20, dimensiona un fondo de emergencia y distingue endeudamiento responsable de sobreendeudamiento, tanto en la prueba escrita como en sus intervenciones durante el trabajo cooperativo.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Gestiona con autonomía unas finanzas personales completas, tomando decisiones fundamentadas de ahorro, consumo, deuda e inversión coherentes con un perfil y un objetivo dados; lo sostiene tanto de forma oral —en la defensa ante el Comité— como por escrito —en el Plan Financiero y la prueba escrita—, respondiendo a las preguntas cruzadas.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Planifica y gestiona con alto sentido crítico y autonomía un plan financiero personal completo, anticipando imprevistos y conectando cada decisión con su efecto, y lo demuestra de manera consistente en la defensa oral, el debate, la prueba escrita, el Plan Financiero y su propia autoevaluación.
+- criterio: '4.3'
+  descripcion: Adquirir conocimientos financieros a partir del análisis del sistema financiero, su funcionamiento y los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y sus decisiones financieras personales que afectan a su vida cotidiana y comprendiendo la influencia de las decisiones financieras en la viabilidad de los proyectos personales, de las empresas y del sector público.
+  competencia: '4'
+  saberes: A4/C5/D3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CD4/CPSAA1.2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: No conecta los conocimientos financieros con decisiones reales ni comprende su influencia en la viabilidad de proyectos personales, empresariales o públicos, tanto en sus respuestas escritas como en su participación oral y en el trabajo de equipo observado.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Establece de forma básica o guiada alguna conexión entre lo aprendido y una decisión financiera de su vida cotidiana, ya sea en el portafolio, en el cuestionario o cuando se le pregunta directamente.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica con corrección cómo las decisiones financieras afectan a su vida cotidiana y reconoce su influencia en la viabilidad de un proyecto, tanto en la prueba escrita como en sus intervenciones orales durante el debate y la defensa.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con detalle las consecuencias de las decisiones financieras, conectando de forma coherente los aprendizajes de la unidad con decisiones reales (personales, de empresa o del sector público); lo sostiene tanto oralmente —en el debate sobre inversión y en el Comité— como por escrito —en el Plan Financiero y la prueba—, defendiéndolo ante las réplicas.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Evalúa con alto sentido crítico la influencia de las decisiones financieras en la viabilidad de los proyectos, conectando causas y efectos complejos de forma autónoma (p. ej., el riesgo del fraude, el coste de la deuda o el efecto de la inflación), y lo demuestra de manera consistente en la exposición, el debate, la prueba escrita, el Plan Financiero y su autoevaluación.

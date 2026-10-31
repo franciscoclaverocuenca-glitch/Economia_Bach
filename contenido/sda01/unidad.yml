@@ -1,0 +1,59 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 1
+carpeta: sda01
+titulo: ¿De quién es la vivienda?
+titulo_largo: SdA 1 · ¿De quién es la vivienda? · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 1: la escasez, el problema económico básico y los límites de la racionalidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 1
+sesiones: 11
+producto: Un <b>juicio simulado</b> sobre el precio de la vivienda en Málaga, con dossier documentado y veredicto económico.
+ce: CE1
+criterios: 1.2 · 1.3
+saberes: A1 · A2 · A5 · C2
+referente: Elinor Ostrom
+interdisciplinar: Filosofía (sesiones 7 y 8)
+temas: escasez necesidades bienes servicios coste de oportunidad coste irrecuperable análisis marginal maslow bienes públicos comunes homo economicus kahneman sesgos nudge eficiencia equidad adam smith vivienda alquiler juicio ostrom
+rubricas:
+- criterio: '1.2'
+  descripcion: Comprender el problema de la escasez identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución del mismo.
+  competencia: '1'
+  saberes: A1/A2/A3/C4/D1
+  descriptores: CCL2/CP3/STEM2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No comprende el concepto de escasez ni asocia estrategias económicas para resolverlo: ni lo explica en sus intervenciones orales (debate, exposición) ni lo refleja en sus producciones escritas (prueba escrita, portafolio).'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Define la escasez y menciona alguna estrategia económica de resolución de manera muy elemental, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente de forma guiada.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente los motivos de la escasez y compara estrategias básicas de resolución sin profundizar; lo demuestra con corrección tanto en la prueba escrita como en su participación oral durante el trabajo cooperativo observado por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza justificadamente la escasez, comparando críticamente la idoneidad de diversas estrategias económicas; lo argumenta con solidez tanto de forma oral —en el debate y al defender el dossier— como por escrito —en la prueba escrita y el portafolio—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Argumenta y evalúa con profundidad y solidez el problema de la escasez, demostrando dominio estratégico y creativo de las soluciones de forma consistente en todos los instrumentos aplicados: exposición y debate oral, prueba escrita, portafolio, dossier grupal y coevaluación entre iguales.'
+- criterio: '1.3'
+  descripcion: Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad.
+  competencia: '1'
+  saberes: A1/A2/A3/C4/D1
+  descriptores: CCL2/CP3/STEM2/CPSAA4/CPSAA5/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: Muestra errores graves al explicar la toma de decisiones de los agentes y su repercusión social, tanto en sus respuestas escritas (cuestionario, prueba escrita) como en su participación oral y en el trabajo de equipo observado por el docente.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Describe de forma básica o guiada cómo deciden los agentes individuales y colectivos en la sociedad, ya sea en el portafolio, en el cuestionario o cuando se le pregunta directamente en clase.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica con corrección los procesos de toma de decisiones y reconoce su impacto social general, tanto en la prueba escrita como en sus intervenciones orales durante el debate y la exposición.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con detalle la toma de decisiones de los agentes, argumentando con claridad y coherencia su impacto; lo sostiene tanto de forma oral —en la exposición y el careo del juicio— como por escrito —en la prueba escrita y el dossier—, defendiendo su postura ante las réplicas del debate.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Evalúa con alto sentido crítico las decisiones de los agentes, conectando causas y efectos sociales complejos de forma autónoma, y lo demuestra de manera consistente en la exposición oral, el debate, la prueba escrita, el portafolio y su propia autoevaluación.

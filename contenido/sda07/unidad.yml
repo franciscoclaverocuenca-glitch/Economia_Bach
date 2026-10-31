@@ -1,0 +1,59 @@
+# Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
+n: 7
+carpeta: sda07
+titulo: ¿Qué trabajo me espera?
+titulo_largo: SdA 7 · ¿Qué trabajo me espera? · Economía 1.º Bachillerato
+descripcion: 'Situación de aprendizaje 7: el mercado de trabajo. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+autor: Francisco Clavero Cuenca
+trimestre: 2
+sesiones: 9
+producto: Un <b>podcast sobre tu sector</b> y su defensa en un Festival de escucha, con entrevista real incluida.
+ce: CE3
+criterios: 3.1 · 3.3
+saberes: C3
+referente: Claudia Goldin
+interdisciplinar: Antropología y Sociología (sesiones 4, 6 y 7)
+temas: mercado de trabajo población activa inactiva tasa de paro actividad empleo epa paro registrado observatorio argos desempleo friccional estacional estructural cíclico brecha salarial techo de cristal goldin políticas activas pasivas andalucía orienta salario mínimo
+rubricas:
+- criterio: '3.1'
+  descripcion: Conocer cómo se produce el desarrollo económico y el bienestar social, valorando con sentido crítico y analítico, cómo se evalúa, mediante macromagnitudes y otros indicadores, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta.
+  competencia: '3'
+  saberes: C1/C2/C3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CPSAA4/CPSAA5/CC3/CC4/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: 'No identifica los indicadores laborales básicos ni el papel de los agentes del mercado de trabajo en el bienestar social: ni lo explica en sus intervenciones orales (debate, presentación del podcast) ni lo refleja en sus producciones escritas (prueba escrita, portafolio).'
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Describe de forma elemental el funcionamiento del mercado de trabajo y menciona algún indicador laboral (tasa de paro, tasa de actividad) como medida del bienestar, ya sea al responder al cuestionario, en sus anotaciones del portafolio o cuando se le pregunta oralmente de forma guiada.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Explica correctamente el funcionamiento del mercado de trabajo, los tipos de desempleo y sus efectos sobre el bienestar social, sin profundizar en las causas; lo demuestra con corrección tanto en la prueba escrita como en su participación oral durante el trabajo cooperativo observado por el docente.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Analiza con sentido crítico cómo los indicadores laborales miden el bienestar social y valora el papel de los distintos agentes (trabajadores, empresas, Estado, sindicatos), incluyendo las diferencias salariales y la brecha de género; lo argumenta con solidez tanto de forma oral —en el debate y al defender el podcast— como por escrito —en la prueba escrita y el portafolio—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: 'Evalúa con profundidad y autonomía el desarrollo económico y el bienestar social a través del mercado de trabajo, conectando causas, efectos y políticas correctoras sobre un sector real, y lo demuestra de manera consistente en todos los instrumentos aplicados: exposición y careo oral, prueba escrita, portafolio, podcast/informe grupal y coevaluación entre iguales.'
+- criterio: '3.3'
+  descripcion: Valorar la importancia de la recopilación sistemática de datos estadísticos y su correcta interpretación para comprender la realidad económica y evaluar las consecuencias de las intervenciones de los agentes.
+  competencia: '3'
+  saberes: C1/C2/C3
+  descriptores: CCL2/CCL3/STEM1/STEM4/CPSAA4/CPSAA5/CC3/CC4/CE1/CE2
+  niveles:
+  - nivel: Insuficiente
+    notas: 1-4
+    descriptor: Confunde las fuentes estadísticas del empleo, no sabe calcular las tasas básicas o interpreta los datos de forma errónea, tanto en sus respuestas escritas (cuestionario, prueba escrita) como en su participación oral y en el trabajo de equipo observado por el docente.
+  - nivel: Suficiente
+    notas: '5'
+    descriptor: Calcula las tasas básicas con apoyo y localiza algún dato oficial de forma guiada, ya sea en el laboratorio de datos, en el portafolio o cuando se le pregunta directamente en clase, aunque su interpretación es superficial.
+  - nivel: Bien
+    notas: '6'
+    descriptor: Calcula e interpreta correctamente las tasas de actividad, empleo y paro, distingue la EPA del paro registrado y cita las fuentes de forma adecuada, tanto en la prueba escrita como en el trabajo con datos de las sesiones prácticas.
+  - nivel: Notable
+    notas: 7-8
+    descriptor: Selecciona, fecha y cita con rigor los datos oficiales pertinentes para un diagnóstico, explica por qué las distintas fuentes ofrecen cifras diferentes y las interpreta con corrección; lo sostiene tanto de forma oral —en la presentación del podcast y el careo— como por escrito —en la prueba escrita y las fichas del portafolio—.
+  - nivel: Sobresaliente
+    notas: 9-10
+    descriptor: Valora críticamente la calidad y las limitaciones de cada fuente estadística, integra con autonomía datos cuantitativos oficiales y una fuente primaria propia (entrevista) en un diagnóstico riguroso, y lo demuestra de manera consistente en la exposición oral, el podcast/informe, la prueba escrita, el portafolio y su propia autoevaluación.
