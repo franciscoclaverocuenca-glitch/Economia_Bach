@@ -46,12 +46,16 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gru
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s09-01.webp | Portada
-sda1-s09-02.webp | Las cuatro partes
-sda1-s09-03.webp | El objetivo doble
-sda1-s09-04.webp | Los subroles
-sda1-s09-05.webp | El control de calidad
-sda1-s09-06.webp | Anticipad las preguntas
+sda1-s09-01.webp | Laboratorio de preparación
+sda1-s09-02.webp | Dos productos para el juicio
+sda1-s09-03.webp | Las cuatro partes
+sda1-s09-04.webp | Dónde buscarlo
+sda1-s09-05.webp | Los términos que no pueden faltar
+sda1-s09-06.webp | La escasez de vivienda no es natural
+sda1-s09-07.webp | Una estructura que funciona
+sda1-s09-08.webp | Manos a la obra
+sda1-s09-09.webp | El reparto de roles
+sda1-s09-10.webp | Ensayad el alegato en voz alta
 ```
 
 ## Las cuatro partes del Juicio

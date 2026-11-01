@@ -46,13 +46,20 @@ Trabajo cooperativo simultáneo de todos los grupos, con nivel de ruido alto. Si
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s05-01.webp | Portada
-sda1-s05-02.webp | El escenario
-sda1-s05-03.webp | Los roles
-sda1-s05-04.webp | Reto 1
-sda1-s05-05.webp | Reto 2
-sda1-s05-06.webp | Reto 3
-sda1-s05-07.webp | Reto 4
+sda1-s05-01.webp | Náufragos en Isla Utopía
+sda1-s05-02.webp | Ciento cincuenta personas fundan una sociedad en una isla remota.
+sda1-s05-03.webp | Sois el Comité de Planificación Económica
+sda1-s05-04.webp | Cuatro funciones en cada grupo
+sda1-s05-05.webp | Unos siete minutos por reto
+sda1-s05-06.webp | Los jóvenes quieren internet por satélite. Las familias, casas de…
+sda1-s05-07.webp | ¿Qué nivel de Maslow?
+sda1-s05-08.webp | Clasificad cada elemento
+sda1-s05-09.webp | Sustitutivos y complementarios
+sda1-s05-10.webp | Con qué se construye en la isla
+sda1-s05-11.webp | ¿Cómo podría un servicio, y no un bien, acelerar la construcción…
+sda1-s05-12.webp | Los peces del arrecife
+sda1-s05-13.webp | Los portavoces
+sda1-s05-14.webp | En una isla o en Málaga, el problema es el mismo
 ```
 
 ## El retorno a la Isla Utopía

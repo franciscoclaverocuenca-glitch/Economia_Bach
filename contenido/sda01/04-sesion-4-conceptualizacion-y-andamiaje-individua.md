@@ -48,12 +48,22 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s04-01.webp | Portada
-sda1-s04-02.webp | La pregunta provocadora
-sda1-s04-03.webp | La pirámide de Maslow
-sda1-s04-04.webp | Los tipos de bien
-sda1-s04-05.webp | Referente: Elinor Ostrom
-sda1-s04-06.webp | Cierre del Cornell
+sda1-s04-01.webp | ¿Qué es la Economía?
+sda1-s04-02.webp | Si os regalaran 200.000 euros, ¿podríais compraros ahora mismo el…
+sda1-s04-03.webp | La Economía como ciencia
+sda1-s04-04.webp | Microeconomía y macroeconomía
+sda1-s04-05.webp | Lo que es y lo que debería ser
+sda1-s04-06.webp | No todas pesan igual
+sda1-s04-07.webp | De la base a la cima
+sda1-s04-08.webp | Bienes libres y económicos
+sda1-s04-09.webp | Dos preguntas para clasificar cualquier bien
+sda1-s04-10.webp | Cuatro tipos de bien
+sda1-s04-11.webp | Si un prado es de todos, cada pastor mete una vaca más… y al final…
+sda1-s04-12.webp | Elinor Ostrom (1933-2012)
+sda1-s04-13.webp | Por qué funcionaban esas comunidades
+sda1-s04-14.webp | ¿Por qué la ley da prioridad a las familias monoparentales en la…
+sda1-s04-15.webp | Vuestros grupos base
+sda1-s04-16.webp | Ni solo mercado ni solo Estado
 ```
 
 ## La Pirámide de Maslow y los tipos de bien

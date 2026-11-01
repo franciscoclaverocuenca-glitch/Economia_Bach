@@ -48,13 +48,24 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s01-01.webp | Portada
-sda1-s01-02.webp | Las cuatro noticias
-sda1-s01-03.webp | La controversia
-sda1-s01-04.webp | Las tres fases
-sda1-s01-05.webp | El reto
-sda1-s01-06.webp | El dato transversal
-sda1-s01-07.webp | La pregunta abierta
+sda1-s01-01.webp | ¿De quién es la vivienda?
+sda1-s01-02.webp | Lo que vas a hacer en esta sesión
+sda1-s01-03.webp | ¿De quién es la vivienda?
+sda1-s01-04.webp | Cuatro noticias reales
+sda1-s01-05.webp | El problema, visto desde cuatro sitios
+sda1-s01-06.webp | Málaga, en números
+sda1-s01-07.webp | La controversia estructurada
+sda1-s01-08.webp | Inversión frente a derecho
+sda1-s01-09.webp | Tres fases
+sda1-s01-10.webp | Vuestra controversia
+sda1-s01-11.webp | Lo que hemos acordado
+sda1-s01-12.webp | El reto final: un juicio
+sda1-s01-13.webp | Cuatro partes enfrentadas
+sda1-s01-14.webp | De hoy al juicio
+sda1-s01-15.webp | Cómo se sube de nivel
+sda1-s01-16.webp | Esta vez, normativo
+sda1-s01-17.webp | ¿Por qué la ley da prioridad a las familias monoparentales en la…
+sda1-s01-18.webp | Cuando algo no llega para todos, hay que elegir
 ```
 
 ## Controversia estructurada sobre la vivienda

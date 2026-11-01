@@ -42,14 +42,23 @@ El rally implica circulación y conversación simultánea de todas las parejas. 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s03-01.webp | Portada
-sda1-s03-02.webp | Los conceptos
-sda1-s03-03.webp | El reto inicial
-sda1-s03-04.webp | Las cuatro fases
-sda1-s03-05.webp | Tarjeta 1
-sda1-s03-06.webp | Tarjeta 2
-sda1-s03-07.webp | Tarjeta 3
-sda1-s03-08.webp | Por qué funciona
+sda1-s03-01.webp | Las palabras de la Economía
+sda1-s03-02.webp | Mañana el alquiler de todos los pisos de Málaga se duplica de golpe.
+sda1-s03-03.webp | Los cimientos de la asignatura
+sda1-s03-04.webp | Las necesidades
+sda1-s03-05.webp | Cómo son las necesidades
+sda1-s03-06.webp | Los recursos
+sda1-s03-07.webp | Bienes y servicios
+sda1-s03-08.webp | De la escasez a la Economía
+sda1-s03-09.webp | El problema económico básico
+sda1-s03-10.webp | Escasez física y relativa
+sda1-s03-11.webp | El Mercado de Problemas
+sda1-s03-12.webp | El rally en cuatro fases
+sda1-s03-13.webp | Una persona hereda de golpe un millón de euros y una furgoneta…
+sda1-s03-14.webp | Tres ejemplos de tu vida en los que el recurso escaso no es el dinero.
+sda1-s03-15.webp | Una inmobiliaria y una constructora.
+sda1-s03-16.webp | Cómo valoramos las respuestas
+sda1-s03-17.webp | El dinero no es una vivienda
 ```
 
 ## Practica · Relaciona cada concepto

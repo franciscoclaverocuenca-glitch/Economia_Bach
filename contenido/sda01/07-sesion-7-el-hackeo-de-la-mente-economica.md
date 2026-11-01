@@ -42,12 +42,19 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s07-01.webp | Portada
-sda1-s07-02.webp | El experimento
-sda1-s07-03.webp | La racionalidad limitada
-sda1-s07-04.webp | Aplicado a la vivienda
-sda1-s07-05.webp | Sesgos y falacias
-sda1-s07-06.webp | Los nudges
+sda1-s07-01.webp | El hackeo de la mente económica
+sda1-s07-02.webp | ¿El precio medio de un piso en Málaga es mayor o menor de 900.000 €?
+sda1-s07-03.webp | Te ofrecen dos opciones: ganar 50 € seguros, o lanzar una moneda y…
+sda1-s07-04.webp | La racionalidad limitada
+sda1-s07-05.webp | Tres nombres
+sda1-s07-06.webp | Los dos sistemas de Kahneman
+sda1-s07-07.webp | Atajos que fallan siempre igual
+sda1-s07-08.webp | Qué es un nudge
+sda1-s07-09.webp | Nudges que funcionan
+sda1-s07-10.webp | Diseñadores de nudges
+sda1-s07-11.webp | Fruta o reciclaje
+sda1-s07-12.webp | El poder de empujar
+sda1-s07-13.webp | Los errores de la mente son predecibles
 ```
 
 ## El Laboratorio de Kahneman y los Nudges

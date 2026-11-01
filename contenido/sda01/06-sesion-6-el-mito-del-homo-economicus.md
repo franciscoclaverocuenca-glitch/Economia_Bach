@@ -44,13 +44,20 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s06-01.webp | Portada
-sda1-s06-02.webp | Dilema 1
-sda1-s06-03.webp | Los dos conceptos
-sda1-s06-04.webp | Dilema 2
-sda1-s06-05.webp | El torneo
-sda1-s06-06.webp | La pregunta abierta
-sda1-s06-07.webp | Y aquí no hay conclusión
+sda1-s06-01.webp | El mito del Homo Economicus
+sda1-s06-02.webp | ¿Tomas tus decisiones de forma perfectamente racional?
+sda1-s06-03.webp | El Homo Economicus
+sda1-s06-04.webp | El Termómetro de Incentivos
+sda1-s06-05.webp | Has pagado 300 € de fianza por un piso. Esa semana encuentras otro…
+sda1-s06-06.webp | Lo que pierdes y lo que ya perdiste
+sda1-s06-07.webp | Llevas tres horas visitando pisos y estás agotado.
+sda1-s06-08.webp | Mira el siguiente, no el total
+sda1-s06-09.webp | Los incentivos
+sda1-s06-10.webp | El Consultor Racional
+sda1-s06-11.webp | Javier lleva ocho meses pagando la hipoteca de un piso que ya no…
+sda1-s06-12.webp | Lo que debe incluir
+sda1-s06-13.webp | Género y acceso a la vivienda
+sda1-s06-14.webp | Lo que ya gastaste no vuelve
 ```
 
 ## El Termómetro de Incentivos y el Consultor Racional

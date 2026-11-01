@@ -50,13 +50,20 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s08-01.webp | Portada
-sda1-s08-02.webp | El dilema
-sda1-s08-03.webp | El dilema clásico
-sda1-s08-04.webp | Tres miradas
-sda1-s08-05.webp | La Pecera Moral
-sda1-s08-06.webp | Los casos límite
-sda1-s08-07.webp | Ostrom, otra vez
+sda1-s08-01.webp | La brújula moral del mercado
+sda1-s08-02.webp | Hay pocos pisos de alquiler. ¿Se los queda quien más pueda pagar o…
+sda1-s08-03.webp | Eficiencia y equidad
+sda1-s08-04.webp | El cubo agujereado de Okun
+sda1-s08-05.webp | Quién dijo qué
+sda1-s08-06.webp | Para hablar en la pecera
+sda1-s08-07.webp | Lo dice la Constitución
+sda1-s08-08.webp | La Pecera Moral
+sda1-s08-09.webp | Las reglas de la pecera
+sda1-s08-10.webp | ¿Deberían poder los fondos de inversión comprar bloques enteros de…
+sda1-s08-11.webp | ¿Es ético multiplicar el alquiler de temporada en plena demanda…
+sda1-s08-12.webp | Las familias monoparentales, con una sola renta, tienen más…
+sda1-s08-13.webp | Una tercera vía
+sda1-s08-14.webp | No hay respuesta cerrada, pero sí argumentos mejores
 ```
 
 ## La Pecera Moral

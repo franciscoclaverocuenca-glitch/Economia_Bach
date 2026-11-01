@@ -50,12 +50,22 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 ## Diapositivas de la sesión
 
 ```diapositivas
-expl-sda01-01.webp | Portada
-expl-sda01-02.webp | El encargo
-expl-sda01-03.webp | La regla
-expl-sda01-04.webp | La discrepancia
-expl-sda01-05.webp | Por qué difieren
-expl-sda01-06.webp | El cierre
+sda1-s02-01.webp | El mapa de precios de Málaga
+sda1-s02-02.webp | Lo que vas a hacer en esta sesión
+sda1-s02-03.webp | ¿Cuesta lo mismo vivir en el Centro que en Campanillas?
+sda1-s02-04.webp | El precio es una señal
+sda1-s02-05.webp | El encargo
+sda1-s02-06.webp | Vuestros cuatro datos
+sda1-s02-07.webp | Ningún dato vale sin su fuente
+sda1-s02-08.webp | Fuentes para vuestro distrito
+sda1-s02-09.webp | Investigación por parejas
+sda1-s02-10.webp | Dos precios para el mismo piso
+sda1-s02-11.webp | No se trata de acertar el precio
+sda1-s02-12.webp | El mapa colectivo
+sda1-s02-13.webp | Tres preguntas al mapa
+sda1-s02-14.webp | La tasa de esfuerzo
+sda1-s02-15.webp | Tu conclusión, solo tuya
+sda1-s02-16.webp | Un precio alto es el síntoma de que algo escasea
 ```
 
 ## El mapa de precios

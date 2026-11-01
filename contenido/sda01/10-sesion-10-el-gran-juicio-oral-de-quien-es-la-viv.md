@@ -46,13 +46,17 @@ Sesión de alta intensidad oral con turnos cruzados. Sitúa a este alumno/a en u
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda1-s10-01.webp | Portada
-sda1-s10-02.webp | Las cinco fases
-sda1-s10-03.webp | El tipo de pregunta
-sda1-s10-04.webp | Qué se evalúa
-sda1-s10-05.webp | El veredicto
-sda1-s10-06.webp | Las herramientas reales
-sda1-s10-07.webp | El cierre
+sda1-s10-01.webp | ¿De quién es la vivienda?
+sda1-s10-02.webp | Cinco fases
+sda1-s10-03.webp | Los alegatos iniciales
+sda1-s10-04.webp | Orden de intervención
+sda1-s10-05.webp | El careo
+sda1-s10-06.webp | Fondos de inversión: si la vivienda es de primera necesidad, ¿cómo…
+sda1-s10-07.webp | El veredicto
+sda1-s10-08.webp | Lo que puede proponer el Tribunal
+sda1-s10-09.webp | La escala de dedos
+sda1-s10-10.webp | ¿De quién es la vivienda?
+sda1-s10-11.webp | Escasez, coste de oportunidad, eficiencia y equidad
 ```
 
 ## El Juicio: las tres fases
