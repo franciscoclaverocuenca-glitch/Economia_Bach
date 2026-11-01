@@ -2,7 +2,20 @@
 titulo: Sesión 3 · La empresa y sus funciones
 ---
 
+Hay que preparar **20 bocadillos** para un evento del instituto.
+
+Opción A: una persona los hace todos, uno detrás de otro. Opción B: cuatro personas se reparten las tareas (cortar, untar, rellenar, envolver) y trabajan en cadena.
+
+¿Cuál termina antes? Y sobre todo: **¿por qué exactamente?** De ahí sale buena parte de cómo funciona la economía moderna.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s03-solucionario.pdf | Solucionario de los casos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable, formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de comprensión · OD: observación del trabajo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +44,6 @@ La **función de riesgo** es la que menos se intuye y la que más conviene subra
 - ¿Qué aporta esta empresa a su entorno además de su producto?
 - De lo que dijimos el primer día, ¿qué acertamos y qué había que matizar?
 
-::: aviso Material que debes preparar tú
-- **Casos reales de empresas malagueñas y andaluzas**, de distinto tamaño y sector, con información suficiente para identificar sus elementos y sus cuatro funciones. 2-3 casos por pareja.
-- **Ficha de análisis** con las cuatro funciones y los elementos patrimoniales.
-- **La fotografía de la lluvia de ideas de la sesión 1**. Sin ella, la puesta en común pierde su núcleo.
-- **Ejemplos andaluces de los tres sectores** para la clasificación rápida.
-- Proyector.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La división del trabajo se presenta primero como experiencia concreta y cotidiana (el experimento del bocadillo) y solo después se nombra técnicamente, de modo que la definición llegue cuando ya existe una imagen reconocible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El contraste con las ideas previas de la sesión 1 hace visible el propio progreso y valida las intuiciones acertadas del alumnado en lugar de sustituirlas sin más por la definición técnica.</td></tr></tbody></table>
@@ -47,28 +52,28 @@ La **función de riesgo** es la que menos se intuye y la que más conviene subra
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hay que preparar **20 bocadillos** para un evento del instituto.
-
-Opción A: una persona los hace todos, uno detrás de otro. Opción B: cuatro personas se reparten las tareas (cortar, untar, rellenar, envolver) y trabajan en cadena.
-
-¿Cuál termina antes? Y sobre todo: **¿por qué exactamente?** De ahí sale buena parte de cómo funciona la economía moderna.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda4-s03-01.webp | Portada
-sda4-s03-02.webp | Los bocadillos
-sda4-s03-03.webp | Los tres sectores
-sda4-s03-04.webp | Las cuatro funciones
-sda4-s03-05.webp | Los elementos patrimoniales
-sda4-s03-06.webp | El contraste
+sda4-s03-01.webp | La empresa y sus funciones
+sda4-s03-02.webp | Una persona sola o cuatro en cadena: ¿quién termina antes? ¿Por…
+sda4-s03-03.webp | División del trabajo
+sda4-s03-04.webp | Dónde trabaja cada empresa
+sda4-s03-05.webp | No solo lo que se toca
+sda4-s03-06.webp | Qué hace una empresa
+sda4-s03-07.webp | Quien compra 500 kg de harina no sabe si venderá el pan.
+sda4-s03-08.webp | Dos empresas malagueñas
+sda4-s03-09.webp | Volvemos a lo que dijimos
+sda4-s03-10.webp | Una empresa produce, vende, arriesga y aporta
 ```
 
 ## Las cuatro funciones de la empresa
 
-### Primero: los elementos patrimoniales
+### Para empezar: veinte bocadillos
+
+Hay que preparar 20 bocadillos para un evento del instituto. **Opción A**: una sola persona los hace de principio a fin. **Opción B**: cuatro personas se reparten las tareas (cortar el pan, untar, rellenar, envolver) y trabajan en cadena. ¿Cuál termina antes? ¿Y **por qué exactamente**?
+
+### Los elementos patrimoniales
 
 Antes de las funciones, lo tangible. **¿Qué tiene** una empresa? Local, maquinaria, existencias, vehículos… pero también personas, conocimiento y marca. Los elementos patrimoniales **no son solo los que se pueden tocar**.
 
@@ -82,7 +87,11 @@ La **de riesgo**. Cuando se habla de empresas casi siempre se menciona el benefi
 
 ### Vuestra ficha de análisis
 
-<table><thead><tr><th width="28%"></th><th width="36%">Empresa 1</th><th width="36%">Empresa 2</th></tr></thead><tbody><tr><td>Elementos patrimoniales</td><td></td><td></td></tr><tr><td>Función productiva</td><td></td><td></td></tr><tr><td>Función comercial</td><td></td><td></td></tr><tr><td>Función de riesgo</td><td></td><td></td></tr><tr><td>Función social</td><td></td><td></td></tr></tbody></table>
+Por parejas, analizad dos empresas reales de la provincia de distinto tamaño y sector: una gran empresa familiar de moda infantil nacida en Málaga y una cooperativa agroalimentaria de Antequera. Para cada una: elementos patrimoniales y las cuatro funciones.
+
+```descargas
+sda04-s03-casos.pdf | Dos empresas malagueñas | Fichas de caso y tabla de análisis
+```
 
 ## El contraste con el primer día
 
@@ -128,7 +137,25 @@ Un empresario que compra 500 kg de harina no sabe si venderá el pan. Si no lo v
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>División del trabajo</b></td><td>Reparto de un proceso productivo en tareas distintas asignadas a personas distintas.</td></tr><tr><td><b>Especialización</b></td><td>Concentración de una persona o empresa en una tarea concreta, que aumenta su destreza y su productividad.</td></tr><tr><td><b>Productividad</b></td><td>Producción obtenida por unidad de factor empleado.</td></tr><tr><td><b>Elementos patrimoniales</b></td><td>Bienes y derechos con los que cuenta una empresa, tangibles e intangibles.</td></tr><tr><td><b>Valor añadido</b></td><td>Valor que la empresa suma al producto por encima del coste de los materiales empleados.</td></tr><tr><td><b>Función de riesgo</b></td><td>Compromiso de recursos antes de vender, sin garantía de recuperarlos.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>División del trabajo</b></td><td>Reparto de un proceso productivo en tareas distintas asignadas a personas distintas. Adam Smith la explicó con una fábrica de alfileres.</td></tr>
+<tr><td><b>Especialización</b></td><td>Concentrarse en una tarea concreta. Aumenta la destreza y ahorra el tiempo de cambiar de tarea.</td></tr>
+<tr><td><b>Productividad</b></td><td>Producción obtenida por unidad de factor empleado: bocadillos por persona y hora, por ejemplo.</td></tr>
+<tr><td><b>Elementos patrimoniales</b></td><td>Bienes y derechos con los que cuenta una empresa. Pueden ser tangibles (local, maquinaria, existencias) o intangibles (marca, patentes, cartera de clientes).</td></tr>
+<tr><td><b>Función productiva</b></td><td>Combinar los factores para crear un bien o servicio. Es la que genera valor añadido.</td></tr>
+<tr><td><b>Función comercial</b></td><td>Hacer llegar el producto al cliente: distribución, venta, atención.</td></tr>
+<tr><td><b>Función de riesgo</b></td><td>Comprometer recursos antes de vender, sin garantía de recuperarlos. El beneficio es su recompensa.</td></tr>
+<tr><td><b>Función social</b></td><td>Lo que la empresa aporta al entorno además del producto: empleo, formación, impuestos, actividad.</td></tr>
+<tr><td><b>Valor añadido</b></td><td>Lo que la empresa suma al producto por encima del coste de lo que compra a otras empresas.</td></tr>
+<tr><td><b>Sectores económicos</b></td><td>Primario (obtiene recursos de la naturaleza), secundario (los transforma) y terciario (presta servicios).</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=f6O0FcBLEag | Las 4 funciones de la empresa | Econosublime · 6:08
+https://www.youtube.com/watch?v=0XKVFHY9c9c | Los elementos de la empresa | Econosublime · 6:10
+```
 
 ## Comprueba lo que sabes
 

@@ -794,6 +794,81 @@
       pintar();
     },
 
+    // Costes, ingresos y beneficio con punto muerto: IT = p·Q ; CT = CF + cv·Q
+    beneficio(el, cfg) {
+      const u = cfg.unidad || 'unidades';
+      const QM = cfg.cantidad_max || 4000;
+      const uid = 'sim' + Math.random().toString(36).slice(2, 7);
+      const b = { p: cfg.precio ?? 8, q: cfg.cantidad ?? 2000, cf: cfg.costes_fijos ?? 5000, cv: cfg.coste_variable ?? 3 };
+      el.innerHTML = `<p class="sim-cab">Simulador</p><h3 class="act-titulo">${cfg.titulo || 'Costes, ingresos y beneficio'}</h3>
+        ${cfg.instrucciones ? `<p>${cfg.instrucciones}</p>` : ''}
+        <div class="sim-rejilla"><div><svg class="sim-grafico" viewBox="0 0 420 320" role="img" aria-labelledby="${uid}-desc"><desc id="${uid}-desc">Ingreso total y coste total según la cantidad vendida</desc></svg>
+        <div class="sim-datos"><div class="sim-dato"><span>Ingreso total</span><strong data-o="it"></strong></div><div class="sim-dato"><span>Coste total</span><strong data-o="ct"></strong></div>
+        <div class="sim-dato"><span>Beneficio</span><strong data-o="b"></strong></div><div class="sim-dato"><span>Punto muerto</span><strong data-o="pm"></strong></div></div></div>
+        <div class="sim-controles">
+          ${control(uid + '-p', 'Precio de venta', 0.5, cfg.precio_max || 20, 0.5, b.p, ' €')}
+          ${control(uid + '-q', `Cantidad vendida (${u})`, 0, QM, QM / 100, b.q)}
+          ${control(uid + '-cf', 'Costes fijos', 0, cfg.costes_fijos_max || 20000, 100, b.cf, ' €')}
+          ${control(uid + '-cv', 'Coste variable por unidad', 0, cfg.coste_variable_max || 15, 0.25, b.cv, ' €')}
+          <div class="sim-botones">${(cfg.escenarios || []).map((s, k) => `<button type="button" data-esc="${k}">${s.nombre}</button>`).join('')}<button type="button" data-esc="reset">Volver al inicio</button></div>
+          <p class="sim-lectura" aria-live="polite"></p>
+        </div></div>`;
+      const svg = $('svg', el);
+      const W = 420, H = 320, m = { l: 58, r: 14, t: 16, b: 40 };
+      const inputs = $$('input[type=range]', el);
+      const [iP, iQ, iCf, iCv] = inputs;
+      const g = svgEl('g', {}, svg);
+      const eur = (v) => `${fmt(v, 0)} €`;
+      function pintar() {
+        const p = +iP.value, q = +iQ.value, cf = +iCf.value, cv = +iCv.value;
+        inputs.forEach((i) => { $(`[data-valor="${i.id}"]`, el).textContent = fmt(+i.value, i === iQ || i === iCf ? 0 : 2) + (i.dataset.sufijo || ''); });
+        const YM = Math.max(p * QM, cf + cv * QM) * 1.05 || 1;
+        const X = (x) => m.l + (x / QM) * (W - m.l - m.r);
+        const Y = (y) => H - m.b - (y / YM) * (H - m.t - m.b);
+        const linea = (pts, a) => svgEl('polyline', { points: pts.map(([x, y]) => `${X(x)},${Y(y)}`).join(' '), fill: 'none', ...a }, g);
+        const texto = (x, y, t, a = {}) => { const e = svgEl('text', { x, y, 'font-size': 12, 'font-family': 'system-ui, sans-serif', ...a }, g); e.textContent = t; return e; };
+        g.innerHTML = '';
+        linea([[0, 0], [QM, 0]], { stroke: '#6B6257' }); linea([[0, 0], [0, YM]], { stroke: '#6B6257' });
+        for (let k = 0; k <= 4; k++) {
+          texto(X((QM * k) / 4), H - m.b + 16, fmt((QM * k) / 4, 0), { 'text-anchor': 'middle', fill: '#6B6257' });
+          texto(m.l - 6, Y((YM * k) / 4) + 4, fmt((YM * k) / 4, 0), { 'text-anchor': 'end', fill: '#6B6257' });
+        }
+        texto(m.l, m.t - 2, 'Euros', { fill: '#0F2C3D', 'font-weight': 600, dx: 4 });
+        texto(W - m.r, H - 6, `Cantidad (${u})`, { fill: '#0F2C3D', 'font-weight': 600, 'text-anchor': 'end' });
+        linea([[0, cf], [QM, cf]], { stroke: '#C1694A', 'stroke-dasharray': '4 4', opacity: 0.6 });
+        texto(W - m.r, Y(cf) - 5, 'Costes fijos', { fill: '#C1694A', 'text-anchor': 'end' });
+        linea([[0, cf], [QM, cf + cv * QM]], { stroke: '#C1694A', 'stroke-width': 3 });
+        linea([[0, 0], [QM, p * QM]], { stroke: '#1B4B66', 'stroke-width': 3 });
+        texto(X(QM) - 4, Y(p * QM) + 16, 'IT', { fill: '#1B4B66', 'font-weight': 700, 'text-anchor': 'end' });
+        texto(X(QM) - 4, Y(cf + cv * QM) - 6, 'CT', { fill: '#C1694A', 'font-weight': 700, 'text-anchor': 'end' });
+        const it = p * q, ct = cf + cv * q, ben = it - ct;
+        linea([[q, 0], [q, Math.max(it, ct)]], { stroke: '#0F2C3D', 'stroke-dasharray': '3 3' });
+        svgEl('circle', { cx: X(q), cy: Y(it), r: 5, fill: '#1B4B66' }, g);
+        svgEl('circle', { cx: X(q), cy: Y(ct), r: 5, fill: '#C1694A' }, g);
+        $('[data-o="it"]', el).textContent = eur(it);
+        $('[data-o="ct"]', el).textContent = eur(ct);
+        const bEl = $('[data-o="b"]', el); bEl.textContent = eur(ben); bEl.style.color = ben >= 0 ? '#1B4B66' : '#B3261E';
+        const lect = [];
+        if (p > cv) {
+          const pm = cf / (p - cv);
+          $('[data-o="pm"]', el).textContent = `${fmt(Math.ceil(pm), 0)} ${u}`;
+          if (pm <= QM) { svgEl('circle', { cx: X(pm), cy: Y(p * pm), r: 6, fill: '#fff', stroke: '#0F2C3D', 'stroke-width': 2 }, g); }
+          lect.push(`Cada unidad vendida deja ${fmt(p - cv, 2)} € para cubrir los costes fijos. Hay que vender ${fmt(Math.ceil(pm), 0)} ${u} para no perder dinero.`);
+        } else { $('[data-o="pm"]', el).textContent = 'no existe'; lect.push('El precio no cubre ni el coste variable: cuanto más vendes, más pierdes.'); }
+        lect.push(ben >= 0 ? `Con ${fmt(q, 0)} ${u}, la empresa gana ${eur(ben)}.` : `Con ${fmt(q, 0)} ${u}, la empresa pierde ${eur(-ben)}.`);
+        $('.sim-lectura', el).textContent = lect.join(' ');
+      }
+      el.addEventListener('input', pintar);
+      $('.sim-botones', el).addEventListener('click', (ev) => {
+        const bt = ev.target.closest('button'); if (!bt) return;
+        let extra = '';
+        if (bt.dataset.esc === 'reset') { iP.value = b.p; iQ.value = b.q; iCf.value = b.cf; iCv.value = b.cv; }
+        else { const s = cfg.escenarios[+bt.dataset.esc]; if (s.precio !== undefined) iP.value = s.precio; if (s.cantidad !== undefined) iQ.value = s.cantidad; if (s.costes_fijos !== undefined) iCf.value = s.costes_fijos; if (s.coste_variable !== undefined) iCv.value = s.coste_variable; extra = s.explicacion || ''; }
+        pintar(); if (extra) $('.sim-lectura', el).textContent = extra + ' ' + $('.sim-lectura', el).textContent;
+      });
+      pintar();
+    },
+
     // Multiplicador del gasto: ΔY = ΔG / (1 − PMC), ronda a ronda
     multiplicador(el, cfg) {
       const uid = 'sim' + Math.random().toString(36).slice(2, 7);

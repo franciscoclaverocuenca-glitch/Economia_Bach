@@ -2,7 +2,18 @@
 titulo: Sesión 7 · ¿Beneficio a cualquier precio?
 ---
 
+Hasta ahora hemos calculado el beneficio. Hoy toca la pregunta incómoda: **¿vale todo para conseguirlo?**
+
+Y no la vais a resolver desde la opinión. Vais a defender una postura que **os asignamos nosotros**… y a mitad de camino, la contraria. Porque entender el argumento del otro lado es lo único que permite tener una posición sólida.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s07-registro-debate.pdf | Registro de la controversia | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4 → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable, formativa (debate observado)</td></tr><tr><td><b>Instrumentos</b></td><td>D: controversia estructurada con turnos e inversión de roles · OD: observación de la argumentación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +42,6 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 - ¿Es legítimo que una empresa busque el máximo beneficio? ¿Con qué límites?
 - De vuestros tres compromisos, ¿cuál podría cumplir de verdad una empresa pequeña?
 
-::: aviso Material que debes preparar tú
-- **2-3 ejemplos reales de innovación**, preferentemente de empresas andaluzas. Uno de producto, uno de proceso y uno de modelo de negocio.
-- **Tarjetas de dilemas** con casos reales límite. Se sugiere el contraste entre una empresa que reduce costes deslocalizando y una **cooperativa de economía social andaluza** que prioriza el empleo local con menor margen.
-- **Casos reales de responsabilidad social** y de economía social andaluza.
-- **Plantilla del manifiesto** de tres compromisos, una por equipo.
-- **Material sobre el ODS 8** (trabajo decente y crecimiento económico) para el cierre.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas de la controversia se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso normaliza el cambio de opinión y rebaja la carga de un debate sobre valores.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate se desarrolla por parejas dentro del grupo de 4, no ante el gran grupo, lo que reduce mucho la exposición; y el producto final es un manifiesto escrito de equipo, no una intervención individual.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -47,21 +50,17 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-## Para empezar
-
-Hasta ahora hemos calculado el beneficio. Hoy toca la pregunta incómoda: **¿vale todo para conseguirlo?**
-
-Y no la vais a resolver desde la opinión. Vais a defender una postura que **os asignamos nosotros**… y a mitad de camino, la contraria. Porque entender el argumento del otro lado es lo único que permite tener una posición sólida.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda4-s07-01.webp | Portada
-sda4-s07-02.webp | Innovación y valor añadido
-sda4-s07-03.webp | Qué es el valor añadido
-sda4-s07-04.webp | La controversia
-sda4-s07-05.webp | Las tres fases
-sda4-s07-06.webp | ODS 8
+sda4-s07-01.webp | ¿Beneficio a cualquier precio?
+sda4-s07-02.webp | Valor añadido
+sda4-s07-03.webp | Producto, proceso y modelo
+sda4-s07-04.webp | Dos empresas del mueble
+sda4-s07-05.webp | Tres fases
+sda4-s07-06.webp | Que se pueda comprobar
+sda4-s07-07.webp | RSC
+sda4-s07-08.webp | Un compromiso concreto
 ```
 
 ## Innovación y valor añadido
@@ -71,7 +70,7 @@ sda4-s07-06.webp | ODS 8
 <table><thead><tr><th width="24%">Tipo</th><th width="36%">En qué consiste</th><th width="40%">Ejemplo</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Un aceite con una certificación que antes no existía; un envase que alarga la conservación</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo, pero de otra manera. Más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Vender por suscripción en lugar de por unidad; vender del productor al consumidor sin intermediarios</td></tr></tbody></table>
 
 ::: nota La idea que las conecta
-El **valor añadido** es lo que la empresa suma al producto por encima de lo que le costaron los materiales. Innovar es, básicamente, encontrar formas de **añadir más valor**. Y de ahí sale el criterio 2.4: la innovación como fuente de valor y de resolución de problemas económicos y sociales.
+El **valor añadido** es lo que la empresa suma al producto por encima de lo que le costaron los materiales. Innovar es, básicamente, encontrar formas de **añadir más valor**. Y la innovación es, además, una forma de resolver problemas económicos y sociales.
 :::
 
 ## Controversia “¿Beneficio a cualquier precio?”
@@ -79,6 +78,10 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 ### Los dos casos
 
 <table><thead><tr><th width="50%">EMPRESA A · deslocaliza</th><th width="50%">EMPRESA B · cooperativa de economía social</th></tr></thead><tbody><tr><td>Reduce costes trasladando la producción fuera.</td><td>Prioriza mantener el empleo local.</td></tr><tr><td>Gana competitividad y margen.</td><td>Acepta un margen menor.</td></tr><tr><td>Sus productos son más baratos para el consumidor.</td><td>Reparte de otra manera los excedentes.</td></tr><tr><td>Pero destruye empleo local.</td><td>Pero es más frágil ante la competencia en precio.</td></tr></tbody></table>
+
+```descargas
+sda04-s07-casos.pdf | Los dos casos de la controversia | Empresa A y empresa B, con datos y argumentos
+```
 
 ### Las tres fases
 
@@ -90,7 +93,11 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 
 ### Vuestro manifiesto
 
-<table><thead><tr><th width="6%"></th><th width="94%">Compromiso que debería asumir cualquier empresa</th></tr></thead><tbody><tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr></tbody></table>
+Tres compromisos que debería asumir cualquier empresa, más allá del beneficio. Cada uno, comprobable.
+
+```descargas
+sda04-s07-manifiesto.pdf | Notas del debate y manifiesto | Plantilla para el equipo
+```
 
 ::: nota Y esto vuelve
 La conexión con el **ODS 8**, trabajo decente y crecimiento económico, no se queda aquí. En las sesiones 8 y 9 vuestro Canvas va a necesitar **un compromiso concreto de responsabilidad social**. Id pensándolo.
@@ -135,4 +142,50 @@ Aplicado a vuestro proyecto. No basta con que vuestra empresa ficticia dé benef
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Innovación de producto</b></td><td>Creación de un bien o servicio nuevo o sustancialmente mejorado.</td></tr><tr><td><b>Innovación de proceso</b></td><td>Nueva forma de producir lo mismo, más eficiente o más limpia.</td></tr><tr><td><b>Innovación de modelo de negocio</b></td><td>Cambio en la forma de cobrar o de llegar al cliente.</td></tr><tr><td><b>Deslocalización</b></td><td>Traslado de la producción a otro territorio con costes más bajos.</td></tr><tr><td><b>Economía social</b></td><td>Conjunto de empresas (cooperativas, sociedades laborales) que priorizan a las personas sobre el capital.</td></tr><tr><td><b>Responsabilidad social corporativa</b></td><td>Compromisos que una empresa asume voluntariamente más allá de lo que exige la ley.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Innovación</b></td><td>Introducir algo nuevo o mejorado (un producto, un proceso o una forma de hacer negocio) que aporta valor.</td></tr>
+<tr><td><b>Innovación de producto</b></td><td>Creación de un bien o servicio nuevo o sustancialmente mejorado.</td></tr>
+<tr><td><b>Innovación de proceso</b></td><td>Nueva forma de producir lo mismo: más barata, más rápida o más limpia.</td></tr>
+<tr><td><b>Innovación de modelo de negocio</b></td><td>Cambio en la forma de cobrar o de llegar al cliente: suscripción, venta directa, plataforma.</td></tr>
+<tr><td><b>I+D+i</b></td><td>Investigación, desarrollo e innovación. El gasto que hacen empresas e instituciones en crear conocimiento y aplicarlo.</td></tr>
+<tr><td><b>Valor añadido</b></td><td>Lo que la empresa suma al producto por encima del coste de lo que compra a otras empresas.</td></tr>
+<tr><td><b>Deslocalización</b></td><td>Traslado de la producción a otro territorio con costes más bajos.</td></tr>
+<tr><td><b>Economía social</b></td><td>Empresas (cooperativas, sociedades laborales) que priorizan a las personas y al territorio sobre el reparto del capital.</td></tr>
+<tr><td><b>Responsabilidad social corporativa (RSC)</b></td><td>Compromisos sociales, laborales y ambientales que una empresa asume voluntariamente más allá de lo que exige la ley.</td></tr>
+<tr><td><b>Trabajo decente</b></td><td>Empleo con derechos, salario suficiente, seguridad y protección social. Es el corazón del ODS 8.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=ZFk7KKLuJM8 | Los tipos de innovación en la empresa | Econosublime · 5:49
+https://www.youtube.com/watch?v=aiqlZ13y5Fg | La responsabilidad social corporativa y sus tres ámbitos | Econosublime · 4:43
+```
+
+
+## Comprueba lo que sabes
+
+```actividad
+id: sda04-s07-innovacion
+tipo: clasificar
+instrucciones: ¿Qué tipo de innovación es cada caso?
+categorias:
+  - nombre: De producto
+    elementos:
+      - texto: Una almazara lanza un aceite con aroma de cítricos de la Axarquía
+        explicacion: Es un producto nuevo.
+      - texto: Una conservera crea un envase que mantiene el pescado fresco el doble de tiempo
+        explicacion: Mejora sustancialmente el producto.
+  - nombre: De proceso
+    elementos:
+      - texto: Una panadería instala un horno que gasta un 30 % menos de energía
+        explicacion: Produce lo mismo de forma más eficiente.
+      - texto: Un almacén de frutas usa sensores para clasificar los mangos por madurez
+        explicacion: Cambia cómo se produce, no qué se vende.
+  - nombre: De modelo de negocio
+    elementos:
+      - texto: Un agricultor vende cajas de fruta por suscripción mensual directamente a las familias
+        explicacion: Cambia la forma de cobrar y de llegar al cliente.
+      - texto: Un gimnasio cobra por clase suelta a través de una aplicación, sin cuota mensual
+        explicacion: Cambia la forma de cobrar.
+```

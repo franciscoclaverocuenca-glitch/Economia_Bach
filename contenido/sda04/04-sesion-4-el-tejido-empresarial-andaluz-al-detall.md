@@ -2,7 +2,18 @@
 titulo: Sesión 4 · El tejido empresarial andaluz al detalle
 ---
 
+Ya sabéis qué hace una empresa. Hoy toca aprender a **situarla**: cuatro preguntas que permiten clasificar cualquier empresa del mundo.
+
+Y vais a aplicarlas a empresas reales de aquí, de Andalucía y de Málaga. Con una advertencia. Cuando coevaluéis a otro equipo, las discrepancias se justifican **con datos**. “A mí me parece” no vale.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s04-solucionario.pdf | Solucionario de las tarjetas | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4</td><td><b>Carácter</b></td><td>No evaluable, formativa (cuestionario breve de repaso)</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve individual de repaso · OD: observación del trabajo en equipo · Co.Ev.: escala de dedos entre equipos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +42,6 @@ Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real. 
 - ¿Por qué creéis que sigue existiendo esa diferencia entre hombres y mujeres?
 - ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas de empresas reales andaluzas y malagueñas**, un lote por equipo. Deben cubrir de verdad los **cuatro criterios**: distintos tamaños (de microempresa a grande), los tres sectores, varias formas jurídicas (incluidas **cooperativas**, muy presentes en Andalucía) y distintos ámbitos de actuación.
-- **Datos del DIRCE (INE) y del IECA** sobre el tejido empresarial andaluz, para contextualizar.
-- **Cuestionario breve de repaso** (tipo test / V-F) sobre objetivos y clasificación.
-- **Dato actualizado sobre brecha de género** en titularidad empresarial y acceso a financiación. Fuentes recomendadas : informes de **ATA** o del **GEM España**. **Verifícalo y actualízalo cada curso.**
-- Espacio para anotar la pregunta abierta, que se recupera en la sesión 8.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro criterios de clasificación funcionan como andamiaje procedimental. Convierten una tarea abierta (“clasifica estas empresas”) en cuatro preguntas cerradas y verificables que se repiten en todas las tarjetas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La coevaluación entre equipos con la regla de justificar con datos y no con opiniones entrena la argumentación basada en evidencia y despersonaliza la discrepancia.</td></tr></tbody></table>
@@ -47,21 +50,18 @@ Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real. 
 La fase de clasificación e intercambio genera conversación simultánea de todos los equipos. Sitúa a este equipo en la zona más alejada, entrega las tarjetas **impresas** y acuerda una norma de un solo turno de palabra. En la coevaluación, exige que las discrepancias se expongan de una en una y de frente.
 :::
 
-## Para empezar
-
-Ya sabéis qué hace una empresa. Hoy toca aprender a **situarla**: cuatro preguntas que permiten clasificar cualquier empresa del mundo.
-
-Y vais a aplicarlas a empresas reales de aquí, de Andalucía y de Málaga. Con una advertencia. Cuando coevaluéis a otro equipo, las discrepancias se justifican **con datos**. “A mí me parece” no vale.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda4-s04-01.webp | Portada
-sda4-s04-02.webp | Los objetivos
-sda4-s04-03.webp | Los cuatro criterios
-sda4-s04-04.webp | La actividad
-sda4-s04-05.webp | El dato incómodo
-sda4-s04-06.webp | La pregunta abierta
+sda4-s04-01.webp | El tejido empresarial andaluz al detalle
+sda4-s04-02.webp | Cuántas empresas hay
+sda4-s04-03.webp | Objetivos
+sda4-s04-04.webp | Cómo se clasifican
+sda4-s04-05.webp | Quién responde de las deudas
+sda4-s04-06.webp | Seis empresas andaluzas
+sda4-s04-07.webp | GEM España 2023-2024
+sda4-s04-08.webp | Si la intención es casi igual, ¿por qué hay menos mujeres que…
+sda4-s04-09.webp | Andalucía es un territorio de pymes
 ```
 
 ## Clasificando el tejido empresarial andaluz
@@ -76,7 +76,13 @@ sda4-s04-06.webp | La pregunta abierta
 
 ### Vuestra clasificación
 
-<table><thead><tr><th width="32%">Empresa</th><th width="17%">Tamaño</th><th width="17%">Sector</th><th width="20%">Forma jurídica</th><th width="14%">Ámbito</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+Seis tarjetas con empresas y organizaciones reales de Andalucía. Clasificad cada una con los cuatro criterios y apuntad el dato en que os basáis.
+
+```descargas
+sda04-s04-tarjetas-empresas.pdf | Seis empresas andaluzas | Tarjetas con datos y tabla de clasificación
+```
+
+<table><thead><tr><th width="50%">Andalucía en cifras</th><th width="50%">Dato</th></tr></thead><tbody><tr><td>Empresas activas a 1 de enero de 2025</td><td>540.462 (INE, DIRCE)</td></tr><tr><td>Peso sobre el total de España</td><td>16,3 %, segunda comunidad tras Cataluña</td></tr><tr><td>Pymes sobre el total</td><td>Más del 99 %</td></tr></tbody></table>
 
 ::: nota La regla de la coevaluación
 Intercambiad vuestra clasificación con otro equipo y coevaluadla con la escala de dedos. Y cualquier discrepancia se justifica **con datos**, no con opiniones. Si creéis que una empresa está mal clasificada, hay que decir por qué y con qué información.
@@ -88,11 +94,12 @@ Ojo a las **cooperativas**: en Andalucía son muchas más de las que solemos ima
 
 Los datos disponibles sobre emprendimiento en España muestran una **brecha persistente** entre hombres y mujeres, tanto en la titularidad de empresas como en el acceso a la financiación.
 
-::: aviso El dato exacto cambia; la pregunta no
-El porcentaje concreto hay que consultarlo en la fuente actualizada. Lo que no cambia año a año es la pregunta que viene después.
-:::
+<table><thead><tr><th width="50%">Lo que dice el informe GEM España 2023-2024</th><th width="25%">Mujeres</th><th width="25%">Hombres</th></tr></thead><tbody><tr><td>Personas adultas que <b>quieren</b> emprender en los próximos tres años</td><td>9,0 %</td><td>9,2 %</td></tr><tr><td>Personas adultas que <b>están</b> emprendiendo (actividad emprendedora)</td><td>6,1 %</td><td>7,5 %</td></tr></tbody></table>
 
-“¿Por qué creéis que sigue existiendo esa diferencia? ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?”
+Casi las mismas ganas, pero menos empresas en marcha. Algo pasa entre la intención y el hecho.
+
+
+“Si la intención es casi igual, ¿por qué hay menos mujeres que llegan a emprender? ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?”
 
 Se anota como **pregunta abierta**. No la respondemos hoy.
 
@@ -132,7 +139,26 @@ La pregunta que queda abierta es doble: **¿por qué sigue existiendo esa difere
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Objetivo cuantitativo</b></td><td>Meta empresarial medible numéricamente.</td></tr><tr><td><b>Objetivo cualitativo</b></td><td>Meta empresarial difícil de medir en números pero igualmente real.</td></tr><tr><td><b>Microempresa</b></td><td>Empresa de tamaño muy reducido, mayoritaria en el tejido andaluz.</td></tr><tr><td><b>Sociedad limitada</b></td><td>Forma jurídica en la que la responsabilidad se limita al capital aportado.</td></tr><tr><td><b>Cooperativa</b></td><td>Sociedad cuyos socios son a la vez trabajadores o usuarios y deciden democráticamente.</td></tr><tr><td><b>DIRCE</b></td><td>Directorio Central de Empresas del INE: fuente estadística sobre el tejido empresarial.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Objetivo cuantitativo</b></td><td>Meta que se mide con números: facturación, cuota de mercado, número de clientes.</td></tr>
+<tr><td><b>Objetivo cualitativo</b></td><td>Meta más difícil de medir pero igual de real: reputación, satisfacción del equipo, impacto social.</td></tr>
+<tr><td><b>Microempresa</b></td><td>Menos de 10 personas trabajadoras y no más de 2 millones de euros de facturación o balance.</td></tr>
+<tr><td><b>Pequeña y mediana empresa (pyme)</b></td><td>Pequeña, menos de 50 personas; mediana, menos de 250 (con límites de facturación). Son la inmensa mayoría de las empresas andaluzas.</td></tr>
+<tr><td><b>Persona trabajadora autónoma</b></td><td>Persona física que trabaja por cuenta propia y responde de las deudas del negocio con todo su patrimonio, también el personal.</td></tr>
+<tr><td><b>Sociedad limitada (SL)</b></td><td>Sociedad cuyos socios responden solo con el capital aportado. Capital mínimo de 1 euro desde 2022. Es la forma más habitual de las pymes.</td></tr>
+<tr><td><b>Sociedad anónima (SA)</b></td><td>Sociedad con el capital dividido en acciones, pensada para empresas grandes. Capital mínimo de 60.000 euros.</td></tr>
+<tr><td><b>Cooperativa</b></td><td>Sociedad de personas que se asocian para una actividad común y deciden democráticamente: una persona, un voto.</td></tr>
+<tr><td><b>Responsabilidad limitada</b></td><td>Las deudas de la empresa solo afectan al capital aportado, no al patrimonio personal de los socios.</td></tr>
+<tr><td><b>DIRCE</b></td><td>Directorio Central de Empresas del INE. Cuenta cada año las empresas activas en España por tamaño, sector y comunidad.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=0Y8N8qOBAiA | Criterios de clasificación de empresas | Econosublime · 6:27
+https://www.youtube.com/watch?v=dBbkaT6jTps | Tipos de empresas según su forma jurídica | Econosublime · 4:59
+https://www.youtube.com/watch?v=mH_ZUaT5wVo | El empresario individual o autónomo | Econosublime · 6:16
+```
 
 ## Comprueba lo que sabes
 

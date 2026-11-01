@@ -2,7 +2,20 @@
 titulo: 'Sesión 2 · Exploración: visita al CADE de Málaga y Lean Canvas'
 ---
 
+Hoy salimos del instituto. Vamos al **CADE**, el Centro de Apoyo al Desarrollo Empresarial, donde acompañan de verdad a quien quiere montar algo en Málaga.
+
+Y no vais a escuchar y volver: vais a trabajar. Cada equipo saldrá de allí con un **Lean Canvas** en A3, que es el esqueleto de vuestra idea de negocio.
+
+Ese lienzo es el **punto de partida** del proyecto que defenderéis en la sesión 10. Vamos a fotografiarlo para poder comparar después cuánto ha cambiado.
+
 ## Guía docente · Sesión 2 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s02-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s02-organizar-visita.pdf | Cómo organizar la visita al CADE | Solo docente, con alternativa en el aula
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad extraescolar · visita y taller</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Equipos de proyecto de 4 · taller guiado por personal técnico</td><td><b>Carácter</b></td><td>Formativa · punto de partida documentado del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: hoja de registro en papel, tres ítems por equipo · P: Lean Canvas en A3 con líneas individuales al dorso</td><td><b>Duración</b></td><td>50 minutos de actividad, más desplazamiento</td></tr></tbody></table>
 
@@ -24,7 +37,7 @@ El tercero es el más revelador y ocurre en los **últimos diez minutos**. Reser
 
 **3. La réplica (10 min).** El personal técnico pasa equipo por equipo y cuestiona. Es el momento de la sesión. Alguien que acompaña proyectos reales señalando qué no se sostiene.
 
-**Al recoger.Fotografía cada Canvas en el estado en que quedó**, antes de recogerlos. Esa fotografía documenta el punto de partida y permite comparar en la sesión 8 cuánto ha evolucionado la idea. Esa comparación es en sí misma evidencia del criterio 2.4.
+**Al recoger. Fotografía cada Canvas en el estado en que quedó**, antes de recogerlos. Esa fotografía documenta el punto de partida y permite comparar en la sesión 8 cuánto ha evolucionado la idea. Esa comparación es en sí misma evidencia del criterio 2.4.
 
 Y la consigna de entrega: **al dorso, cada integrante escribe una línea** indicando qué bloque defendió o modificó y por qué. Es lo que permite matizar individualmente una evidencia de equipo.
 
@@ -35,15 +48,6 @@ Y la consigna de entrega: **al dorso, cada integrante escribe una línea** indic
 - Os acaban de decir que el segmento es demasiado amplio. ¿Qué cambiáis?
 - ¿Qué mediríais para saber si vuestra idea funciona?
 
-::: aviso Material que debes preparar tú
-- **Visita concertada con el CADE de Málaga** (Andalucía Emprende), con el taller de Lean Canvas acordado de antemano en contenido y duración.
-- **Autorizaciones familiares** y gestión del desplazamiento.
-- **Lienzos Lean Canvas en A3**, uno por equipo, impresos antes de salir.
-- **Hoja de registro en papel** con una casilla por equipo y los tres ítems. No hay soporte digital fiable fuera del centro.
-- **Rotuladores y notas adhesivas** para trabajar el lienzo.
-- **Cámara** para fotografiar cada Canvas antes de recogerlo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con un servicio público real de acompañamiento empresarial muestra que emprender no es una aventura individual, y presenta un recurso al que el alumnado puede acudir de verdad.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El lienzo Lean Canvas descompone una idea de negocio en cuatro bloques con preguntas explícitas, lo que estructura una tarea que de otro modo sería demasiado abierta.</td></tr></tbody></table>
@@ -52,23 +56,18 @@ Y la consigna de entrega: **al dorso, cada integrante escribe una línea** indic
 Actividad fuera del centro. Comprueba la accesibilidad física del espacio con antelación. Para el alumnado con condición auditiva, pide al personal técnico que hable de frente y solicita un guion escrito de la presentación; en el taller, sitúa al equipo en la mesa más alejada de la zona de mayor ruido.
 :::
 
-## Para empezar
-
-Hoy salimos del instituto. Vamos al **CADE**, el Centro de Apoyo al Desarrollo Empresarial, donde acompañan de verdad a quien quiere montar algo en Málaga.
-
-Y no vais a escuchar y volver: vais a trabajar. Cada equipo saldrá de allí con un **Lean Canvas** en A3, que es el esqueleto de vuestra idea de negocio.
-
-Ese lienzo es el **punto de partida** del proyecto que defenderéis en la sesión 10. Vamos a fotografiarlo para poder comparar después cuánto ha cambiado.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-expl-sda04-01.webp | Portada
-expl-sda04-02.webp | Qué es el CADE
-expl-sda04-03.webp | Los cuatro bloques
-expl-sda04-04.webp | La persona
-expl-sda04-05.webp | La réplica
-expl-sda04-06.webp | El dorso
+sda4-s02-01.webp | Una idea que se hizo empresa
+sda4-s02-02.webp | Qué es un CADE
+sda4-s02-03.webp | El itinerario de una persona emprendedora
+sda4-s02-04.webp | Cuatro bloques del Lean Canvas
+sda4-s02-05.webp | Una persona, no «la gente»
+sda4-s02-06.webp | Vuestro Lean Canvas
+sda4-s02-07.webp | Un equipo que sale con el mismo lienzo con el que entró ha…
+sda4-s02-08.webp | El dorso
+sda4-s02-09.webp | Primero el problema, después el producto
 ```
 
 ## El Lean Canvas
@@ -76,6 +75,11 @@ expl-sda04-06.webp | El dorso
 ### Los cuatro bloques
 
 <table><thead><tr><th width="24%">Bloque</th><th width="38%">La pregunta que responde</th><th width="38%">El error habitual</th></tr></thead><tbody><tr><td><b>PROBLEMA</b></td><td>¿Qué problema real y concreto resolvéis?</td><td>Describir el producto en lugar del problema</td></tr><tr><td><b>SEGMENTO DE CLIENTES</b></td><td>¿De quién es ese problema, exactamente?</td><td>Decir “todo el mundo”</td></tr><tr><td><b>PROPUESTA DE VALOR ÚNICA</b></td><td>¿Por qué vuestra solución y no otra?</td><td>Enumerar características en lugar de decir qué gana el cliente</td></tr><tr><td><b>MÉTRICAS CLAVE</b></td><td>¿Qué mediríais para saber si funciona?</td><td>Elegir algo que no se puede medir</td></tr></tbody></table>
+
+```descargas
+sda04-s02-lean-canvas.pdf | Plantilla del Lean Canvas | Para imprimir en A3
+sda04-s02-ficha-visita.pdf | Ficha de la visita | Preguntas preparadas, datos del itinerario y dorso individual
+```
 
 ::: aviso La regla del taller
 El problema hay que formularlo en términos de **una persona identificable**, no de “la gente”. “Los estudiantes de bachillerato que van a clase en autobús y no pueden…” es un problema. “La gente necesita…” no lo es.
@@ -85,15 +89,15 @@ El problema hay que formularlo en términos de **una persona identificable**, no
 
 En los últimos diez minutos, el personal técnico del CADE pasa por vuestro equipo y os cuestiona. Son personas que acompañan proyectos reales.
 
-::: nota Y aquí está lo que se observa
+::: nota Lo que importa en ese momento
 Que **modifiquéis el Canvas** en lugar de defenderlo. No es una prueba de firmeza. Es una prueba de si sabéis usar información nueva. Un equipo que sale con el mismo lienzo con el que entró ha desaprovechado la sesión.
 :::
 
 ### Al dorso, antes de entregar
 
-<table><thead><tr><th width="24%">Integrante</th><th width="76%">Qué bloque defendí o modifiqué, y por qué</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+Cada integrante escribe en el dorso de la ficha qué bloque defendió o modificó y por qué.
 
-Una línea por persona. Es lo que permite valorar individualmente un trabajo de equipo.
+Una línea por persona: así se ve qué ha aportado cada cual.
 
 ## Apuntes de la sesión
 
@@ -125,4 +129,50 @@ No es un dato de examen. Es un recurso real y gratuito al que podéis acudir.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Lean Canvas</b></td><td>Lienzo de una página que sintetiza los elementos esenciales de un modelo de negocio.</td></tr><tr><td><b>Segmento de clientes</b></td><td>Grupo concreto y describible de personas que comparten un problema.</td></tr><tr><td><b>Propuesta de valor única</b></td><td>Razón por la que ese segmento elegiría esta solución y no otra.</td></tr><tr><td><b>Métrica clave</b></td><td>Indicador medible que revela si el proyecto funciona.</td></tr><tr><td><b>CADE</b></td><td>Centro de Apoyo al Desarrollo Empresarial de la red pública Andalucía Emprende.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Modelo de negocio</b></td><td>Forma en que una empresa crea valor para sus clientes y obtiene ingresos a cambio. Responde a qué ofrece, a quién, cómo llega y cómo gana dinero.</td></tr>
+<tr><td><b>Lean Canvas</b></td><td>Lienzo de una página, centrado en el problema, que sintetiza los elementos esenciales de un modelo de negocio. Es una versión ligera del Business Model Canvas.</td></tr>
+<tr><td><b>Problema</b></td><td>Dificultad concreta que sufre una persona identificable. Es el punto de partida: sin problema no hay cliente.</td></tr>
+<tr><td><b>Segmento de clientes</b></td><td>Grupo concreto y describible de personas que comparten un problema: edad, lugar, situación.</td></tr>
+<tr><td><b>Propuesta de valor única</b></td><td>Razón por la que ese segmento elegiría esta solución y no otra que ya existe.</td></tr>
+<tr><td><b>Métrica clave</b></td><td>Indicador medible que revela si el proyecto funciona: usuarios que vuelven, ventas por semana, reservas.</td></tr>
+<tr><td><b>Validación</b></td><td>Comprobar con personas reales si el problema existe y si la solución les interesa, antes de invertir.</td></tr>
+<tr><td><b>CADE</b></td><td>Centro de Apoyo al Desarrollo Empresarial de la red pública Andalucía Emprende. Asesora gratis a quien quiere emprender.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=H23XhlpZ6xM | Modelo de negocio Lean Canvas para estudiantes | PERO PROFE · 4:11
+https://www.youtube.com/watch?v=lcJahcyYXp4 | Qué es un modelo de negocio y qué tipos hay | Econosublime · 7:53
+```
+
+
+## Comprueba lo que sabes
+
+```actividad
+id: sda04-s02-cuestionario
+tipo: verdadero-falso
+titulo: Cuestionario de la sesión 2
+puntua: true
+instrucciones: Decide si cada afirmación es verdadera o falsa. Al corregir verás tu puntuación y la explicación de cada respuesta.
+preguntas:
+- enunciado: El Lean Canvas empieza por describir el producto que queremos vender.
+  respuesta: falso
+  explicacion: '**Falso.** Empieza por el **problema**: qué dificultad concreta sufre alguien identificable.'
+- enunciado: “Todo el mundo” es un buen segmento de clientes porque así se vende más.
+  respuesta: falso
+  explicacion: '**Falso.** Si no puedes describir a una persona concreta que tiene el problema, aún no sabes a quién te diriges.'
+- enunciado: La propuesta de valor explica por qué el cliente elegiría tu solución y no otra.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Es la razón diferencial, dicha en términos de lo que gana el cliente.'
+- enunciado: Una métrica clave tiene que poder medirse.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Si no se puede medir, no sirve para saber si el proyecto funciona.'
+- enunciado: Cambiar el Canvas tras las preguntas del personal técnico es una señal de debilidad.
+  respuesta: falso
+  explicacion: '**Falso.** Es justo lo contrario: demuestra que sabéis usar información nueva.'
+- enunciado: Los CADE son centros públicos que asesoran gratis a quien quiere emprender en Andalucía.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Forman parte de la red Andalucía Emprende.'
+```

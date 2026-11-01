@@ -1,23 +1,19 @@
 ---
-titulo: SdA 4 · La empresa y sus lógicas
+titulo: SdA 4 · De la idea al beneficio
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 4 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE2. Conocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico. Compartida con las SdA 5 y 6.</td></tr><tr><td><b>Criterio 2.4</b></td><td>Comprender la relevancia del papel de las empresas y otras instituciones en los procesos de innovación y generación de valor añadido que contribuyen a la resolución de los problemas económicos y sociales con eficiencia y creatividad, valorando en casos concretos la aportación de los agentes implicados a la mejora del bienestar social. Es el único criterio de la unidad: la nota de la SdA coincide con la del criterio.</td></tr><tr><td><b>Saber básico</b></td><td><b>B1</b> Empresa y generación de valor añadido. Productividad, ingresos, costes y beneficio.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM2 · STEM4 · CPSAA4 · CC3 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>8. Trabajo decente y crecimiento económico (eje de la unidad; especialmente S7, S8 y S9)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Emprendimiento (de la S1 a la S10)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Cultura Emprendedora y Empresarial (optativa autonómica), competencia 3, criterio 3.3, saber CEE.1.C.3 (sesiones 6 y 9). Pendiente de confirmar oferta de la materia y matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>11 (primer trimestre; se califica en la segunda evaluación)</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Antes de impartir: lo que hay que preparar
-Tres materiales requieren gestión previa. El **caso real de empresa** de la sesión 1, que conviene seleccionar **en los días previos** para mantener la actualidad: viable, verificado y con fuente citable. La **persona invitada** de la sesión 2, con la visita a un CADE de Andalucía Emprende como opción preferente. Y las **tarjetas de empresas reales andaluzas** de la sesión 4, que deben cubrir de verdad los cuatro criterios de clasificación.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterio</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b>OD</b> Observación directa</td><td>2.4</td><td>S1 a S9 (trabajo cooperativo y equipos)</td></tr><tr><td><b>C</b> Cuestionario</td><td>2.4</td><td>S1 autodiagnóstico · S2 tras la charla del CADE · S3 · S4 · S5 · S6 · S9</td></tr><tr><td><b>D</b> Debate</td><td>2.4</td><td>S7 controversia «¿Beneficio a cualquier precio?»</td></tr><tr><td><b>P</b> Portafolio</td><td>2.4</td><td>S8 primeros bloques del Canvas · S9 Canvas completo y guion</td></tr><tr><td><b>PF</b> Producto final</td><td>2.4</td><td>S10 Startup Canvas y compromiso de responsabilidad social</td></tr><tr><td><b>EO</b> Exposición oral</td><td>2.4</td><td>S10 pitch «De la Idea al Beneficio»</td></tr><tr><td><b>PE</b> Prueba escrita</td><td>2.4</td><td>S11</td></tr><tr><td><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</td><td>formativas</td><td>Co.Ev. en S4, S6 y S10 · Auto.Ev. en S11</td></tr></tbody></table>
 
-Actualiza también el **dato de brecha de género en titularidad empresarial y acceso a financiación** del cierre de la sesión 4: se recomienda informes de ATA o del GEM España, verificados antes de cada curso.
-:::
-
-::: nota La coordinación con CEE
-La unidad se coordina con **Cultura Emprendedora y Empresarial** (competencia específica 3, criterio 3.3, saber CEE.1.C.3) en las sesiones 6 y 9: costes, ingresos y beneficio del proyecto. Si el alumnado cursa ambas materias, esas sesiones pueden servir como **evidencia compartida** sin repetir la actividad. Queda por confirmar la matrícula común.
+::: aviso Datos que hay que actualizar
+Tejido empresarial andaluz (DIRCE del INE, IECA), datos de las empresas y cooperativas citadas, brecha de género en la titularidad empresarial y el itinerario del CADE (Andalucía Emprende). Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -35,45 +31,25 @@ Y eso es exactamente lo que vais a aprender. Desde qué es una empresa y qué fu
 - Qué es innovar y qué significa que una empresa aporte algo más que su producto.
 - Y a construir un modelo de negocio completo y defenderlo en cuatro minutos.
 
-::: idea Elementos curriculares
-Competencia específica **2** · Criterio de evaluación **2.4** · Saber básico **B1** · 11 sesiones · Coordinación propuesta con Cultura Emprendedora y Empresarial (CEE) en las sesiones 6 y 9.
-:::
+## El reto: «De la Idea al Beneficio»
 
-## El reto: “De la Idea al Beneficio”
+Cada equipo diseñará una **empresa ficticia completa**, desde detectar el problema hasta calcular su beneficio estimado, y la defenderá en un **pitch de 3 o 4 minutos ante un jurado**.
 
-Cada equipo diseñará una **empresa ficticia completa**, desde detectar el problema hasta calcular su beneficio estimado, y la defenderá en un **pitch de 3-4 minutos ante un jurado**.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El Startup Canvas</b></td><td>Un lienzo con seis bloques: propuesta de valor, segmento de clientes, canales, estructura de costes, fuentes de ingresos y beneficio estimado, con sus supuestos explicados. Y un compromiso concreto de responsabilidad social.</td></tr><tr><td><b>2. El pitch</b></td><td>Cuatro minutos ante el jurado con cuatro bloques: el problema, la solución, las cifras clave y el compromiso. Después, preguntas.</td></tr></tbody></table>
 
-<table><thead><tr><th width="24%">Pieza</th><th width="48%">Qué es</th><th width="28%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. El Startup Canvas</b></td><td>Lienzo de Modelo de Negocio con seis bloques: propuesta de valor, segmento de clientes, canales, estructura de costes, fuentes de ingresos y el beneficio estimado con sus supuestos explicitados. Más un compromiso concreto de responsabilidad social.</td><td>Instrumentos R (valoración del producto) y P (portafolio)</td></tr><tr><td><b>2. El pitch “De la Idea al Beneficio”</b></td><td>Defensa de 3-4 minutos ante el jurado con cuatro bloques obligatorios (problema, solución, cifras clave y compromiso) más un turno de preguntas.</td><td>Instrumentos EO (exposición oral) y Co.Ev. (coevaluación)</td></tr></tbody></table>
-
-::: nota De la idea al beneficio: el recorrido completo
-Lo que distingue a esta unidad es que **no os quedáis en la idea**. Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay que llegar hasta el número. Cuánto cuesta, cuánto se ingresa y si sale a favor o en contra. Y hay que **explicar de dónde sale cada cifra**.
+::: nota Hasta el número
+Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay que llegar hasta el número: cuánto cuesta, cuánto se ingresa y si sale a favor o en contra. Y explicar **de dónde sale cada cifra**.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Esta es la rúbrica con la que se evalúa la unidad. Está disponible desde la primera sesión y puedes consultarla siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda04-rubricas.pdf | Rúbrica de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 2.4
@@ -81,6 +57,16 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 11 sesiones {.plegado}
 
-Estas son las once sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="70%">Sesión</th><th width="25%">Fase</th></tr></thead><tbody><tr><td>1</td><td>¿Nace o se hace? Diagnóstico emprendedor</td><td>Movilizar + Activar</td></tr><tr><td>2</td><td>Exploración: una idea que se hizo empresa</td><td>Explorar</td></tr><tr><td>3</td><td>La empresa y sus funciones</td><td>Estructurar</td></tr><tr><td>4</td><td>El tejido empresarial andaluz al detalle</td><td>Estructurar</td></tr><tr><td>5</td><td>El proceso productivo: eficiencia y productividad</td><td>Estructurar</td></tr><tr><td>6</td><td>Los costes de la empresa y el beneficio</td><td>Estructurar</td></tr><tr><td>7</td><td>¿Beneficio a cualquier precio? Innovación, valor añadido y RSC</td><td>Estructurar</td></tr><tr><td>8</td><td>Nace la idea: Design Thinking exprés</td><td>Aplicar</td></tr><tr><td>9</td><td>El Canvas completo: costes, ingresos y beneficio</td><td>Aplicar</td></tr><tr><td>10</td><td>Pitch final “De la Idea al Beneficio”</td><td>Evaluar</td></tr><tr><td>11</td><td>Prueba escrita de contenidos y cierre de la unidad</td><td>Evaluar</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>¿Nace o se hace?</b> Un autodiagnóstico de tus actitudes emprendedoras y una primera lluvia de ideas.</td></tr>
+<tr><td><b>2</b></td><td><b>Una idea que se hizo empresa.</b> Una persona emprendedora te cuenta su camino y pruebas el Lean Canvas.</td></tr>
+<tr><td><b>3</b></td><td><b>Qué hace una empresa.</b> Sus cuatro funciones, incluida la que casi nadie menciona: asumir riesgos.</td></tr>
+<tr><td><b>4</b></td><td><b>Las empresas de Andalucía.</b> Clasificas empresas reales por tamaño, sector, forma jurídica y ámbito.</td></tr>
+<tr><td><b>5</b></td><td><b>Producir más, ¿siempre?</b> Productividad y por qué añadir personal no aumenta la producción sin límite.</td></tr>
+<tr><td><b>6</b></td><td><b>Costes, ingresos y beneficio.</b> Con números de verdad y en equipo.</td></tr>
+<tr><td><b>7</b></td><td><b>¿Beneficio a cualquier precio?</b> Innovación, valor añadido y responsabilidad social, en una controversia.</td></tr>
+<tr><td><b>8</b></td><td><b>Nace la idea.</b> Design Thinking exprés y los primeros bloques de vuestro Canvas.</td></tr>
+<tr><td><b>9</b></td><td><b>El Canvas completo.</b> Costes, ingresos, beneficio y guion del pitch.</td></tr>
+<tr><td><b>10</b></td><td><b>El pitch.</b> Cuatro minutos ante el jurado.</td></tr>
+<tr><td><b>11</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

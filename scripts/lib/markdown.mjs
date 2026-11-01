@@ -6,7 +6,7 @@ import fs from 'node:fs';
 //   ```rubrica        (número de criterio, p. ej. 4.1)
 //   ```video          (URL de YouTube)
 //   ```enlace-anonimo (YAML: url, texto, nota)
-//   ```simulador      (YAML: tipo: mercado | multiplicador | interes | fpp)
+//   ```simulador      (YAML: tipo: mercado | multiplicador | interes | fpp | beneficio)
 import MarkdownIt from 'markdown-it';
 import container from 'markdown-it-container';
 import yaml from 'js-yaml';
@@ -179,7 +179,7 @@ function renderSimulador(d, ctx, md) {
   if (d.titulo) d.titulo = md.renderInline(String(d.titulo));
   if (d.instrucciones) d.instrucciones = md.renderInline(String(d.instrucciones));
   for (const e of d.escenarios || []) e.nombre = esc(e.nombre);
-  const tipos = ['mercado', 'multiplicador', 'interes', 'fpp'];
+  const tipos = ['mercado', 'multiplicador', 'interes', 'fpp', 'beneficio'];
   if (!tipos.includes(d.tipo)) throw new Error(`tipo de simulador desconocido «${d.tipo}» (usa: ${tipos.join(', ')})`);
   return (
     `<div class="simulador" data-simulador="${esc(d.tipo)}" data-config="${esc(JSON.stringify(d))}">` +

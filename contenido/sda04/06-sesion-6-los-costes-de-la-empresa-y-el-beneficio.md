@@ -2,7 +2,20 @@
 titulo: Sesión 6 · Los costes de la empresa y el beneficio
 ---
 
+Esta es **la sesión más importante de la unidad**. Y no es difícil: son tres restas y una multiplicación.
+
+Lo difícil es lo de antes: **clasificar bien los costes**. Ahí es donde se pierde la mayoría de los puntos, en el examen y en la vida real.
+
+Al final de hoy sabréis calcular si una empresa gana o pierde dinero. Y en la sesión 9 lo aplicaréis a la vuestra.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s06-solucionario.pdf | Solucionario de los dos casos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos de 4 (rotación de roles)</td><td><b>Carácter</b></td><td>Formativa, primera evidencia calificable de cálculo</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario de cálculo · OD: observación de la rotación de roles · Co.Ev.: contraste de resultados dentro del equipo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +42,6 @@ Aquí es donde se falla después. Dedica tiempo a los casos dudosos (el salario 
 - Si esta empresa vendiera la mitad, ¿qué costes bajarían y cuáles no?
 - Si los costes fijos suben un 10 %, ¿qué tres cosas podríais tocar para mantener el beneficio?
 
-::: aviso Material que debes preparar tú
-- **Fichas de clasificación de costes** fijos y variables, con casos dudosos incluidos deliberadamente.
-- **Caso guiado sencillo** con costes fijos, coste variable unitario, precio y cantidad vendida, para el cálculo paso a paso.
-- **Caso complejo con varias partidas** para la rotación de roles, diseñado de modo que las cuatro piezas sean equivalentes en dificultad.
-- **Tarjetas de rol** para la rotación: costes fijos, costes variables, ingreso total, integración.
-- Calculadora.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El cálculo se descompone en cuatro pasos verificables y se practica primero de forma guiada y conjunta antes de aplicarlo a un caso complejo, lo que evita el bloqueo ante un enunciado con varias partidas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La rotación de roles asigna a cada persona una pieza acotada del cálculo y hace su aportación imprescindible para el resultado del equipo, lo que sostiene la implicación de quien tiende a delegar en los cálculos.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -49,23 +54,18 @@ La rotación de roles genera conversación simultánea en todos los equipos. Sit
 **Coordinación con CEE** (competencia específica 3, criterio 3.3; saber CEE.1.C.3). El cálculo de costes, ingresos y beneficio puede recogerse en Cultura Emprendedora y Empresarial como evidencia compartida sin repetir la actividad. Pendiente de confirmar matrícula común.
 :::
 
-## Para empezar
-
-Esta es **la sesión más importante de la unidad**. Y no es difícil: son tres restas y una multiplicación.
-
-Lo difícil es lo de antes: **clasificar bien los costes**. Ahí es donde se pierde la mayoría de los puntos, en el examen y en la vida real.
-
-Al final de hoy sabréis calcular si una empresa gana o pierde dinero. Y en la sesión 9 lo aplicaréis a la vuestra.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda4-s06-01.webp | Portada
+sda4-s06-01.webp | Costes, ingresos y beneficio
 sda4-s06-02.webp | Fijos y variables
-sda4-s06-03.webp | Las tres fórmulas
-sda4-s06-04.webp | El caso guiado
-sda4-s06-05.webp | La rotación de roles
-sda4-s06-06.webp | Sensibilidad
+sda4-s06-03.webp | ¿Lo pagaría igual si no produjera nada?
+sda4-s06-04.webp | Lo que hay que saber calcular
+sda4-s06-05.webp | La almazara
+sda4-s06-06.webp | El punto muerto
+sda4-s06-07.webp | La heladería del Paseo
+sda4-s06-08.webp | Si los costes fijos suben un 10 %, ¿qué tiene que cambiar para…
+sda4-s06-09.webp | Cuatro pasos que vais a repetir
 ```
 
 ## Costes, ingresos y beneficio
@@ -87,6 +87,10 @@ Si el beneficio sale negativo, se llama **pérdida**. Y es una información tan 
 ### El caso guiado, paso a paso
 
 <table><thead><tr><th width="12%">Paso</th><th width="88%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1</b></td><td>Identificad qué costes son fijos y cuáles variables. <b>Aquí es donde se falla.</b></td></tr><tr><td><b>2</b></td><td>Calculad el coste total.</td></tr><tr><td><b>3</b></td><td>Calculad el ingreso total.</td></tr><tr><td><b>4</b></td><td>Restad. Y decid si esa empresa gana o pierde dinero.</td></tr></tbody></table>
+
+```descargas
+sda04-s06-caso-guiado.pdf | Caso guiado: la almazara | Datos y los cuatro pasos
+```
 
 ::: nota Nadie pasa al caso complejo sin tener claro este
 Si algo del caso guiado no ha quedado claro, decidlo **ahora**. Todo lo que viene después (el caso complejo, la sesión 9 y el bloque 2 del examen) se apoya en estos cuatro pasos.
@@ -132,6 +136,36 @@ En grupos de 4, ante un caso más completo con varias partidas de costes. Cada p
 <table><thead><tr><th width="22%">Rol</th><th width="78%">Qué calcula</th></tr></thead><tbody><tr><td><b>Persona 1</b></td><td>Los costes fijos totales</td></tr><tr><td><b>Persona 2</b></td><td>Los costes variables totales</td></tr><tr><td><b>Persona 3</b></td><td>El ingreso total</td></tr><tr><td><b>Persona 4</b></td><td>Integra los tres cálculos en el <b>beneficio final</b> y lo presenta al resto del equipo</td></tr></tbody></table>
 
 Los roles **rotan** respecto a los que ya habéis usado en sesiones anteriores. No repitáis el mismo papel de siempre.
+
+```descargas
+sda04-s06-caso-complejo.pdf | Caso complejo: la heladería | Partidas de costes y ficha de las cuatro personas
+```
+
+## Comprobadlo en el simulador
+
+Introducid los datos del caso y moved las palancas. El simulador calcula el ingreso, el coste y el beneficio, y marca el **punto muerto**: la cantidad que hay que vender para no perder dinero.
+
+```simulador
+tipo: beneficio
+titulo: La almazara, en números
+instrucciones: Mueve el precio, la cantidad vendida y los costes. Mira cuándo la empresa pasa de perder a ganar.
+unidad: botellas
+precio: 8
+cantidad: 2000
+costes_fijos: 5000
+coste_variable: 3
+cantidad_max: 4000
+escenarios:
+  - nombre: Sube el alquiler un 10 %
+    costes_fijos: 5500
+    explicacion: Los costes fijos pasan de 5.000 a 5.500 €.
+  - nombre: Sube la aceituna
+    coste_variable: 4
+    explicacion: Cada botella cuesta ahora 4 € de materia prima y envase.
+  - nombre: Mala campaña
+    cantidad: 800
+    explicacion: Solo se venden 800 botellas.
+```
 
 ### Cierre: la sensibilidad del beneficio
 
@@ -180,7 +214,25 @@ La actividad de ampliación pide recalcular el beneficio de vuestro proyecto con
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>Coste fijo</b></td><td>El que no varía con la cantidad producida.</td></tr><tr><td><b>Coste variable</b></td><td>El que varía con la cantidad producida.</td></tr><tr><td><b>Coste total</b></td><td>Suma de los costes fijos y los variables.</td></tr><tr><td><b>Ingreso total</b></td><td>Precio de venta multiplicado por la cantidad vendida.</td></tr><tr><td><b>Beneficio</b></td><td>Diferencia entre el ingreso total y el coste total.</td></tr><tr><td><b>Pérdida</b></td><td>Beneficio negativo: los costes superan a los ingresos.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Coste</b></td><td>Valor de todo lo que la empresa consume para producir: materias, trabajo, alquileres, energía, desgaste de la maquinaria.</td></tr>
+<tr><td><b>Coste fijo</b></td><td>El que no depende de cuánto se produce: alquiler, seguros, sueldos fijos, cuota de un préstamo. Se paga aunque no se produzca nada.</td></tr>
+<tr><td><b>Coste variable</b></td><td>El que crece con la producción: materias primas, envases, transporte de cada envío.</td></tr>
+<tr><td><b>Coste total</b></td><td>Suma de costes fijos y variables.</td></tr>
+<tr><td><b>Coste medio</b></td><td>Coste total dividido entre las unidades producidas: lo que cuesta, de media, cada unidad.</td></tr>
+<tr><td><b>Ingreso total</b></td><td>Precio por cantidad vendida.</td></tr>
+<tr><td><b>Beneficio</b></td><td>Ingreso total menos coste total. Si sale negativo, es una pérdida.</td></tr>
+<tr><td><b>Margen por unidad</b></td><td>Precio menos coste variable unitario: lo que cada venta aporta para cubrir los costes fijos.</td></tr>
+<tr><td><b>Punto muerto o umbral de rentabilidad</b></td><td>Cantidad que hay que vender para que el ingreso iguale al coste total: costes fijos ÷ (precio − coste variable unitario).</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=qzjwMlCURGg | Ingresos, costes y beneficio | Econosublime · 3:18
+https://www.youtube.com/watch?v=yxdJHUBwUzw | Cálculo de costes fijos, variables y totales | Econosublime · 8:01
+https://www.youtube.com/watch?v=TwgbEkyf9yQ | Cálculo del punto muerto | Econosublime · 7:57
+```
 
 ## Comprueba lo que sabes
 

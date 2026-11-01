@@ -2,7 +2,20 @@
 titulo: 'Sesión 5 · El proceso productivo: eficiencia y productividad'
 ---
 
+Dos formas de envasar zumo. A mano con un embudo, o con una línea semiautomática.
+
+Las dos son **tecnología**. Y esa afirmación, que suena rara, es exactamente el punto de partida de hoy. Cualquier forma de combinar factores productivos **ya es** una tecnología. El progreso técnico consiste en encontrar combinaciones mejores.
+
+Después vais a descubrir algo contraintuitivo. Por qué contratar siempre a más gente **no** aumenta la producción sin límite.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda04-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda04-s05-solucionario.pdf | Solucionario de Zumos Vélez | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas</td><td><b>Carácter</b></td><td>No evaluable, formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de interpretación · OD: observación del cálculo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +44,6 @@ Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo,
 - ¿A partir de qué punto cada trabajador adicional aporta menos que el anterior? ¿Por qué?
 - ¿Qué decisiones solo puede tomar una empresa a largo plazo?
 
-::: aviso Material que debes preparar tú
-- **Caso original de una fábrica ficticia** con la tabla de producto total según el número de trabajadores. Debe estar diseñado para que el producto marginal **crezca primero y decrezca después**: si no, la actividad pierde su sentido.
-- **Plantilla de tabla** producto total / producto medio / producto marginal, una por pareja.
-- **Ejemplo de las dos tecnologías** proyectable: envasado manual frente a línea semiautomática, con sus costes respectivos.
-- Calculadora.
-- **Ejemplos de decisiones de largo plazo** de empresas reales del entorno.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo fenómeno se presenta en tres registros: la comparación narrativa de las dos tecnologías, la tabla numérica de los tres productos y la interpretación verbal de lo que ocurre, de modo que quien no accede por la vía numérica pueda hacerlo por la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La tabla está estructurada en columnas fijas que se rellenan en orden, lo que convierte un cálculo encadenado en una secuencia de pasos verificables.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,24 +52,18 @@ Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo,
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Dos formas de envasar zumo. A mano con un embudo, o con una línea semiautomática.
-
-Las dos son **tecnología**. Y esa afirmación, que suena rara, es exactamente el punto de partida de hoy. Cualquier forma de combinar factores productivos **ya es** una tecnología. El progreso técnico consiste en encontrar combinaciones mejores.
-
-Después vais a descubrir algo contraintuitivo. Por qué contratar siempre a más gente **no** aumenta la producción sin límite.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda4-s05-01.webp | Portada
-sda4-s05-02.webp | Dos formas de hacer lo mismo
-sda4-s05-03.webp | Qué es la tecnología
-sda4-s05-04.webp | Los tres productos
-sda4-s05-05.webp | Las dos preguntas
-sda4-s05-06.webp | La intuición clave
-sda4-s05-07.webp | Corto y largo plazo
+sda4-s05-01.webp | El proceso productivo
+sda4-s05-02.webp | Qué es la tecnología
+sda4-s05-03.webp | Técnica y económica
+sda4-s05-04.webp | Producto total, medio y marginal
+sda4-s05-05.webp | Una sola línea de envasado
+sda4-s05-06.webp | Doce personas en una cocina con cuatro fogones. La duodécima,…
+sda4-s05-07.webp | Rendimientos decrecientes
+sda4-s05-08.webp | Corto y largo plazo
+sda4-s05-09.webp | Contratar más no siempre produce más
 ```
 
 ## Producto total, medio y marginal
@@ -73,13 +72,53 @@ sda4-s05-07.webp | Corto y largo plazo
 
 <table><thead><tr><th width="24%">Concepto</th><th width="42%">Qué mide</th><th width="34%">Cómo se calcula</th></tr></thead><tbody><tr><td><b>Producto total</b></td><td>Cuánto se produce en total con esos factores</td><td>La producción obtenida</td></tr><tr><td><b>Producto medio</b></td><td>Cuánto produce cada trabajador de media</td><td>Producto total ÷ número de trabajadores</td></tr><tr><td><b>Producto marginal</b></td><td>Cuánto añade el <b>último</b> trabajador contratado</td><td>Aumento del producto total al añadir uno más</td></tr></tbody></table>
 
-### Vuestra tabla
+### Vuestra tabla: Zumos Vélez
 
-<table><thead><tr><th width="28%">Nº de trabajadores</th><th width="24%">Producto total</th><th width="24%">Producto medio</th><th width="24%">Producto marginal</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr></tbody></table>
+Zumos Vélez es una pequeña empresa ficticia de la Axarquía que embotella zumo de mango. Tiene **una sola línea de envasado** y un local que no puede ampliar este año. Esto es lo que produce en una jornada según cuántas personas trabajen:
+
+<table><thead><tr><th width="28%">Nº de trabajadores</th><th width="24%">Producto total (cajas al día)</th><th width="24%">Producto medio</th><th width="24%">Producto marginal</th></tr></thead><tbody><tr><td>1</td><td>20</td><td></td><td></td></tr><tr><td>2</td><td>50</td><td></td><td></td></tr><tr><td>3</td><td>90</td><td></td><td></td></tr><tr><td>4</td><td>120</td><td></td><td></td></tr><tr><td>5</td><td>140</td><td></td><td></td></tr><tr><td>6</td><td>150</td><td></td><td></td></tr><tr><td>7</td><td>145</td><td></td><td></td></tr></tbody></table>
+
+```descargas
+sda04-s05-zumos-velez.pdf | Ficha de Zumos Vélez | Tabla, gráfico y preguntas
+```
 
 ### Las dos preguntas de interpretación
 
-<table><thead><tr><th width="6%"></th><th width="60%">Pregunta</th><th width="34%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>¿Con cuántos trabajadores se alcanza el <b>máximo</b> de producto total?</td><td></td></tr><tr><td>2</td><td>¿A partir de qué punto cada trabajador adicional aporta <b>menos</b> que el anterior?</td><td></td></tr></tbody></table>
+Completad la tabla en la ficha y después comprobad aquí vuestras respuestas.
+
+```actividad
+id: sda04-s05-zumos
+tipo: test
+preguntas:
+  - enunciado: ¿Cuál es el producto marginal del tercer trabajador?
+    opciones:
+      - 30 cajas
+      - 40 cajas
+      - 90 cajas
+    correcta: 2
+    explicacion: Con 2 trabajadores se producen 50 cajas y con 3, 90. El tercero añade 90 − 50 = 40.
+  - enunciado: ¿Con cuántos trabajadores se alcanza el máximo de producto total?
+    opciones:
+      - Con 5
+      - Con 6
+      - Con 7
+    correcta: 2
+    explicacion: Con 6 se producen 150 cajas, el máximo. El séptimo hace bajar la producción a 145.
+  - enunciado: ¿A partir de qué trabajador cada persona añadida aporta menos que la anterior?
+    opciones:
+      - A partir del cuarto
+      - A partir del sexto
+      - Desde el segundo
+    correcta: 1
+    explicacion: Los productos marginales son 20, 30, 40, 30, 20, 10 y −5. El cuarto aporta 30, menos que el tercero (40).
+  - enunciado: ¿Cuál es el producto medio con 4 trabajadores?
+    opciones:
+      - 30 cajas por trabajador
+      - 120 cajas por trabajador
+      - 40 cajas por trabajador
+    correcta: 1
+    explicacion: 120 cajas ÷ 4 trabajadores = 30 cajas por trabajador.
+```
 
 ::: nota Lo que hay que entender (no memorizar)
 Llega un punto en que cada persona añadida **aporta menos que la anterior**. ¿Por qué? Porque comparten el mismo espacio, la misma maquinaria y las mismas herramientas. Con doce personas en una cocina de cuatro fogones, la duodécima estorba más de lo que produce.
@@ -89,7 +128,7 @@ Esta intuición la vais a necesitar en la **sesión 9**, cuando estiméis los co
 
 ## Corto plazo y largo plazo
 
-::: aviso ⏳ La diferencia no es de tiempo: es de qué puedes cambiar
+::: aviso La diferencia no es de tiempo: es de qué puedes cambiar
 En el **corto plazo**, al menos un factor productivo es **fijo**: normalmente el capital (la nave, la maquinaria). Solo puedes ajustar lo variable. En el **largo plazo**, **todos** los factores pueden variar.
 :::
 
@@ -135,7 +174,25 @@ Y un matiz que se pregunta. La diferencia **no es de duración** sino de **qué 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Proceso productivo</b></td><td>Conjunto de operaciones que transforman los factores en un bien o servicio.</td></tr><tr><td><b>Tecnología</b></td><td>Forma concreta de combinar los factores productivos. Toda combinación implica una.</td></tr><tr><td><b>Producto total</b></td><td>Producción obtenida con una cantidad dada de factores.</td></tr><tr><td><b>Producto medio</b></td><td>Producción por unidad de factor empleado.</td></tr><tr><td><b>Producto marginal</b></td><td>Aumento del producto total al añadir una unidad más de factor.</td></tr><tr><td><b>Factor fijo</b></td><td>El que no puede variarse en el corto plazo, normalmente el capital.</td></tr><tr><td><b>Factor variable</b></td><td>El que puede ajustarse en el corto plazo, normalmente el trabajo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Proceso productivo</b></td><td>Conjunto de actividades que transforman unos factores (materias, trabajo, maquinaria) en un bien o servicio.</td></tr>
+<tr><td><b>Tecnología</b></td><td>Cualquier forma de combinar los factores productivos. Un embudo es tecnología; una línea automática, también.</td></tr>
+<tr><td><b>Eficiencia técnica</b></td><td>Producir lo máximo posible con unos factores dados, o usar lo mínimo para una producción dada.</td></tr>
+<tr><td><b>Eficiencia económica</b></td><td>Elegir, entre las combinaciones técnicamente eficientes, la que cuesta menos.</td></tr>
+<tr><td><b>Producto total</b></td><td>Producción obtenida con una cantidad dada de factores.</td></tr>
+<tr><td><b>Producto medio</b></td><td>Producción por trabajador: producto total ÷ número de trabajadores.</td></tr>
+<tr><td><b>Producto marginal</b></td><td>Lo que añade a la producción el último trabajador contratado.</td></tr>
+<tr><td><b>Rendimientos decrecientes</b></td><td>Al añadir más de un factor manteniendo fijos los demás, llega un punto en que cada unidad añadida aporta menos que la anterior.</td></tr>
+<tr><td><b>Corto y largo plazo</b></td><td>En el corto plazo al menos un factor es fijo; en el largo, todos pueden cambiar.</td></tr>
+<tr><td><b>Productividad</b></td><td>Producción por unidad de factor en un periodo. Si sube, se produce más con lo mismo.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=V3ITCZYhltI | Qué es la productividad y cómo se calcula | Econosublime · 4:21
+https://www.youtube.com/watch?v=Y5DCIesgrP8 | Cálculo de producto total, medio y marginal | Econosublime · 9:50
+```
 
 ## Comprueba lo que sabes
 
