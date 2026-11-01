@@ -2,7 +2,20 @@
 titulo: Sesión 5 · Equilibrio y elasticidad
 ---
 
+Ya tenéis las dos curvas. Hoy las juntamos, y aparece el punto donde se cruzan: el **equilibrio**.
+
+Y después, la pregunta que explica por qué el aceite pudo subir tanto: **¿cuánto le duele a la gente que suba el precio?** Eso se mide, y se llama elasticidad.
+
+La sesión cierra con un debate sobre algo que os pasa de verdad. El precio que sube mientras hacéis cola virtual para unas entradas.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda05-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda05-s05-solucionario.pdf | Solucionario del reloj del mercado y de la elasticidad | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico) + debate</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.2</td><td><b>Saberes básicos</b></td><td>B2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 (equilibrio) → Individual → Gran grupo (elasticidad y debate)</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio, cuestionario y debate)</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de práctica + apuntes Cornell · OD: observación del trabajo cooperativo y del debate · C: quiz formativo integrado de cierre · Co.Ev.: contraste de resultados entre grupos · D: debate estructurado “La cola y el algoritmo”</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -35,15 +48,6 @@ Presenta a **Susan Athey** al conectar la elasticidad con los precios digitales.
 - Si aumenta la demanda, ¿qué le pasa al precio Y a la cantidad? ¿Y si aumenta la oferta?
 - Cuando el precio de una entrada sube mientras haces cola virtual, ¿es eficiencia o es abuso?
 
-::: aviso Material que debes preparar tú
-- **Ficha de práctica compacta “El reloj del mercado”** con la tabla de oferta y demanda de los menús de la cafetería del instituto para seis precios, una por grupo base.
-- **Tarjetas de casos de elasticidad**: gasolina para quien va a trabajar en coche, medicamento esencial, entradas del concierto del año y sal.
-- **Normas del debate** proyectadas, con la regla del término técnico obligatorio.
-- **Quiz digital formativo integrado** (equilibrio + elasticidad) montado y listo.
-- **Plantilla Cornell** y presentación de apoyo.
-- Cronómetro para los turnos del debate.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El equilibrio se aborda simultáneamente en tres registros (tabla numérica, gráfico y explicación verbal del ajuste), de modo que quien no accede por la vía simbólica pueda comprobarlo contando en la tabla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate se estructura con turnos y réplica reglados, y la regla del término técnico obligatorio desplaza la intervención del terreno de la opinión al del argumento, lo que facilita participar sin exponerse personalmente.</td></tr></tbody></table>
@@ -56,27 +60,19 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 Sesión **fusionada** de las antiguas S6 y S7. La compresión aplicada es la siguiente. Las cuatro perturbaciones del equilibrio ya no se resuelven por escrito y en grupo, sino mediante resolución oral guiada con ejemplos rápidos; los casos exprés de elasticidad bajan de 6 a 4 bienes; el cálculo guiado pasa de 2 elasticidades numéricas a 1; el debate se acorta de 18 a 13 minutos manteniendo su estructura; y los dos quiz formativos independientes se sustituyen por un único quiz integrado al cierre.
 :::
 
-## Para empezar
-
-Ya tenéis las dos curvas. Hoy las juntamos, y aparece el punto donde se cruzan: el **equilibrio**.
-
-Y después, la pregunta que explica por qué el aceite pudo subir tanto: **¿cuánto le duele a la gente que suba el precio?** Eso se mide, y se llama elasticidad.
-
-La sesión cierra con un debate sobre algo que os pasa de verdad. El precio que sube mientras hacéis cola virtual para unas entradas.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda5-s05-01.webp | Portada
-sda5-s05-02.webp | El equilibrio
-sda5-s05-03.webp | Excedente y escasez
-sda5-s05-04.webp | El reloj del mercado
-sda5-s05-05.webp | Las cuatro perturbaciones
-sda5-s05-06.webp | La elasticidad
-sda5-s05-07.webp | Qué hace elástica una demanda
-sda5-s05-08.webp | Cuatro casos exprés
-sda5-s05-09.webp | Referente: Susan Athey
-sda5-s05-10.webp | El debate
+sda5-s05-01.webp | Equilibrio y elasticidad
+sda5-s05-02.webp | Equilibrio de mercado
+sda5-s05-03.webp | El reloj del mercado
+sda5-s05-04.webp | Excedente y escasez
+sda5-s05-05.webp | Qué pasa con precio y cantidad
+sda5-s05-06.webp | Elasticidad-precio
+sda5-s05-07.webp | Tres determinantes
+sda5-s05-08.webp | ¿Son justos los precios dinámicos?
+sda5-s05-09.webp | Susan Athey
+sda5-s05-10.webp | Un término técnico por intervención
 ```
 
 ## Práctica “El reloj del mercado”
@@ -88,6 +84,16 @@ sda5-s05-10.webp | El debate
 ::: nota La idea clave
 El precio de equilibrio **no lo fija nadie en particular**: lo fijan a la vez todos los compradores y todos los vendedores. Es exactamente lo que vais a ver suceder en el Parqué de mañana.
 :::
+
+### La cafetería del instituto
+
+Esta es la tabla de menús de mediodía de la cafetería en una semana:
+
+<table><thead><tr><th width="28%">Precio del menú</th><th>3 €</th><th>4 €</th><th>5 €</th><th>6 €</th><th>7 €</th><th>8 €</th></tr></thead><tbody><tr><td><b>Menús que el alumnado quiere comprar</b></td><td>120</td><td>100</td><td>80</td><td>60</td><td>40</td><td>20</td></tr><tr><td><b>Menús que la cafetería quiere vender</b></td><td>0</td><td>20</td><td>40</td><td>60</td><td>80</td><td>100</td></tr></tbody></table>
+
+```descargas
+sda05-s05-reloj-mercado.pdf | Ficha del reloj del mercado | Tabla, cuadrícula y las dos fases
+```
 
 ### Vuestras dos fases
 
@@ -104,7 +110,7 @@ Fijaos en la última fila. Es exactamente lo que le pasó al aceite en la sesió
 ```simulador
 tipo: mercado
 titulo: El mercado del aceite de oliva
-instrucciones: Desplaza las curvas y observa qué les pasa al precio y a la cantidad de equilibrio. Prueba también a fijar un precio máximo o mínimo. Antes de pulsar cada escenario, **escribe en tu Cornell qué crees que va a pasar**.
+instrucciones: Desplaza las curvas y observa qué les pasa al precio y a la cantidad de equilibrio. Prueba también a fijar un precio máximo o mínimo. Antes de pulsar cada escenario, **escribe en tu cuaderno qué crees que va a pasar**.
 producto: aceite de oliva
 unidad_precio: €/l
 unidad_cantidad: millones de litros
@@ -145,18 +151,47 @@ La demanda de aceite de oliva es **inelástica**: la gente lo siguió comprando 
 
 ### Cuatro casos exprés
 
-<table><thead><tr><th width="42%">Bien</th><th width="24%">¿Elástica o inelástica?</th><th width="34%">¿Por qué?</th></tr></thead><tbody><tr><td>La gasolina, para quien va a trabajar en coche</td><td></td><td></td></tr><tr><td>Un medicamento esencial</td><td></td><td></td></tr><tr><td>Las entradas del concierto del año</td><td></td><td></td></tr><tr><td>La sal</td><td></td><td></td></tr></tbody></table>
+```actividad
+id: sda05-s05-elasticidad
+tipo: clasificar
+instrucciones: ¿La demanda de cada bien es elástica o inelástica? Piensa en si hay sustitutivos, si es una necesidad y cuánto pesa en el presupuesto.
+categorias:
+  - nombre: Inelástica
+    elementos:
+      - texto: La gasolina, para quien va a trabajar en coche
+        explicacion: Hay pocos sustitutivos a corto plazo y es necesaria.
+      - texto: Un medicamento esencial
+        explicacion: Es una necesidad y no tiene sustitutivo.
+      - texto: La sal
+        explicacion: Pesa muy poco en el presupuesto.
+      - texto: El aceite de oliva en una familia andaluza
+        explicacion: Es un hábito muy arraigado; muchas familias lo siguieron comprando.
+  - nombre: Elástica
+    elementos:
+      - texto: Una marca concreta de refresco
+        explicacion: Hay muchos sustitutivos cercanos.
+      - texto: Un viaje de fin de semana
+        explicacion: Es prescindible y pesa en el presupuesto.
+      - texto: Las entradas del concierto del año
+        explicacion: Discutible. Para el fan es inelástica; para el resto, muy elástica. Depende del comprador.
+```
 
-**Los tres determinantes.** si existen sustitutivos cercanos, si es una necesidad o un capricho, y cuánto pesa en tu presupuesto.
+**Los tres determinantes.** Si existen sustitutivos cercanos, si es una necesidad o un capricho, y cuánto pesa en tu presupuesto.
 
 ### Debate “La cola y el algoritmo”
+
+Cuando un concierto se agota en minutos o llueve a la salida de un partido, algunas plataformas suben el precio de forma automática según la demanda: son los **precios dinámicos**. ¿Es justo?
+
+```descargas
+sda05-s05-casos-debate.pdf | Casos del debate | Taxis por aplicación, entradas de conciertos, billetes de avión y una tienda de barrio
+```
 
 <table><thead><tr><th width="50%">EFICIENCIA</th><th width="50%">EQUIDAD</th></tr></thead><tbody><tr><td>El precio es una señal que asigna un recurso escaso a quien más lo valora, y atrae más oferta justo cuando hace falta.</td><td>Es explotar la necesidad, y expulsa del mercado a quien menos renta tiene.</td></tr></tbody></table>
 
 ::: nota La regla del juego
 Para intervenir hay que usar correctamente **al menos un término técnico** de la unidad: elasticidad, exceso de demanda, desplazamiento, equilibrio.
 
-Y el docente **cierra sin dictar veredicto**: la pregunta reaparece en el ensayo de la prueba escrita, y allí tendréis que posicionaros vosotros.
+No hay veredicto al terminar. La pregunta vuelve en la prueba escrita, y allí os posicionaréis vosotros.
 :::
 
 ## Apuntes de la sesión
@@ -218,7 +253,26 @@ Las dos son argumentables con los conceptos de esta unidad. El debate se cierra 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Equilibrio de mercado</b></td><td>Precio al que coinciden la cantidad demandada y la ofrecida.</td></tr><tr><td><b>Excedente</b></td><td>Exceso de oferta que aparece cuando el precio está por encima del equilibrio.</td></tr><tr><td><b>Escasez</b></td><td>Exceso de demanda que aparece cuando el precio está por debajo del equilibrio.</td></tr><tr><td><b>Elasticidad-precio de la demanda</b></td><td>Cociente entre la variación porcentual de la cantidad demandada y la del precio.</td></tr><tr><td><b>Demanda elástica</b></td><td>Aquella cuya cantidad reacciona más que proporcionalmente al precio.</td></tr><tr><td><b>Demanda inelástica</b></td><td>Aquella cuya cantidad reacciona menos que proporcionalmente al precio.</td></tr><tr><td><b>Precio dinámico</b></td><td>El que se ajusta automáticamente en función de la demanda en tiempo real.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Equilibrio de mercado</b></td><td>Situación en la que la cantidad que se quiere comprar coincide con la que se quiere vender. Se da a un precio y una cantidad concretos.</td></tr>
+<tr><td><b>Excedente</b></td><td>Exceso de oferta: a un precio por encima del equilibrio se quiere vender más de lo que se quiere comprar. Presiona el precio a la baja.</td></tr>
+<tr><td><b>Escasez</b></td><td>Exceso de demanda: a un precio por debajo del equilibrio se quiere comprar más de lo que hay. Presiona el precio al alza.</td></tr>
+<tr><td><b>Nuevo equilibrio</b></td><td>El que aparece cuando se desplaza una curva. Se compara con el inicial para ver qué ha pasado con el precio y la cantidad.</td></tr>
+<tr><td><b>Elasticidad-precio de la demanda</b></td><td>Variación porcentual de la cantidad demandada dividida entre la variación porcentual del precio. Mide cuánto reacciona la gente ante un cambio de precio.</td></tr>
+<tr><td><b>Demanda elástica</b></td><td>La cantidad cambia más que el precio (elasticidad mayor que 1).</td></tr>
+<tr><td><b>Demanda inelástica</b></td><td>La cantidad cambia menos que el precio (elasticidad menor que 1).</td></tr>
+<tr><td><b>Precio máximo</b></td><td>Tope legal por encima del cual no se puede vender. Si está por debajo del equilibrio, provoca escasez.</td></tr>
+<tr><td><b>Precios dinámicos</b></td><td>Precios que una plataforma cambia automáticamente según la demanda de cada momento.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=OUfKSRz--g4 | Equilibrio de mercado | Econosublime · 9:47
+https://www.youtube.com/watch?v=PGFJjrYuwBo | Cálculo del equilibrio de mercado | Econosublime · 9:24
+https://www.youtube.com/watch?v=gmx8IL5YA4s | Qué es la elasticidad de la demanda | Econosublime · 10:59
+https://www.youtube.com/watch?v=LrH_mjmj8zs | Cálculo de la elasticidad precio de la demanda | Econosublime · 7:52
+```
 
 ## Comprueba lo que sabes
 

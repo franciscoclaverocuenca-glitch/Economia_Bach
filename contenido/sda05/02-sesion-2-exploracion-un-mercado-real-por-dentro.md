@@ -2,7 +2,20 @@
 titulo: 'Sesión 2 · Exploración: un mercado real por dentro (taller con Sim Companies)'
 ---
 
+Hoy entráis en un mercado antes de que nadie os explique cómo funciona un mercado. Es deliberado.
+
+Vais a observar precios reales del simulador, a buscar por qué se movieron y a decidir el vuestro. Y hay una regla que no se salta: **antes de ejecutar, escribís qué creéis que va a pasar**.
+
+No importa acertar. Importa razonar.
+
 ## Guía docente · Sesión 2 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda05-s02-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda05-s02-preparar-taller.pdf | Cómo preparar el taller con Sim Companies | Solo docente, con plan B sin conexión
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Taller con simulador de mercado</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.2</td><td><b>Saberes básicos</b></td><td>B2</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas con rotación obligatoria del control del dispositivo</td><td><b>Carácter</b></td><td>Formativa · la evidencia se apoya en las hipótesis escritas por el alumnado</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de tres ítems durante los dos retos · C: cuestionario digital autocorregible sobre lo observado</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -37,15 +50,6 @@ Primer ítem de observación: **escribe la hipótesis antes de mirar el resultad
 - ¿Qué crees que va a pasar si pones ese precio? Escríbelo antes de ejecutar.
 - ¿Se cumplió vuestra hipótesis? Y si no, ¿por qué creéis que falló?
 
-::: aviso Material que debes preparar tú
-- **Alta previa en el simulador** con las cuentas del alumnado creadas y comprobadas. Hazlo con días de antelación. Es lo único que puede arruinar la sesión.
-- **Reparto de tres productos por pareja**, preparado de modo que haya variedad de niveles de competencia entre productos.
-- **Ficha de observación por pareja**: los datos de los tres productos, el pico identificado con su explicación, el precio decidido y la **hipótesis escrita**.
-- **Lista de cotejo** con los tres ítems de la sesión.
-- **Cuestionario digital autocorregible** montado antes de la sesión, de seis a ocho ítems, la mitad de respuesta cerrada y la mitad de respuesta breve sobre el trabajo propio.
-- **Un dispositivo por pareja** y comprobación previa de la conexión del aula.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El simulador permite explorar un mercado tomando decisiones reales con consecuencias visibles, sin requerir ningún conocimiento teórico previo.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La hipótesis escrita antes de ejecutar obliga a explicitar el razonamiento y separa la calidad del razonamiento del acierto del resultado.</td></tr></tbody></table>
@@ -54,29 +58,23 @@ Primer ítem de observación: **escribe la hipótesis antes de mirar el resultad
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy entráis en un mercado antes de que nadie os explique cómo funciona un mercado. Es deliberado.
-
-Vais a observar precios reales del simulador, a buscar por qué se movieron y a decidir el vuestro. Y hay una regla que no se salta: **antes de ejecutar, escribís qué creéis que va a pasar**.
-
-No se evalúa acertar. Se evalúa razonar.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-expl-sda05-01.webp | Portada
-expl-sda05-02.webp | Por qué antes
-expl-sda05-03.webp | La regla
-expl-sda05-04.webp | Reto 1
-expl-sda05-05.webp | Reto 2
-expl-sda05-06.webp | La rotación
+sda5-s02-01.webp | Un mercado real por dentro
+sda5-s02-02.webp | Hoy entráis en un mercado antes de que nadie os explique cómo…
+sda5-s02-03.webp | La hipótesis va antes
+sda5-s02-04.webp | Leer el histórico
+sda5-s02-05.webp | «El mercado subió»
+sda5-s02-06.webp | Decidir vuestro precio
+sda5-s02-07.webp | ¿Tuvo algo que ver el número de vendedores con lo que pudisteis…
+sda5-s02-08.webp | Un precio se mueve por uno de los dos lados
 ```
 
 ## Los dos retos del taller
 
 ::: aviso La regla que no se salta
-Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a ocurrir y por qué. Si acertáis, bien; si no, también. Lo que se valora es el razonamiento, no el resultado.
+Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a ocurrir y por qué. Si acertáis, bien; si no, también. Lo que cuenta es el razonamiento, no el resultado.
 :::
 
 ### Reto 1 · Leer el histórico
@@ -89,12 +87,16 @@ Es repetir el hecho con otras palabras. Una explicación señala **un lado**: �
 
 ### Reto 2 · Decidir vuestro precio
 
-<table><thead><tr><th width="44%">Campo</th><th width="56%">Vuestra respuesta</th></tr></thead><tbody><tr><td>Producto elegido</td><td></td></tr><tr><td>¿Cuántos vendedores compiten en él?</td><td></td></tr><tr><td>Precio que decidimos</td><td></td></tr><tr><td><b>Hipótesis</b>: qué creemos que va a pasar y por qué</td><td></td></tr><tr><td>Qué pasó realmente</td><td></td></tr><tr><td>Si falló, ¿por qué creemos que falló?</td><td></td></tr></tbody></table>
+Producto elegido, cuántos vendedores compiten, el precio que decidís, vuestra **hipótesis**, lo que pasó de verdad y, si falló, por qué creéis que falló.
+
+```descargas
+sda05-s02-ficha-taller.pdf | Ficha de observación del taller | Los dos retos, con espacio para la hipótesis
+```
 
 ### La rotación del dispositivo
 
 ::: aviso Se cambia de manos en cada reto
-Es obligatorio y se observa. Que una sola persona de la pareja maneje el dispositivo durante toda la sesión es exactamente lo que hay que evitar.
+Es obligatorio. Que una sola persona de la pareja maneje el dispositivo durante toda la sesión es exactamente lo que hay que evitar.
 :::
 
 ## Apuntes de la sesión
@@ -127,7 +129,21 @@ No adelantamos la explicación. Pero guardad la observación. En la SdA 6 vais a
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Histórico de precios</b></td><td>Registro de la evolución del precio de un producto a lo largo del tiempo.</td></tr><tr><td><b>Pico</b></td><td>Movimiento brusco y localizado del precio, al alza o a la baja.</td></tr><tr><td><b>Hipótesis</b></td><td>Explicación provisional formulada antes de comprobar el resultado.</td></tr><tr><td><b>Competencia</b></td><td>Número de vendedores que ofrecen el mismo producto en un mercado.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Simulador de mercado</b></td><td>Programa en el que muchas personas compran y venden a la vez, con precios que se forman por sus decisiones.</td></tr>
+<tr><td><b>Histórico de precios</b></td><td>Registro de la evolución del precio de un producto a lo largo del tiempo.</td></tr>
+<tr><td><b>Pico</b></td><td>Movimiento brusco y localizado del precio, al alza o a la baja.</td></tr>
+<tr><td><b>Hipótesis</b></td><td>Explicación provisional formulada antes de comprobar el resultado.</td></tr>
+<tr><td><b>Sesgo retrospectivo</b></td><td>Tendencia a creer, una vez ocurrido algo, que era previsible. Escribir la hipótesis antes lo evita.</td></tr>
+<tr><td><b>Competencia</b></td><td>Rivalidad entre vendedores que ofrecen el mismo producto. Cuantos más hay, menos margen tiene cada uno para subir el precio.</td></tr>
+<tr><td><b>Cuota de mercado</b></td><td>Parte de las ventas totales de un mercado que corresponde a una empresa.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=LkkjrPH9vTM | Qué es un mercado, sus elementos y la cuota de mercado | Econosublime · 5:59
+```
 
 ## Comprueba lo que sabes
 
@@ -145,9 +161,9 @@ preguntas:
 - enunciado: La hipótesis se escribe antes de ejecutar el cambio de precio.
   respuesta: verdadero
   explicacion: '**Verdadero.** La hipótesis se escribe antes de ver el resultado. Es lo que convierte la exploración en evidencia de razonamiento.'
-- enunciado: Se evalúa acertar con la hipótesis.
+- enunciado: Lo importante del taller es acertar con la hipótesis.
   respuesta: falso
-  explicacion: '**Falso.** No se evalúa acertar, sino el razonamiento: qué esperabas y por qué.'
+  explicacion: '**Falso.** Lo importante es el razonamiento: qué esperabas y por qué.'
 - enunciado: El control del dispositivo debe rotar dentro de la pareja en cada reto.
   respuesta: verdadero
   explicacion: '**Verdadero.** El control del dispositivo cambia de manos en cada reto.'

@@ -2,22 +2,18 @@
 titulo: SdA 5 · ¿Cuánto cuestan las cosas?
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 5 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE2. Conocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico. Compartida con las SdA 4 y 6.</td></tr><tr><td><b>Criterio 2.2</b></td><td>Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la relación entre producción, costes y beneficio, así como la oferta, la demanda, los precios y cantidades de equilibrio con sus cambios, la elasticidad, los tipos de mercado y los agentes implicados, y reflexionando sobre su importancia como fuente de mejora económica y social. Es el único criterio de la unidad.</td></tr><tr><td><b>Saber básico</b></td><td><b>B2</b> Intercambio y mercado. Factores de los que depende la demanda y la oferta. Estudio de la elasticidad. Tipos y funcionamiento de los mercados: desplazamientos y nuevos equilibrios. Representación gráfica.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM2 · STEM4 · CPSAA4 · CC3 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>12. Producción y consumo responsables (también 13 y 8 de forma secundaria)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación para el consumo responsable y espíritu crítico de la persona consumidora (S1, S4, S5 y S8)</td></tr><tr><td><b>Referente</b></td><td>Susan Athey (economía digital y precios dinámicos)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Creación Digital y Pensamiento Computacional, competencia 2, criterio CDPC 2.2, saberes CDPC.1.B.1 y CDPC.1.B.2 (sesiones 6 y 7). Pendiente de confirmar oferta de la materia y matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>8 (segundo trimestre)</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Antes de impartir: lo que hay que preparar
-Esta unidad tiene **cuatro materiales físicos** con gestión previa ineludible: el **bien subastable** de la sesión 1 (comprobando alergias e intolerancias), los **tickets o capturas verificables** del precio del aceite en distintos años, la **charla de Mercamálaga** de la sesión 2, y sobre todo las **tarjetas secretas del Parqué**, que hay que calibrar con cuidado.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterio</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b>OD</b> Observación directa</td><td>2.2</td><td>S1 subasta · S2 taller · S3 rally · S5 reloj del mercado · S6 Parqué · S7 laboratorio</td></tr><tr><td><b>D</b> Debate</td><td>2.2</td><td>S1 hipótesis del aceite · S5 «La cola y el algoritmo»</td></tr><tr><td><b>C</b> Cuestionario</td><td>2.2</td><td>S2 tras el taller · S5 quiz de elasticidad</td></tr><tr><td><b>P</b> Portafolio</td><td>2.2</td><td>S3 curva de la clase · S4 secuencia del aceite · S5 práctica de equilibrio</td></tr><tr><td><b>PF</b> Producto final</td><td>2.2</td><td>S7 informe de datos del Parqué</td></tr><tr><td><b>EO</b> Exposición oral</td><td>2.2</td><td>S7 pitch de datos</td></tr><tr><td><b>PE</b> Prueba escrita</td><td>2.2</td><td>S8</td></tr><tr><td><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</td><td>formativas</td><td>Co.Ev. en S3, S5, S6 y S7 · Auto.Ev. en S8</td></tr></tbody></table>
 
-Actualiza también las series de **POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería, que sostienen la resolución del enigma en la sesión 4 y el apartado (f) del informe final.
-:::
-
-::: nota 🃏 Las tarjetas del Parqué: el material más delicado
-Los valores de reserva de los compradores y los costes de los vendedores deben estar **escalonados** de modo que, al revelarse al final, dibujen exactamente una curva de demanda y una de oferta. De esa calibración depende todo el laboratorio de datos de la sesión 7: si las tarjetas no dibujan curvas limpias, el contraste entre equilibrio teórico y precios observados pierde sentido. Prepáralas con tiempo y compruébalas gráficamente antes de imprimirlas.
+::: aviso Datos que hay que actualizar
+Precios del aceite de oliva (POOLred, Observatorio de Precios de la Junta) y el dato de empleo del comercio por sexo (EPA). Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -35,47 +31,25 @@ La respuesta corta es: **nadie**. Y a la vez, **todos**. Esta unidad va sobre c�
 - Qué es la elasticidad y por qué explica que el aceite pudiera subir tanto.
 - Y a analizar datos reales generados por vosotros mismos.
 
-::: idea Elementos curriculares
-Competencia específica **2** · Criterio de evaluación **2.2** · Saber básico **B2** · 8 sesiones · Coordinación propuesta con Cultura y Práctica Digital en las sesiones 6 y 7.
-:::
-
 ## El reto: El Parqué de Málaga
 
-En la sesión 6 esta aula se convierte en un mercado de verdad: **El Parqué de Málaga**. Con compradores, vendedores y notarios de mercado, negociando cajas de mango de la Axarquía en tres rondas.
+En la sesión 6 esta aula se convierte en un mercado de verdad: **El Parqué de Málaga**. Con compradores, vendedores y notarios de mercado, negociando cajas de mango de la Axarquía en tres rondas. Y en la sesión 7 analizaréis **los datos que vosotros mismos habéis generado**.
 
-Y en la sesión 7 analizaréis **los datos que vosotros mismos habéis generado**.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas
-
-<table><thead><tr><th width="26%">Pieza</th><th width="48%">Qué es</th><th width="26%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. La simulación “El Parqué de Málaga”</b></td><td>Tres rondas de doble subasta. Mercado libre, shock de oferta (una helada arrasa la cosecha) y shock de demanda (el mango se hace viral). Toda transacción queda registrada en directo por los notarios en una hoja de cálculo proyectada.</td><td>Instrumentos OD (observación) y Co.Ev. (coevaluación entre roles)</td></tr><tr><td><b>2. El informe grupal de datos</b></td><td>Siete apartados: descripción del mercado, curvas teóricas construidas con las tarjetas reveladas, contraste entre predicción y realidad, análisis de los dos shocks, cálculo de una elasticidad, comparación con un dato oficial real, y conclusión argumentada sobre en qué medida el mercado ha sido una fuente de mejora.</td><td>Instrumentos R (producto), EO (pitch de 2 minutos) y Co.Ev.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. La simulación</b></td><td>Tres rondas de compraventa: mercado libre, una helada que arrasa la cosecha y un mango que se hace viral. Cada venta queda registrada en directo.</td></tr><tr><td><b>2. El informe de datos</b></td><td>Siete apartados: el mercado, las curvas teóricas, la predicción frente a lo que pasó, los dos shocks, una elasticidad, un dato oficial real y una conclusión argumentada. Y un pitch de dos minutos para contarlo.</td></tr></tbody></table>
 
 ::: nota Vais a generar vuestros propios datos
-Eso es lo que distingue esta unidad. No analizaréis una tabla de un libro. Analizaréis los precios que vosotros mismos habéis negociado, y comprobaréis si el modelo teórico predijo lo que realmente pasó. Es el método científico aplicado a la economía.
+No analizaréis una tabla de un libro. Analizaréis los precios que vosotros mismos habéis negociado, y comprobaréis si el modelo predijo lo que realmente pasó.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Esta es la rúbrica con la que se evalúa la unidad. Está disponible desde la primera sesión y puedes consultarla siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda05-rubricas.pdf | Rúbrica de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 2.2
@@ -83,6 +57,13 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 8 sesiones {.plegado}
 
-Estas son las ocho sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="62%">Sesión</th><th width="20%">Fase</th><th width="13%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>La subasta del aula y el enigma del aceite</td><td>Movilizar + Activar</td><td>2.2</td></tr><tr><td>2</td><td>Exploración: la madrugada de Mercamálaga</td><td>Explorar</td><td>2.2</td></tr><tr><td>3</td><td>La demanda: qué queremos y qué la mueve</td><td>Estructurar</td><td>2.2</td></tr><tr><td>4</td><td>La oferta y el caso del oro líquido</td><td>Estructurar</td><td>2.2</td></tr><tr><td>5</td><td>Equilibrio y elasticidad. El punto de encuentro y cuánto duele el precio</td><td>Estructurar</td><td>2.2</td></tr><tr><td>6</td><td>El Parqué de Málaga (I): la simulación</td><td>Aplicar</td><td>2.2</td></tr><tr><td>7</td><td>El Parqué de Málaga (II): laboratorio de datos</td><td>Aplicar + Evaluar</td><td>2.2</td></tr><tr><td>8</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>2.2</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>La subasta del aula.</b> Subastamos algo de verdad y nos preguntamos por qué el aceite costó el doble.</td></tr>
+<tr><td><b>2</b></td><td><b>Un mercado real por dentro.</b> Pones precio a un producto en un simulador con miles de jugadores.</td></tr>
+<tr><td><b>3</b></td><td><b>La demanda.</b> Dibujamos la curva de la clase y aprendemos qué la mueve.</td></tr>
+<tr><td><b>4</b></td><td><b>La oferta y el oro líquido.</b> Qué le pasó de verdad al precio del aceite.</td></tr>
+<tr><td><b>5</b></td><td><b>Equilibrio y elasticidad.</b> Dónde se encuentran la oferta y la demanda, y un debate sobre los precios que cambian cada minuto.</td></tr>
+<tr><td><b>6</b></td><td><b>El Parqué de Málaga.</b> Compras y vendes mango en tres rondas.</td></tr>
+<tr><td><b>7</b></td><td><b>Laboratorio de datos.</b> Analizáis lo que pasó y lo contáis en dos minutos.</td></tr>
+<tr><td><b>8</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

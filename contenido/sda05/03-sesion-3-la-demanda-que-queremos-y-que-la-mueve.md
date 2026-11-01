@@ -2,7 +2,18 @@
 titulo: 'Sesión 3 · La demanda: qué queremos y qué la mueve'
 ---
 
+Hoy construimos el primero de los dos motores del precio: la **demanda**.
+
+Y la primera curva de demanda de esta unidad **no va a salir de un libro**: va a salir de vosotros. Vais a responder anónimamente cuánto pagaríais por una entrada de cine, y con vuestras respuestas dibujaremos la curva real de esta clase.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda05-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda05-s03-solucionario.pdf | Solucionario de las cuatro tarjetas | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.2</td><td><b>Saberes básicos</b></td><td>B2</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas (dentro de grupos base de 4)</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio y coevaluación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell, curva de la clase y pasaporte del rally · OD: participación en la construcción colectiva y en el trabajo por parejas · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -31,14 +42,6 @@ Dilo en voz alta: **la primera curva de demanda de la unidad no sale del libro, 
 - ¿Y si el viernes es el estreno de la película del año? ¿Se mueve el punto o se mueve la curva?
 - ¿Por qué sube la demanda de girasol si el que ha subido de precio es el aceite de oliva?
 
-::: aviso Material que debes preparar tú
-- **Formulario digital o papeletas** para la encuesta anónima de disposición a pagar, con la escala cerrada: 3, 5, 7, 9, 12 y 15 €.
-- **Pizarra cuadriculada o proyector** para tabular y representar la curva de la clase en directo.
-- **4 tarjetas de mini-caso** para colgar en las paredes del aula, y un **“pasaporte” de respuestas** por pareja.
-- **Plantilla Cornell**, una por alumno/a.
-- Espacio que permita circular: el rally requiere levantarse.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La curva de demanda se construye con datos reales del propio grupo antes de presentarse como modelo abstracto, de modo que el concepto llegue después de una experiencia en la que cada persona ha participado con su propia respuesta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally por parejas con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El pasaporte descompone cada tarjeta en tres preguntas fijas (¿afecta?, ¿movimiento o desplazamiento?, ¿en qué sentido?) que se repiten en las cuatro, lo que automatiza el procedimiento.</td></tr></tbody></table>
@@ -51,25 +54,18 @@ El rally implica circulación y conversación simultánea de todas las parejas. 
 Sesión **fusionada** de las antiguas S3 y S4. La compresión aplicada es la siguiente. El rally pasa de 8 a 4 tarjetas (mínimo 3 resueltas) y se elimina la fase de consenso en cuartetos, de modo que las parejas resuelven directamente y la puesta en común se hace por sorteo de 2 tarjetas. Los cuatro factores de la demanda (precio propio, renta, sustitutivos y gustos) siguen todos representados.
 :::
 
-## Para empezar
-
-Hoy construimos el primero de los dos motores del precio: la **demanda**.
-
-Y la primera curva de demanda de esta unidad **no va a salir de un libro**: va a salir de vosotros. Vais a responder anónimamente cuánto pagaríais por una entrada de cine, y con vuestras respuestas dibujaremos la curva real de esta clase.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda5-s03-01.webp | Portada
-sda5-s03-02.webp | Tres herramientas previas
-sda5-s03-03.webp | La ley de la demanda
-sda5-s03-04.webp | La curva de la clase
-sda5-s03-05.webp | Interpretar la curva
-sda5-s03-06.webp | La regla de oro
-sda5-s03-07.webp | Los factores de la demanda
-sda5-s03-08.webp | El rally
-sda5-s03-09.webp | Las cuatro tarjetas
-sda5-s03-10.webp | Cierre
+sda5-s03-01.webp | La demanda
+sda5-s03-02.webp | ¿Cuánto pagarías como máximo por una entrada de cine el viernes…
+sda5-s03-03.webp | Cuántos pagarían ese precio o más
+sda5-s03-04.webp | Ley de la demanda
+sda5-s03-05.webp | Movimiento o desplazamiento
+sda5-s03-06.webp | Cuatro factores
+sda5-s03-07.webp | Cuatro tarjetas
+sda5-s03-08.webp | El mango de la Axarquía se hace viral como topping del desayuno.
+sda5-s03-09.webp | El precio mueve sobre la curva; lo demás mueve la curva
 ```
 
 ## La curva de la clase
@@ -92,7 +88,11 @@ Quien pagaría 15 € también pagaría 9. Por eso la cantidad demandada se acum
 
 <table><thead><tr><th width="6%"></th><th width="58%">Pregunta</th><th width="36%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>¿Cuántas entradas se venderían en esta clase a 12 €?</td><td></td></tr><tr><td>2</td><td>¿Y a 5 €?</td><td></td></tr><tr><td>3</td><td>Si el cine quisiera llenar la sala con vosotros, ¿qué precio debería poner?</td><td></td></tr></tbody></table>
 
-Copiad la tabla y dibujad vuestra propia versión de la curva en el Cornell, rotulando ejes y unidades. Es evidencia de portafolio.
+Copiad la tabla y dibujad vuestra propia curva, rotulando ejes y unidades. Va al portafolio.
+
+```descargas
+sda05-s03-curva-clase.pdf | Ficha de la curva de la clase | Tabla, cuadrícula y preguntas
+```
 
 ## Rally “¿Movimiento o desplazamiento?”
 
@@ -106,7 +106,45 @@ Copiad la tabla y dibujad vuestra propia versión de la curva en el Cornell, rot
 
 ### Las cuatro tarjetas
 
-<table><thead><tr><th width="5%"></th><th width="51%">Situación</th><th width="12%">(a) ¿Afecta?</th><th width="20%">(b) ¿Movimiento o desplazamiento?</th><th width="12%">(c) ¿Sentido?</th></tr></thead><tbody><tr><td>1</td><td>El precio de las entradas del Málaga CF baja un 20 % en la promoción de enero. ¿Qué ocurre con la cantidad demandada de entradas?</td><td></td><td></td><td></td></tr><tr><td>2</td><td>El precio del aceite de oliva se dispara. ¿Qué esperas que ocurra con la demanda de aceite de girasol… sin que el girasol haya cambiado de precio?</td><td></td><td></td><td></td></tr><tr><td>3</td><td>Bajan las tarifas de los datos móviles. ¿Qué ocurre con la demanda de plataformas de vídeo en streaming?</td><td></td><td></td><td></td></tr><tr><td>4</td><td>Un vídeo viral pone de moda el mango de la Axarquía como topping de desayuno. ¿Qué le ocurre a su curva de demanda?</td><td></td><td></td><td></td></tr></tbody></table>
+Para cada tarjeta, por parejas: **(a)** ¿afecta a la demanda del bien?, **(b)** ¿es un movimiento a lo largo de la curva o un desplazamiento?, **(c)** ¿en qué sentido?
+
+```descargas
+sda05-s03-tarjetas.pdf | Las cuatro tarjetas del rally | Con la hoja de respuestas y la coevaluación
+```
+
+```actividad
+id: sda05-s03-rally
+tipo: test
+preguntas:
+  - enunciado: 'Tarjeta 1. El precio de las entradas del Málaga CF baja un 20 % en la promoción de enero. ¿Qué ocurre?'
+    opciones:
+      - Un movimiento a lo largo de la curva de demanda de entradas
+      - Un desplazamiento de la curva de demanda a la derecha
+      - Un desplazamiento de la curva de oferta
+    correcta: 1
+    explicacion: Cambia el precio del propio bien. La curva no se mueve; aumenta la cantidad demandada.
+  - enunciado: 'Tarjeta 2. El aceite de oliva se dispara. ¿Qué le pasa a la demanda de aceite de girasol?'
+    opciones:
+      - Se desplaza a la derecha, porque son sustitutivos
+      - Se desplaza a la izquierda, porque son complementarios
+      - No cambia, porque el girasol no ha cambiado de precio
+    correcta: 1
+    explicacion: Si sube el precio de un sustitutivo, a cada precio se compra más del otro.
+  - enunciado: 'Tarjeta 3. Bajan las tarifas de datos móviles. ¿Qué le pasa a la demanda de plataformas de vídeo?'
+    opciones:
+      - Se desplaza a la izquierda
+      - Se desplaza a la derecha, porque son complementarios
+      - Hay un movimiento a lo largo de la curva
+    correcta: 2
+    explicacion: Datos y vídeo se usan juntos. Si uno se abarata, se demanda más del otro.
+  - enunciado: 'Tarjeta 4. Un vídeo viral pone de moda el mango de la Axarquía. ¿Qué le pasa a su curva de demanda?'
+    opciones:
+      - Se desplaza a la derecha por un cambio en los gustos
+      - Hay un movimiento hacia arriba a lo largo de la curva
+      - Se desplaza la oferta
+    correcta: 1
+    explicacion: Cambian los gustos, no el precio. A cada precio se quiere comprar más mango. Lo viviréis en la ronda 3 del Parqué.
+```
 
 ::: aviso Mínimo tres resueltas
 No hace falta resolver las cuatro. Hace falta resolver **bien** tres. Y ojo a la tarjeta 4: anticipa exactamente lo que vais a vivir en el Parqué de la sesión 6.
@@ -116,7 +154,7 @@ No hace falta resolver las cuatro. Hace falta resolver **bien** tres. Y ojo a la
 
 ### 1. Tres herramientas antes de empezar
 
-**El mercado como punto de encuentro.** Entre quienes demandan un bien y quienes lo ofrecen. Y un matiz que ya visteis ayer en Mercamálaga. Demandantes y oferentes **no siempre coinciden** con el consumidor y el productor finales. Un mayorista es a la vez demandante frente al agricultor y oferente frente a la frutería.
+**El mercado como punto de encuentro.** Entre quienes demandan un bien y quienes lo ofrecen. Y un matiz importante. Demandantes y oferentes **no siempre coinciden** con el consumidor y el productor finales. Un mayorista es a la vez demandante frente al agricultor y oferente frente a la frutería.
 
 **La competencia perfecta como modelo de referencia.** Muchos compradores y vendedores, ninguno con capacidad de fijar el precio por sí solo. Es un ideal teórico, pero sirve de punto de partida.
 
@@ -146,4 +184,23 @@ Esta es la distinción que más se pregunta y la que más errores provoca. Convi
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Demanda</b></td><td>Cantidad de un bien que los compradores están dispuestos a adquirir a cada precio.</td></tr><tr><td><b>Ley de la demanda</b></td><td>Relación inversa entre el precio de un bien y la cantidad demandada, ceteris paribus.</td></tr><tr><td><b>Ceteris paribus</b></td><td>Supuesto de mantener constante todo lo demás para aislar el efecto de una variable.</td></tr><tr><td><b>Bien normal</b></td><td>Aquel cuya demanda aumenta cuando aumenta la renta.</td></tr><tr><td><b>Bien inferior</b></td><td>Aquel cuya demanda disminuye cuando aumenta la renta.</td></tr><tr><td><b>Bienes sustitutivos</b></td><td>Los que cubren una misma necesidad y compiten entre sí.</td></tr><tr><td><b>Bienes complementarios</b></td><td>Los que se consumen conjuntamente.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Demanda</b></td><td>Cantidad de un bien que los compradores quieren y pueden comprar a cada precio, en un periodo.</td></tr>
+<tr><td><b>Tabla de demanda</b></td><td>Lista de las cantidades demandadas a distintos precios.</td></tr>
+<tr><td><b>Curva de demanda</b></td><td>Representación gráfica de la tabla: precio en el eje vertical y cantidad en el horizontal. Tiene pendiente negativa.</td></tr>
+<tr><td><b>Ley de la demanda</b></td><td>Cuanto mayor es el precio, menor es la cantidad demandada, si lo demás no cambia.</td></tr>
+<tr><td><b>Ceteris paribus</b></td><td>«Lo demás constante». Permite estudiar el efecto del precio aislándolo de todo lo demás.</td></tr>
+<tr><td><b>Movimiento a lo largo de la curva</b></td><td>Cambio en la cantidad demandada provocado por el precio del propio bien.</td></tr>
+<tr><td><b>Desplazamiento de la curva</b></td><td>Cambio de toda la curva provocado por otro factor: renta, gustos, precios de otros bienes, expectativas.</td></tr>
+<tr><td><b>Bien normal y bien inferior</b></td><td>Normal: se compra más si sube la renta. Inferior: se compra menos (marcas blancas, transporte en autobús frente a coche, según el caso).</td></tr>
+<tr><td><b>Bienes sustitutivos</b></td><td>Satisfacen la misma necesidad: aceite de oliva y de girasol. Si uno sube, se compra más del otro.</td></tr>
+<tr><td><b>Bienes complementarios</b></td><td>Se usan juntos: datos móviles y plataformas de vídeo. Si uno se abarata, se compra más del otro.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=NsToEAMP0nQ | ¿Qué es la demanda? Tabla, curva y ley de la demanda | Econosublime · 8:36
+https://www.youtube.com/watch?v=e1buI6IFJy8 | Factores que influyen en la demanda | Econosublime · 8:56
+https://www.youtube.com/watch?v=Z3mz5k3wnHc | Curva de demanda: movimientos y desplazamientos | Econosublime · 9:57
+```

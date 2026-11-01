@@ -2,7 +2,18 @@
 titulo: Sesión 4 · La oferta y el caso del oro líquido
 ---
 
+Hoy se cierra el enigma. Tenéis el modelo de la demanda; ahora llega el de la **oferta**. Y con los dos juntos, vais a poder juzgar vuestras propias hipótesis de la sesión 1 con **datos oficiales** encima de la mesa.
+
+El veredicto no lo va a dictar el profesorado: lo van a dictar las cifras.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda05-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda05-s04-solucionario.pdf | Solucionario de los dos gráficos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.2</td><td><b>Saberes básicos</b></td><td>B2</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual (con puesta en común en gran grupo)</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio)</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell + secuencia gráfica del caso del aceite con su explicación escrita</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -29,14 +40,6 @@ Después los cuatro factores que desplazan la curva: precio de los factores de p
 - Si el precio lo hubieran decidido los supermercados, ¿por qué lo bajaron después?
 - ¿Cuál de vuestras hipótesis resiste el contraste con los datos?
 
-::: aviso Material que debes preparar tú
-- **Datos oficiales de producción** de aceite de oliva español de las últimas campañas, mostrando las dos de cosecha mínima.
-- **Serie de precios en origen de POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural de la Junta de Andalucía. **Actualízalas** antes de impartir.
-- **Las hipótesis de la sesión 1**, conservadas en la pizarra o el mural digital. Sin ellas la sesión pierde su núcleo.
-- **Plantilla Cornell** y **plantilla de gráficos guiada** como medida de refuerzo.
-- Presentación con las series de datos proyectables.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de gráficos guiada está disponible como medida de refuerzo, lo que permite que quien tiene dificultad con la representación se concentre en el razonamiento económico sin quedar bloqueado en el trazado.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La secuencia del caso se narra con las cifras a la vista y se representa después gráficamente, de modo que la misma historia esté disponible en formato verbal, numérico y gráfico.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La consigna de explicar el caso “a alguien de tu familia que cree que la subida fue un capricho” convierte la tarea en una comunicación con destinatario real, lo que aumenta la implicación y obliga a traducir el modelo a lenguaje propio.</td></tr></tbody></table>
@@ -45,23 +48,17 @@ Después los cuatro factores que desplazan la curva: precio de los factores de p
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy se cierra el enigma. Tenéis el modelo de la demanda; ahora llega el de la **oferta**. Y con los dos juntos, vais a poder juzgar vuestras propias hipótesis de la sesión 1 con **datos oficiales** encima de la mesa.
-
-El veredicto no lo va a dictar el profesorado: lo van a dictar las cifras.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda5-s04-01.webp | Portada
-sda5-s04-02.webp | La ley de la oferta
-sda5-s04-03.webp | Los factores de la oferta
-sda5-s04-04.webp | La frase del mayorista
-sda5-s04-05.webp | El enigma, resuelto
-sda5-s04-06.webp | Veredicto sobre vuestras hipótesis
-sda5-s04-07.webp | Vuestra tarea
-sda5-s04-08.webp | La lección de fondo
+sda5-s04-01.webp | La oferta y el caso del oro líquido
+sda5-s04-02.webp | Ley de la oferta
+sda5-s04-03.webp | Cuatro factores (y el clima)
+sda5-s04-04.webp | Producción y precio del aceite
+sda5-s04-05.webp | Lo que pasó de verdad
+sda5-s04-06.webp | Si lo decidieron los supermercados, ¿por qué lo bajaron después…
+sda5-s04-07.webp | Dos gráficos y cinco líneas
+sda5-s04-08.webp | El veredicto
 ```
 
 ## La secuencia del oro líquido
@@ -80,11 +77,19 @@ Cuanto mayor es el precio de un bien, **mayor** es la cantidad que las empresas 
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué ocurrió</th></tr></thead><tbody><tr><td>1</td><td><b>Sequía</b>: dos campañas consecutivas de cosecha mínima en el olivar español.</td></tr><tr><td>2</td><td><b>Desplome de la cosecha</b>: hay mucho menos aceite disponible a cada precio.</td></tr><tr><td>3</td><td><b>Desplazamiento de la curva de oferta hacia la izquierda.</b></td></tr><tr><td>4</td><td><b>Precio récord</b>, agravado porque la demanda de aceite es <b>poco sensible</b> al precio: la gente lo sigue comprando.</td></tr><tr><td>5</td><td><b>Recuperación</b> de la cosecha → desplazamiento de vuelta → <b>caída</b> del precio.</td></tr></tbody></table>
 
+<table><thead><tr><th width="28%">Campaña</th><th width="38%">Producción de aceite en España</th><th width="34%">Precio en origen del virgen extra</th></tr></thead><tbody><tr><td>2021/22</td><td>Cerca de 1,5 millones de toneladas</td><td>En torno a 3,5 € por kilo</td></tr><tr><td>2022/23 (sequía)</td><td>Unas 666.000 toneladas</td><td>Sube con fuerza</td></tr><tr><td>2023/24 (sequía)</td><td>Unas 855.000 toneladas</td><td>Más de 9 € por kilo en enero de 2024</td></tr><tr><td>2024/25 (recuperación)</td><td>Cerca de 1,4 millones de toneladas</td><td>Hacia 4 € por kilo a comienzos de 2025</td></tr></tbody></table>
+
+Fuentes: Ministerio de Agricultura (Mesa sectorial del aceite y boletines de precios), POOLred y Cooperativas Agro-alimentarias. Las cifras de producción de la última campaña son provisionales.
+
 ::: aviso Y ahora juzgad vuestras hipótesis
 ¿Aparece el Gobierno en algún punto de la secuencia? Si lo decidieron los supermercados, ¿por qué lo bajaron después sin que nadie les obligara? La avaricia, si existe, es constante. ¿explica una subida **seguida de una bajada**? **El veredicto lo dictan los datos, no el profesorado.**
 :::
 
 ### Vuestra tarea
+
+```descargas
+sda05-s04-ficha-aceite.pdf | Ficha del oro líquido | Datos, dos cuadrículas para los gráficos y la explicación para la familia
+```
 
 1. Representad la historia completa en **dos gráficos** de oferta y demanda. El episodio de la subida y el de la bajada.
 2. Señalad en cada uno el **equilibrio inicial**, el **desplazamiento** y el **nuevo equilibrio**.
@@ -102,8 +107,8 @@ La razón la conocéis de la SdA 4, cuando estudiasteis producción, costes y be
 
 <table><thead><tr><th width="30%">Factor</th><th width="70%">Cómo funciona</th></tr></thead><tbody><tr><td><b>El precio de los factores de producción</b></td><td>Si sube el coste de la energía, de los fertilizantes o de la mano de obra, producir sale más caro y se ofrece menos a cada precio. La curva se desplaza a la izquierda.</td></tr><tr><td><b>La tecnología</b></td><td>Una mejora técnica permite producir más con los mismos recursos. La curva se desplaza a la derecha.</td></tr><tr><td><b>Los precios de otros bienes relacionados</b></td><td>Si otro cultivo alternativo se paga mucho mejor, parte de los recursos se desvían hacia él y se ofrece menos del primero.</td></tr><tr><td><b>Las expectativas</b></td><td>Si se espera que el precio suba pronto, puede retenerse producto hoy para venderlo después.</td></tr></tbody></table>
 
-::: nota Lo que os dijeron en Mercamálaga
-“**Si hay poco género, el precio se dispara solo**”. Esa frase, dicha con palabras de oficio, es exactamente lo que acabáis de modelizar. Un desplazamiento de la curva de oferta hacia la izquierda. La teoría no ha inventado nada. Le ha puesto nombre a algo que quien trabaja en el mercado sabe desde siempre.
+::: nota Lo que dice cualquier persona del mercado
+«**Si hay poco género, el precio se dispara solo**». Esa frase de oficio es exactamente lo que acabáis de modelizar: un desplazamiento de la curva de oferta hacia la izquierda. La teoría no ha inventado nada. Le ha puesto nombre a algo que quien trabaja en un mercado sabe desde siempre.
 :::
 
 ### 3. El caso del oro líquido: la secuencia completa
@@ -122,8 +127,26 @@ Los precios son **señales**, no caprichos. Leerlas con datos oficiales en lugar
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Oferta</b></td><td>Cantidad de un bien que las empresas están dispuestas a producir y vender a cada precio.</td></tr><tr><td><b>Ley de la oferta</b></td><td>Relación directa entre el precio de un bien y la cantidad ofrecida.</td></tr><tr><td><b>Precio en origen</b></td><td>El que percibe el productor, antes de la cadena de distribución.</td></tr><tr><td><b>POOLred</b></td><td>Sistema de información de precios en origen del aceite de oliva, de la Fundación del Olivar (Jaén).</td></tr><tr><td><b>Desplazamiento de la oferta</b></td><td>Cambio de toda la curva provocado por un factor distinto del precio del propio bien.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Oferta</b></td><td>Cantidad de un bien que los vendedores quieren y pueden vender a cada precio, en un periodo.</td></tr>
+<tr><td><b>Ley de la oferta</b></td><td>Cuanto mayor es el precio, mayor es la cantidad ofrecida. La curva tiene pendiente positiva.</td></tr>
+<tr><td><b>Curva de oferta</b></td><td>Representación gráfica de la tabla de oferta, con pendiente positiva.</td></tr>
+<tr><td><b>Desplazamiento de la oferta</b></td><td>Cambio de toda la curva por un factor distinto del precio: costes, tecnología, precios de otros bienes, expectativas o el clima.</td></tr>
+<tr><td><b>Shock de oferta</b></td><td>Cambio brusco e inesperado de la oferta. La sequía de 2022 a 2024 fue un shock de oferta negativo.</td></tr>
+<tr><td><b>Campaña</b></td><td>Año agrícola del aceite: va de octubre a septiembre. Se escribe 2023/24.</td></tr>
+<tr><td><b>Precio en origen</b></td><td>Lo que cobra la almazara o el agricultor. Lo recogen sistemas como POOLred, de Jaén.</td></tr>
+<tr><td><b>Demanda inelástica</b></td><td>La que cambia poco cuando cambia el precio. El aceite lo es, y por eso su precio subió tanto.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=-iuX-TKqRFI | ¿Qué es la oferta? Tabla, curva y ley de la oferta | Econosublime · 6:47
+https://www.youtube.com/watch?v=nkoeRUZbBCg | Factores que influyen en la oferta | Econosublime · 7:14
+https://www.youtube.com/watch?v=ylRL7hBmCoQ | Curva de oferta: movimientos y desplazamientos | Econosublime · 9:57
+https://www.youtube.com/watch?v=as2IXvLurWA | La sequía en Europa empuja al alza el precio del aceite | France 24 Español · 5:08
+```
 
 ## Cierre
 
-Cierra tu Cornell con el veredicto: **¿cuál de las hipótesis de la sesión 1 ha resistido el contraste con los datos, y por qué?** Y guarda tus dos gráficos. Son evidencia de portafolio y el modelo exacto que te va a pedir el bloque 2 de la prueba escrita, con otro producto.
+Cierra tu cuaderno con el veredicto: **¿cuál de las hipótesis de la sesión 1 ha resistido el contraste con los datos, y por qué?** Y guarda tus dos gráficos. Son evidencia de portafolio y el modelo exacto que te va a pedir el bloque 2 de la prueba escrita, con otro producto.
