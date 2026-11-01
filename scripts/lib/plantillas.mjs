@@ -1,5 +1,13 @@
 // Plantillas HTML. Todo el HTML de las páginas sale de aquí.
+import fs from 'node:fs';
+import crypto from 'node:crypto';
 import { esc } from './markdown.mjs';
+
+// Huella del CSS y del JS: cambia en cada publicación con cambios y obliga al navegador a descargarlos de nuevo.
+const huella = (f) => {
+  try { return crypto.createHash('sha1').update(fs.readFileSync(new URL(`../../src/assets/${f}`, import.meta.url))).digest('hex').slice(0, 8); } catch (e) { return '1'; }
+};
+const V = { css: huella('app.css'), js: huella('app.js'), scorm: huella('scorm.js') };
 
 const FUENTES = [];
 
@@ -37,10 +45,10 @@ function cabeza({ titulo, descripcion, base, extra = '' }) {
 ${descripcion ? `<meta name="description" content="${esc(descripcion)}">` : ''}
 <meta name="theme-color" content="#f5f3f1">
 ${FUENTES.map((f) => `<link rel="preload" href="${base}${f}" as="font" type="font/woff2" crossorigin>`).join('\n')}
-<link rel="stylesheet" href="${base}assets/app.css">
+<link rel="stylesheet" href="${base}assets/app.css?v=${V.css}">
 <link rel="icon" href="${base}assets/favicon.svg" type="image/svg+xml">
 <script>document.documentElement.classList.add('js');try{if(localStorage.getItem('eb:docente')==='1')document.documentElement.classList.add('modo-docente')}catch(e){}</script>
-<script defer src="${base}assets/app.js"></script>
+<script defer src="${base}assets/app.js?v=${V.js}"></script>
 ${extra}
 </head>`;
 }
@@ -224,7 +232,7 @@ export function plantillaScormInicio(unidad) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SdA ${unidad.n} · ${esc(unidad.titulo)}</title>
 <style>html,body{margin:0;height:100%;background:#FDF3EC}iframe{display:block;border:0;width:100%;height:100%}</style>
-<script src="assets/scorm.js"></script>
+<script src="assets/scorm.js?v=${V.scorm}"></script>
 </head>
 <body>
 <iframe id="marco" title="SdA ${unidad.n} · ${esc(unidad.titulo)}" src="about:blank" allow="fullscreen"></iframe>
