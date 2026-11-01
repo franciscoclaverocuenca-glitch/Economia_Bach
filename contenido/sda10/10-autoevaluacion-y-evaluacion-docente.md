@@ -6,6 +6,10 @@ titulo: Autoevaluación y evaluación docente
 
 ### Autoevaluación de cierre
 
+```descargas
+sda10-s10-autoevaluacion.pdf | Ficha de autoevaluación | Con tu objetivo financiero de la sesión 1
+```
+
 <table><thead><tr><th></th><th>Qué se te pide</th></tr></thead><tbody><tr><td>1</td><td>Sitúate en los niveles de las rúbricas de los criterios <b>4.1, 4.2 y 4.3</b>, justificando cada posición con una <b>evidencia concreta</b> de la unidad.</td></tr><tr><td>2</td><td>Propón un aspecto concreto de mejora. Concreto: “estudiar más” no vale.</td></tr><tr><td>3</td><td>Y lo más importante: recupera el <b>objetivo financiero</b> que escribiste en la sesión 1 y conviértelo en un <b>compromiso real</b>. ¿Qué vas a hacer de verdad a partir de mañana?</td></tr></tbody></table>
 
 ::: nota El compromiso final no es un ejercicio

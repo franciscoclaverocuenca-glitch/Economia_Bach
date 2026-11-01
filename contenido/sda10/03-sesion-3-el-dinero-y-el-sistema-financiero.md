@@ -2,7 +2,18 @@
 titulo: Sesión 3 · El dinero y el sistema financiero
 ---
 
+Pregunta sencilla y con respuesta incómoda: **¿dónde está el dinero de tu cuenta?**
+
+No está en una caja fuerte con tu nombre. Hoy vas a entender qué es el dinero de verdad, cómo se crea (que no es imprimiéndolo) y para qué sirve exactamente el sistema financiero.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s03-tarjetas-rally.pdf | Tarjetas del rally y solución | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1</td><td><b>Saberes básicos</b></td><td>C5, A4</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Cuartetos</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y de coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell y respuestas del rally · OD: observación docente · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -29,13 +40,6 @@ Menciona brevemente el papel supervisor del Banco de España y del BCE, pero **n
 - ¿Por qué el dinero fiduciario vale algo si no está respaldado por oro?
 - ¿Qué función del dinero cumple mal cuando hay inflación alta?
 
-::: aviso Material que debes preparar tú
-- **Plantilla Cornell** impresa o digital, una por alumno/a.
-- **6-8 tarjetas de reto “¿quién es quién en el sistema financiero?”** repartidas por el aula, con situaciones cotidianas: una familia deposita sus ahorros, una empresa emite acciones, alguien contrata un seguro de hogar, un banco concede una hipoteca, una persona compra participaciones de un fondo, el Estado emite deuda pública.
-- **Presentación de conceptos** y espacio en la pizarra para el ejemplo numérico de la reserva fraccionaria.
-- Espacio de aula que permita moverse: el rally requiere que se levanten.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (ideas clave, notas y resumen), que es un andamiaje directo de la autorregulación (descriptor CPSAA5).</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -48,37 +52,57 @@ El rally implica movimiento y conversación simultánea de varias parejas, lo qu
 El papel supervisor del Banco de España y del BCE se menciona aquí solo de pasada. Su desarrollo completo corresponde a la SdA 11. Conviene decirlo en voz alta al alumnado para que perciba la coherencia entre unidades.
 :::
 
-## Para empezar
-
-Pregunta sencilla y con respuesta incómoda: **¿dónde está el dinero de tu cuenta?**
-
-No está en una caja fuerte con tu nombre. Hoy vas a entender qué es el dinero de verdad, cómo se crea (que no es imprimiéndolo) y para qué sirve exactamente el sistema financiero.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s03-01.webp | Portada
-sda10-s03-02.webp | Las tres funciones del dinero
-sda10-s03-03.webp | Las formas del dinero
-sda10-s03-04.webp | La creación del dinero
-sda10-s03-05.webp | El mapa del sistema
-sda10-s03-06.webp | El rally
-sda10-s03-07.webp | Las tarjetas
-sda10-s03-08.webp | Síntesis
+sda10-s03-01.webp | El dinero y el sistema financiero
+sda10-s03-02.webp | Tres funciones
+sda10-s03-03.webp | El dinero bancario
+sda10-s03-04.webp | Del ahorro a la financiación
+sda10-s03-05.webp | ¿Quién es quién?
+sda10-s03-06.webp | «Un banco» no es una respuesta.
+sda10-s03-07.webp | El precio del dinero se llama tipo de interés
 ```
 
 ## Rally · ¿Quién es quién en el sistema financiero?
 
 ### Estructura 1-2-4
 
-<table><thead><tr><th width="16%">Fase</th><th width="68%">Qué haces</th><th width="16%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Individual</b></td><td>Recorres las tarjetas repartidas por el aula y anotas en tu Cornell qué agente e institución interviene en cada situación.</td><td>5 min</td></tr><tr><td><b>2 · En parejas</b></td><td>Contrastáis y justificáis vuestras respuestas usando la <b>terminología exacta</b> de los apuntes. No vale “el banco”: hay que decir qué papel juega.</td><td>15 min</td></tr><tr><td><b>3 · En cuartetos</b></td><td>Consensuáis la respuesta de las tarjetas que más debate han generado, y dos portavoces exponen ante la clase.</td><td>12 min</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Fase</th><th width="68%">Qué haces</th><th width="16%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Individual</b></td><td>Recorres las tarjetas repartidas por el aula y anotas en tu hoja qué agente e institución interviene en cada situación.</td><td>5 min</td></tr><tr><td><b>2 · En parejas</b></td><td>Contrastáis y justificáis vuestras respuestas usando la <b>terminología exacta</b> de los apuntes. No vale “el banco”: hay que decir qué papel juega.</td><td>15 min</td></tr><tr><td><b>3 · En cuartetos</b></td><td>Consensuáis la respuesta de las tarjetas que más debate han generado, y dos portavoces exponen ante la clase.</td><td>12 min</td></tr></tbody></table>
 
 ### Las situaciones
 
-<table><thead><tr><th width="54%">Situación</th><th width="46%">Agente e institución que interviene</th></tr></thead><tbody><tr><td>Una familia deposita sus ahorros en una cuenta</td><td></td></tr><tr><td>Una empresa emite acciones para financiarse</td><td></td></tr><tr><td>Alguien contrata un seguro de hogar</td><td></td></tr><tr><td>Un banco concede una hipoteca</td><td></td></tr><tr><td>Una persona compra participaciones de un fondo de inversión</td><td></td></tr><tr><td>El Estado emite deuda pública para financiarse</td><td></td></tr></tbody></table>
+```descargas
+sda10-s03-hoja-rally.pdf | Hoja del rally | Las situaciones, el agente y la institución
+```
+
+```actividad
+id: sda10-s03-rally
+tipo: clasificar
+instrucciones: ¿Quién interviene en cada situación?
+categorias:
+  - nombre: Intermediario financiero bancario
+    elementos:
+      - texto: Una familia deposita sus ahorros en una cuenta
+        explicacion: El banco capta depósitos del público y con ellos concede crédito.
+      - texto: Un banco concede una hipoteca
+        explicacion: Presta dinero a largo plazo con la vivienda como garantía.
+  - nombre: Mercado de valores
+    elementos:
+      - texto: Una empresa emite acciones para financiarse
+        explicacion: Vende partes de su propiedad a inversores en el mercado de valores, supervisado por la CNMV.
+      - texto: El Estado emite deuda pública para financiarse
+        explicacion: Vende letras, bonos y obligaciones del Tesoro a inversores. Es renta fija.
+  - nombre: Intermediario no bancario
+    elementos:
+      - texto: Alguien contrata un seguro de hogar
+        explicacion: Una aseguradora cobra una prima a cambio de cubrir un riesgo.
+      - texto: Una persona compra participaciones de un fondo de inversión
+        explicacion: Una gestora reúne el dinero de muchas personas y lo invierte en varios activos.
+```
 
 ::: aviso La exigencia de la fase 2
-Usa la terminología exacta. “Un banco” no es una respuesta. “un **intermediario financiero** que capta depósitos del público y concede crédito” sí lo es. Esa precisión es lo que se evalúa en el portafolio.
+Usa la terminología exacta. “Un banco” no es una respuesta. “un **intermediario financiero** que capta depósitos del público y concede crédito” sí lo es. Esa precisión es la que marca la diferencia.
 :::
 
 ## Apuntes de la sesión
@@ -114,8 +138,25 @@ El sistema financiero tiene **una sola función**: poner en contacto a quien tie
 
 <table><thead><tr><th width="24%">Pieza</th><th width="42%">Qué es</th><th width="34%">Ejemplos</th></tr></thead><tbody><tr><td><b>Intermediarios financieros</b></td><td>Recogen el dinero de quien ahorra y lo canalizan hacia quien lo necesita, asumiendo el riesgo intermedio</td><td>Bancos y cajas, aseguradoras, fondos de inversión</td></tr><tr><td><b>Mercados financieros</b></td><td>El lugar donde se compran y venden activos, y donde se pone precio al dinero y al riesgo</td><td>Bolsa de valores, mercado de deuda</td></tr><tr><td><b>Supervisores</b></td><td>Vigilan que el sistema sea solvente y que se cumplan las reglas</td><td>Banco de España y BCE (entidades de crédito), CNMV (mercados de valores)</td></tr></tbody></table>
 
-El papel del Banco de España y del BCE se estudia a fondo en la SdA 11. Aquí basta con saber que existen y para qué.
+El papel del Banco de España y del BCE se estudia a fondo en la próxima unidad. Aquí basta con saber que existen y para qué.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Dinero fiduciario</b></td><td>Dinero sin valor intrínseco que vale por la confianza y el respaldo de una autoridad.</td></tr><tr><td><b>Dinero bancario</b></td><td>Depósitos anotados en cuentas bancarias; constituye la mayor parte del dinero en circulación.</td></tr><tr><td><b>Reserva fraccionaria</b></td><td>Obligación de los bancos de mantener solo una fracción de los depósitos, prestando el resto.</td></tr><tr><td><b>Intermediario financiero</b></td><td>Entidad que canaliza el ahorro hacia la financiación asumiendo el riesgo intermedio.</td></tr><tr><td><b>Mercado financiero</b></td><td>Espacio en el que se compran y venden activos financieros.</td></tr><tr><td><b>CNMV</b></td><td>Comisión Nacional del Mercado de Valores. Supervisor de los mercados de valores españoles.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Dinero</b></td><td>Activo que todo el mundo acepta para pagar. Sirve como medio de cambio, unidad de cuenta y depósito de valor.</td></tr>
+<tr><td><b>Dinero bancario</b></td><td>El que existe como anotación en las cuentas de los bancos. Es la mayor parte del dinero.</td></tr>
+<tr><td><b>Creación de dinero</b></td><td>Proceso por el que los bancos, al conceder préstamos, crean nuevos depósitos.</td></tr>
+<tr><td><b>Intermediario financiero</b></td><td>Entidad que capta el ahorro de unos y lo presta o invierte para otros.</td></tr>
+<tr><td><b>Acción</b></td><td>Parte de la propiedad de una empresa. Da derecho a dividendos y a votar en la junta.</td></tr>
+<tr><td><b>Deuda pública</b></td><td>Préstamos que el Estado pide a inversores emitiendo letras, bonos y obligaciones.</td></tr>
+<tr><td><b>Fondo de inversión</b></td><td>Patrimonio de muchas personas que una gestora invierte en varios activos.</td></tr>
+<tr><td><b>Seguro</b></td><td>Contrato por el que se paga una prima a cambio de cubrir un riesgo.</td></tr>
+<tr><td><b>Coeficiente de caja</b></td><td>Parte de los depósitos que los bancos deben mantener sin prestar.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=n6xcNrSpNzE | Intermediarios financieros bancarios y no bancarios | Econosublime · 7:57
+https://www.youtube.com/watch?v=C1_VOBSthiY | El proceso de creación de dinero | Econosublime · 13:43
+```

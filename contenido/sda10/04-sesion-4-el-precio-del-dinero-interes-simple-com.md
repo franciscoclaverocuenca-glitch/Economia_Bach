@@ -2,7 +2,20 @@
 titulo: 'Sesión 4 · El precio del dinero: interés simple, compuesto y TAE'
 ---
 
+Elige, sin pensarlo mucho:
+
+“¿Prefieres 100 € hoy o 110 € dentro de un año?”
+
+No hay respuesta correcta todavía. Pero al final de la sesión vas a saber exactamente cómo decidirlo, y también cuánto te cuesta de verdad un préstamo “sin intereses”.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s04-solucionario.pdf | Solucionario de los tres bloques | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico) · Sesión interdisciplinar con MACS I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.2</td><td><b>Saberes básicos</b></td><td>A4</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas (aula de informática o dispositivos)</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio; coordinable con MACS I</td></tr><tr><td><b>Instrumentos</b></td><td>P: hoja de cálculo y problemas resueltos · OD: observación del razonamiento</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,14 +40,6 @@ titulo: 'Sesión 4 · El precio del dinero: interés simple, compuesto y TAE'
 - ¿Puede un préstamo con TIN más alto ser más barato que otro con TIN más bajo?
 - Si empezar pronto multiplica el resultado, ¿qué efecto tiene a treinta años empezar diez años más tarde?
 
-::: aviso Material que debes preparar tú
-- **Plantilla de hoja de cálculo** preparada, y aula de informática o dispositivos suficientes para trabajar por parejas.
-- **Datos reales de dos productos financieros**: una cuenta de ahorro y dos préstamos con distinto TIN y distintas comisiones. Consúltalos en comparadores o en la web de las entidades y **actualízalos**: con el euríbor a 12 meses en torno al 2,8 % en julio de 2026, las ofertas cambian rápido.
-- **Problema resuelto** proyectable, paso a paso, para el modelado.
-- **Plantilla Cornell** y calculadora.
-- **Coordinación previa con el departamento de Matemáticas**: esta es la sesión de encuentro con MACS I y la hoja de cálculo del alumnado puede recogerse allí como evidencia.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El interés compuesto se presenta en tres formatos equivalentes (tabla numérica año a año, gráfico de la curva y fórmula), y se recorre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la visual.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El taller se organiza en tres bloques graduados de dificultad creciente, de modo que todo el alumnado complete al menos el primero y quien avance con soltura llegue a la tabla de amortización.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,42 +52,48 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 La coordinación con MACS I (competencia MACS.CE1, criterio MACS.1.1, saber MACS.1.A.4) presupone que el centro oferta la materia y que hay alumnado matriculado en común. Si no se confirma, la sesión se imparte íntegramente desde Economía manteniendo el mismo contenido de matemática financiera.
 :::
 
-## Para empezar
-
-Elige, sin pensarlo mucho:
-
-“¿Prefieres 100 € hoy o 110 € dentro de un año?”
-
-No hay respuesta correcta todavía. Pero al final de la sesión vas a saber exactamente cómo decidirlo, y también cuánto te cuesta de verdad un préstamo “sin intereses”.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s04-01.webp | Portada
-sda10-s04-02.webp | La pregunta
-sda10-s04-03.webp | El valor temporal del dinero
-sda10-s04-04.webp | Simple frente a compuesto
-sda10-s04-05.webp | La bola de nieve
-sda10-s04-06.webp | TIN y TAE
-sda10-s04-07.webp | El taller
-sda10-s04-08.webp | Interdisciplinariedad
-sda10-s04-09.webp | El interés compuesto y la autonomía
-sda10-s04-10.webp | Conexión con el reto
+sda10-s04-01.webp | El precio del dinero
+sda10-s04-02.webp | Simple y compuesto
+sda10-s04-03.webp | 1.000 € al 5 % durante 30 años
+sda10-s04-04.webp | TIN y TAE
+sda10-s04-05.webp | Tres bloques
+sda10-s04-06.webp | ¿Cuánto crece tu ahorro?
+sda10-s04-07.webp | ¿Qué producto le conviene a vuestro personaje?
 ```
 
 ## Taller · Hoja de cálculo
+
+### Calienta antes
+
+```actividad
+id: sda10-s04-interes
+tipo: rellenar
+instrucciones: Calcula y redondea a dos decimales. Escribe solo el número, con coma decimal, sin el símbolo €.
+texto: |
+  Depositas 1.000 € al 5 % anual durante 3 años. Con **interés simple** tendrás [1150|1.150|1150,00|1.150,00] €.
+  Con **interés compuesto**, si los intereses se quedan en la cuenta, tendrás [1157,63|1.157,63] €.
+  La diferencia, [7,63] €, son los intereses que generan los intereses.
+explicacion: 'Simple: 1.000 + 3 × 50 = 1.150 €. Compuesto: 1.000 × 1,05³ = 1.000 × 1,157625 = 1.157,63 €. A tres años la diferencia es pequeña; a treinta años es enorme: 1.000 × 1,05³⁰ ≈ 4.321,94 € frente a 2.500 € con interés simple.'
+```
+
+```descargas
+sda10-s04-hoja-calculo.pdf | Guía de la hoja de cálculo | Los tres bloques, con las fórmulas que necesitáis
+```
 
 ### Tres bloques graduados
 
 <table><thead><tr><th width="5%"></th><th width="52%">Tarea</th><th width="43%">Qué se comprueba</th></tr></thead><tbody><tr><td>1</td><td>Calcula y grafica cuánto llega a valer un ahorro de <b>1.000 €</b>, y también de <b>30 € al mes</b>, a los 5, 10 y 30 años con interés compuesto.</td><td>El efecto de empezar antes. Compara qué pasa si empiezas diez años más tarde.</td></tr><tr><td>2</td><td>Compara <b>dos préstamos reales</b> con distinto TIN y distintas comisiones calculando su TAE, y decide de forma justificada cuál es más barato.</td><td>Que la TAE, y no el TIN, es la cifra comparable.</td></tr><tr><td>3</td><td>Construye una <b>tabla de amortización</b> sencilla de un préstamo pequeño: cuota, parte de intereses, parte de capital y capital pendiente.</td><td>Que al principio pagas sobre todo intereses, no capital.</td></tr></tbody></table>
 
 ::: aviso Y una última consigna
-Para cada tarea, anotad **qué herramienta ha sido más eficiente**: calculadora u hoja de cálculo, y por qué. Esa valoración es exactamente lo que evalúa el criterio de Matemáticas (MACS.1.1), y no es un añadido decorativo.
+Para cada tarea, anotad **qué herramienta ha sido más eficiente**: calculadora u hoja de cálculo, y por qué. Saber elegir la herramienta adecuada también es saber resolver el problema, y es lo que trabajáis en Matemáticas Aplicadas.
 :::
 
 ### La conexión con vuestro reto
 
-Antes de cerrar el Cornell, responded: **¿qué producto de ahorro o de financiación le conviene al personaje de vuestro plan, y por qué?** Anotadlo: en el Plan Financiero (sesiones 8 y 9) tendréis que justificarlo con números.
+Antes de terminar, responded: **¿qué producto de ahorro o de financiación le conviene al personaje de vuestro plan, y por qué?** Anotadlo: en el Plan Financiero (sesiones 8 y 9) tendréis que justificarlo con números.
 
 ## Laboratorio · El poder del interés compuesto
 
@@ -142,4 +153,22 @@ Si el interés compuesto premia sobre todo al tiempo, **empezar más tarde o no 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Valor temporal del dinero</b></td><td>Principio según el cual una cantidad disponible hoy vale más que la misma cantidad en el futuro.</td></tr><tr><td><b>Interés simple</b></td><td>Interés calculado siempre sobre el capital inicial.</td></tr><tr><td><b>Interés compuesto</b></td><td>Interés que se acumula al capital y genera a su vez nuevos intereses.</td></tr><tr><td><b>TIN</b></td><td>Tipo de interés nominal. Porcentaje aplicado, sin comisiones ni frecuencia de pago.</td></tr><tr><td><b>TAE</b></td><td>Tasa anual equivalente. Coste o rendimiento real, incluidas comisiones y frecuencia. La única cifra comparable.</td></tr><tr><td><b>Tabla de amortización</b></td><td>Detalle cuota a cuota de cuánto se paga de intereses y cuánto de capital.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Tipo de interés</b></td><td>Precio del dinero: lo que se paga por pedirlo prestado o se cobra por prestarlo, en porcentaje anual.</td></tr>
+<tr><td><b>Interés simple</b></td><td>El que se calcula siempre sobre el capital inicial.</td></tr>
+<tr><td><b>Interés compuesto</b></td><td>El que se calcula sobre el capital más los intereses acumulados: los intereses generan intereses.</td></tr>
+<tr><td><b>TIN</b></td><td>Tipo de interés nominal. Solo el interés pactado, sin comisiones.</td></tr>
+<tr><td><b>TAE</b></td><td>Tasa anual equivalente. Incluye intereses, comisiones y frecuencia de pago. Es la que permite comparar productos.</td></tr>
+<tr><td><b>Comisión</b></td><td>Cantidad que cobra la entidad por un servicio: apertura, mantenimiento, amortización anticipada.</td></tr>
+<tr><td><b>Cuota</b></td><td>Pago periódico de un préstamo, que incluye intereses y devolución del capital.</td></tr>
+<tr><td><b>Tabla de amortización</b></td><td>Calendario de cuotas que muestra cuánto de cada una es interés y cuánto capital devuelto.</td></tr>
+<tr><td><b>Inflación</b></td><td>Subida continuada de los precios, que hace que el dinero compre menos.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=6rrTfH9NYRg | Qué es el tipo de interés | Econosublime · 8:33
+https://www.youtube.com/watch?v=Bn0cOTzXUD8 | Interés simple frente a interés compuesto | CLEFI · 6:03
+https://www.youtube.com/watch?v=ncn5aHkZEWc | ¿Qué son el TIN y la TAE? | Ecoduca · 2:39
+```

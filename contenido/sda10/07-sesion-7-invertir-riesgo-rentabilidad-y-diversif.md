@@ -2,7 +2,18 @@
 titulo: 'Sesión 7 · Invertir: riesgo, rentabilidad y diversificación'
 ---
 
+En la sesión 1 quedó una pregunta en el mural: **¿puede existir una inversión con rentabilidad alta y garantizada a la vez?**
+
+Hoy la respondemos. Y la respuesta es no, con una razón que entenderás en cinco minutos y que te va a servir para detectar prácticamente cualquier estafa financiera.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s07-solucionario.pdf | Carteras orientativas por perfil | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.2</td><td><b>Saberes básicos</b></td><td>A4, C5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: cartera asignada y justificada por el equipo · OD: observación del razonamiento · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: 'Sesión 7 · Invertir: riesgo, rentabilidad y diversificación'
 - ¿Qué pasaría con cada perfil si el mercado cayera un 30 % el año que viene?
 - ¿Por qué el fondo de emergencia no puede estar en renta variable?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas de clases de activos** (depósitos, renta fija, renta variable, fondos y ETF, inmuebles) y **tarjetas de los tres perfiles de riesgo**.
-- **Gráficos de rentabilidad-riesgo** proyectables.
-- **Dado o app de aleatoriedad** para la demostración de la diversificación.
-- **Plantilla de asignación de cartera** con porcentajes por clase de activo, una por grupo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La diversificación se demuestra primero de forma manipulativa y aleatoria (con el dado) antes de formalizarse, de modo que el concepto estadístico llegue después de una experiencia concreta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El juego de perfiles obliga a decidir para otra persona, lo que separa la decisión del deseo propio y facilita el razonamiento sobre tolerancia al riesgo sin implicación emocional.</td></tr></tbody></table>
@@ -42,23 +46,15 @@ titulo: 'Sesión 7 · Invertir: riesgo, rentabilidad y diversificación'
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-En la sesión 1 quedó una pregunta en el mural: **¿puede existir una inversión con rentabilidad alta y garantizada a la vez?**
-
-Hoy la respondemos. Y la respuesta es no, con una razón que entenderás en cinco minutos y que te va a servir para detectar prácticamente cualquier estafa financiera.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s07-01.webp | Portada
-sda10-s07-02.webp | El principio central
-sda10-s07-03.webp | Las clases de activos
-sda10-s07-04.webp | Tres cosas que hay que mirar
-sda10-s07-05.webp | La diversificación
-sda10-s07-06.webp | Los tres perfiles
-sda10-s07-07.webp | La conexión clave
-sda10-s07-08.webp | Referente: Carmen Reinhart
+sda10-s07-01.webp | Invertir
+sda10-s07-02.webp | No hay rentabilidad sin riesgo.
+sda10-s07-03.webp | Riesgo, rentabilidad y liquidez
+sda10-s07-04.webp | Diversificar
+sda10-s07-05.webp | Una cartera para cada uno
+sda10-s07-06.webp | Perfil, horizonte y riesgo, conectados
 ```
 
 ## Juego cooperativo · Una cartera para cada perfil
@@ -75,9 +71,43 @@ A mayor rentabilidad esperada, mayor riesgo. Si alguien te ofrece las dos cosas 
 
 ### Los tres perfiles
 
-<table><thead><tr><th width="9%">Perfil</th><th width="42%">Situación</th><th width="15%">Horizonte</th><th width="34%">Vuestra cartera (% por activo)</th></tr></thead><tbody><tr><td><b>A</b></td><td>Persona joven que invierte pensando en dentro de 30 años</td><td>Muy largo</td><td></td></tr><tr><td><b>B</b></td><td>Familia que ahorra para la entrada de un piso en 3 años</td><td>Corto</td><td></td></tr><tr><td><b>C</b></td><td>Persona jubilada que necesita liquidez y seguridad</td><td>Inmediato</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="10%">Perfil</th><th width="60%">Situación</th><th width="30%">Horizonte</th></tr></thead><tbody><tr><td><b>A</b></td><td>Persona joven que invierte pensando en dentro de 30 años</td><td>Muy largo</td></tr><tr><td><b>B</b></td><td>Familia que ahorra para la entrada de un piso en 3 años</td><td>Corto</td></tr><tr><td><b>C</b></td><td>Persona jubilada que necesita liquidez y seguridad</td><td>Inmediato</td></tr></tbody></table>
 
-::: nota Lo que se evalúa es la conexión perfil → horizonte → riesgo
+```descargas
+sda10-s07-carteras.pdf | Hoja de las carteras | Porcentaje por activo y por qué encaja con cada perfil
+```
+
+```actividad
+id: sda10-s07-perfiles
+tipo: test
+titulo: ¿Qué cartera encaja?
+puntua: false
+instrucciones: Elige la cartera más razonable para cada perfil y lee la explicación.
+preguntas:
+- enunciado: 'Perfil A: joven, invierte a 30 años.'
+  opciones:
+    - 100 % en depósitos
+    - Mayoría en fondos indexados de renta variable diversificados, algo de renta fija
+    - Todo en una criptomoneda
+  correcta: 2
+  explicacion: Con un horizonte tan largo hay tiempo para recuperarse de las caídas y aprovechar la mayor rentabilidad esperada de la renta variable, siempre diversificada.
+- enunciado: 'Perfil B: la entrada de un piso dentro de 3 años.'
+  opciones:
+    - Sobre todo depósitos y renta fija a corto plazo
+    - Todo en acciones de una sola empresa
+    - Todo en renta variable global
+  correcta: 1
+  explicacion: Si el dinero hace falta en tres años, una caída de la Bolsa justo antes sería un desastre. Prima la seguridad.
+- enunciado: 'Perfil C: jubilada que necesita liquidez y seguridad.'
+  opciones:
+    - Cuenta remunerada y depósitos, con una parte pequeña en renta fija
+    - Renta variable de países emergentes
+    - Un fondo de criptomonedas
+  correcta: 1
+  explicacion: Necesita poder disponer del dinero y no puede permitirse grandes pérdidas.
+```
+
+::: nota Lo importante es la conexión perfil → horizonte → riesgo
 No basta con proponer una cartera. Hay que explicar **por qué encaja con esa persona**. Horizonte largo permite asumir más riesgo, porque hay tiempo de recuperarse de una caída. Horizonte corto obliga a ser conservador. Y necesitar liquidez lo cambia todo.
 :::
 
@@ -128,4 +158,21 @@ Sus datos son la mejor vacuna contra el **FOMO**, el miedo a quedarse fuera. Ret
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Binomio rentabilidad-riesgo</b></td><td>Relación según la cual mayor rentabilidad esperada implica mayor riesgo.</td></tr><tr><td><b>Renta fija</b></td><td>Activos que representan un préstamo a un emisor a cambio de un interés (bonos).</td></tr><tr><td><b>Renta variable</b></td><td>Activos que representan una parte de la propiedad de una empresa (acciones).</td></tr><tr><td><b>ETF</b></td><td>Fondo cotizado que replica un índice y permite diversificar con poco dinero.</td></tr><tr><td><b>Diversificación</b></td><td>Reparto de la inversión entre varios activos para reducir el riesgo del conjunto.</td></tr><tr><td><b>Perfil de riesgo</b></td><td>Capacidad y disposición de una persona para asumir pérdidas potenciales.</td></tr><tr><td><b>FOMO</b></td><td>Miedo a quedarse fuera. Impulso a invertir por ver que otros ganan.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Rentabilidad</b></td><td>Ganancia de una inversión en porcentaje de lo invertido.</td></tr>
+<tr><td><b>Riesgo</b></td><td>Posibilidad de perder parte de lo invertido o de que la rentabilidad sea menor de lo esperado.</td></tr>
+<tr><td><b>Liquidez</b></td><td>Facilidad para convertir una inversión en dinero sin perder valor.</td></tr>
+<tr><td><b>Renta fija</b></td><td>Préstamo a un Estado o empresa a cambio de un interés conocido de antemano.</td></tr>
+<tr><td><b>Renta variable</b></td><td>Acciones de empresas: su valor y sus dividendos cambian.</td></tr>
+<tr><td><b>Fondo indexado y ETF</b></td><td>Fondos que copian un índice, como el IBEX 35, con comisiones bajas.</td></tr>
+<tr><td><b>Diversificación</b></td><td>Repartir el dinero entre muchos activos distintos para no depender de uno solo.</td></tr>
+<tr><td><b>Horizonte temporal</b></td><td>Tiempo que se puede mantener una inversión sin necesitar el dinero.</td></tr>
+<tr><td><b>Perfil de riesgo</b></td><td>Cuánto riesgo puede y quiere asumir una persona según su situación.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=SuGPdZXgIPw | Productos de inversión: características y tipos | Econosublime · 9:59
+https://www.youtube.com/watch?v=3UHf7TEUmp4 | ¿Qué es la diversificación? | Economipedia · 1:05
+```

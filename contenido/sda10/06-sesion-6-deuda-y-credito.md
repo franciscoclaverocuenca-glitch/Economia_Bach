@@ -2,7 +2,20 @@
 titulo: Sesión 6 · Deuda y crédito
 ---
 
+Un mito para empezar:
+
+“Endeudarse siempre es malo”
+
+¿Verdad o mito? Ocho minutos de debate antes de dar ninguna respuesta. Al final de la sesión verás que la pregunta está mal formulada, y sabrás cuál es la pregunta correcta.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s06-solucionario.pdf | Cálculos del caso y de la revolving | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.2 + 4.3</td><td><b>Saberes básicos</b></td><td>A4</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 (estructura Puzzle de Aronson)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de experto y caso resuelto del grupo · OD: observación del trabajo cooperativo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +40,6 @@ Cierra con Soledad Núñez, conectando la gestión de deuda personal con la gest
 - ¿Alquilar o comprar en Málaga? ¿De qué depende vuestra respuesta?
 - ¿Qué porcentaje de los ingresos consideráis un límite razonable para la cuota de una hipoteca?
 
-::: aviso Material que debes preparar tú
-- **Cuatro fichas de experto**: préstamo personal, hipoteca, tarjeta revolving y compra a plazos / “compra ahora, paga después”. Una copia por persona experta.
-- **Datos reales aproximados de alquiler y compra de vivienda en la ciudad de Málaga**: precio medio de alquiler, precio medio de compra, entrada necesaria y cuota estimada. **Actualízalos**: es el dato más sensible de la unidad.
-- **TAE reales** de un préstamo personal y de una tarjeta revolving, para el contraste. Consúltalas en comparadores o en las condiciones publicadas por las entidades.
-- Calculadora u hoja de cálculo por grupo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El Puzzle de Aronson obliga a reformular el contenido con palabras propias para enseñarlo, lo que es una de las estrategias más eficaces de consolidación; cada ficha de experto incluye un ejemplo numérico resuelto además de la explicación.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La interdependencia positiva del puzzle, cada persona es la única fuente de su parte, sostiene la implicación de quien tiende a delegar en el grupo.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -46,25 +52,16 @@ La fase de expertos y la de origen implican conversación simultánea de todos l
 Los datos de vivienda de Málaga son el dato más volátil de toda la unidad y el que sostiene el caso estrella. Verifícalos con IECA, INE o portales inmobiliarios antes de impartir la sesión.
 :::
 
-## Para empezar
-
-Un mito para empezar:
-
-“Endeudarse siempre es malo”
-
-¿Verdad o mito? Ocho minutos de debate antes de dar ninguna respuesta. Al final de la sesión verás que la pregunta está mal formulada, y sabrás cuál es la pregunta correcta.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s06-01.webp | Portada
-sda10-s06-02.webp | El mito
-sda10-s06-03.webp | Deuda que tiene sentido y deuda peligrosa
-sda10-s06-04.webp | Puzzle de Aronson
-sda10-s06-05.webp | Los cuatro expertos
-sda10-s06-06.webp | La trampa de la revolving
-sda10-s06-07.webp | El caso estrella
-sda10-s06-08.webp | Referente: Soledad Núñez
+sda10-s06-01.webp | Deuda y crédito
+sda10-s06-02.webp | Deuda con sentido y deuda peligrosa
+sda10-s06-03.webp | Cuatro formas de deuda
+sda10-s06-04.webp | Un piso de 80 m² en Málaga
+sda10-s06-05.webp | Euríbor
+sda10-s06-06.webp | 1.000 € pagando 30 € al mes
+sda10-s06-07.webp | El criterio no es la palabra «deuda»
 ```
 
 ## Puzzle de Aronson · Cuatro formas de deuda
@@ -81,6 +78,10 @@ Son dos cosas. Su **coste** (la TAE que aprendiste en la sesión 4) y su relaci�
 
 <table><thead><tr><th width="10%">Experto</th><th width="30%">Forma de deuda</th><th width="60%">Qué tienes que dominar</th></tr></thead><tbody><tr><td><b>A</b></td><td>El préstamo personal</td><td>Para qué sirve, cómo se calcula la cuota y qué TAE es razonable</td></tr><tr><td><b>B</b></td><td>La hipoteca</td><td>Plazo, tipo fijo o variable, relación cuota-ingresos y el riesgo de los tipos</td></tr><tr><td><b>C</b></td><td>La tarjeta revolving</td><td>Cómo el pago aplazado de un porcentaje mínimo dispara los intereses</td></tr><tr><td><b>D</b></td><td>La compra a plazos y el “compra ahora, paga después” (BNPL)</td><td>El atractivo del “sin intereses” y sus condiciones, comisiones y riesgos ocultos</td></tr></tbody></table>
 
+```descargas
+sda10-s06-fichas-experto.pdf | Las cuatro fichas de experto | Préstamo, hipoteca, revolving y compra a plazos
+```
+
 ::: nota La regla del puzzle
 Si tú no lo explicas, tu grupo no lo sabe. **Nadie más lo va a hacer por ti.** Sal de la fase de expertos siendo capaz de explicar tu forma de deuda con tus palabras y con un ejemplo numérico.
 :::
@@ -89,7 +90,11 @@ Si tú no lo explicas, tu grupo no lo sabe. **Nadie más lo va a hacer por ti.**
 
 Con datos reales aproximados de alquiler y de compra de vivienda en la ciudad, comparad las dos decisiones.
 
-<table><thead><tr><th width="34%">Aspecto a valorar</th><th width="33%">Alquilar</th><th width="33%">Comprar con hipoteca</th></tr></thead><tbody><tr><td>Cuota mensual</td><td></td><td></td></tr><tr><td>Ahorro previo necesario</td><td></td><td></td></tr><tr><td>Plazo del compromiso</td><td></td><td></td></tr><tr><td>Riesgos principales</td><td></td><td></td></tr><tr><td>¿Para qué perfil encaja mejor?</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="34%">Dato de partida</th><th width="66%">Valor aproximado (2026)</th></tr></thead><tbody><tr><td>Precio de compraventa en Málaga capital</td><td>Unos 3.370 € por metro cuadrado en las compraventas inscritas del segundo trimestre de 2026. El precio de oferta ronda ya los 3.900 €.</td></tr><tr><td>Un piso de 80 m²</td><td>Unos 269.000 €</td></tr><tr><td>Entrada y gastos que hay que tener ahorrados</td><td>El banco suele financiar el 80 %: hacen falta el 20 % de entrada y en torno a un 10 % de impuestos y gastos, unos 80.700 €</td></tr><tr><td>Hipoteca a 30 años del 80 % (215.500 €) al 3,5 % fijo</td><td>Cuota de unos 968 € al mes</td></tr><tr><td>Euríbor a 12 meses, media de septiembre de 2026</td><td>3,247 %. Una hipoteca variable con un diferencial de 0,8 puntos pagaría en torno a un 4 %</td></tr><tr><td>Alquiler medio en la provincia de Málaga</td><td>En torno a 1.590 € al mes</td></tr></tbody></table>
+
+```descargas
+sda10-s06-alquilar-comprar.pdf | Hoja del caso alquilar o comprar | Cuota, ahorro previo, plazo, riesgos y perfil
+```
 
 ::: nota Conclusión anticipada
 **No hay una única respuesta correcta.** Depende del perfil, del horizonte temporal y de la estabilidad de los ingresos. Una respuesta que empieza por “depende de…” y sigue con una justificación vale más que una respuesta rotunda.
@@ -98,6 +103,12 @@ Con datos reales aproximados de alquiler y de compra de vivienda en la ciudad, c
 ### Y la trampa de la revolving
 
 Calculad el coste real de una compra pequeña financiada con tarjeta revolving. Comparad la TAE con la de un préstamo personal ordinario. La diferencia explica por qué se ofrece tanto.
+
+<table><thead><tr><th width="40%">Compra de 1.000 € pagando unos 30 € al mes</th><th width="30%">Tarjeta revolving (20 % TAE)</th><th width="30%">Préstamo personal (7 % TAE)</th></tr></thead><tbody><tr><td>Intereses del primer mes</td><td>Unos 15 €: solo la mitad de la cuota devuelve deuda</td><td>Unos 6 €</td></tr><tr><td>Meses hasta terminar de pagar</td><td>Unos 47</td><td>36</td></tr><tr><td>Total pagado</td><td>Unos 1.410 €</td><td>Unos 1.108 €</td></tr></tbody></table>
+
+::: aviso Lo que dice la ley
+El Tribunal Supremo considera usuraria una tarjeta revolving cuando su interés supera en más de seis puntos el tipo medio de estas tarjetas que publica el Banco de España. El tipo medio de las tarjetas de pago aplazado rondaba en 2026 el 18 %.
+:::
 
 ## Apuntes de la sesión
 
@@ -146,4 +157,20 @@ Su trabajo consistía exactamente en lo que estás haciendo hoy a escala domést
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Capacidad de pago</b></td><td>Parte de los ingresos que se puede destinar a atender deudas sin comprometer los gastos esenciales.</td></tr><tr><td><b>Sobreendeudamiento</b></td><td>Situación en la que las obligaciones de deuda superan la capacidad de pago.</td></tr><tr><td><b>Tarjeta revolving</b></td><td>Crédito con pago aplazado de un porcentaje mínimo, con intereses muy elevados.</td></tr><tr><td><b>BNPL</b></td><td>“Buy now, pay later”: compra ahora, paga después. Financiación fraccionada del consumo.</td></tr><tr><td><b>Tipo fijo / variable</b></td><td>En una hipoteca. Interés constante durante todo el plazo, o vinculado a una referencia como el euríbor.</td></tr><tr><td><b>Relación cuota-ingresos</b></td><td>Porcentaje de los ingresos que absorbe la cuota de la deuda.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Préstamo personal</b></td><td>Dinero que la entidad entrega de una vez y se devuelve en cuotas fijas con intereses.</td></tr>
+<tr><td><b>Hipoteca</b></td><td>Préstamo a largo plazo para comprar una vivienda, que queda como garantía.</td></tr>
+<tr><td><b>Tipo fijo</b></td><td>Interés que no cambia durante toda la vida del préstamo.</td></tr>
+<tr><td><b>Tipo variable</b></td><td>Interés que se revisa según una referencia, normalmente el euríbor, más un diferencial.</td></tr>
+<tr><td><b>Euríbor</b></td><td>Tipo al que se prestan los bancos de la zona euro. En septiembre de 2026, 3,247 % de media.</td></tr>
+<tr><td><b>Tarjeta revolving</b></td><td>Tarjeta de crédito en la que se paga una cuota fija pequeña y la deuda se renueva, con intereses muy altos.</td></tr>
+<tr><td><b>Capacidad de pago</b></td><td>Lo que alguien puede dedicar a pagar deudas sin ahogar su presupuesto. Se recomienda no pasar del 30 a 35 % de los ingresos.</td></tr>
+<tr><td><b>Usura</b></td><td>Interés desproporcionado frente al normal del mercado. Un contrato usurario es nulo.</td></tr>
+<tr><td><b>Compra ahora, paga después</b></td><td>Fraccionamiento de una compra en pocos plazos, a veces sin intereses pero con comisiones o recargos por retraso.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=eg9mILd2eKc | Cómo funcionan las tarjetas revolving | Economía Responsable · 4:31
+```

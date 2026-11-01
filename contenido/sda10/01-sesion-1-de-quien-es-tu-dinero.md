@@ -2,7 +2,20 @@
 titulo: Sesión 1 · ¿De quién es tu dinero?
 ---
 
+Vas a ver cuatro mensajes financieros reales. Todos son legales. Todos tienen letra pequeña.
+
+“¿Dónde está la trampa?”
+
+No hace falta que lo sepas todavía. La gracia está en que anotes tu sospecha y compruebes, dentro de unas semanas, si tenías razón.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s01-mensajes-fuentes.pdf | Los cuatro mensajes y dónde actualizarlos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.2 (con introducción a 4.1)</td><td><b>Saberes básicos</b></td><td>A4</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante la indagación · D: calidad del debate por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +40,6 @@ titulo: Sesión 1 · ¿De quién es tu dinero?
 - Si un banco te pediría diez documentos y ellos ninguno, ¿qué están cobrando por ese riesgo?
 - ¿Por qué puede haber menor participación femenina en las decisiones de inversión, y qué efecto tiene eso a treinta años?
 
-::: aviso Material que debes preparar tú
-- **3-4 mensajes financieros reales** proyectables: una tarjeta o app de pago aplazado “sin intereses”, una publicación de un supuesto experto que “garantiza” duplicar el dinero con criptomonedas, un anuncio de préstamo rápido “en 10 minutos y sin papeles” y un titular sobre el precio del alquiler en Málaga. **Anonimiza marcas y perfiles.**
-- **Cuestionario diagnóstico digital** de 8-10 preguntas de opción múltiple en Kahoot o Google Forms, inspirado en la Encuesta de Competencias Financieras del Banco de España (interés, inflación, diversificación).
-- **Plantilla de objetivo financiero personal**, una por alumno/a.
-- **Mural o cartulina para las “preguntas abiertas”**, que quedará visible durante toda la unidad.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida son mensajes publicitarios que el alumnado ve a diario en sus propias redes. Un contexto reconocible que no exige ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El objetivo financiero personal, escrito por cada persona y recuperado en la sesión 10, convierte la unidad en un proyecto propio y no en un temario ajeno.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas con enfoques asignados permite participar sin exponerse ante el gran grupo; el diagnóstico es individual y sin nota.</td></tr></tbody></table>
@@ -42,31 +48,28 @@ titulo: Sesión 1 · ¿De quién es tu dinero?
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Vas a ver cuatro mensajes financieros reales. Todos son legales. Todos tienen letra pequeña.
-
-“¿Dónde está la trampa?”
-
-No hace falta que lo sepas todavía. La gracia está en que anotes tu sospecha y compruebes, dentro de unas semanas, si tenías razón.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s01-01.webp | Portada
-sda10-s01-02.webp | Pregunta detonante
-sda10-s01-03.webp | Los cuatro mensajes
-sda10-s01-04.webp | Los dos enfoques
-sda10-s01-05.webp | Preguntas abiertas
-sda10-s01-06.webp | El reto
-sda10-s01-07.webp | La regla del Comité
-sda10-s01-08.webp | Tu objetivo financiero
-sda10-s01-09.webp | Una pregunta abierta
+sda10-s01-01.webp | ¿De quién es tu dinero?
+sda10-s01-02.webp | Todos legales, todos con letra pequeña
+sda10-s01-03.webp | ¿Dónde está la trampa?
+sda10-s01-04.webp | Las resolvemos en la unidad
+sda10-s01-05.webp | Tuyo, concreto y con plazo
+sda10-s01-06.webp | ¿Cuánto sabes de dinero?
+sda10-s01-07.webp | Un Plan Financiero Personal para una persona joven, defendido ante…
+sda10-s01-08.webp | No hacer nada con el dinero también es una decisión
 ```
 
 ## Actividad · ¿Dónde está la trampa?
 
 ### Los cuatro mensajes
+
+<table><thead><tr><th width="8%"></th><th width="92%">Mensaje</th></tr></thead><tbody><tr><td><b>1</b></td><td>“Compra ahora y paga en cómodos plazos sin intereses.”</td></tr><tr><td><b>2</b></td><td>“Duplico tu dinero con cripto. Rentabilidad garantizada.”</td></tr><tr><td><b>3</b></td><td>“Préstamo en 10 minutos, sin papeles y sin preguntas.”</td></tr><tr><td><b>4</b></td><td>“Tu tarjeta con cuota fija: paga solo 30 € al mes, compres lo que compres.”</td></tr></tbody></table>
+
+```descargas
+sda10-s01-mensajes.pdf | Los cuatro mensajes y la hoja de análisis | Enfoque vendedor y enfoque consumidor crítico
+```
 
 Tu pareja analiza desde uno de estos dos enfoques. El profesorado os asigna cuál.
 
@@ -89,6 +92,10 @@ Un objetivo financiero útil tiene tres cosas. Es **tuyo**, es **concreto** y ti
 ::: nota Esto no es un ejercicio
 Este objetivo te va a acompañar durante toda la unidad y lo vas a recuperar en la sesión 10 para convertirlo en un compromiso real. Escríbelo en serio.
 :::
+
+```descargas
+sda10-s01-objetivo.pdf | Mi objetivo financiero | Qué quiero, cuánto, para cuándo y cómo lo voy a medir
+```
 
 ## Diagnóstico · ¿Cuánto sabes de dinero?
 
@@ -134,48 +141,20 @@ preguntas:
   explicacion: Ahorro disponible para cubrir varios meses de gastos básicos si algo falla.
 ```
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-4.1
+```descargas
+sda10-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-4.2
-```
+### Cómo se leen
 
-```rubrica
-4.3
-```
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
 
 ## Apuntes de la sesión
 
@@ -211,4 +190,19 @@ No cerramos aquí ninguna conclusión. La pregunta es doble: ¿por qué puede oc
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Competencia financiera</b></td><td>Conjunto de conocimientos y habilidades para tomar decisiones financieras informadas.</td></tr><tr><td><b>TAE</b></td><td>Tasa anual equivalente. Coste o rendimiento real de un producto, incluidas comisiones y frecuencia de pago.</td></tr><tr><td><b>Objetivo financiero</b></td><td>Meta concreta, cuantificada y con plazo sobre la que se organiza el ahorro.</td></tr><tr><td><b>Letra pequeña</b></td><td>Condiciones contractuales que modifican de forma relevante lo que promete la publicidad.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Educación financiera</b></td><td>Conocimientos y hábitos para tomar buenas decisiones con el dinero: gastar, ahorrar, endeudarse e invertir.</td></tr>
+<tr><td><b>Producto financiero</b></td><td>Servicio que ofrece una entidad para guardar, mover, prestar o invertir dinero: cuenta, préstamo, tarjeta, fondo.</td></tr>
+<tr><td><b>Letra pequeña</b></td><td>Condiciones de un contrato que no aparecen en la publicidad y que cambian su coste o su riesgo.</td></tr>
+<tr><td><b>TAE</b></td><td>Tasa anual equivalente. Coste o rendimiento real de un producto en un año, con intereses y comisiones. Se estudia en la sesión 4.</td></tr>
+<tr><td><b>Rentabilidad</b></td><td>Lo que gana una inversión, en porcentaje de lo invertido.</td></tr>
+<tr><td><b>Riesgo</b></td><td>Posibilidad de que una inversión pierda valor o de no recuperar lo prestado.</td></tr>
+<tr><td><b>Objetivo financiero</b></td><td>Meta concreta con dinero y plazo: “500 € de colchón en un año”.</td></tr>
+<tr><td><b>Banco de España</b></td><td>Supervisor de los bancos españoles. Publica los tipos medios y la web Finanzas para todos.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=Y0Lk2cvRPQg | Qué es el dinero y por qué surgió | Econosublime · 7:26
+```

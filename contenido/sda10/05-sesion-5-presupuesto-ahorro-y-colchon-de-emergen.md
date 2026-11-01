@@ -2,7 +2,18 @@
 titulo: Sesión 5 · Presupuesto, ahorro y colchón de emergencia
 ---
 
+Un presupuesto no sirve para gastar menos. Sirve para **saber dónde va tu dinero y decidir tú**, en lugar de descubrirlo a final de mes.
+
+Hoy vas a elaborar el presupuesto de una persona joven real, dimensionar su colchón de emergencia y comprobar algo incómodo. Que no hacer nada con el ahorro también es una decisión arriesgada.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s05-solucionario.pdf | Solucionario del presupuesto de Lucía | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.2</td><td><b>Saberes básicos</b></td><td>A4</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base heterogéneos de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia central de portafolio y de observación</td></tr><tr><td><b>Instrumentos</b></td><td>P: presupuesto elaborado por el equipo · OD: razonamiento del equipo · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: Sesión 5 · Presupuesto, ahorro y colchón de emergencia
 - Si guarda el ahorro sin rentabilidad y la inflación es del 3 %, ¿cuánto valdrá en 3 años?
 - ¿Por qué el colchón se mide en meses de gastos y no en meses de ingresos?
 
-::: aviso Material que debes preparar tú
-- **Perfil de presupuesto de una persona joven realista**, uno por grupo: ingresos y lista de gastos con alquiler de habitación en Málaga, transporte, móvil, ocio, comida… **Actualiza los importes** a precios reales de la ciudad.
-- **Plantilla de presupuesto 50/30/20**, una por grupo.
-- **Rúbrica de coevaluación** con escala de dedos.
-- Calculadora u hoja de cálculo para el reto de la inflación.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El perfil de trabajo es una persona joven en circunstancias reconocibles (habitación de alquiler en Málaga, transporte, móvil), lo que permite conectar el ejercicio con la propia situación o con la de personas cercanas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La regla 50/30/20 funciona como andamiaje estructurado. Reduce una tarea abierta y difícil (“haz un presupuesto”) a tres bloques manejables con un criterio claro de reparto.</td></tr></tbody></table>
@@ -42,24 +46,16 @@ titulo: Sesión 5 · Presupuesto, ahorro y colchón de emergencia
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Un presupuesto no sirve para gastar menos. Sirve para **saber dónde va tu dinero y decidir tú**, en lugar de descubrirlo a final de mes.
-
-Hoy vas a elaborar el presupuesto de una persona joven real, dimensionar su colchón de emergencia y comprobar algo incómodo. Que no hacer nada con el ahorro también es una decisión arriesgada.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s05-01.webp | Portada
-sda10-s05-02.webp | Tres decisiones distintas
-sda10-s05-03.webp | La regla 50/30/20
-sda10-s05-04.webp | Necesidad o deseo
-sda10-s05-05.webp | El fondo de emergencia
-sda10-s05-06.webp | El taller
-sda10-s05-07.webp | Los roles
-sda10-s05-08.webp | El reto de la inflación
-sda10-s05-09.webp | Síntesis
+sda10-s05-01.webp | Presupuesto, ahorro y colchón
+sda10-s05-02.webp | 50/30/20
+sda10-s05-03.webp | Lucía, 23 años
+sda10-s05-04.webp | Vuestro trabajo
+sda10-s05-05.webp | Fondo de emergencia
+sda10-s05-06.webp | Con una inflación del 3 %
+sda10-s05-07.webp | Lo importante es que el tercer bloque no sea cero
 ```
 
 ## Taller · El presupuesto de un perfil real
@@ -72,6 +68,16 @@ sda10-s05-09.webp | Síntesis
 En una ciudad con alquileres altos, el 50 % puede ser imposible. Lo importante no son los porcentajes exactos. Es que **el tercer bloque exista** y no sea cero.
 :::
 
+### El perfil: Lucía, 23 años
+
+Técnica de laboratorio en una empresa del Parque Tecnológico de Andalucía. Cobra **1.450 € netos al mes** y comparte piso en Teatinos.
+
+<table><thead><tr><th width="60%">Gasto mensual</th><th width="40%">Euros</th></tr></thead><tbody><tr><td>Alquiler de su habitación</td><td>480</td></tr><tr><td>Comida</td><td>260</td></tr><tr><td>Abono de transporte</td><td>40</td></tr><tr><td>Móvil e internet</td><td>35</td></tr><tr><td>Seguro</td><td>15</td></tr><tr><td>Suscripciones (series, música, aplicaciones)</td><td>38</td></tr><tr><td>Ocio y restaurantes</td><td>260</td></tr><tr><td>Ropa</td><td>90</td></tr><tr><td>Gimnasio</td><td>40</td></tr><tr><td>Otros gastos</td><td>80</td></tr><tr><td><b>Total</b></td><td><b>1.338</b></td></tr></tbody></table>
+
+```descargas
+sda10-s05-presupuesto.pdf | Hoja del presupuesto | El perfil de Lucía, la regla 50/30/20 y el fondo de emergencia
+```
+
 ### Vuestras cuatro tareas
 
 <table><thead><tr><th width="6%"></th><th width="94%">Tarea</th></tr></thead><tbody><tr><td>1</td><td>Elaborad un presupuesto mensual equilibrado aplicando la regla 50/30/20.</td></tr><tr><td>2</td><td>Detectad en qué se está gastando de más. ¿qué partida se ha desbordado y de qué bloque es?</td></tr><tr><td>3</td><td>Calculad cuánto puede ahorrar al mes.</td></tr><tr><td>4</td><td>Calculad cuántos meses tardará en completar su fondo de emergencia (3 a 6 meses de gastos básicos).</td></tr></tbody></table>
@@ -81,8 +87,21 @@ En una ciudad con alquileres altos, el 50 % puede ser imposible. Lo importante n
 <table><thead><tr><th width="34%">Rol</th><th width="66%">Responsabilidad</th></tr></thead><tbody><tr><td>Coordinador/a</td><td>Gestiona el tiempo y se asegura de que todo el mundo participa</td></tr><tr><td>Secretario/a</td><td>Redacta el presupuesto consensuado</td></tr><tr><td>Responsable de datos y cálculo</td><td>Asegura la coherencia de las cifras: que todo sume y cuadre</td></tr><tr><td>Portavoz</td><td>Expone el presupuesto y lo defiende ante las preguntas</td></tr></tbody></table>
 
 ::: aviso La pregunta que os van a hacer
-“¿Esto es una necesidad o un deseo, y por qué?” No hay respuesta objetiva y por eso lo que se evalúa es **vuestra justificación**. Un móvil puede ser necesidad si trabajas con él y deseo si es el último modelo.
+“¿Esto es una necesidad o un deseo, y por qué?” No hay respuesta objetiva y por eso lo que importa es **vuestra justificación**. Un móvil puede ser necesidad si trabajas con él y deseo si es el último modelo.
 :::
+
+## Practica · Las cuentas de Lucía
+
+```actividad
+id: sda10-s05-lucia
+tipo: rellenar
+instrucciones: Usa los datos de Lucía. Escribe solo el número, sin el símbolo € ni %.
+texto: |
+  Con la regla 50/30/20 y 1.450 € netos, Lucía debería dedicar a necesidades [725] €, a deseos [435] € y a ahorro [290] €.
+  Ahora gasta [830] € en necesidades (alquiler, comida, transporte, móvil y seguro) y [508] € en deseos. Le quedan para ahorrar [112] € al mes.
+  Su fondo de emergencia mínimo, tres meses de gastos básicos, es de [2490|2.490] €. Si consigue ahorrar 290 € al mes, tardará unos [9] meses en reunirlo.
+explicacion: '50 % de 1.450 = 725; 30 % = 435; 20 % = 290. Necesidades: 480 + 260 + 40 + 35 + 15 = 830 (el 57 %, por encima del 50 % por el alquiler). Deseos: 38 + 260 + 90 + 40 + 80 = 508. Ahorro: 1.450 − 1.338 = 112. Fondo: 830 × 3 = 2.490 €; 2.490 / 290 ≈ 8,6, es decir, unos 9 meses. Para llegar a 290 € tendría que recortar unos 178 € de deseos, sobre todo de ocio y restaurantes.'
+```
 
 ## Reto · ¿Y si no hace nada con el ahorro?
 
@@ -139,4 +158,19 @@ De ahí la necesidad de la inversión, que estudiarás en la sesión 7. Pero rec
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Presupuesto personal</b></td><td>Previsión organizada de ingresos y gastos de un periodo.</td></tr><tr><td><b>Regla 50/30/20</b></td><td>Reparto orientativo de los ingresos entre necesidades, deseos y ahorro/deuda.</td></tr><tr><td><b>Fondo de emergencia</b></td><td>Reserva líquida de 3 a 6 meses de gastos básicos para imprevistos.</td></tr><tr><td><b>Liquidez</b></td><td>Facilidad para convertir un activo en dinero sin perder valor.</td></tr><tr><td><b>Capacidad de ahorro</b></td><td>Diferencia entre ingresos y gastos de un periodo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Presupuesto personal</b></td><td>Plan de ingresos y gastos de un mes que permite decidir antes de gastar.</td></tr>
+<tr><td><b>Regla 50/30/20</b></td><td>Reparto orientativo de la renta neta: 50 % necesidades, 30 % deseos, 20 % ahorro y deuda.</td></tr>
+<tr><td><b>Necesidad</b></td><td>Gasto que no se puede dejar de pagar sin perder algo esencial: vivienda, comida, transporte al trabajo.</td></tr>
+<tr><td><b>Deseo</b></td><td>Gasto que mejora la vida pero es opcional.</td></tr>
+<tr><td><b>Fondo de emergencia</b></td><td>Ahorro disponible para imprevistos, de tres a seis meses de gastos básicos.</td></tr>
+<tr><td><b>Gastos fijos</b></td><td>Los que se repiten cada mes con el mismo importe, como el alquiler.</td></tr>
+<tr><td><b>Gastos variables</b></td><td>Los que cambian cada mes, como el ocio.</td></tr>
+<tr><td><b>Poder adquisitivo</b></td><td>Cantidad de bienes que se pueden comprar con un dinero. La inflación lo reduce.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=_bgUUswBttU | Aprende a gestionar mejor tu dinero con la regla 50/30/20 | Aprendiz Financiero · 6:01
+```

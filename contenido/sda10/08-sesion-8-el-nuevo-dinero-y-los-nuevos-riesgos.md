@@ -2,7 +2,20 @@
 titulo: 'Sesión 8 · El nuevo dinero y los nuevos riesgos + laboratorio del Plan'
 ---
 
+Hoy vemos las dos caras del dinero nuevo: la **tecnología**, que es real y tiene usos legítimos, y la **especulación y el fraude**, que son el riesgo más frecuente para alguien de vuestra edad.
+
+Al final de la sesión sabréis reconocer una estafa financiera antes de caer en ella. Y eso es, probablemente, lo más rentable que vais a aprender este curso.
+
+En la última parte empezáis vuestro **Plan Financiero Personal**: en la próxima sesión lo cerráis y lo defendéis ante el Comité.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda10-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda10-s08-perfiles-docente.pdf | Los seis perfiles y cómo sortearlos | Solo docente, con las claves de cada plan
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3 (laboratorio: 4.1 + 4.2 + 4.3, formativa)</td><td><b>Saberes básicos</b></td><td>C5 (laboratorio: A4, C5)</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Círculo (fishbowl) → Grupos base de 4 (laboratorio)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo de detección de fraude · D: debate estructurado · OD: observación · OD: control de calidad del Plan en el laboratorio</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -30,15 +43,6 @@ titulo: 'Sesión 8 · El nuevo dinero y los nuevos riesgos + laboratorio del Pla
 - ¿Qué haríais si recibierais un SMS de vuestro banco con un enlace pidiendo la clave?
 - ¿Por dónde empezáis el plan? ¿Sabéis ya cuánto dinero tiene disponible vuestro personaje cada mes?
 
-::: aviso Material que debes preparar tú
-- **Ejemplos reales anonimizados** de intentos de estafa: mensajes de phishing que suplantan a un banco, publicaciones de supuestos gurús de la inversión, esquemas piramidales. **Anonimiza marcas, perfiles y datos personales.**
-- **Esquema de blockchain** proyectable y explicable en dos minutos.
-- **Tarjetas de casos “¿fraude o no?”** para el cuestionario formativo.
-- **Enlaces a los registros oficiales** del Banco de España y de la CNMV, incluida su lista de advertencias sobre entidades no autorizadas.
-- **Sillas en círculo** con 3-4 sillas en el centro para el fishbowl. Prepara la disposición antes de que entre el grupo.
-- **Plantilla del Plan Financiero Personal** y **perfiles de personaje** (uno por grupo, por sorteo) para el laboratorio.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El formato fishbowl permite participar cuando cada persona decide, entrando y saliendo del centro libremente, en lugar de imponer un turno rotatorio obligatorio ante todo el grupo.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El debate parte de un tema con presencia real en el entorno digital del alumnado, lo que permite traer conocimiento previo propio a la discusión académica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -47,25 +51,16 @@ titulo: 'Sesión 8 · El nuevo dinero y los nuevos riesgos + laboratorio del Pla
 El fishbowl tiene turnos rápidos y no anunciados, con el grupo en círculo. Sitúa a este alumno/a en el círculo interior o con visión frontal de las sillas centrales, exige que quien habla lo haga desde el centro y de frente, y proyecta por escrito la pregunta del debate y la regla de entrada durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy vemos las dos caras del dinero nuevo: la **tecnología**, que es real y tiene usos legítimos, y la **especulación y el fraude**, que son el riesgo más frecuente para alguien de vuestra edad.
-
-Al final de la sesión sabréis reconocer una estafa financiera antes de caer en ella. Y eso es, probablemente, lo más rentable que vais a aprender este curso.
-
-En la última parte empezáis vuestro **Plan Financiero Personal**: en la próxima sesión lo cerráis y lo defendéis ante el Comité.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda10-s08-01.webp | Portada
-sda10-s08-02.webp | Los seguros
-sda10-s08-03.webp | El nuevo panorama
-sda10-s08-04.webp | Señales de alarma
-sda10-s08-05.webp | Dónde acudir
-sda10-s08-06.webp | El fishbowl
-sda10-s08-07.webp | “Esta vez es diferente”
-sda10-s08-08.webp | El decálogo
+sda10-s08-01.webp | El nuevo dinero y los nuevos riesgos
+sda10-s08-02.webp | Tres palabras
+sda10-s08-03.webp | Si ves una, para
+sda10-s08-04.webp | ¿Invertir en cripto es invertir o apostar?
+sda10-s08-05.webp | Decálogo básico
+sda10-s08-06.webp | En este orden
+sda10-s08-07.webp | Las cinco piezas tienen que encajar
 ```
 
 ## Taller · Detección de fraude
@@ -77,6 +72,27 @@ sda10-s08-08.webp | El decálogo
 ### Las seis señales de alarma
 
 <table><thead><tr><th width="5%"></th><th width="30%">Señal</th><th width="65%">Por qué es una alarma</th></tr></thead><tbody><tr><td>1</td><td>Rentabilidad alta <b>y</b> garantizada</td><td>Ya sabes de la S7 que es imposible. Es la señal más fiable de todas.</td></tr><tr><td>2</td><td>Te meten prisa</td><td>“Solo quedan plazas”, “acaba hoy”. La urgencia sirve para que no lo pienses ni lo consultes.</td></tr><tr><td>3</td><td>El mensaje suplanta a tu banco</td><td>Phishing. Tu banco NUNCA te va a pedir la clave por un enlace.</td></tr><tr><td>4</td><td>La entidad no está autorizada</td><td>Chiringuito financiero. Compruébalo en los registros del Banco de España y la CNMV.</td></tr><tr><td>5</td><td>Ganas si metes a más gente</td><td>Esquema piramidal. Si el rendimiento depende de captar gente y no de una actividad real, es estafa.</td></tr><tr><td>6</td><td>Un “gurú” de redes vende señales</td><td>Pump-and-dump. Infla el precio con seguidores y vende cuando han entrado. Tú eres la salida, no el socio.</td></tr></tbody></table>
+
+```actividad
+id: sda10-s08-fraude
+tipo: clasificar
+instrucciones: ¿Es probablemente un fraude o puede ser legítimo?
+categorias:
+  - nombre: Señal clara de fraude
+    elementos:
+      - texto: Un perfil en redes promete un 15 % mensual garantizado si inviertes hoy
+        explicacion: Rentabilidad alta y garantizada, y además con prisa. Dos señales a la vez.
+      - texto: Un SMS de tu banco te pide entrar en un enlace para desbloquear tu cuenta
+        explicacion: Es phishing. Tu banco nunca te pide claves por SMS ni por correo.
+      - texto: Te ofrecen ganar dinero por cada amigo que traigas a la plataforma
+        explicacion: Si el rendimiento sale de los que llegan detrás, es un esquema piramidal.
+  - nombre: Puede ser legítimo, pero comprueba
+    elementos:
+      - texto: Una gestora registrada en la CNMV ofrece un fondo indexado con comisiones bajas
+        explicacion: Se puede comprobar en los registros de la CNMV. Aun así, lee el documento de datos fundamentales.
+      - texto: Tu banco te propone una cuenta remunerada al 2 % TAE
+        explicacion: Es una rentabilidad modesta y coherente con los tipos actuales. Mira las condiciones y las comisiones.
+```
 
 ### Dónde acudir
 
@@ -112,20 +128,25 @@ Consensuad entre todos un decálogo. Estas son las seis reglas básicas; añadid
 6. Y una regla de oro: **nunca invertir en algo que no sepas explicar con tus palabras**.
 
 ::: nota Esto entra en vuestro Plan Financiero
-El decálogo es una de las cinco piezas obligatorias del Plan Financiero Personal que empezáis hoy, y desarrolla directamente el descriptor **CD4**. No es un añadido decorativo.
+El decálogo es una de las cinco piezas obligatorias del Plan Financiero Personal que empezáis hoy.
 :::
 
 ## Laboratorio · Empezamos el Plan Financiero Personal
 
-Vuestro grupo recibe un **perfil de personaje** y tiene unos quince minutos para empezar su plan. Sacad todo el portafolio de la unidad: los apuntes Cornell, la hoja de cálculo de la S4, el presupuesto de la S5, las fichas de la S6, la cartera de la S7 y el decálogo de hoy.
+Vuestro grupo recibe un **perfil de personaje** y tiene unos quince minutos para empezar su plan. Sacad todo el portafolio de la unidad: vuestros apuntes, la hoja de cálculo de la S4, el presupuesto de la S5, las fichas de la S6, la cartera de la S7 y el decálogo de hoy.
 
 **Orden de trabajo.** presupuesto → colchón → deuda → cartera → seguros y ciberseguridad. Si empezáis por la cartera, os va a descuadrar todo lo demás, porque no sabréis cuánto dinero hay realmente disponible.
+
+```descargas
+sda10-s08-perfiles.pdf | Los seis perfiles de personaje | Ingresos, gastos, deudas y objetivos de cada uno
+sda10-s08-plantilla-plan.pdf | Plantilla del Plan Financiero Personal | Las cinco piezas, en orden
+```
 
 ### Las cinco piezas
 
 <table><thead><tr><th width="24%">Pieza</th><th width="62%">Qué tiene que incluir</th><th width="14%">Sesión</th></tr></thead><tbody><tr><td><b>1 · Presupuesto y colchón</b></td><td>Presupuesto mensual realista con la regla 50/30/20 y un fondo de emergencia dimensionado en meses de gastos básicos, con el plazo para completarlo.</td><td>S5</td></tr><tr><td><b>2 · Decisión de deuda</b></td><td>Razonada y con números reales. Alquiler frente a hipoteca, o el coste real (TAE) de una compra financiada. Comparad al menos dos opciones.</td><td>S4 · S6</td></tr><tr><td><b>3 · Cartera de inversión</b></td><td>Sencilla y diversificada, coherente con el perfil de riesgo y el horizonte del personaje. Con los porcentajes por clase de activo.</td><td>S7</td></tr><tr><td><b>4 · Seguros y ciberseguridad</b></td><td>Cobertura básica de seguros y las medidas de protección frente al fraude del decálogo.</td><td>S8</td></tr><tr><td><b>5 · Un dato oficial</b></td><td>Del Banco de España, del INE o de un comparador real de productos, <b>con su fuente citada</b>.</td><td>Todas</td></tr></tbody></table>
 
-::: aviso La coherencia es lo que se evalúa
+::: aviso La coherencia es la clave
 Las cinco piezas tienen que encajar entre sí. Una cartera brillante con un presupuesto que no da para ahorrar es un plan incoherente, y el Comité lo va a ver en la primera pregunta.
 :::
 
@@ -183,7 +204,25 @@ Es la mejor vacuna contra el **FOMO** (*fear of missing out*, miedo a quedarse f
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Prima de seguro</b></td><td>Cantidad periódica que se paga para transferir un riesgo a la aseguradora.</td></tr><tr><td><b>Blockchain</b></td><td>Tecnología de registro distribuido e inmutable de operaciones.</td></tr><tr><td><b>Criptoactivo</b></td><td>Activo digital sin respaldo institucional, de volatilidad muy elevada.</td></tr><tr><td><b>Fintech</b></td><td>Empresa que presta servicios financieros mediante tecnología.</td></tr><tr><td><b>Phishing</b></td><td>Suplantación de una entidad para obtener credenciales de la víctima.</td></tr><tr><td><b>Chiringuito financiero</b></td><td>Entidad que ofrece servicios de inversión sin estar autorizada.</td></tr><tr><td><b>Esquema piramidal</b></td><td>Fraude en el que el rendimiento depende de captar nuevos participantes.</td></tr><tr><td><b>FOMO</b></td><td>Miedo a quedarse fuera; impulso a invertir por ver que otros ganan.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Fintech</b></td><td>Empresas que ofrecen servicios financieros a través de la tecnología: pagos móviles, neobancos, préstamos en línea.</td></tr>
+<tr><td><b>Blockchain</b></td><td>Tecnología que registra operaciones en muchos ordenadores a la vez para que nadie pueda modificarlas solo.</td></tr>
+<tr><td><b>Criptomoneda</b></td><td>Activo digital basado en blockchain. Muy volátil y sin respaldo de ningún banco central.</td></tr>
+<tr><td><b>Volatilidad</b></td><td>Cuánto y qué tan deprisa sube y baja el precio de un activo.</td></tr>
+<tr><td><b>Especulación</b></td><td>Comprar para vender pronto más caro, apostando a que el precio subirá.</td></tr>
+<tr><td><b>Phishing</b></td><td>Engaño que suplanta a una entidad de confianza para robar claves o datos.</td></tr>
+<tr><td><b>Esquema piramidal</b></td><td>Fraude en el que los beneficios de unos salen del dinero de los que entran después.</td></tr>
+<tr><td><b>Chiringuito financiero</b></td><td>Entidad que ofrece inversiones sin autorización. La CNMV publica listas de advertencia.</td></tr>
+<tr><td><b>Seguro</b></td><td>Contrato que transfiere un riesgo a una aseguradora a cambio de una prima.</td></tr>
+<tr><td><b>Doble factor de autenticación</b></td><td>Comprobación con dos elementos distintos, como la contraseña y un código en el móvil.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=8rUGRdOi3XM | Qué es una blockchain y cómo funciona | Te lo explico · 5:42
+https://www.youtube.com/watch?v=cOQ9r4YOukk | Phishing: consejos de la Policía para evitar el fraude | Finanzas para todos · 1:11
+```
 
 ## Comprueba lo que sabes
 
