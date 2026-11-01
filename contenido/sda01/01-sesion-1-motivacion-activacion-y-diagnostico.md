@@ -2,6 +2,12 @@
 titulo: Sesión 1 · Motivación, activación y diagnóstico
 ---
 
+Cuatro noticias reales sobre la vivienda en Málaga. Y una pregunta que da título a toda la unidad:
+
+“¿De quién es la vivienda?”
+
+Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de camino, vais a tener que defender la contraria.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (con introducción a 1.3)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la argumentación durante la controversia estructurada · D: calidad del debate por parejas y del manifiesto conjunto</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
@@ -13,8 +19,6 @@ titulo: Sesión 1 · Motivación, activación y diagnóstico
 ### Guion paso a paso
 
 **1. Las cuatro noticias (5 min).** Reparte una noticia por pareja dentro de cada grupo base. Las cuatro sitúan el problema económico en un contexto **local, cercano y auténtico**: el alquiler que absorbe buena parte del salario, el precio de compra en torno a los 3.800 €/m², las más de 45.000 viviendas de uso turístico y la concentración de grandes tenedores.
-
-**Actualiza las noticias antes de impartir**: son el arranque de todo el curso y pierden fuerza si están desfasadas.
 
 **2. La controversia (25 min).** Asigna las posturas, no las elijan ellos. Pareja A: enfoque de la inversión y la oferta. Pareja B: enfoque social y del derecho a la vivienda. Tres fases: debate por turnos con toma de notas, **inversión de roles**, y manifiesto conjunto de tres medidas de consenso.
 
@@ -33,14 +37,6 @@ La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abi
 - ¿Por qué creéis que la ley identifica a las familias monoparentales como colectivo prioritario?
 - ¿Y qué tiene eso que ver con la escasez de la que hemos hablado hoy?
 
-::: aviso Material que debes preparar tú
-- **Cuatro noticias reales y recientes** sobre la crisis de vivienda en Málaga, con enlaces actualizados por ti. (a) el alquiler que absorbe buena parte del salario y las movilizaciones del Sindicato de Inquilinas e Inquilinos; (b) el precio medio de compra en Málaga capital y su ritmo de subida; (c) los datos del INE sobre viviendas de uso turístico en la provincia; (d) la concentración de grandes tenedores de vivienda en alquiler.
-- **Plantilla de manifiesto de consenso**, una por grupo base.
-- **Dato del Plan Vive en Andalucía** sobre colectivos con acceso prioritario a la vivienda protegida en alquiler.
-- Pizarra o proyector, y plantilla Cornell para anotar la pregunta abierta.
-- **Refresca todos los datos antes de impartir**: son cifras de mercado que varían mes a mes.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un problema que el alumnado y sus familias viven directamente en la provincia, lo que permite participar desde la experiencia propia sin necesitar ningún conocimiento económico previo.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas de la controversia se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso rebaja la carga de un tema con implicación personal alta.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate es por parejas dentro del grupo base, no ante el gran grupo, lo que multiplica el tiempo real de participación de cada persona y reduce la exposición.</td></tr></tbody></table>
@@ -48,14 +44,6 @@ La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abi
 ::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
-
-## Para empezar
-
-Cuatro noticias reales sobre la vivienda en Málaga. Y una pregunta que da título a toda la unidad:
-
-“¿De quién es la vivienda?”
-
-Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de camino, vais a tener que defender la contraria.
 
 ## Diapositivas de la sesión
 
@@ -108,73 +96,53 @@ En Andalucía, las **familias monoparentales**, mayoritariamente encabezadas por
 
 “¿Por qué creéis que la ley identifica a las familias monoparentales como un colectivo prioritario para la vivienda protegida? ¿Y qué tiene esto que ver con la escasez de la que hemos hablado hoy?”
 
-Anotadla en el margen del Cornell como **pregunta abierta**. La recuperamos en la sesión 4, al delimitar el ámbito de la Ciencia Económica.
+Quédate con esta pregunta: no la respondemos hoy. La recuperamos en la sesión 4, cuando veamos qué estudia exactamente la Economía.
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html).
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
+### Cómo se leen
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-1.2
-```
-
-```rubrica
-1.3
-```
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
 
 ## Apuntes de la sesión
 
-### 1. Por qué empezamos por la vivienda
+### Por qué empezamos por la vivienda
 
-La Economía se puede explicar con ejemplos abstractos. Pero es mucho más útil empezar por algo que os afecta directamente y del que se habla en vuestra casa.
+La Economía se puede explicar con ejemplos abstractos, pero es más útil empezar por algo que os afecta directamente. El problema de la vivienda en Málaga reúne casi todos los conceptos del curso.
 
-El problema de la vivienda en Málaga reúne, de golpe, casi todos los conceptos que vais a estudiar este año: un recurso **escaso**, usos **alternativos** que compiten entre sí (residencial frente a turístico), decisiones con **coste de oportunidad**, y una tensión entre **eficiencia** y **equidad** que no tiene solución evidente.
+- **Un recurso escaso.** El suelo y las viviendas disponibles son limitados, y las personas que quieren vivir en Málaga son muchas. Eso es **escasez**: no hay suficiente para todos al precio que cada cual puede pagar.
+- **Usos alternativos.** Un mismo piso puede alquilarse a una familia o a turistas. Elegir uno de los usos significa renunciar al otro.
+- **Coste de oportunidad.** Lo que se pierde al elegir es la mejor alternativa a la que se renuncia. La vivienda que se destina al turismo deja de estar disponible para vivir.
+- **Eficiencia frente a equidad.** Lo que da más rendimiento económico no siempre es lo más justo. Esta tensión no tiene una solución evidente y recorre toda la unidad.
 
-### 2. Las cuatro noticias, en clave económica
+### Las cuatro noticias, en clave económica
 
-<table><thead><tr><th width="34%">La noticia</th><th width="66%">El concepto económico que hay detrás</th></tr></thead><tbody><tr><td><b>El alquiler absorbe buena parte del salario</b></td><td>La <b>tasa de esfuerzo</b>: qué porcentaje de la renta se destina a vivienda. Cuando sube demasiado, desplaza otros consumos.</td></tr><tr><td><b>El precio de compra sube con fuerza</b></td><td>Un precio alto es una <b>señal de escasez</b>: hay más gente queriendo comprar de la que puede ser atendida a precios menores.</td></tr><tr><td><b>Más de 45.000 viviendas de uso turístico</b></td><td><b>Usos alternativos</b> de un mismo recurso. Cada vivienda dedicada a turismo es una que no está en el mercado residencial: eso es coste de oportunidad.</td></tr><tr><td><b>Concentración de grandes tenedores</b></td><td>Cambia <b>quién decide</b> el precio y en qué condiciones. No es lo mismo un mercado de miles de propietarios pequeños que uno con pocos actores grandes.</td></tr></tbody></table>
-
-### 3. Lo que vais a hacer en esta unidad
-
-Primero escucharéis a alguien que trabaja en el sector (S2). Después construiréis las herramientas conceptuales: recursos, bienes, necesidades y escasez (S3 y S4), y las aplicaréis a una economía entera desde cero (S5).
-
-Luego descubriréis que **no somos tan racionales como creemos** (S6 y S7), y que hay decisiones económicas que son también decisiones morales (S8).
-
-Y finalmente prepararéis un dossier (S9) y lo defenderéis en un **Juicio** (S10).
-
-::: aviso La pregunta abierta que queda en tu Cornell
-“¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?”
-
-No la respondemos hoy. La recuperamos en la **sesión 4**, y vuelve otra vez como caso límite en el debate de la **sesión 8**.
-:::
+<table><thead><tr><th width="34%">La noticia</th><th width="66%">El concepto económico que hay detrás</th></tr></thead><tbody><tr><td><b>El alquiler absorbe buena parte del salario</b></td><td>La <b>tasa de esfuerzo</b>: el porcentaje de la renta que un hogar dedica a la vivienda. Por encima del 30-35 % se considera que la vivienda empieza a desplazar otros gastos básicos.</td></tr><tr><td><b>El precio de compra sube con fuerza</b></td><td>El precio funciona como una <b>señal de escasez</b>. Cuando muchas personas quieren lo mismo y no hay suficiente, el precio sube.</td></tr><tr><td><b>Más de 45.000 viviendas de uso turístico</b></td><td><b>Usos alternativos</b> de un mismo recurso. Cada vivienda dedicada al turismo es una vivienda que no está en el mercado residencial: ese es su coste de oportunidad.</td></tr><tr><td><b>Concentración de grandes tenedores</b></td><td>Cambia <b>quién decide</b> el precio y en qué condiciones. No es lo mismo un mercado de miles de pequeños propietarios que uno con pocos actores grandes.</td></tr></tbody></table>
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Escasez</b></td><td>Situación en la que los recursos disponibles no bastan para satisfacer todas las necesidades.</td></tr><tr><td><b>Tasa de esfuerzo</b></td><td>Porcentaje de la renta de un hogar destinado al pago de la vivienda.</td></tr><tr><td><b>Gran tenedor</b></td><td>Propietario de un número elevado de viviendas, habitualmente un banco o un fondo de inversión.</td></tr><tr><td><b>Vivienda protegida</b></td><td>La que se promueve con apoyo público y precio limitado, con criterios de acceso regulados.</td></tr><tr><td><b>Eficiencia</b></td><td>Obtener el máximo resultado posible con los recursos disponibles.</td></tr><tr><td><b>Equidad</b></td><td>Criterio de justicia en el reparto de lo disponible.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Economía</b></td><td>Ciencia social que estudia cómo las personas y las sociedades deciden usar unos recursos limitados para satisfacer unas necesidades que no tienen límite. Su pregunta de fondo es siempre la misma: qué hacemos cuando no hay para todo.</td></tr>
+<tr><td><b>Escasez</b></td><td>Situación en la que los recursos disponibles no bastan para satisfacer todas las necesidades. No significa que algo sea raro, sino que no llega para todos los usos que querríamos darle. La vivienda en Málaga es escasa aunque haya miles de pisos.</td></tr>
+<tr><td><b>Usos alternativos</b></td><td>Los distintos destinos que se pueden dar a un mismo recurso. Un piso puede ser vivienda habitual, piso turístico u oficina, pero no las tres cosas a la vez.</td></tr>
+<tr><td><b>Coste de oportunidad</b></td><td>El valor de la mejor alternativa a la que renuncias cuando eliges. Si el propietario alquila a turistas, su coste de oportunidad es el alquiler anual que habría cobrado a una familia. Lo estudiarás a fondo en la sesión 6.</td></tr>
+<tr><td><b>Precio</b></td><td>Cantidad de dinero que se paga por un bien. Además de un número, es una <b>señal</b>: informa de lo escaso que es algo y de cuánto lo desean compradores y vendedores.</td></tr>
+<tr><td><b>Tasa de esfuerzo</b></td><td>Porcentaje de la renta de un hogar que se destina a pagar la vivienda (alquiler o hipoteca). Se calcula dividiendo el gasto en vivienda entre los ingresos y multiplicando por 100.</td></tr>
+<tr><td><b>Gran tenedor</b></td><td>Propietario de un número elevado de viviendas, normalmente bancos, fondos de inversión o grandes empresas. La Ley de Vivienda de 2023 los define como titulares de más de diez viviendas, o de más de cinco en zonas declaradas de mercado tensionado.</td></tr>
+<tr><td><b>Vivienda de uso turístico</b></td><td>Vivienda que se alquila por días o semanas a visitantes, en lugar de como residencia habitual. Necesita un registro autonómico y compite por el mismo parque de viviendas que el alquiler residencial.</td></tr>
+<tr><td><b>Vivienda protegida</b></td><td>Vivienda promovida con ayuda pública, con un precio máximo de venta o alquiler y requisitos de acceso (ingresos, colectivos prioritarios). Es una forma de corregir la escasez sin dejarlo todo al precio.</td></tr>
+<tr><td><b>Eficiencia</b></td><td>Obtener el máximo resultado posible con los recursos disponibles, sin desperdiciarlos.</td></tr>
+<tr><td><b>Equidad</b></td><td>Criterio de justicia en el reparto: que lo disponible llegue a quienes más lo necesitan o se distribuya de forma considerada justa. Lo eficiente y lo equitativo no siempre coinciden.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=VQkNccq7eR4 | Qué es la economía | Econosublime · 5:42
+https://www.youtube.com/watch?v=Eu7wp91FNgY | ¿Qué es la escasez económica? | Econosublime · 3:55
+```

@@ -2,6 +2,12 @@
 titulo: 'Sesión 2 · Exploración: el mapa de precios de Málaga'
 ---
 
+Hoy no os vamos a contar cuánto cuesta vivir en Málaga. Lo vais a averiguar vosotros, distrito a distrito.
+
+Y con una regla que va a acompañaros el resto de la unidad: **ningún dato vale sin su fuente**. Cada cifra se busca en **dos** sitios distintos y se anota con su fecha y sobre cuántos anuncios está calculada.
+
+Cuando las dos fuentes no coincidan, y no van a coincidir, tendréis que decidir cuál os creéis y explicar por qué.
+
 ## Guía docente · Sesión 2 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de indagación con fuentes reales</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (contextualización)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro del grupo base · puesta en común en gran grupo</td><td><b>Carácter</b></td><td>Formativa · primera entrada del portafolio de la unidad</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de tres ítems durante la investigación · P: ficha de recogida de datos con conclusión y pregunta pendiente</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
@@ -33,15 +39,6 @@ El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas par
 - ¿Coincide el distrito más caro de alquiler con el más caro de compra?
 - ¿Qué distritos tienen más anuncios disponibles, y qué puede significar eso?
 
-::: aviso Material que debes preparar tú
-- **Reparto de distritos de Málaga**, uno por pareja, preparado de antemano para cubrir toda la ciudad sin repeticiones.
-- **Ficha de recogida de datos**, una por estudiante: cuatro campos numéricos, dos fuentes con fecha y tamaño de muestra, casilla de justificación ante discrepancia, conclusión personal y pregunta pendiente.
-- **Dispositivos con conexión**, uno por pareja como mínimo.
-- **Mapa de Málaga por distritos**, proyectado o en papel de gran formato para el volcado colectivo.
-- **Lista de cotejo digital** con los tres ítems de la sesión.
-- **Sello o cámara** para cerrar las fichas al recogerlas.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El distrito asignado puede ser el propio o uno conocido, de modo que la indagación parte de un territorio con el que el alumnado tiene relación directa.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha fija de antemano los campos que hay que rellenar y el orden de la búsqueda, lo que evita que la tarea se disuelva en una navegación sin criterio.</td></tr></tbody></table>
@@ -49,14 +46,6 @@ El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas par
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
-
-## Para empezar
-
-Hoy no os vamos a contar cuánto cuesta vivir en Málaga. Lo vais a averiguar vosotros, distrito a distrito.
-
-Y con una regla que va a acompañaros el resto de la unidad: **ningún dato vale sin su fuente**. Cada cifra se busca en **dos** sitios distintos y se anota con su fecha y sobre cuántos anuncios está calculada.
-
-Cuando las dos fuentes no coincidan, y no van a coincidir, tendréis que decidir cuál os creéis y explicar por qué.
 
 ## Diapositivas de la sesión
 
@@ -83,17 +72,23 @@ De cada fuente hay que anotar **tres cosas**: cuál es, de qué **fecha** es el 
 
 <table><thead><tr><th width="30%">Dato en discrepancia</th><th width="24%">Fuente que tomamos</th><th width="46%">Por qué</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso Aquí está lo que se evalúa
-No se valora acertar el precio. Se valora **decidir con criterio** y poder explicarlo. Escoger al azar cuando dos fuentes no coinciden es exactamente lo que hay que evitar.
+::: aviso Lo importante no es acertar el precio
+Es **decidir con criterio** qué dato te crees y poder explicar por qué. Escoger al azar cuando dos fuentes no coinciden es justo lo que hay que evitar.
 :::
 
 ### El mapa colectivo
 
-Cada pareja vuelca su dato en el mapa de la ciudad. Cuando estén todos, lo leemos juntos:
+Cada pareja escribe los datos de su distrito en el mapa. Cuando estén todos, lo leemos juntos:
 
 - ¿Dónde están los extremos, arriba y abajo?
 - ¿Coincide el distrito más caro de alquiler con el más caro de compra?
 - ¿Qué distritos tienen más anuncios disponibles, y qué puede significar eso?
+
+```mapa-precios
+id: sda01-s02-mapa
+titulo: El mapa de precios de Málaga
+instrucciones: Pulsa en tu distrito o abre la tabla de datos y escribe las cifras que habéis encontrado. Con el selector puedes colorear el mapa por cada una de las cuatro variables. Los datos se guardan en este dispositivo y puedes descargarlos en CSV.
+```
 
 ## Cierre individual
 
@@ -101,66 +96,127 @@ Con el mapa todavía proyectado, y **en el aula**:
 
 <table><thead><tr><th width="28%"></th><th width="72%">Qué escribes</th></tr></thead><tbody><tr><td><b>Tu conclusión personal</b></td><td>Una idea que te llevas del mapa. Tuya, no la de tu pareja.</td></tr><tr><td><b>Tu pregunta pendiente</b></td><td>Algo que el mapa te ha hecho preguntarte y que hoy no puedes responder.</td></tr></tbody></table>
 
-::: nota Por qué se recogen y se sellan
-Los datos son de la pareja, pero **la conclusión y la pregunta son tuyas**. Eso permite valorar tu trabajo sin que dependa del de nadie. Las fichas se sellan al recogerlas y se devuelven en la sesión 3 para el portafolio.
-:::
 
 ## Comprueba lo que sabes
 
 ```actividad
 id: sda01-s02-repaso
-tipo: verdadero-falso
+tipo: test
 titulo: Comprueba lo que sabes
 puntua: false
-instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después la explicación. **No cuenta para la nota**: sirve para que sepas por dónde andas.'
+instrucciones: 'Elige la respuesta correcta y lee después la explicación. **No cuenta para la nota**: sirve para que sepas por dónde andas.'
 preguntas:
-- enunciado: Si dos portales dan precios distintos para el mismo distrito, uno de los dos está mintiendo.
-  respuesta: falso
-  explicacion: '**Falso.** Pueden ser ciertos los dos. Miden cosas distintas, en fechas distintas y sobre muestras distintas.'
-- enunciado: Una media calculada sobre 12 anuncios vale lo mismo que una calculada sobre 900.
-  respuesta: falso
-  explicacion: '**Falso.** Con pocos anuncios, un solo piso muy caro o muy barato mueve mucho la media.'
-- enunciado: El precio que aparece en un anuncio es el precio pedido, no necesariamente el precio al que se cierra el trato.
-  respuesta: verdadero
-  explicacion: '**Verdadero.** Por eso las fuentes oficiales y los portales no siempre coinciden.'
-- enunciado: Para que un dato sea trazable hay que anotar la fuente, la fecha y sobre cuántos anuncios está calculado.
-  respuesta: verdadero
-  explicacion: '**Verdadero.** Es la regla de trazabilidad que os acompañará toda la unidad.'
-- enunciado: Muchos anuncios disponibles en un distrito indican siempre que allí la vivienda es barata.
-  respuesta: falso
-  explicacion: '**Falso.** Puede indicar mucha rotación, mucha vivienda turística o simplemente un distrito grande. Hay que preguntarse por qué.'
+- enunciado: En vuestro mapa, el alquiler en el Centro es mucho más caro que en Campanillas. ¿Qué indica sobre todo ese precio más alto?
+  opciones:
+    - Que los propietarios del Centro son más ambiciosos
+    - Que allí la vivienda es más escasa en relación con todas las personas que quieren vivir en ella
+    - Que las viviendas del Centro son siempre más grandes
+  correcta: 2
+  explicacion: El precio es una señal de escasez. Cuando muchas personas quieren vivir en un sitio y hay pocas viviendas disponibles, el precio sube.
+- enunciado: Un piso del Centro puede alquilarse a una familia o como vivienda turística. ¿Cómo se llama en Economía lo que se pierde al elegir uno de los dos usos?
+  opciones:
+    - Coste de oportunidad
+    - Coste fijo
+    - Inflación
+  correcta: 1
+  explicacion: El coste de oportunidad es el valor de la mejor alternativa a la que renuncias. Cada piso turístico es un piso que deja de estar disponible para vivir.
+- enunciado: Una familia ingresa 1.800 € al mes y paga 900 € de alquiler. ¿Cuál es su tasa de esfuerzo?
+  opciones:
+    - 20 %
+    - 50 %
+    - 200 %
+  correcta: 2
+  explicacion: 900 entre 1.800 es 0,5, es decir, el 50 % de su renta se va en la vivienda. A partir del 30-35 % se considera que la vivienda desplaza otros gastos básicos.
+- enunciado: ¿Por qué decimos que la vivienda en Málaga es un recurso escaso aunque haya miles de pisos?
+  opciones:
+    - Porque se acabará pronto
+    - Porque no hay suficientes viviendas, al precio que pueden pagar, para todas las personas que las necesitan o las quieren
+    - Porque está prohibido construir más
+  correcta: 2
+  explicacion: Escasez no significa que algo sea raro. Significa que no llega para todos los usos y todas las personas que lo desean.
+- enunciado: Dos portales dan precios distintos para el mismo distrito. ¿Cuál es la explicación más probable?
+  opciones:
+    - Uno de los dos miente
+    - Miden cosas distintas, en fechas distintas o sobre muestras distintas
+    - Los precios de la vivienda no se pueden medir
+  correcta: 2
+  explicacion: Pueden ser ciertos los dos. Por eso hay que anotar la fuente, la fecha y el tamaño de la muestra de cada dato.
+- enunciado: Si en un distrito hay muchos anuncios de alquiler turístico y pocos de alquiler residencial, ¿qué le pasará previsiblemente al alquiler para vivir?
+  opciones:
+    - Bajará, porque hay muchos anuncios
+    - Subirá, porque hay menos viviendas disponibles para residir
+    - No cambiará
+  correcta: 2
+  explicacion: Si se reduce la oferta de vivienda residencial y la demanda se mantiene, el precio tiende a subir.
+- enunciado: La vivienda satisface una necesidad. ¿De qué tipo?
+  opciones:
+    - Una necesidad primaria, imprescindible para vivir
+    - Una necesidad secundaria, de lujo
+    - No es una necesidad, es un capricho
+  correcta: 1
+  explicacion: Tener un techo es una necesidad primaria. Lo veremos con la pirámide de Maslow en la sesión 4.
 ```
 
 ## Apuntes de la sesión
 
-### 1. Qué habéis hecho hoy
+### Por qué la vivienda no cuesta lo mismo en toda la ciudad
 
-Habéis construido una fotografía del mercado de la vivienda de Málaga con datos reales, distrito a distrito. Pero lo importante no es la fotografía: es **cómo** la habéis construido.
+Un metro cuadrado en el Centro no vale lo mismo que en Campanillas, aunque los ladrillos cuesten igual. La diferencia la explica la **escasez relativa**: en algunos distritos hay muchas más personas que quieren vivir de las que caben.
 
-### 2. La regla de trazabilidad del dato
+- **La demanda.** Cuántas personas quieren vivir en un sitio y cuánto están dispuestas a pagar. Influyen la cercanía al trabajo, al mar, a los servicios y al transporte, y también el turismo.
+- **La oferta.** Cuántas viviendas hay disponibles. Construir lleva años y el suelo es limitado, así que la oferta reacciona despacio.
+- **El precio.** Cuando la demanda crece más deprisa que la oferta, el precio sube. Por eso el precio funciona como una **señal**: nos dice dónde la vivienda es más escasa.
+
+Lo estudiarás a fondo en la SdA 5, con el modelo de oferta y demanda. Por ahora, quédate con la idea: **un precio alto es el síntoma de que algo escasea**.
+
+### La tasa de esfuerzo
+
+Para saber si una vivienda es asequible no basta con mirar el precio. Hay que compararlo con lo que se gana.
+
+<table><thead><tr><th width="40%">Cómo se calcula</th><th width="60%">Ejemplo</th></tr></thead><tbody><tr><td>Tasa de esfuerzo = gasto en vivienda ÷ ingresos del hogar × 100</td><td>Un hogar que ingresa 1.800 € al mes y paga 900 € de alquiler tiene una tasa de esfuerzo del 50 %. La mitad de lo que entra se va en la vivienda.</td></tr></tbody></table>
+
+Se suele considerar que a partir del **30-35 %** la vivienda empieza a desplazar otros gastos básicos, como la comida, el transporte o la ropa.
+
+### La regla de trazabilidad del dato
 
 ::: nota Tres cosas por cada dato
 1. **La fuente**: de dónde sale exactamente.
-2. **La fecha**: un precio de vivienda de hace tres años no describe el mercado de hoy.
-3. **El tamaño de muestra**: sobre cuántos anuncios está calculada esa media.
+2. **La fecha**: un precio de hace tres años no describe el mercado de hoy.
+3. **El tamaño de la muestra**: sobre cuántos anuncios está calculada esa media.
 
-Esta regla se va a exigir en **todos** los productos posteriores de la unidad, incluido el dossier del juicio de la sesión 10.
+Esta regla se exige en todo lo que hagas en la unidad, incluido el dossier del juicio.
 :::
 
-### 3. Por qué dos fuentes y no una
+### Por qué dos fuentes y no una
 
-Porque no coinciden. Y esa discrepancia no es un fallo: es información.
+Porque no coinciden, y esa discrepancia también es información. Dos portales pueden dar precios distintos para el mismo distrito porque uno recoge el **precio pedido** y otro el **precio cerrado**, porque su muestra es distinta o porque la fecha no es la misma. Quien solo consulta una fuente no sabe que existe esa diferencia.
 
-Dos portales inmobiliarios pueden dar precios distintos para el mismo distrito porque miden cosas distintas, uno el precio pedido y otro el precio cerrado, porque su muestra es distinta o porque la fecha no es la misma. Quien solo consulta una fuente **no sabe que existe esa diferencia**.
+<table><thead><tr><th width="34%">Fuente</th><th width="66%">Qué ofrece</th></tr></thead><tbody><tr><td><b>Portales inmobiliarios</b></td><td>Precios pedidos en los anuncios, actualizados cada mes, por distrito o barrio.</td></tr><tr><td><b>Sistema Estatal de Referencia del Precio del Alquiler</b></td><td>Datos oficiales del Ministerio de Vivienda a partir de los contratos declarados a Hacienda.</td></tr><tr><td><b>INE e IECA</b></td><td>Estadísticas oficiales de precios de vivienda, viviendas turísticas y renta de los hogares.</td></tr></tbody></table>
 
-Lo que se os pide no es acertar, sino **decidir con criterio y poder justificarlo**.
+### Una advertencia sobre las medias
 
-### 4. Y una advertencia sobre las medias
-
-Una media de precios de un distrito entero esconde mucho. Puede haber en el mismo distrito viviendas que triplican esa media y otras que no llegan a la mitad. La media orienta, pero no describe la experiencia de nadie en particular.
-
-Es la primera vez en el curso que os topáis con esto, y no va a ser la última.
+Una media de un distrito entero esconde mucho. En el mismo distrito puede haber viviendas que triplican esa media y otras que no llegan a la mitad. La media orienta, pero no describe la experiencia de nadie en particular.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Fuente</b></td><td>Origen concreto y citable de un dato.</td></tr><tr><td><b>Tamaño de muestra</b></td><td>Número de casos sobre los que se ha calculado una media o un porcentaje.</td></tr><tr><td><b>Precio pedido</b></td><td>El que figura en el anuncio, que puede no ser el de la operación.</td></tr><tr><td><b>Precio cerrado</b></td><td>Aquel al que efectivamente se firma la operación.</td></tr><tr><td><b>Trazabilidad del dato</b></td><td>Posibilidad de reconstruir de dónde, de cuándo y de qué muestra procede una cifra.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Mercado</b></td><td>Cualquier lugar o mecanismo, físico o digital, en el que compradores y vendedores se ponen de acuerdo sobre un precio. Un portal inmobiliario es un mercado.</td></tr>
+<tr><td><b>Demanda</b></td><td>Cantidad de un bien que las personas quieren y pueden comprar a cada precio.</td></tr>
+<tr><td><b>Oferta</b></td><td>Cantidad de un bien que los vendedores quieren y pueden vender a cada precio.</td></tr>
+<tr><td><b>Escasez relativa</b></td><td>Escasez que depende de cuánto se desea algo en relación con lo que hay disponible. La vivienda es más escasa en el Centro que en la periferia porque allí la desean muchas más personas.</td></tr>
+<tr><td><b>Señal de precio</b></td><td>Información que transmite un precio. Un precio alto avisa de que algo escasea y anima a producir más de ello; uno bajo, de lo contrario.</td></tr>
+<tr><td><b>Tasa de esfuerzo</b></td><td>Porcentaje de los ingresos de un hogar que se dedica a pagar la vivienda.</td></tr>
+<tr><td><b>Precio pedido</b></td><td>El que figura en el anuncio. Puede no ser el de la operación final.</td></tr>
+<tr><td><b>Precio cerrado</b></td><td>Aquel al que efectivamente se firma la compra o el alquiler.</td></tr>
+<tr><td><b>Media</b></td><td>Resultado de sumar todos los valores y dividir entre cuántos hay. Resume, pero puede ocultar diferencias grandes.</td></tr>
+<tr><td><b>Tamaño de muestra</b></td><td>Número de casos sobre los que se calcula una media o un porcentaje. Cuanto mayor es, más fiable suele ser el resultado.</td></tr>
+<tr><td><b>Fuente</b></td><td>Origen concreto y citable de un dato: quién lo publica, dónde y cuándo.</td></tr>
+<tr><td><b>Trazabilidad del dato</b></td><td>Posibilidad de reconstruir de dónde, de cuándo y de qué muestra procede una cifra.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=QdYya8wR3m4 | La ley de oferta y demanda en 5 minutos | Economipedia · 5:24
+https://www.youtube.com/watch?v=Eu7wp91FNgY | ¿Qué es la escasez económica? | Econosublime · 3:55
+```

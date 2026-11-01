@@ -137,6 +137,7 @@
     abrirAncla();
 
     $$('.act').forEach((el) => { try { iniciarActividad(el, almacen); } catch (e) { console.error(e); } });
+    $$('.mapa').forEach((el) => { try { iniciarMapa(el, almacen); } catch (e) { console.error(e); } });
     $$('[data-informe]').forEach((b) => b.addEventListener('click', () => imprimirInforme(almacen)));
     $$('.diapositivas').forEach(iniciarDiapositivas);
     $$('.video[data-youtube]').forEach(iniciarVideo);
@@ -369,7 +370,7 @@
     const cat = JSON.parse(body.dataset.actividades || '{}');
     const datos = almacen.todas();
     const s = almacen.resumen();
-    const nombres = { 'verdadero-falso': 'Verdadero o falso', test: 'Test', rellenar: 'Completar', emparejar: 'Relacionar', ordenar: 'Ordenar', clasificar: 'Clasificar', 'respuesta-abierta': 'Respuesta abierta', autoevaluacion: 'Autoevaluación' };
+    const nombres = { mapa: 'Mapa colectivo', 'verdadero-falso': 'Verdadero o falso', test: 'Test', rellenar: 'Completar', emparejar: 'Relacionar', ordenar: 'Ordenar', clasificar: 'Clasificar', 'respuesta-abierta': 'Respuesta abierta', autoevaluacion: 'Autoevaluación' };
     let pag = '';
     const filas = Object.entries(cat).map(([id, a]) => {
       const g = datos[id];
@@ -378,7 +379,10 @@
       let estado = '<span class="no">Sin hacer</span>';
       let detalle = '';
       if (g && g.h) {
-        if (a.k === 'respuesta-abierta' || a.k === 'autoevaluacion') {
+        if (a.k === 'mapa') {
+          estado = 'Guardado';
+          detalle = `${Object.keys((g.r) || {}).length} distritos con datos`;
+        } else if (a.k === 'respuesta-abierta' || a.k === 'autoevaluacion') {
           estado = 'Guardada';
           const t = (g.r && g.r.t) || [];
           const l = (g.r && g.r.l) || [];
@@ -414,6 +418,81 @@
       `<h1>${esc(document.querySelector('.barra-unidad')?.textContent || '')} · Autoevaluación de cierre</h1><p>Nombre: ______________________ Grupo: ______ Fecha: ${new Date().toLocaleDateString('es-ES')}</p>${filas}` +
       (mejora ? `<h2>Aspecto concreto de mejora</h2><p>${esc(mejora.value || '–')}</p>` : '') + '<script>print()<\/script></html>');
     w.document.close();
+  }
+
+
+  /* ───────────────────────── Mapa de precios por distritos ───────────────────────── */
+  function iniciarMapa(el, almacen) {
+    const c = JSON.parse(el.dataset.config);
+    const g = almacen.act(c.id);
+    let datos = (g && g.r) || {};
+    const sel = $('[data-mapa-var]', el);
+    const info = $('.mapa-info', el);
+    const res = $('.act-res', el);
+    const nombre = Object.fromEntries(c.distritos.map((d) => [d.n, d.nombre]));
+    const fmt = (v) => (v === undefined || v === '' || v === null ? '–' : Number(v).toLocaleString('es-ES'));
+    const variable = () => c.vars.find((v) => v.clave === sel.value) || c.vars[0];
+    // escala de color: crema → salmón → teja → teja oscuro
+    const paleta = ['#FDF3EC', '#F0C4AC', '#C1694A', '#6E2E1A'];
+    const mezcla = (a, b, t) => { const h = (s) => [1, 3, 5].map((i) => parseInt(s.slice(i, i + 2), 16)); const A = h(a), B = h(b); return '#' + A.map((x, i) => Math.round(x + (B[i] - x) * t).toString(16).padStart(2, '0')).join(''); };
+    const color = (t) => { const s = t * (paleta.length - 1); const i = Math.min(paleta.length - 2, Math.floor(s)); return mezcla(paleta[i], paleta[i + 1], s - i); };
+    function pintar() {
+      const v = variable();
+      const vals = c.distritos.map((d) => [d.n, Number((datos[d.n] || {})[v.clave])]).filter(([, x]) => x > 0);
+      const min = Math.min(...vals.map(([, x]) => x)), max = Math.max(...vals.map(([, x]) => x));
+      $$('path[data-n]', el).forEach((p) => {
+        const x = Number((datos[p.dataset.n] || {})[v.clave]);
+        p.style.fill = x > 0 ? color(max > min ? (x - min) / (max - min) : 0.5) : '';
+        p.classList.toggle('sin-dato', !(x > 0));
+      });
+      $$('.mapa-etq text', el).forEach((t) => {
+        const x = Number((datos[t.dataset.n] || {})[v.clave]);
+        t.classList.toggle('claro', x > 0 && max > min && (x - min) / (max - min) > 0.55);
+      });
+      $('[data-min]', el).textContent = vals.length ? `${fmt(min)} ${v.unidad}` : '–';
+      $('[data-max]', el).textContent = vals.length ? `${fmt(max)} ${v.unidad}` : '–';
+      const rank = vals.sort((a, b) => b[1] - a[1]);
+      $('.mapa-ranking', el).innerHTML = rank.length
+        ? rank.map(([n, x]) => `<li><span class="mapa-num">${n}</span> ${nombre[n]} <b>${fmt(x)}</b></li>`).join('')
+        : '<li class="vacio-r">Aún no hay datos. Ábrelos abajo y escribe los de tu distrito.</li>';
+    }
+    function mostrar(n) {
+      const d = datos[n] || {};
+      info.innerHTML = `<b>${n}. ${nombre[n]}</b> · ` + c.vars.map((v) => `${v.nombre}: ${fmt(d[v.clave])}${d[v.clave] ? ' ' + v.unidad : ''}`).join(' · ');
+    }
+    $$('input[data-n]', el).forEach((i) => {
+      const v = (datos[i.dataset.n] || {})[i.dataset.v];
+      if (v !== undefined) i.value = v;
+      i.addEventListener('input', () => {
+        const n = i.dataset.n;
+        datos[n] = datos[n] || {};
+        if (i.value === '') delete datos[n][i.dataset.v]; else datos[n][i.dataset.v] = Number(i.value);
+        almacen.guardarAct(c.id, { r: datos, h: 1 });
+        pintar();
+        mostrar(n);
+      });
+    });
+    $$('path[data-n]', el).forEach((p) => {
+      ['mouseenter', 'focus'].forEach((e) => p.addEventListener(e, () => mostrar(p.dataset.n)));
+      p.addEventListener('click', () => {
+        const det = $('.mapa-datos', el); det.open = true;
+        const inp = $(`input[data-n="${p.dataset.n}"]`, el); inp.focus();
+      });
+    });
+    sel.addEventListener('change', pintar);
+    $('[data-mapa-borrar]', el).addEventListener('click', () => {
+      if (!confirm('¿Seguro que quieres vaciar todos los datos del mapa?')) return;
+      datos = {}; $$('input[data-n]', el).forEach((i) => { i.value = ''; });
+      almacen.guardarAct(c.id, { r: datos, h: 1 }); pintar(); res.textContent = 'Mapa vaciado.';
+    });
+    $('[data-mapa-csv]', el).addEventListener('click', () => {
+      const filas = [['Distrito', ...c.vars.map((v) => `${v.nombre} (${v.unidad})`)]].concat(c.distritos.map((d) => [`${d.n}. ${d.nombre}`, ...c.vars.map((v) => (datos[d.n] || {})[v.clave] ?? '')]));
+      const csv = filas.map((f) => f.map((x) => `"${String(x).replace(/"/g, '""')}"`).join(';')).join('\n');
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' }));
+      a.download = 'mapa-precios-malaga.csv'; a.click();
+    });
+    pintar();
   }
 
   /* ───────────────────────── Diapositivas ───────────────────────── */

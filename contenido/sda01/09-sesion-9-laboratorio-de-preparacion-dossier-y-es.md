@@ -2,6 +2,12 @@
 titulo: 'Sesión 9 · Laboratorio de preparación: dossier y estrategia de juicio'
 ---
 
+Hoy se junta todo. Poned sobre la mesa el portafolio y **todos** vuestros apuntes de la unidad.
+
+De aquí salen dos cosas. El **dossier** de vuestra parte y el **alegato inicial de 2 minutos** con el que abriréis el Juicio en la próxima sesión.
+
+Y una exigencia innegociable: **al menos un dato oficial**.
+
 ## Guía docente · Sesión 9 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 + 1.3 (preparación; no se califica de forma sumativa)</td><td><b>Saberes básicos</b></td><td>A1, A2, A5, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base heterogéneos de 4</td><td><b>Carácter</b></td><td>Formativa (taller de trabajo cooperativo, no calificable)</td></tr><tr><td><b>Instrumentos</b></td><td>OD: seguimiento formativo del proceso de elaboración del dossier y del alegato</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
@@ -14,7 +20,7 @@ titulo: 'Sesión 9 · Laboratorio de preparación: dossier y estrategia de juici
 
 **1. Enfoque (5 min).** Reparte las pautas del dossier y asigna de forma **definitiva** qué parte defenderá cada grupo base en el Juicio.
 
-**Revisión de subroles**: dentro de cada grupo, el reparto de Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell se revisa para evitar patrones estereotipados por género acumulados en sesiones anteriores (por ejemplo, que el Portavoz sea sistemáticamente un chico o la Secretaria sistemáticamente una chica). Si el grupo repite patrón, **propón una rotación**.
+**Revisión de subroles**: dentro de cada grupo, el reparto de Coordinador/a, Secretario/a, Portavoz y Guardián/a de los conceptos se revisa para evitar patrones estereotipados por género acumulados en sesiones anteriores (por ejemplo, que el Portavoz sea sistemáticamente un chico o la Secretaria sistemáticamente una chica). Si el grupo repite patrón, **propón una rotación**.
 
 **2. El laboratorio (40 min).** Que abran los portafolios y pongan sobre la mesa **todos** los apuntes Cornell de la unidad. El objetivo es doble: confeccionar el dossier respondiendo a las preguntas de análisis económico aplicadas al caso de la vivienda en Málaga, con **al menos un dato oficial** (IECA, INE, Banco de España o Ministerio de Vivienda); y preparar el **alegato inicial de 2 minutos** anticipando contrargumentos de las otras partes.
 
@@ -29,14 +35,6 @@ Circula por las mesas. Los grupos con la Parte 4 necesitan un apoyo distinto. No
 - ¿Aparece en vuestro dossier la distinción entre escasez de vivienda y escasez natural?
 - ¿Vuestro reparto de subroles repite patrones de sesiones anteriores?
 
-::: aviso Material que debes preparar tú
-- **Plantilla de dossier estructurado**, una por grupo base.
-- **Los portafolios y apuntes Cornell** de las sesiones 3, 4, 6 y 7: son el material de partida, no un complemento.
-- **Acceso a fuentes oficiales**: IECA, INE, Banco de España y Ministerio de Vivienda, para el dato obligatorio sobre vivienda turística, tasa de esfuerzo hipotecario, concentración de grandes tenedores o desahucios en la provincia.
-- **Tarjetas de las cuatro partes** del Juicio para la asignación definitiva.
-- **Revisa el reparto de subroles** por sesgo de género acumulado antes de que empiecen a trabajar.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El dossier se descompone en apartados explícitos y el control de calidad intermedio verifica los términos clave antes de la sesión evaluable, funcionando como andamiaje de planificación.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La revisión explícita del reparto de subroles para evitar patrones estereotipados acumulados hace visible una dinámica que suele pasar inadvertida y la corrige antes de la sesión sumativa.</td></tr></tbody></table>
@@ -44,14 +42,6 @@ Circula por las mesas. Los grupos con la Parte 4 necesitan un apoyo distinto. No
 ::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega **por escrito** el resultado del control de calidad. Si asume la Portavocía, garantiza un ensayo previo completo de los 2 minutos de alegato.
 :::
-
-## Para empezar
-
-Hoy se junta todo. Abrid los portafolios y poned sobre la mesa **todos** vuestros apuntes Cornell de la unidad.
-
-De aquí salen dos cosas. El **dossier** de vuestra parte y el **alegato inicial de 2 minutos** con el que abriréis el Juicio mañana.
-
-Y una exigencia innegociable: **al menos un dato oficial**.
 
 ## Diapositivas de la sesión
 
@@ -88,12 +78,38 @@ La escasez de vivienda **no es una escasez natural**. No falta suelo ni faltan m
 
 ### Revisión de subroles
 
-<table><thead><tr><th width="28%">Subrol</th><th width="72%">Responsabilidad</th></tr></thead><tbody><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y el avance del dossier.</td></tr><tr><td><b>Secretario/a</b></td><td>Redacta las respuestas consensuadas.</td></tr><tr><td><b>Portavoz</b></td><td>Expone el alegato inicial de 2 minutos en el Juicio.</td></tr><tr><td><b>Controlador/a del Cornell</b></td><td>Verifica que se usan los términos clave con precisión.</td></tr></tbody></table>
+<table><thead><tr><th width="28%">Subrol</th><th width="72%">Responsabilidad</th></tr></thead><tbody><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y el avance del dossier.</td></tr><tr><td><b>Secretario/a</b></td><td>Redacta las respuestas consensuadas.</td></tr><tr><td><b>Portavoz</b></td><td>Expone el alegato inicial de 2 minutos en el Juicio.</td></tr><tr><td><b>Guardián/a de los conceptos</b></td><td>Verifica que se usan los términos clave con precisión.</td></tr></tbody></table>
 
 ::: aviso Una revisión explícita
 Comprobad que el reparto **no repite patrones estereotipados por género** acumulados en sesiones anteriores. Que el Portavoz no sea sistemáticamente un chico ni la Secretaria sistemáticamente una chica. Si vuestro grupo repite patrón, hay que rotar.
 :::
 
+## Dónde buscar el dato oficial
+
+<table><thead><tr><th width="30%">Fuente</th><th width="70%">Qué podéis encontrar</th></tr></thead><tbody>
+<tr><td><a href="https://www.ine.es">INE</a></td><td>Viviendas de uso turístico por provincia y municipio, Índice de Precios de Vivienda, Atlas de distribución de renta de los hogares.</td></tr>
+<tr><td><a href="https://www.juntadeandalucia.es/institutodeestadisticaycartografia">IECA</a></td><td>Estadísticas de Andalucía: población, vivienda, renta y mercado de trabajo por municipio.</td></tr>
+<tr><td><a href="https://www.bde.es">Banco de España</a></td><td>Esfuerzo teórico anual para comprar vivienda, tipos de interés de las hipotecas, informes sobre el mercado inmobiliario.</td></tr>
+<tr><td><a href="https://www.mivau.gob.es">Ministerio de Vivienda</a></td><td>Sistema Estatal de Referencia del Precio del Alquiler, valor tasado de la vivienda, vivienda protegida.</td></tr>
+<tr><td><a href="https://www.poderjudicial.es">CGPJ (Poder Judicial)</a></td><td>Lanzamientos (desahucios) practicados por provincia y por motivo.</td></tr>
+</tbody></table>
+
+::: nota Y no olvidéis la regla de la sesión 2
+Por cada dato, **fuente, fecha y tamaño de la muestra**.
+:::
+
+## Cómo construir el alegato de 2 minutos
+
+::: esquema Una estructura que funciona
+1. **Quiénes somos** Una frase. Qué parte representáis y qué defendéis.
+2. **El problema** Cómo entendéis la escasez de vivienda en Málaga, con un concepto de la unidad.
+3. **El dato** Vuestro dato oficial, con su fuente.
+4. **El argumento** Por qué vuestra postura es defendible: eficiencia, equidad o las dos.
+5. **La propuesta** Una medida concreta que pediréis al Tribunal.
+:::
+
+Dos minutos son unas 250 palabras. Escribidlo entero, leedlo en voz alta con cronómetro y recortad lo que sobre. Y preparad respuestas para las dos preguntas más duras que os puedan hacer las otras partes.
+
 ## Cierre
 
-Lo pendiente se finaliza **cooperativamente en casa**. Y ensayad el alegato con cronómetro. Dos minutos son muchos menos de lo que parecen.
+Lo que quede pendiente se termina en casa, en grupo. Y ensayad el alegato con cronómetro: dos minutos son muchos menos de lo que parecen.

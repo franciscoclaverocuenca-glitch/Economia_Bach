@@ -1,3 +1,4 @@
+import fs from 'node:fs';
 // Markdown → HTML con los bloques especiales del curso:
 //   ::: nota|aviso|idea|ejemplo Título   …   :::
 //   ```actividad      (YAML)  actividades interactivas
@@ -14,7 +15,7 @@ import { renderActividad } from './actividades.mjs';
 export const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
-const CAJAS = ['nota', 'aviso', 'idea', 'ejemplo'];
+const CAJAS = ['nota', 'aviso', 'idea', 'ejemplo', 'esquema'];
 
 export function crearMarkdown(ctx) {
   const md = new MarkdownIt({ html: true, linkify: false, typographer: false, breaks: false });
@@ -57,9 +58,11 @@ export function crearMarkdown(ctx) {
         case 'rubrica':
           return renderRubrica(contenido.trim(), ctx, md);
         case 'video':
-          return renderVideo(contenido.trim());
+          return renderVideo(contenido);
         case 'enlace-anonimo':
           return renderEnlaceAnonimo(cargarYaml(contenido, 'enlace-anonimo'), ctx);
+        case 'mapa-precios':
+          return renderMapa(cargarYaml(contenido, 'mapa-precios'), ctx);
         case 'simulador':
           return renderSimulador(cargarYaml(contenido, 'simulador'), ctx, md);
         default:
@@ -127,7 +130,7 @@ function renderRubrica(criterio, ctx, md) {
     `<section class="rubrica" aria-label="Rúbrica del criterio ${esc(r.criterio)}">` +
     `<p class="rubrica-criterio"><strong>Criterio ${esc(r.criterio)}</strong></p>` +
     `<p class="rubrica-desc">${md.renderInline(r.descripcion)}</p>` +
-    `<dl class="rubrica-meta"><div><dt>Competencia específica</dt><dd>${esc(r.competencia)}</dd></div>` +
+    `<dl class="rubrica-meta solo-docente"><div><dt>Competencia específica</dt><dd>${esc(r.competencia)}</dd></div>` +
     `<div><dt>Saberes básicos</dt><dd>${esc(r.saberes)}</dd></div>` +
     `<div><dt>Descriptores operativos</dt><dd>${esc(String(r.descriptores).replace(/\//g, ' · '))}</dd></div></dl>` +
     `<ol class="rubrica-niveles">${niveles}</ol></section>\n`
@@ -139,16 +142,27 @@ function idYoutube(url) {
   return m && m[1];
 }
 
-function renderVideo(url) {
-  const id = idYoutube(url);
-  if (!id) return `<p><a href="${esc(url)}" target="_blank" rel="noopener">Ver el vídeo</a></p>`;
+function tarjetaVideo(id, titulo, autor) {
   return (
     `<div class="video" data-youtube="${id}">` +
-    `<button type="button" class="video-play" aria-label="Reproducir el vídeo (se carga desde YouTube)">` +
+    `<button type="button" class="video-play" aria-label="Reproducir${titulo ? ` «${esc(titulo)}»` : ' el vídeo'} (se carga desde YouTube)">` +
     `<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy">` +
     `<span class="video-icono" aria-hidden="true"></span></button>` +
-    `<p class="video-pie">El vídeo se carga desde YouTube al pulsar. <a href="https://www.youtube.com/watch?v=${id}" target="_blank" rel="noopener">Abrir en YouTube</a></p></div>\n`
+    (titulo ? `<p class="video-titulo">${esc(titulo)}</p>` : '') +
+    `<p class="video-pie">${autor ? `${esc(autor)} · ` : ''}<a href="https://www.youtube.com/watch?v=${id}" target="_blank" rel="noopener">Abrir en YouTube</a></p></div>`
   );
+}
+
+// Una línea por vídeo: «url» o «url | título | canal · duración»
+function renderVideo(contenido) {
+  const lineas = contenido.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+  const items = lineas.map((l) => {
+    const [url, titulo, autor] = l.split('|').map((x) => x.trim());
+    const id = idYoutube(url);
+    if (!id) return `<p><a href="${esc(url)}" target="_blank" rel="noopener">${esc(titulo || 'Ver el vídeo')}</a></p>`;
+    return tarjetaVideo(id, titulo, autor);
+  });
+  return items.length > 1 ? `<div class="videos">${items.join('')}</div>\n` : `${items[0] || ''}\n`;
 }
 
 function renderEnlaceAnonimo(d, ctx) {
@@ -168,5 +182,43 @@ function renderSimulador(d, ctx, md) {
   return (
     `<div class="simulador" data-simulador="${esc(d.tipo)}" data-config="${esc(JSON.stringify(d))}">` +
     `<p class="sin-js">Este simulador necesita JavaScript.</p></div>\n`
+  );
+}
+
+// Mapa coroplético de los distritos de Málaga para recoger datos en clase
+let GEO = null;
+function geoMalaga() {
+  if (!GEO) GEO = JSON.parse(fs.readFileSync(new URL('../datos/malaga-distritos.json', import.meta.url), 'utf8'));
+  return GEO;
+}
+const VARIABLES_MAPA = [
+  { clave: 'alquiler', nombre: 'Alquiler medio', unidad: '€/mes' },
+  { clave: 'compra', nombre: 'Precio de compra', unidad: '€/m²' },
+  { clave: 'anuncios', nombre: 'Anuncios disponibles', unidad: 'anuncios' },
+  { clave: 'superficie', nombre: 'Superficie media', unidad: 'm²' },
+];
+function renderMapa(d, ctx) {
+  if (!d.id || !/^[a-z0-9-]+$/.test(d.id)) throw new Error('falta «id» (minúsculas, números y guiones)');
+  const g = geoMalaga();
+  const vars = d.variables || VARIABLES_MAPA;
+  ctx.registrarActividad({ id: d.id, tipo: 'mapa', titulo: d.titulo || 'Mapa de precios' });
+  const conf = { id: d.id, vars, ref: d.referencia || null, distritos: g.distritos.map((x) => ({ n: x.n, nombre: x.nombre })) };
+  const paths = g.distritos.map((x) => `<path d="${x.d}" data-n="${x.n}" tabindex="0" role="button" aria-label="${esc(x.nombre)}"><title>${esc(x.nombre)}</title></path>`).join('');
+  const etiquetas = g.distritos.map((x) => `<text x="${x.cx}" y="${x.cy}" data-n="${x.n}">${x.n}</text>`).join('');
+  const filas = g.distritos
+    .map((x) => `<tr data-n="${x.n}"><th scope="row"><span class="mapa-num">${x.n}</span> ${esc(x.nombre)}</th>${vars.map((v) => `<td><input type="number" inputmode="decimal" min="0" step="any" data-n="${x.n}" data-v="${esc(v.clave)}" aria-label="${esc(v.nombre)} en ${esc(x.nombre)} (${esc(v.unidad)})"></td>`).join('')}</tr>`)
+    .join('');
+  return (
+    `<div class="mapa" data-mapa="${esc(d.id)}" data-config="${esc(JSON.stringify(conf))}">` +
+    `<p class="act-etiqueta">Mapa colectivo</p><p class="act-titulo">${esc(d.titulo || 'El mapa de precios de Málaga')}</p>` +
+    (d.instrucciones ? `<div class="act-instr"><p>${esc(d.instrucciones)}</p></div>` : '') +
+    `<div class="mapa-rejilla"><figure class="mapa-fig"><div class="mapa-controles"><label>Colorear por <select data-mapa-var>${vars.map((v) => `<option value="${esc(v.clave)}">${esc(v.nombre)} (${esc(v.unidad)})</option>`).join('')}</select></label></div>` +
+    `<svg viewBox="0 0 ${g.ancho} ${g.alto}" class="mapa-svg" role="group" aria-label="Distritos de Málaga">${paths}<g class="mapa-etq" aria-hidden="true">${etiquetas}</g></svg>` +
+    `<div class="mapa-leyenda" aria-hidden="true"><span data-min>–</span><i></i><span data-max>–</span></div>` +
+    `<figcaption>Distritos municipales. Fuente de la cartografía: ${esc(g.fuente)}.</figcaption><p class="mapa-info" aria-live="polite">Pasa por encima de un distrito o selecciónalo para ver sus datos.</p></figure>` +
+    `<div class="mapa-lado"><p class="mapa-sub">Ranking</p><ol class="mapa-ranking"></ol></div></div>` +
+    `<details class="mapa-datos"><summary>Introducir o revisar los datos de cada distrito</summary><div class="tabla"><table><thead><tr><th>Distrito</th>${vars.map((v) => `<th>${esc(v.nombre)}<br><small>${esc(v.unidad)}</small></th>`).join('')}</tr></thead><tbody>${filas}</tbody></table></div>` +
+    `<p class="act-pie"><button type="button" class="boton-sec" data-mapa-csv>Descargar los datos (CSV)</button> <button type="button" class="boton-sec" data-mapa-borrar>Vaciar el mapa</button> <span class="act-res" aria-live="polite"></span></p></details>` +
+    `<noscript><p class="sin-js">El mapa necesita JavaScript.</p></noscript></div>\n`
   );
 }

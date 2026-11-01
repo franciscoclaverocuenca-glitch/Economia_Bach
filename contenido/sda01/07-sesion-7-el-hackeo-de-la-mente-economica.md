@@ -2,6 +2,10 @@
 titulo: Sesión 7 · El hackeo de la mente económica
 ---
 
+Hoy vais a ser el experimento.
+
+Y no vamos a avisaros de cuándo empieza. Después analizaremos vuestras propias reacciones, y descubriréis que la mente humana tiene atajos predecibles. Tan predecibles que se pueden aprovechar.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo sobre sesgos cognitivos · OD: observación del diseño de la propuesta de Nudge en equipo · Co.Ev.: coevaluación de las propuestas expuestas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
@@ -27,13 +31,6 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 - ¿Qué diferencia hay entre un nudge y una prohibición?
 - ¿Vuestro nudge cambia el comportamiento sin quitarle la opción a nadie?
 
-::: aviso Material que debes preparar tú
-- **Presentación “Laboratorio de Kahneman”** con los sesgos principales.
-- **Material del experimento en vivo**: dos versiones de la misma consigna, una en clave de ganancia y otra de pérdida. **No avises de que es un experimento.**
-- **Post-its gigantes** y material de diseño: rotuladores y cartulina.
-- **Cuestionario formativo** sobre sesgos cognitivos.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El experimento se realiza sobre el propio grupo y sin previo aviso. El contenido se descubre en la propia reacción, lo que genera una implicación difícil de conseguir con una explicación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La propuesta de <i>nudge</i> se presenta en formato visual sobre un post-it gigante, lo que permite comunicar una idea compleja sin depender de una exposición oral extensa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -42,12 +39,6 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy vais a ser el experimento.
-
-Y no vamos a avisaros de cuándo empieza. Después analizaremos vuestras propias reacciones, y descubriréis que la mente humana tiene atajos predecibles. Tan predecibles que se pueden aprovechar.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
@@ -55,7 +46,7 @@ sda1-s07-01.webp | Portada
 sda1-s07-02.webp | El experimento
 sda1-s07-03.webp | La racionalidad limitada
 sda1-s07-04.webp | Aplicado a la vivienda
-sda1-s07-05.webp | Y en Filosofía se llaman igual
+sda1-s07-05.webp | Sesgos y falacias
 sda1-s07-06.webp | Los nudges
 ```
 
@@ -66,12 +57,9 @@ sda1-s07-06.webp | Los nudges
 <table><thead><tr><th width="24%">Sesgo</th><th width="34%">En qué consiste</th><th width="42%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente</td><td>Un propietario mantiene un piso vacío meses antes que bajar el precio: bajarlo se siente como una pérdida</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona todo lo que valoramos después</td><td>El precio de salida de un piso ancla toda la negociación posterior</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a hacer lo que vemos hacer a los demás</td><td>“Todo el mundo está comprando ahora, hay que entrar ya”</td></tr></tbody></table>
 
 ::: nota Racionalidad limitada
-El concepto es de **Daniel Kahneman**: no es que seamos irracionales, es que nuestra racionalidad tiene **límites**. Decidimos con atajos mentales que funcionan bien casi siempre y fallan de forma sistemática en ciertos casos. Y como fallan de forma sistemática, se pueden predecir.
+No es que seamos irracionales: nuestra racionalidad tiene **límites**. Decidimos con atajos mentales que funcionan bien casi siempre y fallan de forma sistemática en ciertos casos. Y como fallan siempre en la misma dirección, se pueden predecir.
 :::
 
-::: aviso Y esto también es Filosofía
-Lo que en Economía llamamos **sesgos cognitivos**, en Filosofía se estudia como **falacias y sesgos en la argumentación**. Es el mismo fenómeno visto desde dos materias, y esta sesión puede servir de evidencia en las dos.
-:::
 
 ### Diseñadores de Nudges
 
@@ -91,37 +79,58 @@ Presentad vuestra propuesta en un **post-it gigante** en la pizarra.
 
 ### 1. La racionalidad limitada
 
-En la sesión anterior visteis que el **Homo Economicus** es un modelo, no una descripción. Hoy toca la explicación de por qué.
+En la sesión anterior viste que el **Homo Economicus** es un modelo, no una descripción de cómo somos. El economista **Herbert Simon** propuso en los años cincuenta el concepto de **racionalidad limitada**: decidimos con información incompleta, poco tiempo y una capacidad de cálculo limitada, así que no buscamos la mejor opción posible, sino una que sea **suficientemente buena**.
 
-**Daniel Kahneman** formuló el concepto de **racionalidad limitada**: no es que las personas seamos irracionales, es que nuestra racionalidad tiene límites. Decidimos con **atajos mentales**, heurísticos, que funcionan razonablemente bien casi siempre, pero que fallan de forma **sistemática** en ciertas situaciones.
+Después, los psicólogos **Daniel Kahneman** y **Amos Tversky** estudiaron cómo funcionan esos atajos mentales, los **heurísticos**, y descubrieron que fallan de forma **sistemática**. Kahneman recibió el Premio en Ciencias Económicas en 2002 por llevar la psicología a la Economía.
 
-Y ese “de forma sistemática” es lo importante. Si los errores fueran aleatorios, no se podrían estudiar. Como son predecibles, sí.
+::: esquema Los dos sistemas de Kahneman
+1. **Sistema 1** Rápido, automático e intuitivo. Es el que decide casi siempre. Ahorra esfuerzo, pero se equivoca de forma predecible.
+2. **Sistema 2** Lento, deliberado y racional. Hace cálculos y comprueba, pero cansa y solo se activa cuando le prestamos atención.
+:::
 
-### 2. Tres sesgos que conviene reconocer
+### 2. Los sesgos cognitivos más frecuentes
 
-<table><thead><tr><th width="22%">Sesgo</th><th width="38%">En qué consiste</th><th width="40%">En el mercado de la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente. La misma cantidad pesa más como pérdida que como ganancia.</td><td>Un propietario mantiene un piso vacío durante meses antes que bajar el precio, porque bajarlo se <i>siente</i> como una pérdida aunque el piso vacío le esté costando dinero cada mes.</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona toda la valoración posterior, aunque sea arbitrario.</td><td>El precio de salida de un piso ancla toda la negociación: quien lo fija tiene ventaja.</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a imitar lo que vemos hacer a los demás, sobre todo en situaciones de incertidumbre.</td><td>“Todo el mundo está comprando ahora, hay que entrar ya antes de que suba más.”</td></tr></tbody></table>
+<table><thead><tr><th width="20%">Sesgo</th><th width="38%">En qué consiste</th><th width="42%">En el mercado de la vivienda</th></tr></thead><tbody>
+<tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo mismo.</td><td>Un propietario mantiene un piso vacío meses antes que bajar el precio, porque bajarlo se siente como una pérdida aunque el piso vacío le cueste dinero cada mes.</td></tr>
+<tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona todas las valoraciones posteriores, aunque sea arbitrario.</td><td>El precio de salida de un piso ancla toda la negociación: quien lo fija tiene ventaja.</td></tr>
+<tr><td><b>Efecto manada</b></td><td>Imitamos lo que hacen los demás, sobre todo cuando no estamos seguros.</td><td>“Todo el mundo está comprando ahora, hay que entrar antes de que suba más.”</td></tr>
+<tr><td><b>Sesgo de confirmación</b></td><td>Buscamos y creemos la información que confirma lo que ya pensábamos.</td><td>Quien cree que el alquiler bajará solo lee las noticias que lo anuncian.</td></tr>
+<tr><td><b>Sesgo del statu quo</b></td><td>Preferimos dejar las cosas como están, aunque cambiar nos convenga.</td><td>Seguir en un alquiler caro por no ponerse a buscar otro.</td></tr>
+<tr><td><b>Exceso de confianza</b></td><td>Creemos saber más o controlar más de lo que realmente sabemos o controlamos.</td><td>Comprar pensando que el precio de la vivienda nunca baja.</td></tr>
+</tbody></table>
 
 ### 3. Los nudges
 
-::: nota Qué es un nudge
-Un **cambio en el entorno** que altera el comportamiento de forma predecible, **sin prohibir nada** y sin modificar los incentivos económicos. Se le llama también **arquitectura de la decisión**.
+Un **nudge** (empujón, en inglés) es un cambio en la forma de presentar las opciones que orienta el comportamiento **sin prohibir nada** y sin cambiar los incentivos económicos. También se llama **arquitectura de la decisión**. El concepto lo popularizaron **Richard Thaler**, Premio en Ciencias Económicas en 2017, y Cass Sunstein.
 
-La prueba para saber si algo es un nudge: **¿alguien pierde alguna opción?** Si la respuesta es sí, no es un nudge: es una prohibición o un impuesto.
-:::
+La prueba para saber si algo es un nudge: **¿alguien pierde alguna opción?** Si la respuesta es sí, no es un nudge, sino una prohibición o un impuesto.
 
-Colocar la fruta a la altura de los ojos en la cafetería no impide comprar bollería. Solo hace la fruta más fácil de elegir. Poner una canasta de baloncesto sobre el cubo de reciclaje no obliga a reciclar: solo lo hace más divertido.
+<table><thead><tr><th width="45%">Nudge</th><th width="55%">Por qué funciona</th></tr></thead><tbody><tr><td>Poner la fruta a la altura de los ojos y la bollería abajo.</td><td>Lo que está más a mano se elige más (Sistema 1).</td></tr><tr><td>Inscribir por defecto a los trabajadores en un plan de ahorro, con opción de salir.</td><td>Sesgo del statu quo: casi nadie cambia la opción por defecto.</td></tr><tr><td>Mostrar en la factura de la luz el consumo de los vecinos.</td><td>Efecto manada: queremos parecernos a los demás.</td></tr><tr><td>Pintar una mosca en los urinarios del aeropuerto de Ámsterdam.</td><td>Convierte un hábito en un juego y reduce la suciedad sin ninguna norma.</td></tr></tbody></table>
 
-Los nudges funcionan precisamente **porque** existen los sesgos. Aprovechan los atajos mentales en lugar de combatirlos.
-
-### 4. Y una pregunta que conviene hacerse
-
-Si los nudges funcionan, también pueden usarse para empujar en direcciones discutibles. Diseñar la arquitectura de la decisión es una forma de poder, y conviene saber que existe **tanto para usarla como para reconocer cuándo la están usando con vosotros**.
-
-Esa es exactamente la competencia que se trabaja también en Filosofía. Reconocer sesgos y falacias en la argumentación ajena. Y en la propia.
+Los nudges funcionan **porque** existen los sesgos: aprovechan los atajos mentales en lugar de combatirlos. Y por eso mismo también pueden usarse para empujar en direcciones discutibles. Conviene saber reconocerlos, tanto para usarlos como para detectar cuándo los están usando contigo.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Racionalidad limitada</b></td><td>Capacidad de decisión humana condicionada por información, tiempo y capacidad cognitiva limitados.</td></tr><tr><td><b>Sesgo cognitivo</b></td><td>Desviación sistemática del juicio respecto a lo que dictaría un razonamiento estrictamente lógico.</td></tr><tr><td><b>Aversión a la pérdida</b></td><td>Tendencia a valorar más evitar una pérdida que obtener una ganancia equivalente.</td></tr><tr><td><b>Efecto anclaje</b></td><td>Influencia desproporcionada del primer dato recibido sobre las valoraciones posteriores.</td></tr><tr><td><b>Nudge</b></td><td>Cambio en el entorno de decisión que orienta el comportamiento sin restringir opciones.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Economía del comportamiento</b></td><td>Rama de la Economía que estudia cómo deciden realmente las personas, incorporando la psicología.</td></tr>
+<tr><td><b>Racionalidad limitada</b></td><td>Capacidad de decisión condicionada por información, tiempo y capacidad de cálculo limitados. Concepto de Herbert Simon.</td></tr>
+<tr><td><b>Heurístico</b></td><td>Atajo mental que permite decidir rápido y con poco esfuerzo.</td></tr>
+<tr><td><b>Sesgo cognitivo</b></td><td>Error sistemático y predecible del juicio, producido por los heurísticos.</td></tr>
+<tr><td><b>Aversión a la pérdida</b></td><td>Tendencia a valorar más evitar una pérdida que obtener una ganancia equivalente.</td></tr>
+<tr><td><b>Efecto anclaje</b></td><td>Influencia desproporcionada del primer dato recibido sobre las valoraciones posteriores.</td></tr>
+<tr><td><b>Efecto manada</b></td><td>Tendencia a imitar las decisiones de la mayoría.</td></tr>
+<tr><td><b>Sesgo de confirmación</b></td><td>Tendencia a dar más crédito a la información que confirma lo que ya se pensaba.</td></tr>
+<tr><td><b>Sesgo del statu quo</b></td><td>Preferencia por mantener la situación actual aunque cambiar resulte mejor.</td></tr>
+<tr><td><b>Nudge</b></td><td>Cambio en el entorno de decisión que orienta el comportamiento sin quitar opciones ni cambiar incentivos.</td></tr>
+<tr><td><b>Arquitectura de la decisión</b></td><td>Forma en que se presentan las opciones, que influye en lo que se elige.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=3hG4gwIPwDs | ¿Cómo nos engañan? Los sesgos cognitivos | CuriosaMente · 5:13
+https://www.youtube.com/watch?v=8YbQ0Z5F7Is | ¿Qué es la economía del comportamiento? | COTEC · 3:27
+```
 
 ## Comprueba lo que sabes
 

@@ -2,6 +2,12 @@
 titulo: 'Sesión 5 · Transferencia activa: el caso Isla Utopía'
 ---
 
+Año 2045. Ciento cincuenta colonos fundan una sociedad en una isla remota del Pacífico. Hay agua, bosques, tierra fértil y pesca. No hay infraestructuras, la tecnología es limitada y el barco ha quedado inutilizado.
+
+Y vosotros sois el **Comité de Planificación Económica**. Vuestra tarea es resolver los primeros conflictos organizativos aplicando los principios que habéis estudiado.
+
+Tened a mano vuestros apuntes: los vais a necesitar en cada reto.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 + 1.3</td><td><b>Saberes básicos</b></td><td>A1, A2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: dossier de respuestas del caso · OD: observación del reparto de roles y del trabajo cooperativo · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
@@ -12,7 +18,7 @@ titulo: 'Sesión 5 · Transferencia activa: el caso Isla Utopía'
 
 ### Guion paso a paso
 
-**1. El escenario (5 min).** Presenta la isla y reparte los **cuatro roles cooperativos** dentro de cada grupo base: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell. Este último es el que más rendimiento da. Su tarea es asegurar que se emplea **la terminología exacta de los apuntes**, no una versión aproximada.
+**1. El escenario (5 min).** Presenta la isla y reparte los **cuatro roles cooperativos** dentro de cada grupo base: Coordinador/a, Secretario/a, Portavoz y Guardián/a de los conceptos. Este último es el que más rendimiento da. Su tarea es asegurar que se emplea **la terminología exacta de los apuntes**, no una versión aproximada.
 
 **2. Los cuatro retos (30 min).** Cada grupo resuelve con apoyo de sus apuntes Cornell, plasmando las respuestas en **un único folio por grupo**. Esa restricción fuerza el consenso: con cuatro folios no hay debate.
 
@@ -29,29 +35,13 @@ El **Reto 3** es el más productivo: los peces del arrecife son un **recurso com
 - ¿Qué pasaría si las baterías fallaran del todo? ¿Qué relación tienen con los paneles?
 - ¿Qué servicio, no bien, podría acelerar la construcción de viviendas en la isla?
 
-::: aviso Material que debes preparar tú
-- **Dossier del caso “Isla Utopía”** con el escenario y los cuatro retos, uno por grupo base.
-- **Un único folio de respuestas por grupo.** La restricción es deliberada: fuerza el consenso.
-- **Tarjetas de los cuatro roles cooperativos**: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell.
-- **Las plantillas Cornell** de las sesiones 3 y 4: son material obligatorio de la sesión.
-- **Rúbrica de coevaluación** y sistema de sorteo para elegir portavoces al azar.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El escenario narrativo de la isla convierte el contenido en un problema por resolver en lugar de una materia por estudiar, y permite entrar por la vía de la historia antes que por la de la definición.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro roles reparten responsabilidades explícitas y el rol de Controlador/a del Cornell convierte el uso de la terminología en una tarea asignada y verificable.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El escenario narrativo de la isla convierte el contenido en un problema por resolver en lugar de una materia por estudiar, y permite entrar por la vía de la historia antes que por la de la definición.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro roles reparten responsabilidades explícitas y el rol de Guardián/a de los conceptos convierte el uso de la terminología en una tarea asignada y verificable.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Trabajo cooperativo simultáneo de todos los grupos, con nivel de ruido alto. Sitúa a este grupo en la zona más alejada, acuerda una norma de un solo turno de palabra, y entrega el dossier del caso **por escrito con antelación** para que pueda leerlo con calma. Si asume la Portavocía, garantiza un ensayo previo.
 :::
-
-## Para empezar
-
-Año 2045. Ciento cincuenta colonos fundan una sociedad en una isla remota del Pacífico. Hay agua, bosques, tierra fértil y pesca. No hay infraestructuras, la tecnología es limitada y el barco ha quedado inutilizado.
-
-Y vosotros sois el **Comité de Planificación Económica**. Vuestra tarea es resolver los primeros conflictos organizativos aplicando los principios que habéis estudiado.
-
-Material obligatorio: **vuestros apuntes Cornell**.
 
 ## Diapositivas de la sesión
 
@@ -69,7 +59,7 @@ sda1-s05-07.webp | Reto 4
 
 ### Los cuatro roles del grupo
 
-<table><thead><tr><th width="30%">Rol</th><th width="70%">Qué hace</th></tr></thead><tbody><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y el avance de los cuatro retos.</td></tr><tr><td><b>Secretario/a</b></td><td>Redacta las respuestas consensuadas en el <b>folio único</b> del grupo.</td></tr><tr><td><b>Portavoz</b></td><td>Expone las conclusiones si vuestro grupo sale sorteado.</td></tr><tr><td><b>Controlador/a del Cornell</b></td><td>Se asegura de que se usan <b>todos</b> los conceptos teóricos, con la terminología exacta de los apuntes.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Rol</th><th width="70%">Qué hace</th></tr></thead><tbody><tr><td><b>Coordinador/a</b></td><td>Gestiona el tiempo y el avance de los cuatro retos.</td></tr><tr><td><b>Secretario/a</b></td><td>Redacta las respuestas consensuadas en el <b>folio único</b> del grupo.</td></tr><tr><td><b>Portavoz</b></td><td>Expone las conclusiones si vuestro grupo sale sorteado.</td></tr><tr><td><b>Guardián/a de los conceptos</b></td><td>Se asegura de que se usan <b>todos</b> los conceptos teóricos, con la terminología exacta de los apuntes.</td></tr></tbody></table>
 
 ### Reto 1 · El despertar del problema económico
 
@@ -88,7 +78,7 @@ Y después, **como economistas**: justificad razonadamente qué demandas deben p
 <table><thead><tr><th width="46%">Elemento</th><th width="26%">¿Libre o económico?</th><th width="28%">¿Privado, público o común?</th></tr></thead><tbody><tr><td>Un <b>faro</b> costero construido con los restos del barco</td><td></td><td></td></tr><tr><td>Los <b>peces del arrecife</b>: de pesca libre, pero limitados si se sobreexplotan</td><td></td><td></td></tr><tr><td>Las primeras <b>10 cabañas</b> de madera, repartidas por sorteo entre las familias</td><td></td><td></td></tr></tbody></table>
 
 ::: nota Los peces del arrecife son el caso de Elinor Ostrom
-Un recurso del que nadie puede ser excluido fácilmente, pero que **se agota si se sobreexplota**. Es exactamente el tipo de bien que estudió y sobre el que documentó que las comunidades pueden darse reglas propias. Recordad la sesión de ayer.
+Un recurso del que nadie puede ser excluido fácilmente, pero que **se agota si se sobreexplota**. Es exactamente el tipo de bien que estudió y sobre el que documentó que las comunidades pueden darse reglas propias. Recordad la sesión anterior.
 :::
 
 Y una segunda parte. Los **paneles solares** del barco y las **baterías** para almacenar su energía, ¿son sustitutivos o complementarios? ¿Qué pasaría si las baterías fallaran por completo?
@@ -100,43 +90,59 @@ Y una segunda parte. Los **paneles solares** del barco y las **baterías** para 
 Y una propuesta de **tres líneas**: ¿cómo podría un **servicio** específico, no un bien material, creado por los colonos aumentar el ritmo de construcción de nuevas viviendas en la isla?
 
 ::: aviso Un único folio por grupo
-La restricción es deliberada. Con cuatro folios cada uno escribe lo suyo y no hay debate. Con uno, hay que ponerse de acuerdo.
+Todo el grupo escribe en el mismo folio. Así no hay respuestas sueltas: hay que ponerse de acuerdo.
 :::
 
 ## Apuntes de la sesión
 
-### 1. Por qué una isla
+### 1. El problema económico básico, en una isla
 
-El caso de la Isla Utopía no es un adorno narrativo. Sirve para algo muy concreto. Obliga a aplicar **todos** los conceptos de las sesiones 3 y 4 a la vez, en una situación donde nadie puede recurrir a lo que ya sabe de memoria sobre cómo funcionan las cosas.
+En la Isla Utopía hay recursos **limitados** (cinco herramientas, mano de obra cansada, madera finita) y necesidades que no lo son (viviendas, pozos, internet, ocio). Por tanto, **hay que elegir**, y elegir significa renunciar. Es el mismo problema que en Málaga, pero sin nada construido de antemano.
 
-Y hay una razón más. En una isla desde cero, la **vivienda** aparece inmediatamente como una de las primeras necesidades en disputa. Igual que en Málaga, pero sin el ruido de fondo.
+### 2. Escasez física y escasez relativa
 
-### 2. El problema económico básico, otra vez
+<table><thead><tr><th width="22%">Tipo</th><th width="40%">En qué consiste</th><th width="38%">En la isla</th></tr></thead><tbody><tr><td><b>Escasez física</b></td><td>El recurso es objetivamente limitado. No hay más, por mucho que se quiera.</td><td>Solo hay cinco herramientas de construcción pesadas.</td></tr><tr><td><b>Escasez relativa</b></td><td>El recurso existe, pero no basta para todo lo que se desea hacer con él.</td><td>Hay madera y mano de obra, pero no para levantar a la vez viviendas, pozos y una red satelital.</td></tr></tbody></table>
 
-::: nota Cinco herramientas y una comunidad cansada
-El Reto 1 es el problema económico en su forma más pura. Hay recursos **limitados** (5 herramientas, mano de obra cansada) y necesidades que no lo son. Por tanto, **hay que elegir**. Y elegir significa renunciar.
-:::
+### 3. Prioridades: necesidades primarias antes que secundarias
 
-### 3. Escasez física y escasez relativa
-
-<table><thead><tr><th width="24%">Tipo</th><th width="40%">En qué consiste</th><th width="36%">En la isla</th></tr></thead><tbody><tr><td><b>Escasez física</b></td><td>El recurso es objetivamente limitado. No hay más, por mucho que se quiera</td><td>Solo hay 5 herramientas de construcción pesadas</td></tr><tr><td><b>Escasez relativa</b></td><td>El recurso existe, pero es insuficiente <b>respecto a lo que se desea</b></td><td>Hay madera y mano de obra, pero no bastan para atender a la vez las viviendas, los pozos y la red satelital</td></tr></tbody></table>
+Cuando los recursos no llegan, una comunidad empieza por la base de la pirámide de Maslow. En los primeros días importan el **alimento**, el **agua** y un **techo** seguro. El torneo deportivo o el sistema de votación también son necesidades reales, pero pueden esperar. Priorizar no es despreciar las demás necesidades: es ordenarlas.
 
 ### 4. Los tipos de bien, aplicados
 
-<table><thead><tr><th width="26%">Elemento</th><th width="24%">Clasificación</th><th width="50%">Por qué</th></tr></thead><tbody><tr><td><b>El faro</b></td><td>Bien público</td><td>Su luz sirve a todos los barcos a la vez y no se puede impedir que alguien la vea. Ni rival ni excluible.</td></tr><tr><td><b>Los peces del arrecife</b></td><td>Recurso común</td><td>Nadie puede ser excluido de pescar, pero <b>lo que pesca uno no lo pesca otro</b>, y se agota si se sobreexplota.</td></tr><tr><td><b>Las cabañas</b></td><td>Bienes privados</td><td>Repartidas por sorteo entre familias concretas: son excluibles y rivales.</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Elemento</th><th width="22%">Clasificación</th><th width="54%">Por qué</th></tr></thead><tbody><tr><td><b>El faro</b></td><td>Bien público</td><td>Su luz sirve a todos los barcos a la vez y no se puede impedir que alguien la vea. No es rival ni excluible.</td></tr><tr><td><b>Los peces del arrecife</b></td><td>Bien común</td><td>Nadie puede ser excluido de pescar, pero lo que pesca uno no lo pesca otro y el arrecife se agota si se sobreexplota.</td></tr><tr><td><b>Las cabañas</b></td><td>Bienes privados</td><td>Se reparten entre familias concretas: son excluibles y rivales.</td></tr></tbody></table>
 
-::: aviso Y por qué el arrecife es el caso interesante
-Un **recurso común** sin reglas tiende a sobreexplotarse. A cada colono le interesa pescar más, y si todos hacen lo mismo el arrecife se agota y pierden todos. Es exactamente el problema que estudió **Elinor Ostrom**, y que documentó que puede resolverse con reglas comunitarias propias, sin necesidad de privatizarlo ni estatalizarlo.
+Un **bien común** sin reglas tiende a sobreexplotarse: a cada colono le interesa pescar un poco más y, si todos lo hacen, el arrecife se agota. Es el problema que estudió **Elinor Ostrom**: las comunidades pueden evitarlo con reglas propias, por ejemplo cupos de pesca, épocas de veda o turnos vigilados entre los propios pescadores.
 
-Guardad esta idea. En la sesión 8 vais a discutir si la vivienda debería tratarse como algo más cercano a un bien común.
-:::
+### 5. Bienes sustitutivos y complementarios
 
-### 5. Sustitutivos y complementarios
+- **Sustitutivos.** Cubren la misma necesidad y compiten entre sí. Cocos y pescado como alimento; en Málaga, alquilar o comprar. Si uno se encarece, la gente se pasa al otro.
+- **Complementarios.** Se usan juntos y cada uno pierde utilidad sin el otro. Paneles solares y baterías; en Málaga, la vivienda y el transporte para llegar al trabajo. Si las baterías fallan, los paneles siguen generando electricidad, pero solo se puede usar de día.
 
-Los **paneles solares** y las **baterías** son **complementarios**: se consumen juntos y cada uno pierde utilidad sin el otro. Si las baterías fallaran del todo, los paneles seguirían generando electricidad, pero solo utilizable en el momento: se perdería toda la energía nocturna.
+### 6. Los factores de producción
 
-Dos bienes son **sustitutivos** cuando cubren la misma necesidad y compiten entre sí, cocos y pescado como fuente de alimento; son **complementarios** cuando se necesitan mutuamente.
+Para construir cualquier cosa, también una vivienda, hacen falta **factores productivos**:
+
+<table><thead><tr><th width="24%">Factor</th><th width="36%">Qué es</th><th width="40%">En la isla</th></tr></thead><tbody><tr><td><b>Tierra</b></td><td>Los recursos naturales.</td><td>El bosque, el agua, la tierra fértil, el arrecife.</td></tr><tr><td><b>Trabajo</b></td><td>El esfuerzo físico e intelectual de las personas.</td><td>Los colonos que talan, construyen y pescan.</td></tr><tr><td><b>Capital</b></td><td>Los bienes que sirven para producir otros bienes.</td><td>Las cinco herramientas pesadas, los paneles solares.</td></tr><tr><td><b>Iniciativa empresarial</b></td><td>La capacidad de organizar los otros tres factores y asumir el riesgo.</td><td>Quien organiza los turnos de trabajo y decide qué construir primero.</td></tr></tbody></table>
+
+Un **servicio** también puede multiplicar la producción. Por ejemplo, alguien que repare las herramientas cada noche o que forme a los demás en carpintería hace que las mismas cinco herramientas y el mismo número de personas construyan más viviendas.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Escasez física</b></td><td>Limitación objetiva de la cantidad disponible de un recurso.</td></tr><tr><td><b>Escasez relativa</b></td><td>Insuficiencia de un recurso respecto a lo que se desea de él.</td></tr><tr><td><b>Bien público</b></td><td>Bien no rival y no excluible, del que nadie puede ser apartado.</td></tr><tr><td><b>Recurso común</b></td><td>Bien rival pero no excluible, expuesto a la sobreexplotación.</td></tr><tr><td><b>Bienes complementarios</b></td><td>Los que se consumen conjuntamente y pierden utilidad por separado.</td></tr><tr><td><b>Bienes sustitutivos</b></td><td>Los que cubren una misma necesidad y compiten entre sí.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Escasez física</b></td><td>Limitación objetiva de la cantidad disponible de un recurso.</td></tr>
+<tr><td><b>Escasez relativa</b></td><td>Insuficiencia de un recurso respecto a todo lo que se desea hacer con él.</td></tr>
+<tr><td><b>Priorizar</b></td><td>Ordenar las necesidades según su urgencia e importancia para decidir a cuáles se destinan primero los recursos.</td></tr>
+<tr><td><b>Bien público</b></td><td>No rival y no excluible: nadie puede ser apartado de su uso y que lo use uno no impide que lo use otro.</td></tr>
+<tr><td><b>Bien común</b></td><td>Rival pero no excluible. Expuesto a la sobreexplotación si no hay reglas.</td></tr>
+<tr><td><b>Bienes sustitutivos</b></td><td>Los que cubren una misma necesidad y compiten entre sí.</td></tr>
+<tr><td><b>Bienes complementarios</b></td><td>Los que se consumen conjuntamente y pierden utilidad por separado.</td></tr>
+<tr><td><b>Factores productivos</b></td><td>Recursos que se combinan para producir bienes y servicios: tierra, trabajo, capital e iniciativa empresarial.</td></tr>
+<tr><td><b>Iniciativa empresarial</b></td><td>Capacidad de organizar los demás factores productivos y asumir el riesgo de la actividad.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=U_oVLrkeXXU | Los factores productivos | Econosublime · 6:37
+https://www.youtube.com/watch?v=BJ2bznSczlU | Qué son los bienes públicos y cómo interviene el Estado | Econosublime · 9:59
+```

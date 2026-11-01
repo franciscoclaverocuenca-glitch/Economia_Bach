@@ -2,6 +2,10 @@
 titulo: 'Sesión 10 · El gran juicio oral: “¿De quién es la vivienda?”'
 ---
 
+Hoy el aula es un tribunal. Cuatro partes, un conflicto real y un veredicto que dictar.
+
+Dos minutos de alegato, veinte de careo y ocho de deliberación. Y una pregunta de fondo que lleváis diez sesiones trabajando: **¿de quién es la vivienda?**
+
 ## Guía docente · Sesión 10 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 + 1.3</td><td><b>Saberes básicos</b></td><td>A1, A2, A5, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo en semicírculo / roles grupales</td><td><b>Carácter</b></td><td>Sumativa, instrumento integrador de los criterios 1.2 y 1.3</td></tr><tr><td><b>Instrumentos</b></td><td>EO: alegatos iniciales de cada portavoz (2 min) · D: careo y turno de réplica · Co.Ev.: coevaluación final con escala de dedos (1-4) · R: dossier grupal entregado</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
@@ -31,15 +35,6 @@ La pregunta modelo integra dos bloques de la unidad y conviene tenerla preparada
 - ¿Qué coste de oportunidad asume una promotora al construir vivienda protegida?
 - ¿Vuestro veredicto equilibra eficiencia y equidad, o se decanta por una?
 
-::: aviso Material que debes preparar tú
-- **Dossieres grupales entregados** al abrir la sesión.
-- **Aula organizada en semicírculo.** Prepárala antes de que entre el grupo.
-- **Rúbrica de coevaluación e interevaluación**, visible durante toda la sesión.
-- **Cronómetro visible**: los 2 minutos de alegato son tasados.
-- **Guion de preguntas cruzadas obligatorias** para la Parte 4, incluida la pregunta modelo que integra economía conductual y ética.
-- **Hoja de registro simultáneo** de los cuatro instrumentos (EO, D, Co.Ev., R).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El alegato es breve (2 minutos) y se apoya en un texto redactado y ensayado en la sesión anterior, lo que reduce la carga de la exposición oral; y el careo permite respuestas repartidas entre varios miembros de la parte.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La postura se defiende como parte asignada y no como opinión personal, y la rúbrica se conoce de antemano. Solo el careo es imprevisible, y se ha anticipado en el laboratorio.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La Parte 4 ofrece un rol plenamente evaluable con una lógica distinta de la confrontación (moderar, preguntar y dictaminar), lo que permite participar con intensidad a quien no se desenvuelve bien en el registro adversarial.</td></tr></tbody></table>
@@ -47,12 +42,6 @@ La pregunta modelo integra dos bloques de la unidad y conviene tenerla preparada
 ::: nota Alumnado con condición auditiva
 Sesión de alta intensidad oral con turnos cruzados. Sitúa a este alumno/a en un extremo del semicírculo con visión frontal del conjunto, exige que quien interviene se identifique y hable de frente y de uno en uno, y facilita **por escrito** los dossieres de las otras partes antes de la sesión para que pueda preparar sus réplicas.
 :::
-
-## Para empezar
-
-Hoy el aula es un tribunal. Cuatro partes, un conflicto real y un veredicto que dictar.
-
-Dos minutos de alegato, veinte de careo y ocho de deliberación. Y una pregunta de fondo que lleváis diez sesiones trabajando: **¿de quién es la vivienda?**
 
 ## Diapositivas de la sesión
 
@@ -73,7 +62,7 @@ sda1-s10-07.webp | El cierre
 ::: nota La pregunta modelo del careo
 “**Fondos de inversión: si la vivienda es un bien de primera necesidad, ¿cómo justifica la economía conductual que se mantengan pisos vacíos a la espera de mejor precio, si sufrimos aversión a la pérdida por vender o alquilar por debajo de lo esperado?**”
 
-Fijaos en lo que hace esa pregunta. Obliga a usar un **sesgo cognitivo** de la sesión 7 dentro de un **argumento ético** de la sesión 8. Ese es el nivel de careo que se busca.
+Fijaos en lo que hace esa pregunta: combina un **sesgo cognitivo** de la sesión 7 con un **argumento ético** de la sesión 8. Las mejores preguntas del careo mezclan conceptos de varias sesiones.
 :::
 
 ### Qué se evalúa
@@ -92,6 +81,6 @@ La pregunta sigue siendo la misma: **¿de quién es la vivienda?**
 
 ## Cierre
 
-Coevaluad el desempeño oral de los otros grupos con la escala de dedos, según la rúbrica de expresión crítica.
+Valorad el desempeño oral de los otros grupos con la escala de dedos (de 1 a 4), pensando en la rúbrica de la unidad.
 
 Y quedaos con el **veredicto**: es la culminación de todo lo que habéis trabajado sobre escasez, coste de oportunidad, eficiencia y equidad.

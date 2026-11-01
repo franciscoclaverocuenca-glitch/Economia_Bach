@@ -2,6 +2,10 @@
 titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 ---
 
+Hoy construimos los cimientos de toda la asignatura. Y no los vais a aprender escuchando: los vais a aprender **usándolos**.
+
+Primero una explicación corta de los conceptos clave, que tú anotarás con tus palabras. Y después, un rally por el aula resolviendo casos con esos apuntes en la mano.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Cuartetos</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio y de coevaluación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell y pasaporte de respuestas del Rally · OD: observación docente durante el Rally en parejas · Co.Ev.: escala de dedos (1-4) en la Ruleta de Expertos</td><td><b>Duración</b></td><td>60 minutos</td></tr></tbody></table>
@@ -27,15 +31,6 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 - ¿Puede ser el tiempo un recurso escaso? ¿Y la información?
 - ¿Qué necesidades distintas satisface una inmobiliaria y cuáles una constructora?
 
-::: aviso Material que debes preparar tú
-- **Presentación de conceptos** básicos y **plantilla Cornell**, una por alumno/a.
-- **6-8 tarjetas de reto grandes** (cartulinas) para colgar en las paredes del aula o repartir por las mesas.
-- **Un “pasaporte” de respuestas por pareja**: un único folio compartido.
-- **Ruleta digital** para la fase 4 y rúbrica de coevaluación.
-- **El reto inicial proyectado**: “mañana el precio del alquiler de todos los pisos de la ciudad se duplica de golpe, ¿qué problema económico y de escasez se genera?”.
-- Espacio que permita circular: el rally requiere levantarse.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros de la pareja y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura 1-2-4 escalona la exposición en tres niveles crecientes (individual, pareja, cuarteto) antes de cualquier intervención ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -43,12 +38,6 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 ::: nota Alumnado con condición auditiva
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
 :::
-
-## Para empezar
-
-Hoy construimos los cimientos de toda la asignatura. Y no los vais a aprender escuchando: los vais a aprender **usándolos**.
-
-Primero diez minutos de explicación con el Cornell. Y después, cincuenta minutos de rally por el aula resolviendo casos. Sin los apuntes no se puede: por eso conviene tomarlos bien.
 
 ## Diapositivas de la sesión
 
@@ -62,26 +51,6 @@ sda1-s03-06.webp | Tarjeta 2
 sda1-s03-07.webp | Tarjeta 3
 sda1-s03-08.webp | Por qué funciona
 ```
-
-## Rally de Transferencia · “El Mercado de Problemas”
-
-### Los conceptos que necesitáis
-
-<table><thead><tr><th width="28%">Concepto</th><th width="72%">Qué es</th></tr></thead><tbody><tr><td><b>Recursos</b></td><td>Los medios de que disponemos para satisfacer necesidades. Y son <b>limitados</b>: esa es la clave de todo.</td></tr><tr><td><b>Bienes y servicios</b></td><td>Un bien es tangible; un servicio, no. Una vivienda es un bien; la gestión de una inmobiliaria, un servicio.</td></tr><tr><td><b>Necesidades</b></td><td>Lo que sentimos que nos falta. Y son prácticamente <b>ilimitadas</b>.</td></tr><tr><td><b>Escasez</b></td><td>Recursos limitados frente a necesidades ilimitadas.</td></tr><tr><td><b>Problema económico básico</b></td><td>De la escasez nace la obligación de <b>ELEGIR</b>. Y de ahí nace la Economía.</td></tr></tbody></table>
-
-### Las cuatro fases del rally
-
-<table><thead><tr><th width="22%">Fase</th><th width="64%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Abres tu Cornell, lees el reto proyectado y anotas una idea rápida en el margen.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Circuláis por el aula con un único <b>pasaporte</b> de respuestas y resolvéis <b>al menos 4 tarjetas</b>, consultando obligatoriamente vuestros apuntes.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan. Si difieren en una tarjeta, debaten <b>con el Cornell delante</b> hasta unificar la respuesta.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta elige un cuarteto por tarjeta, que lee su respuesta definitiva. El resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
-
-### Tres de las tarjetas
-
-<table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td><b>Necesidad frente a bien.</b> “Una persona hereda de golpe un millón de euros y una furgoneta vieja sin ITV.” Usando la diferencia entre recurso, bien y necesidad. ¿cuál es el verdadero “bien” que le permite resolver su necesidad de vivienda, y por qué el dinero por sí solo no es una vivienda?</td><td></td></tr><tr><td><b>2</b></td><td><b>Escasez relativa.</b> Poned tres ejemplos de vuestra vida diaria donde el <b>tiempo</b> o la <b>información</b> disponible, y no solo el dinero, sea el recurso escaso que os dificultaría encontrar un piso de alquiler en Málaga.</td><td></td></tr><tr><td><b>3</b></td><td><b>Bienes frente a servicios.</b> Una inmobiliaria y una constructora. Clasificad qué ofrece cada una y detallad al menos dos necesidades distintas que satisface cada una al consumidor.</td><td></td></tr></tbody></table>
-
-::: nota Por qué esta actividad funciona
-- **Valida el esfuerzo previo**: sin los apuntes Cornell no se puede resolver el rally. La utilidad de haberlos tomado bien es inmediata.
-- **Movimiento y energía**: las tarjetas repartidas por el aula rompen la pasividad.
-- **Interdependencia positiva**: en la fase 4 el éxito depende de que el cuarteto haya validado la respuesta entre todos, y quien tiene más dificultades recibe apoyo de sus compañeros.
-:::
 
 ## Practica · Relaciona cada concepto
 
@@ -105,34 +74,100 @@ pares:
 explicacion: Fíjate en que el **coste de oportunidad** no es lo que pagas, sino lo mejor a lo que renuncias al elegir.
 ```
 
+## Rally de Transferencia · “El Mercado de Problemas”
+
+### Los conceptos que necesitáis
+
+<table><thead><tr><th width="28%">Concepto</th><th width="72%">Qué es</th></tr></thead><tbody><tr><td><b>Recursos</b></td><td>Los medios de que disponemos para satisfacer necesidades. Y son <b>limitados</b>: esa es la clave de todo.</td></tr><tr><td><b>Bienes y servicios</b></td><td>Un bien es tangible; un servicio, no. Una vivienda es un bien; la gestión de una inmobiliaria, un servicio.</td></tr><tr><td><b>Necesidades</b></td><td>Lo que sentimos que nos falta. Y son prácticamente <b>ilimitadas</b>.</td></tr><tr><td><b>Escasez</b></td><td>Recursos limitados frente a necesidades ilimitadas.</td></tr><tr><td><b>Problema económico básico</b></td><td>De la escasez nace la obligación de <b>ELEGIR</b>. Y de ahí nace la Economía.</td></tr></tbody></table>
+
+### Las cuatro fases del rally
+
+<table><thead><tr><th width="22%">Fase</th><th width="64%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Lees el reto proyectado y anotas una idea rápida.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Circuláis por el aula con un único <b>pasaporte</b> de respuestas y resolvéis <b>al menos 4 tarjetas</b>, consultando obligatoriamente vuestros apuntes.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan. Si difieren en una tarjeta, debaten <b>con el Cornell delante</b> hasta unificar la respuesta.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta elige un cuarteto por tarjeta, que lee su respuesta definitiva. El resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
+
+### Tres de las tarjetas
+
+<table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td><b>Necesidad frente a bien.</b> “Una persona hereda de golpe un millón de euros y una furgoneta vieja sin ITV.” Usando la diferencia entre recurso, bien y necesidad. ¿cuál es el verdadero “bien” que le permite resolver su necesidad de vivienda, y por qué el dinero por sí solo no es una vivienda?</td><td></td></tr><tr><td><b>2</b></td><td><b>Escasez relativa.</b> Poned tres ejemplos de vuestra vida diaria donde el <b>tiempo</b> o la <b>información</b> disponible, y no solo el dinero, sea el recurso escaso que os dificultaría encontrar un piso de alquiler en Málaga.</td><td></td></tr><tr><td><b>3</b></td><td><b>Bienes frente a servicios.</b> Una inmobiliaria y una constructora. Clasificad qué ofrece cada una y detallad al menos dos necesidades distintas que satisface cada una al consumidor.</td><td></td></tr></tbody></table>
+
 ## Apuntes de la sesión
 
-### 1. Los cuatro conceptos que sostienen la Economía
-
-<table><thead><tr><th width="20%">Concepto</th><th width="40%">Qué es</th><th width="40%">En el caso de la vivienda</th></tr></thead><tbody><tr><td><b>Recursos</b></td><td>Los medios disponibles para satisfacer necesidades. Son <b>limitados</b>.</td><td>Suelo, materiales, mano de obra, capital, y también el tiempo y la información de quien busca piso</td></tr><tr><td><b>Bienes</b></td><td>Objetos tangibles que satisfacen una necesidad.</td><td>La vivienda en sí: los metros cuadrados construidos</td></tr><tr><td><b>Servicios</b></td><td>Prestaciones intangibles que satisfacen una necesidad.</td><td>La gestión de una inmobiliaria, la tasación, el asesoramiento</td></tr><tr><td><b>Necesidades</b></td><td>Lo que sentimos que nos falta. Son prácticamente <b>ilimitadas</b>.</td><td>Un techo, pero también un techo en un barrio concreto, con ciertas condiciones</td></tr></tbody></table>
-
-### 2. La escasez y el problema económico básico
-
-::: nota La definición que hay que fijar
-Hay **escasez** cuando los recursos disponibles no bastan para satisfacer todas las necesidades. Y como las necesidades son prácticamente ilimitadas y los recursos no, la escasez es la situación **normal**, no la excepción.
-
-De ahí nace el **problema económico básico**: la obligación de **elegir**. Y de esa obligación nace la Economía como ciencia.
+::: esquema El razonamiento que sostiene toda la Economía
+1. **Necesidades** Prácticamente ilimitadas: cubierta una, aparece otra.
+2. **Recursos** Limitados: tierra, trabajo, capital, tiempo, información.
+3. **Escasez** No hay recursos para satisfacer todas las necesidades.
+4. **Elegir** Hay que decidir qué necesidades atender y cuáles no.
+5. **Coste de oportunidad** Toda elección supone renunciar a algo.
 :::
 
-Ojo con un malentendido frecuente. Escasez **no** significa que algo se haya agotado. Hay viviendas en Málaga. Lo que no hay son suficientes al precio que la mayoría puede pagar. Eso es escasez.
+### 1. Las necesidades
 
-### 3. Escasez física y escasez relativa
+Una **necesidad** es la sensación de que nos falta algo, unida al deseo de conseguirlo. Tienen cuatro características que conviene conocer:
 
-<table><thead><tr><th width="18%"></th><th width="41%">Escasez FÍSICA</th><th width="41%">Escasez RELATIVA</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>El recurso es limitado en términos absolutos</td><td>El recurso existe, pero no basta para todos los usos y personas que lo demandan</td></tr><tr><td><b>Ejemplo</b></td><td>El suelo disponible dentro del casco urbano de Málaga</td><td>Las viviendas existentes, repartidas entre uso residencial y uso turístico</td></tr><tr><td><b>Lo importante</b></td><td>Es un límite duro</td><td>Es la más frecuente, y la que obliga a decidir <b>prioridades</b></td></tr></tbody></table>
+<table><thead><tr><th width="26%">Característica</th><th width="74%">Qué significa y un ejemplo</th></tr></thead><tbody><tr><td><b>Ilimitadas</b></td><td>Satisfecha una necesidad, aparece otra. Quien consigue un piso pasa a querer uno más grande, más céntrico o con terraza.</td></tr><tr><td><b>Saciables</b></td><td>Cada necesidad concreta se puede satisfacer en un momento dado. Con un techo, la necesidad de cobijo de hoy queda cubierta.</td></tr><tr><td><b>Sustituibles</b></td><td>Una misma necesidad se puede cubrir de varias formas: comprar, alquilar, compartir piso o vivir con la familia.</td></tr><tr><td><b>Complementarias</b></td><td>Satisfacer una genera otras ligadas a ella. Tener vivienda trae la necesidad de muebles, luz, agua o transporte hasta el trabajo.</td></tr></tbody></table>
 
-Y una precisión que suele pasarse por alto: **el recurso escaso no siempre es el dinero**. Puede ser el **tiempo** (no puedes visitar cincuenta pisos) o la **información** (no sabes qué pisos van a salir la semana que viene). Ambos limitan tus opciones tanto como el presupuesto.
+Se clasifican de varias maneras. Las más útiles son estas dos:
 
-### 4. Por qué el dinero no es una vivienda
+- **Primarias y secundarias.** Las primarias son imprescindibles para vivir (alimento, techo, salud). Las secundarias mejoran la calidad de vida, pero se puede vivir sin ellas (viajar, un móvil nuevo).
+- **Individuales y colectivas.** Las individuales las siente cada persona (comer, vestirse). Las colectivas surgen de vivir en sociedad (alumbrado público, seguridad, transporte).
 
-Es la tarjeta 1 del rally, y merece la pena razonarla despacio. El dinero es un **recurso**: un medio que permite adquirir bienes. Pero no satisface por sí mismo ninguna necesidad.
+### 2. Los recursos
 
-La necesidad de cobijo la satisface un **bien**: la vivienda. Si no hay viviendas disponibles, o no las hay donde se necesitan, tener dinero no resuelve la necesidad. Por eso una persona con un millón de euros puede seguir sin encontrar piso en una ciudad con oferta agotada.
+Los **recursos** son todos los medios de que disponemos para satisfacer necesidades. En Economía se agrupan en tres grandes **factores productivos**:
+
+- **Tierra o recursos naturales.** El suelo, el agua, la energía, las materias primas. En Málaga, el suelo urbanizable es un recurso especialmente limitado entre el mar y los montes.
+- **Trabajo.** El esfuerzo físico e intelectual de las personas: albañiles, arquitectas, agentes inmobiliarios.
+- **Capital.** Los bienes que sirven para producir otros bienes: grúas, maquinaria, herramientas, edificios.
+
+A menudo se añade un cuarto factor, la **iniciativa empresarial**: la capacidad de organizar los otros tres y asumir el riesgo. Lo verás en la sesión 5.
+
+Y dos recursos que solemos olvidar: el **tiempo** y la **información**. Quien busca piso no puede visitar cincuenta en una semana ni saber qué pisos saldrán el mes que viene.
+
+### 3. Bienes y servicios
+
+Son los resultados de usar los recursos para satisfacer necesidades.
+
+<table><thead><tr><th width="20%"></th><th width="40%">Bien</th><th width="40%">Servicio</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Algo material, tangible, que se puede tocar y almacenar.</td><td>Una actividad intangible que se consume en el momento en que se presta.</td></tr><tr><td><b>Ejemplo</b></td><td>La vivienda, los muebles, un ladrillo.</td><td>La gestión de una inmobiliaria, una tasación, la limpieza de la comunidad.</td></tr></tbody></table>
+
+### 4. La escasez y el problema económico básico
+
+Hay **escasez** cuando los recursos disponibles no bastan para satisfacer todas las necesidades. Como las necesidades no tienen límite y los recursos sí, la escasez es la situación **normal**, no la excepción.
+
+De ahí nace el **problema económico básico**: la obligación de **elegir**. Toda sociedad tiene que responder a tres preguntas:
+
+1. **¿Qué producir?** ¿Más viviendas para residentes o más alojamientos turísticos?
+2. **¿Cómo producir?** ¿Con qué técnicas, materiales y trabajadores?
+3. **¿Para quién producir?** ¿Quién tendrá acceso a lo producido: quien más pague, quien más lo necesite?
+
+Ojo con un malentendido frecuente: escasez **no** significa que algo se haya agotado. Hay viviendas en Málaga. Lo que no hay son suficientes al precio que la mayoría puede pagar.
+
+### 5. Escasez física y escasez relativa
+
+<table><thead><tr><th width="20%"></th><th width="40%">Escasez física</th><th width="40%">Escasez relativa</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>El recurso es limitado en términos absolutos.</td><td>El recurso existe, pero no basta para todos los usos y personas que lo desean.</td></tr><tr><td><b>Ejemplo</b></td><td>El suelo disponible dentro del término municipal de Málaga.</td><td>Las viviendas existentes, repartidas entre uso residencial y uso turístico.</td></tr><tr><td><b>Consecuencia</b></td><td>Es un límite duro.</td><td>Es la más frecuente y la que obliga a decidir prioridades.</td></tr></tbody></table>
+
+### 6. Por qué el dinero no es una vivienda
+
+El dinero es un **recurso**: un medio que permite adquirir bienes. Pero no satisface por sí mismo ninguna necesidad. La necesidad de cobijo la satisface un **bien**, la vivienda. Si no hay viviendas disponibles donde se necesitan, tener dinero no resuelve la necesidad. Por eso una persona con un millón de euros puede seguir sin encontrar piso en una ciudad con la oferta agotada.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Recurso</b></td><td>Medio disponible para satisfacer una necesidad.</td></tr><tr><td><b>Bien</b></td><td>Objeto tangible que satisface una necesidad.</td></tr><tr><td><b>Servicio</b></td><td>Prestación intangible que satisface una necesidad.</td></tr><tr><td><b>Necesidad</b></td><td>Sensación de carencia unida al deseo de satisfacerla.</td></tr><tr><td><b>Escasez</b></td><td>Insuficiencia de los recursos frente a las necesidades.</td></tr><tr><td><b>Problema económico básico</b></td><td>Obligación de elegir que impone la escasez.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Necesidad</b></td><td>Sensación de carencia unida al deseo de satisfacerla. Son ilimitadas, saciables, sustituibles y complementarias.</td></tr>
+<tr><td><b>Necesidad primaria</b></td><td>La imprescindible para vivir: alimentación, vivienda, salud.</td></tr>
+<tr><td><b>Necesidad secundaria</b></td><td>La que mejora la calidad de vida pero no es imprescindible: ocio, viajes, tecnología.</td></tr>
+<tr><td><b>Necesidad colectiva</b></td><td>La que surge de la vida en sociedad y se satisface de forma conjunta, como el alumbrado o la seguridad.</td></tr>
+<tr><td><b>Recurso</b></td><td>Cualquier medio disponible para satisfacer necesidades, como el suelo, el trabajo, la maquinaria, el tiempo o la información.</td></tr>
+<tr><td><b>Factores productivos</b></td><td>Los recursos que se usan para producir: tierra (recursos naturales), trabajo y capital.</td></tr>
+<tr><td><b>Capital (factor productivo)</b></td><td>Bienes que se usan para producir otros bienes, como maquinaria, herramientas o naves. No es lo mismo que el dinero.</td></tr>
+<tr><td><b>Bien</b></td><td>Objeto material que satisface una necesidad. Se puede tocar y almacenar.</td></tr>
+<tr><td><b>Servicio</b></td><td>Actividad intangible que satisface una necesidad y se consume mientras se presta.</td></tr>
+<tr><td><b>Escasez</b></td><td>Insuficiencia de los recursos frente a las necesidades. Es la razón de ser de la Economía.</td></tr>
+<tr><td><b>Escasez relativa</b></td><td>Escasez que depende de cuántas personas desean un recurso en relación con lo que hay, no de que se haya agotado.</td></tr>
+<tr><td><b>Problema económico básico</b></td><td>La obligación de elegir que impone la escasez. Se concreta en tres preguntas: qué, cómo y para quién producir.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=qK-l_4MN-A4 | Recursos, bienes y necesidades | Econosublime · 5:46
+https://www.youtube.com/watch?v=i82XbmfkSP8 | Características de las necesidades | Econosublime · 6:55
+https://www.youtube.com/watch?v=TtUKmbN4-vk | Los problemas económicos básicos | Econosublime · 4:30
+```
