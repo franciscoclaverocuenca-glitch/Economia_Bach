@@ -34,7 +34,7 @@ Las dos imágenes son la economía de Málaga. Y las dos son **globales**. Esta 
 - Y si de verdad se puede crecer para siempre.
 
 ::: idea Elementos curriculares
-Competencia específica **1** (criterio **1.1**) y competencia específica **5** (criterios **5.1** y **5.2**) · Saberes básicos **C4**, **E1**, **E2**, **E3**, **E4** y **E5** · 13 sesiones · Doble coordinación propuesta con Historia del Mundo Contemporáneo.
+Competencia específica **1** (criterio **1.1**) y competencia específica **5** (criterios **5.1** y **5.2**) · Saberes básicos **C4**, **E1**, **E2**, **E3**, **E4** y **E5** · 13 sesiones · Coordinación propuesta con Historia del Mundo Contemporáneo en la sesión 11.
 :::
 
 ## El reto: la campaña #GlobalizAcción

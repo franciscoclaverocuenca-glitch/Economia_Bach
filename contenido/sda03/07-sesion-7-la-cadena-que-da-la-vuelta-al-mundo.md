@@ -35,7 +35,6 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 - **Presentación de los factores** de la globalización.
 - **4 tarjetas de ámbito** (comercio, finanzas, cultura, medioambiente) en formato grande para colgar en la pared.
 - **Post-its** para la fase de galería.
-- **Coordinación previa con el departamento de Historia**: es la primera de las dos sesiones de encuentro con HMC.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -44,10 +43,6 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 
 ::: nota Alumnado con condición auditiva
 La fase de galería implica circulación y conversaciones simultáneas. Sitúa la tarjeta del grupo de este alumno/a en la zona más alejada, y en la puesta en común final exige que quien interviene lo haga de pie, de frente y de uno en uno.
-:::
-
-::: aviso Nota de coordinación docente
-Primera de las dos **coordinaciones con Historia del Mundo Contemporáneo** (competencia HMC.5, criterios HMC.1.5.1 y .2: análisis crítico del fenómeno histórico de la globalización y sus retos). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro.
 :::
 
 ## Para empezar

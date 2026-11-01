@@ -116,7 +116,7 @@ No existe «la mejor cartera». Existe la cartera adecuada **para una persona co
 - **El horizonte temporal.** Si no vas a necesitar el dinero en treinta años, puedes soportar caídas temporales y esperar la recuperación. Si lo necesitas en tres, una caída justo entonces te arruina el plan sin tiempo de recuperarte.
 - **La tolerancia al riesgo.** No solo la financiera, también la psicológica: una cartera que te impide dormir es una mala cartera, aunque sobre el papel sea óptima.
 
-Esta es exactamente la lógica que el Comité de la sesión 10 va a evaluar en vuestro plan.
+Esta es exactamente la lógica que el Comité de la sesión 9 va a evaluar en vuestro plan.
 
 ### 6. Referente: Carmen Reinhart
 

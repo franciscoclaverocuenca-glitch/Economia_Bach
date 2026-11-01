@@ -4,7 +4,7 @@ titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico y síntesis</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3 + 3.2 (parcial)</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa con control de calidad docente — el producto se califica en la S8</td></tr><tr><td><b>Instrumentos</b></td><td>P: borrador del informe, tabla comparativa y matriz de agentes · OD: reparto de subroles y trabajo con los datos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico y síntesis</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa con control de calidad docente — el producto se califica en la S8</td></tr><tr><td><b>Instrumentos</b></td><td>P: borrador del informe, tabla comparativa y matriz de agentes · OD: reparto de subroles y trabajo con los datos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -16,7 +16,7 @@ titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 
 **2. Las tres primeras fases (34 min).** Circula exigiendo **fuente y año en toda cifra**. En el gráfico, insiste en que la elección del tipo también se justifica: no vale «hicimos barras porque sí». Y en las propuestas, que el **coste de oportunidad sea explícito** —qué se sacrifica al elegirla—, recuperando el concepto vertebrador de la SdA 1.
 
-**3. La matriz (8 min).** Es el entregable escrito principal del criterio 3.2. Recuérdales que **no se pide investigación nueva**: se pide releer sus propias propuestas con el tarjetero de agentes delante. Y que las dos preguntas de síntesis son las que trasladan la matriz **del inventario al juicio**: sin ellas, la matriz es solo una tabla rellena.
+**3. La matriz (8 min).** Prepara el análisis de agentes de la SdA 9. Recuérdales que **no se pide investigación nueva**: se pide releer sus propias propuestas con el tarjetero de agentes delante. Y que las dos preguntas de síntesis son las que trasladan la matriz **del inventario al juicio**: sin ellas, la matriz es solo una tabla rellena.
 
 **4. Control de calidad (4 min).** Pasa con la checklist y devuelve **como máximo dos indicaciones** de mejora. Cierra con el encargo: repartir la defensa entre al menos dos miembros, revisar que el reparto de subroles no reproduzca patrones estereotipados y preparar específicamente la respuesta a la **pregunta cruzada fija**, que se anuncia ya para que ninguna delegación pueda alegar sorpresa.
 
@@ -45,7 +45,7 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gru
 :::
 
 ::: aviso Nota de coordinación docente
-La revisión de julio de 2026 añade la **Fase 4** (matriz de ganadores y perdedores, 8 minutos), que es el entregable escrito principal del criterio 3.2. Para alojarla sin ampliar la sesión, las tres fases previas se comprimen ligeramente. La compresión es asumible porque la matriz **reutiliza íntegramente** las tres propuestas que el grupo acaba de redactar: no exige investigación nueva.
+La **Fase 4** (matriz de ganadores y perdedores, 8 minutos) forma parte del Informe país y prepara el criterio 3.2 de la SdA 9. Para alojarla sin ampliar la sesión, las tres fases previas se comprimen ligeramente. La compresión es asumible porque la matriz **reutiliza íntegramente** las tres propuestas que el grupo acaba de redactar: no exige investigación nueva.
 :::
 
 ## Para empezar
@@ -97,7 +97,7 @@ Aquí está lo que separa una matriz rellena de una matriz útil. Dos líneas ca
 <table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>«De vuestras tres propuestas, <b>¿cuál reparte los costes de forma más desigual</b>, y sobre qué agente recaen?»</td></tr><tr><td>2</td><td>«¿<b>Mejora esa propuesta el desarrollo y el bienestar del país en su conjunto</b>, o solo el de alguno de sus agentes?»</td></tr></tbody></table>
 
 ::: aviso La segunda pregunta es literalmente el criterio
-Es la tercera operación del criterio 3.2: determinar la repercusión sobre el desarrollo económico y el bienestar social. Y su respuesta **la vais a defender oralmente en la Cumbre**, así que preparadla bien.
+Su respuesta **la vais a defender oralmente en la Cumbre**, así que preparadla bien.
 :::
 
 ## Control de calidad y preparación de la Cumbre

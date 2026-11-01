@@ -1,24 +1,26 @@
 ---
-titulo: Sesión 8 · El nuevo dinero y los nuevos riesgos
+titulo: 'Sesión 8 · El nuevo dinero y los nuevos riesgos + laboratorio del Plan'
 ---
 
 ## Guía docente · Sesión 8 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3</td><td><b>Saberes básicos</b></td><td>C5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Círculo (fishbowl)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo de detección de fraude · D: debate estructurado · OD: observación</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3 (laboratorio: 4.1 + 4.2 + 4.3, formativa)</td><td><b>Saberes básicos</b></td><td>C5 (laboratorio: A4, C5)</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Círculo (fishbowl) → Grupos base de 4 (laboratorio)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo de detección de fraude · D: debate estructurado · OD: observación · OD: control de calidad del Plan en el laboratorio</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Los seguros como transferencia del riesgo. El nuevo panorama: fintech, blockchain y criptomonedas.</td><td>2–3</td></tr><tr><td>00:10 – 00:25</td><td>Taller de detección de fraude: phishing, chiringuitos financieros y estafas de finfluencers.</td><td>4–5</td></tr><tr><td>00:25 – 00:45</td><td>Debate estructurado (fishbowl): «¿invertir en cripto es invertir o apostar?».</td><td>6</td></tr><tr><td>00:45 – 00:55</td><td>Cierre: la falacia de «esta vez es diferente» y decálogo de ciberseguridad.</td><td>7–8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:08</td><td>Los seguros como transferencia del riesgo. El nuevo panorama: fintech, blockchain y criptomonedas.</td><td>2–3</td></tr><tr><td>00:08 – 00:20</td><td>Taller de detección de fraude: phishing, chiringuitos financieros y estafas de finfluencers (instrumento C).</td><td>4–5</td></tr><tr><td>00:20 – 00:35</td><td>Debate estructurado (fishbowl): «¿invertir en cripto es invertir o apostar?».</td><td>6</td></tr><tr><td>00:35 – 00:38</td><td>Cierre del debate: la falacia de «esta vez es diferente» (Reinhart) y decálogo de ciberseguridad financiera.</td><td>7–8</td></tr><tr><td>00:38 – 00:55</td><td>Laboratorio de preparación: cada grupo empieza a construir el Plan Financiero Personal y la cartera de su personaje.</td><td>—</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Seguros y panorama (10 min).** Empieza por los seguros, que son aburridos y esenciales: pagar una prima pequeña y segura para protegerse de una pérdida grande e incierta. Es una pieza obligatoria del Plan Financiero y se olvida siempre. Después, distingue con claridad tres palabras que el alumnado mezcla: **blockchain** (tecnología, con aplicaciones legítimas), **criptomonedas** (activos de altísima volatilidad) y **fintech** (empresas de servicios financieros tecnológicos, algunas reguladas y otras no).
+**1. Seguros y panorama (8 min).** Empieza por los seguros, que son aburridos y esenciales: pagar una prima pequeña y segura para protegerse de una pérdida grande e incierta. Es una pieza obligatoria del Plan Financiero y se olvida siempre. Después, distingue con claridad tres palabras que el alumnado mezcla: **blockchain** (tecnología, con aplicaciones legítimas), **criptomonedas** (activos de altísima volatilidad) y **fintech** (empresas de servicios financieros tecnológicos, algunas reguladas y otras no).
 
-**2. Taller de fraude (15 min).** Con ejemplos reales **anonimizados**. Las señales de alarma son concretas y memorizables. Presenta los organismos de protección y sus registros: saber a quién acudir es parte de la competencia. Aplica el cuestionario «¿fraude o no?» (instrumento C).
+**2. Taller de fraude (12 min).** Con ejemplos reales **anonimizados**. Las señales de alarma son concretas y memorizables. Presenta los organismos de protección y sus registros: saber a quién acudir es parte de la competencia. Aplica el cuestionario «¿fraude o no?» (instrumento C).
 
-**3. Fishbowl (20 min).** Pocas sillas en el centro, entrada y salida libres. **Regla de entrada innegociable**: para intervenir hay que combinar un concepto de la unidad —riesgo, diversificación, liquidez, especulación, volatilidad— con un argumento. Corta el entusiasmo acrítico («es el futuro») y el rechazo sin fundamento («es una estafa y punto») con la misma firmeza. Buscas una conclusión matizada, no un ganador.
+**3. Fishbowl (15 min).** Pocas sillas en el centro, entrada y salida libres. **Regla de entrada innegociable**: para intervenir hay que combinar un concepto de la unidad —riesgo, diversificación, liquidez, especulación, volatilidad— con un argumento. Corta el entusiasmo acrítico («es el futuro») y el rechazo sin fundamento («es una estafa y punto») con la misma firmeza. Buscas una conclusión matizada, no un ganador.
 
-**4. Cierre (10 min).** Recupera a Carmen Reinhart y la falacia de «esta vez es diferente» como vacuna contra el FOMO. Consensúa el decálogo de ciberseguridad: desarrolla directamente el descriptor CD4 y entra en el Plan Financiero de la S9.
+**4. Cierre del debate (3 min).** Recupera a Carmen Reinhart y la falacia de «esta vez es diferente» como vacuna contra el FOMO. Deja proyectado el decálogo de ciberseguridad: desarrolla directamente el descriptor CD4 y es una de las piezas del Plan Financiero. Si no da tiempo a consensuarlo en voz alta, cada grupo lo adapta en el laboratorio.
+
+**5. Laboratorio de preparación (17 min).** Cada grupo recibe su perfil de personaje (asignado por sorteo), pone sobre la mesa **todo el portafolio** de la unidad y empieza a construir el Plan Financiero Personal con la plantilla común. Insiste en el **orden**: presupuesto → colchón → deuda → cartera → seguros y ciberseguridad. Circula como andamiaje y control de calidad (instrumento OD). Lo que quede pendiente se cierra en los primeros minutos de la sesión 9.
 
 ### Preguntas guía del profesorado
 
@@ -26,6 +28,7 @@ titulo: Sesión 8 · El nuevo dinero y los nuevos riesgos
 - ¿Por qué «rentabilidad garantizada» es la señal de alarma más fiable de todas?
 - ¿Qué papel, si alguno, podría tener un criptoactivo en una cartera? ¿Y con qué dinero?
 - ¿Qué haríais si recibierais un SMS de vuestro banco con un enlace pidiendo la clave?
+- ¿Por dónde empezáis el plan? ¿Sabéis ya cuánto dinero tiene disponible vuestro personaje cada mes?
 
 ::: aviso Material que debes preparar tú
 - **Ejemplos reales anonimizados** de intentos de estafa: mensajes de phishing que suplantan a un banco, publicaciones de supuestos gurús de la inversión, esquemas piramidales. **Anonimiza marcas, perfiles y datos personales.**
@@ -33,6 +36,7 @@ titulo: Sesión 8 · El nuevo dinero y los nuevos riesgos
 - **Tarjetas de casos «¿fraude o no?»** para el cuestionario formativo.
 - **Enlaces a los registros oficiales** del Banco de España y de la CNMV, incluida su lista de advertencias sobre entidades no autorizadas.
 - **Sillas en círculo** con 3-4 sillas en el centro para el fishbowl. Prepara la disposición antes de que entre el grupo.
+- **Plantilla del Plan Financiero Personal** y **perfiles de personaje** (uno por grupo, por sorteo) para el laboratorio.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -48,6 +52,8 @@ El fishbowl tiene turnos rápidos y no anunciados, con el grupo en círculo. Sit
 Hoy vemos las dos caras del dinero nuevo: la **tecnología**, que es real y tiene usos legítimos, y la **especulación y el fraude**, que son el riesgo más frecuente para alguien de vuestra edad.
 
 Al final de la sesión sabréis reconocer una estafa financiera antes de caer en ella. Y eso es, probablemente, lo más rentable que vais a aprender este curso.
+
+En la última parte empezáis vuestro **Plan Financiero Personal**: en la próxima sesión lo cerráis y lo defendéis ante el Comité.
 
 ## Diapositivas de la sesión
 
@@ -106,7 +112,21 @@ Consensuad entre todos un decálogo. Estas son las seis reglas básicas; añadid
 6. Y una regla de oro: **nunca invertir en algo que no sepas explicar con tus palabras**.
 
 ::: nota Esto entra en vuestro Plan Financiero
-El decálogo es una de las cinco piezas obligatorias del Plan Financiero Personal de la sesión 9, y desarrolla directamente el descriptor **CD4**. No es un añadido decorativo.
+El decálogo es una de las cinco piezas obligatorias del Plan Financiero Personal que empezáis hoy, y desarrolla directamente el descriptor **CD4**. No es un añadido decorativo.
+:::
+
+## Laboratorio · Empezamos el Plan Financiero Personal
+
+Vuestro grupo recibe un **perfil de personaje** y tiene unos quince minutos para empezar su plan. Sacad todo el portafolio de la unidad: los apuntes Cornell, la hoja de cálculo de la S4, el presupuesto de la S5, las fichas de la S6, la cartera de la S7 y el decálogo de hoy.
+
+**Orden de trabajo:** presupuesto → colchón → deuda → cartera → seguros y ciberseguridad. Si empezáis por la cartera, os va a descuadrar todo lo demás, porque no sabréis cuánto dinero hay realmente disponible.
+
+### Las cinco piezas
+
+<table><thead><tr><th width="24%">Pieza</th><th width="62%">Qué tiene que incluir</th><th width="14%">Sesión</th></tr></thead><tbody><tr><td><b>1 · Presupuesto y colchón</b></td><td>Presupuesto mensual realista con la regla 50/30/20 y un fondo de emergencia dimensionado en meses de gastos básicos, con el plazo para completarlo.</td><td>S5</td></tr><tr><td><b>2 · Decisión de deuda</b></td><td>Razonada y con números reales: alquiler frente a hipoteca, o el coste real (TAE) de una compra financiada. Comparad al menos dos opciones.</td><td>S4 · S6</td></tr><tr><td><b>3 · Cartera de inversión</b></td><td>Sencilla y diversificada, coherente con el perfil de riesgo y el horizonte del personaje. Con los porcentajes por clase de activo.</td><td>S7</td></tr><tr><td><b>4 · Seguros y ciberseguridad</b></td><td>Cobertura básica de seguros y las medidas de protección frente al fraude del decálogo.</td><td>S8</td></tr><tr><td><b>5 · Un dato oficial</b></td><td>Del Banco de España, del INE o de un comparador real de productos, <b>con su fuente citada</b>.</td><td>Todas</td></tr></tbody></table>
+
+::: aviso La coherencia es lo que se evalúa
+Las cinco piezas tienen que encajar entre sí. Una cartera brillante con un presupuesto que no da para ahorrar es un plan incoherente, y el Comité lo va a ver en la primera pregunta.
 :::
 
 ## Apuntes de la sesión

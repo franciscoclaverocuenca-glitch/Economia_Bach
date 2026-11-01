@@ -4,7 +4,7 @@ titulo: 'Sesión 2 · Exploración: el mapa de precios de Málaga'
 
 ## Guía docente · Sesión 2 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de indagación con fuentes reales</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 · 1.3</td><td><b>Saberes básicos</b></td><td>A1 · A2</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro del grupo base · puesta en común en gran grupo</td><td><b>Carácter</b></td><td>Formativa · primera entrada del portafolio de la unidad</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de tres ítems durante la investigación · P: ficha de recogida de datos con conclusión y pregunta pendiente</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de indagación con fuentes reales</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (contextualización)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro del grupo base · puesta en común en gran grupo</td><td><b>Carácter</b></td><td>Formativa · primera entrada del portafolio de la unidad</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de tres ítems durante la investigación · P: ficha de recogida de datos con conclusión y pregunta pendiente</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 

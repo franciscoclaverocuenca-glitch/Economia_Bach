@@ -32,7 +32,7 @@ Las cuatro noticias comparten una sospecha: que el precio no siempre lo fija el 
 - Y a comparar soluciones con análisis coste-beneficio, sabiendo que la intervención también tiene costes.
 
 ::: idea Elementos curriculares
-Competencia específica **2** · Criterios de evaluación **2.1** y **2.3** · Saber básico **B3** · 9 sesiones · Doble coordinación propuesta con Historia del Mundo Contemporáneo en las sesiones 4 y 6.
+Competencia específica **2** · Criterios de evaluación **2.1** y **2.3** · Saber básico **B3** · 9 sesiones · Coordinación propuesta con Historia del Mundo Contemporáneo en la sesión 4.
 :::
 
 ## El reto: el informe pericial y la Comisión de Competencia

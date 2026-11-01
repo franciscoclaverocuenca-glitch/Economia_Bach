@@ -46,7 +46,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 :::
 
 ::: aviso Nota de coordinación docente
-Segunda **coordinación con Filosofía** (criterios FILO.1.8.1 y .2: utilitarismo, ética del deber y comunitarismo). Pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro.
+**Coordinación con Filosofía** (competencia específica 8, criterio 8.1; saber FILO.1.C.1.1: utilitarismo, ética del deber y comunitarismo). Sigue siendo una propuesta pendiente de confirmar oferta de la materia y matrícula común.
 :::
 
 ## Para empezar

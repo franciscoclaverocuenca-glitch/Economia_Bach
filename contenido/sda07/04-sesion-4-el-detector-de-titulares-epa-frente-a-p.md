@@ -47,10 +47,6 @@ Recupera explícitamente los casos frontera **C** y **D** del censo humano de ay
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso Nota de coordinación docente
-La conexión con **Antropología y Sociología** (criterios AYSO 2.3 y 2.5, saberes AYSO.1.B.3, B.5 y B.9) es una propuesta pendiente de confirmar oferta de la materia y matrícula común. Si se confirma, la ficha de datos de esta sesión puede recogerse allí como evidencia propia sin repetir la actividad.
-:::
-
 ## Para empezar
 
 Dos titulares del mismo mes. Dos cifras de paro distintas.

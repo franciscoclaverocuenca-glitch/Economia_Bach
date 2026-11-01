@@ -82,7 +82,7 @@ Para cada tarea, anotad **qué herramienta ha sido más eficiente**: calculadora
 
 ### La conexión con vuestro reto
 
-Antes de cerrar el Cornell, responded: **¿qué producto de ahorro o de financiación le conviene al personaje de vuestro plan, y por qué?** Anotadlo: en la sesión 9 tendréis que justificarlo con números.
+Antes de cerrar el Cornell, responded: **¿qué producto de ahorro o de financiación le conviene al personaje de vuestro plan, y por qué?** Anotadlo: en el Plan Financiero (sesiones 8 y 9) tendréis que justificarlo con números.
 
 ## Laboratorio · El poder del interés compuesto
 

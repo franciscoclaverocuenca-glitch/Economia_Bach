@@ -45,6 +45,10 @@ Aquí es donde se falla después. Dedica tiempo a los casos dudosos —el salari
 La rotación de roles genera conversación simultánea en todos los equipos. Sitúa a este equipo en la zona más alejada, entrega los datos del caso **por escrito** a cada miembro y acuerda que la puesta en común interna se haga de uno en uno y de frente.
 :::
 
+::: aviso Nota de coordinación docente
+**Coordinación con CEE** (competencia específica 3, criterio 3.3; saber CEE.1.C.3). El cálculo de costes, ingresos y beneficio puede recogerse en Cultura Emprendedora y Empresarial como evidencia compartida sin repetir la actividad. Pendiente de confirmar matrícula común.
+:::
+
 ## Para empezar
 
 Esta es **la sesión más importante de la unidad**. Y no es difícil: son tres restas y una multiplicación.

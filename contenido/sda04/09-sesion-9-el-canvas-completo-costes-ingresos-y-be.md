@@ -51,6 +51,10 @@ La consigna clave: **no se exige precisión contable, sino coherencia** entre la
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equipo en la zona más alejada y acuerda una norma de un solo turno de palabra. Al repartir las intervenciones del pitch, recuerda la **opción de vídeo grabado** prevista en las medidas DUA, evaluada con los mismos descriptores.
 :::
 
+::: aviso Nota de coordinación docente
+**Coordinación con CEE** (competencia específica 3, criterio 3.3; saber CEE.1.C.3). El cálculo de costes, ingresos y beneficio puede recogerse en Cultura Emprendedora y Empresarial como evidencia compartida sin repetir la actividad. Pendiente de confirmar matrícula común.
+:::
+
 ## Para empezar
 
 Hoy vuestra idea se convierte en **números**.

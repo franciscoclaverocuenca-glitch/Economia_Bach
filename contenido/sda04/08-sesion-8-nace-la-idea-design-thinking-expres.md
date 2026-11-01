@@ -47,10 +47,6 @@ Insiste en las tres: la primera idea casi nunca es la mejor, y generar alternati
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equipo en la zona más alejada y aprovecha que buena parte del trabajo es **escrito sobre post-its**. En la validación cruzada, garantiza que se hace de frente y sin ruido de fondo.
 :::
 
-::: aviso Nota de coordinación docente
-**Coordinación con CEE — Competencia específica 2.** El proceso de generación de ideas, elección por consenso y diseño del modelo de negocio conecta con los elementos curriculares propios de Cultura Emprendedora y Empresarial, verificados en el Anexo II. Las sesiones 8 a 10 pueden servir como evidencia compartida si hay matrícula común.
-:::
-
 ## Para empezar
 
 Hoy nace vuestra empresa. Y la regla número uno del Design Thinking es contraintuitiva:

@@ -45,10 +45,6 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-::: aviso Nota de coordinación docente
-**Coordinación con CEE — Competencia específica 1.** El cuestionario de autodiagnóstico es, en sí mismo, un ejercicio de autoconocimiento (saber CEE.1.A.3) trasladado al contexto económico, y responde al criterio 1.2 de CEE. Verificado en el Anexo II de la Orden de 30 de mayo de 2023. Pendiente únicamente de confirmar matrícula común.
-:::
-
 ## Para empezar
 
 ¿La gente emprendedora **nace o se hace**?

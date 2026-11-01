@@ -3,16 +3,16 @@ n: 5
 carpeta: sda05
 titulo: ¿Cuánto cuestan las cosas?
 titulo_largo: SdA 5 · ¿Cuánto cuestan las cosas? · Economía 1.º Bachillerato
-descripcion: 'Situación de aprendizaje 5: el mercado y sus fuerzas. Oferta, demanda, equilibrio y elasticidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+descripcion: 'Situación de aprendizaje 5: el mercado y sus fuerzas. Oferta, demanda, equilibrio y elasticidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2027-2028.'
 autor: Francisco Clavero Cuenca
 trimestre: 2
 sesiones: 8
-producto: '<b>El Parqué de Málaga</b>: un mercado real montado en el aula, y el informe con los datos que generes en él.'
+producto: '<b>El Parqué de Málaga</b>: una simulación de mercado en tres rondas (mercado libre, perturbación de la oferta y de la demanda) cuyos datos sirven para un <b>informe de oferta, demanda y elasticidad</b>.'
 ce: CE2
 criterios: '2.2'
 saberes: B2
 referente: Susan Athey
-interdisciplinar: Cultura y Práctica Digital (sesiones 6 y 7)
+interdisciplinar: Creación Digital y Pensamiento Computacional (sesiones 6 y 7)
 temas: oferta demanda ley de la demanda curva equilibrio excedente escasez elasticidad precio aceite de oliva poolred mercamálaga desplazamiento movimiento bienes sustitutivos complementarios precios dinámicos athey parqué mango axarquía
 rubricas:
 - criterio: '2.2'

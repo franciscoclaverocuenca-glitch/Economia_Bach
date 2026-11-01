@@ -10,11 +10,8 @@ Cada sesión de la SdA 9 es una página de este material. Dentro de cada página
 
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
-::: aviso La regla de sustitución del criterio 3.2
-Esta unidad se ha construido sobre la **revisión de julio de 2026 (rev. B)** dla secuenciación, que la armoniza con la evaluación parcial del criterio 3.2 realizada en la SdA 8. Dos consecuencias prácticas que conviene tener presentes en el aula:
-
-- La SdA 8 evaluó solo **dos** de las tres operaciones del criterio (diferenciar costes y beneficios por agente, y determinar su repercusión sobre el desarrollo y el bienestar), con una aplicación restringida de la rúbrica. La tercera —establecer las relaciones entre agentes mediante el modelo de demanda y oferta agregadas— es el **núcleo de esta unidad**, y aquí la rúbrica se aplica **íntegra**.
-- La nota de esta SdA es la **calificación definitiva** del criterio 3.2 y **sustituye** a la parcial de la SdA 8, sin promediarse con ella. Conviene decírselo explícitamente al alumnado en la sesión 9: el listón se ha elevado y hay que explicar por qué.
+::: aviso El criterio 3.2 se evalúa entero aquí
+El criterio 3.2 se trabaja y se califica **una sola vez**, en esta unidad. La SdA 8 solo lo prepara de forma formativa con la pregunta «¿quién paga y quién gana?», sin calificarlo. Por eso aquí la rúbrica se aplica **completa**, con sus tres operaciones: diferenciar costes y beneficios por agente, establecer las relaciones entre agentes mediante el flujo circular y el modelo de demanda y oferta agregadas, y determinar su repercusión sobre el desarrollo y el bienestar. Conviene decírselo explícitamente al alumnado en la sesión 7, al presentar la rúbrica de la maqueta.
 :::
 
 ::: nota Los tres puntos de conocimiento previo
@@ -22,7 +19,7 @@ El alumnado llega sabiendo ya quiénes son los cuatro agentes económicos y habi
 
 - **Sesión 1.** La simulación puede correr algo más rápida —lo que aquí se descubre es la circularidad, no el censo de agentes— y el diagnóstico se reformula para medir qué queda del mapa de agentes. Los dos o tres minutos ganados van a la ronda 3 (la fuga), que es la que siembra las filtraciones.
 - **Sesión 3.** La primera mitad —quiénes son los agentes— se trata como **repaso activo**, no como explicación nueva: se les pide reconstruir el censo en dos minutos y se corrige lo que falte. Los minutos ganados van íntegros a lo que sí es nuevo: los dos mercados, los dos flujos y la razón de la circularidad.
-- **Sesión 7.** La descomposición C + I + G + (X − M) se dedujo en la SdA 8 al calcular el PIB por la vía del gasto. Conviene abrir la sesión recuperándola: convierte lo que parece una fórmula nueva en un reencuentro.
+- **Sesión 5.** La descomposición C + I + G + (X − M) se dedujo en la SdA 8 al calcular el PIB por la vía del gasto. Conviene abrir la sesión recuperándola: convierte lo que parece una fórmula nueva en un reencuentro.
 :::
 
 ## Presentación de la unidad
@@ -41,12 +38,12 @@ Esta unidad va sobre ese recorrido. Se llama **flujo circular de la renta** y es
 - Y qué actividades esenciales quedan fuera de un modelo por el que solo circula dinero.
 
 ::: idea Elementos curriculares
-Competencia específica **3** · Criterio de evaluación **3.2** (calificación definitiva; evaluación parcial previa en la SdA 8) · Saber básico **C1** · 11 sesiones · Tercer trimestre · Coordinación propuesta con Matemáticas Aplicadas a las Ciencias Sociales I en las sesiones 6 y 8.
+Competencia específica **3** · Criterio de evaluación **3.2** · Saber básico **C1** · 9 sesiones · Tercer trimestre · Coordinación propuesta con Matemáticas Aplicadas a las Ciencias Sociales I en las sesiones 4 y 5.
 :::
 
 ## El reto: la feria-museo «El viaje de un euro»
 
-En la sesión 10 esta aula se va a convertir en un **museo económico**. Cada grupo expondrá su propia infografía o maqueta interactiva del flujo circular de la renta aplicada a un sector de la economía de Málaga, y hará de guía para el resto de la clase, que preguntará.
+En la sesión 8 esta aula se va a convertir en un **museo económico**. Cada grupo expondrá su propia infografía o maqueta interactiva del flujo circular de la renta aplicada a un sector de la economía de Málaga, y hará de guía para el resto de la clase, que preguntará.
 
 ### El producto final tiene dos piezas inseparables
 
@@ -54,10 +51,10 @@ En la sesión 10 esta aula se va a convertir en un **museo económico**. Cada gr
 
 ### Los cinco elementos obligatorios de la maqueta
 
-<table><thead><tr><th width="5%"></th><th width="71%">Elemento</th><th width="24%">Se construye en</th></tr></thead><tbody><tr><td>1</td><td>Los agentes y sus funciones</td><td>Sesión 3</td></tr><tr><td>2</td><td>Los dos mercados y los dos flujos, diferenciados por color</td><td>Sesión 3</td></tr><tr><td>3</td><td>El triple papel del Sector Público, con operaciones malagueñas reales</td><td>Sesión 4</td></tr><tr><td>4</td><td>Una filtración y una inyección</td><td>Sesiones 5-6</td></tr><tr><td>5</td><td>Panel de escenarios: una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 7-8</td></tr></tbody></table>
+<table><thead><tr><th width="5%"></th><th width="71%">Elemento</th><th width="24%">Se construye en</th></tr></thead><tbody><tr><td>1</td><td>Los agentes y sus funciones</td><td>Sesión 3</td></tr><tr><td>2</td><td>Los dos mercados y los dos flujos, diferenciados por color</td><td>Sesión 3</td></tr><tr><td>3</td><td>El triple papel del Sector Público, con operaciones malagueñas reales</td><td>Sesión 3</td></tr><tr><td>4</td><td>Una filtración y una inyección</td><td>Sesión 4</td></tr><tr><td>5</td><td>Panel de escenarios: una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 5 y 6</td></tr></tbody></table>
 
 ::: nota Cada sesión aporta una pieza
-No hay que construir la maqueta al final: se va montando a lo largo de la unidad. Al cierre de cada sesión de estructuración recibes una pieza, y en la sesión 9 se ensamblan todas. Guárdalas.
+No hay que construir la maqueta al final: se va montando a lo largo de la unidad. Al cierre de cada sesión de estructuración recibes una pieza, y en la sesión 7 se ensamblan todas. Guárdalas.
 :::
 
 ::: aviso Por qué esto no lo puede hacer una IA por ti
@@ -92,8 +89,8 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 3.2
 ```
 
-## Mapa de las 11 sesiones {.plegado}
+## Mapa de las 9 sesiones {.plegado}
 
-Estas son las once sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
+Estas son las nueve sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
 
-<table><thead><tr><th width="5%">Nº</th><th width="53%">Sesión</th><th width="20%">Fase</th><th width="22%">Pieza que aporta</th></tr></thead><tbody><tr><td>1</td><td>Motivación y diagnóstico: la cadena del euro</td><td>Movilizar + Activar</td><td>—</td></tr><tr><td>2</td><td>Exploración: quien toma el pulso a la economía andaluza</td><td>Explorar</td><td>El dato oficial</td></tr><tr><td>3</td><td>Los agentes económicos y el flujo circular básico</td><td>Estructurar</td><td>Piezas 1 y 2</td></tr><tr><td>4</td><td>El flujo completo: el Sector Público y lo que el modelo no ve</td><td>Estructurar</td><td>Pieza 3</td></tr><tr><td>5</td><td>Los motores del gasto: consumo, ahorro e inversión</td><td>Estructurar</td><td>Pieza 4 (a)</td></tr><tr><td>6</td><td>El dominó malagueño: el multiplicador de la inversión</td><td>Estructurar</td><td>Pieza 4 (b)</td></tr><tr><td>7</td><td>La demanda agregada: el gasto total de la economía</td><td>Estructurar</td><td>Pieza 5 (a)</td></tr><tr><td>8</td><td>La oferta agregada y el equilibrio: el gabinete de crisis</td><td>Estructurar</td><td>Pieza 5 (b)</td></tr><tr><td>9</td><td>Laboratorio de diseño: la maqueta y el guion de la visita</td><td>Aplicar</td><td>Montaje</td></tr><tr><td>10</td><td>La feria-museo «El viaje de un euro»</td><td>Evaluar</td><td>Producto final</td></tr><tr><td>11</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="5%">Nº</th><th width="53%">Sesión</th><th width="20%">Fase</th><th width="22%">Pieza que aporta</th></tr></thead><tbody><tr><td>1</td><td>Motivación y diagnóstico: la cadena del euro</td><td>Movilizar + Activar</td><td>—</td></tr><tr><td>2</td><td>Exploración: quien toma el pulso a la economía andaluza</td><td>Explorar</td><td>El dato oficial</td></tr><tr><td>3</td><td>El flujo circular completo: agentes, Sector Público y lo que el modelo no ve</td><td>Estructurar</td><td>Piezas 1 y 2</td></tr><tr><td>4</td><td>Los motores del gasto y el multiplicador: consumo, ahorro, inversión y el dominó malagueño</td><td>Estructurar</td><td>Pieza 3</td></tr><tr><td>5</td><td>La demanda agregada: el gasto total de la economía</td><td>Estructurar</td><td>Pieza 4</td></tr><tr><td>6</td><td>La oferta agregada y el equilibrio: el gabinete de crisis</td><td>Estructurar</td><td>Pieza 5</td></tr><tr><td>7</td><td>Laboratorio de diseño: la maqueta y el guion de la visita</td><td>Aplicar</td><td>Montaje</td></tr><tr><td>8</td><td>La feria-museo «El viaje de un euro»</td><td>Evaluar</td><td>Producto final</td></tr><tr><td>9</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>—</td></tr></tbody></table>

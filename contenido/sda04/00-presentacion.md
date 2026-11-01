@@ -16,10 +16,8 @@ Tres materiales requieren gestión previa. El **caso real de empresa** de la ses
 Actualiza también el **dato de brecha de género en titularidad empresarial y acceso a financiación** del cierre de la sesión 4: se recomienda informes de ATA o del GEM España, verificados antes de cada curso.
 :::
 
-::: nota La triple coordinación con CEE
-Esta unidad tiene la conexión interdisciplinar **más sólida de todo el proyecto**: tres conexiones con **Cultura Emprendedora y Empresarial**, referenciadas con los elementos curriculares propios de esa materia y **verificadas código a código** en el Anexo II de la Orden de 30 de mayo de 2023. CEE es materia optativa de libre configuración autonómica recogida expresamente en el Anexo I para 1.º de Bachillerato.
-
-Si el alumnado cursa ambas materias, las sesiones 1 y 2 (autoconocimiento y referente emprendedor), la 7 (innovación y valor) y las 8 a 10 (el proyecto y su defensa) pueden servir como **evidencia compartida** sin repetir la actividad. Queda por confirmar únicamente la matrícula común.
+::: nota La coordinación con CEE
+La unidad se coordina con **Cultura Emprendedora y Empresarial** (competencia específica 3, criterio 3.3, saber CEE.1.C.3) en las sesiones 6 y 9: costes, ingresos y beneficio del proyecto. Si el alumnado cursa ambas materias, esas sesiones pueden servir como **evidencia compartida** sin repetir la actividad. Queda por confirmar la matrícula común.
 :::
 
 ## Presentación de la unidad
@@ -38,7 +36,7 @@ Y eso es exactamente lo que vais a aprender: desde qué es una empresa y qué fu
 - Y a construir un modelo de negocio completo y defenderlo en cuatro minutos.
 
 ::: idea Elementos curriculares
-Competencia específica **2** · Criterio de evaluación **2.4** · Saber básico **B1** · 11 sesiones · **Triple coordinación** propuesta con Cultura Emprendedora y Empresarial (CEE), verificada código a código.
+Competencia específica **2** · Criterio de evaluación **2.4** · Saber básico **B1** · 11 sesiones · Coordinación propuesta con Cultura Emprendedora y Empresarial (CEE) en las sesiones 6 y 9.
 :::
 
 ## El reto: «De la Idea al Beneficio»

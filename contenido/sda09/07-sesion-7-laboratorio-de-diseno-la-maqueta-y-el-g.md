@@ -1,8 +1,8 @@
 ---
-titulo: 'Sesión 9 · Laboratorio de diseño: la maqueta y el guion de la visita'
+titulo: 'Sesión 7 · Laboratorio de diseño: la maqueta y el guion de la visita'
 ---
 
-## Guía docente · Sesión 9 {.docente .plegado}
+## Guía docente · Sesión 7 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2 (formativa)</td><td><b>Saberes básicos</b></td><td>C1 (síntesis: flujo circular; DA-OA)</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa — laboratorio de preparación del producto sumativo</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro del trabajo cooperativo y del control de calidad</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -16,7 +16,7 @@ titulo: 'Sesión 9 · Laboratorio de diseño: la maqueta y el guion de la visita
 
 **2. El laboratorio (35 min).** Tres tareas simultáneas pero con orden recomendado:
 
-*Montaje.* Las piezas entregadas al cierre de las sesiones 3 a 8 —esqueleto del diagrama, módulo del Sector Público, filtración e inyección, palancas de demanda y de oferta— se ensamblan en el formato elegido: maqueta física manipulable, infografía digital interactiva o mural con elementos móviles. Con el código de color de la unidad.
+*Montaje.* Las piezas entregadas al cierre de las sesiones 3 a 6 —esqueleto del diagrama, módulo del Sector Público, filtración e inyección, palancas de demanda y de oferta— se ensamblan en el formato elegido: maqueta física manipulable, infografía digital interactiva o mural con elementos móviles. Con el código de color de la unidad.
 
 *Documentación.* El grupo localiza en el IECA o el INE el dato que ancla su maqueta al sector malagueño elegido, lo cita con fuente y fecha, y **justifica por escrito por qué es fiable** frente al titular de prensa que pudiera resumirlo.
 
@@ -34,12 +34,12 @@ titulo: 'Sesión 9 · Laboratorio de diseño: la maqueta y el guion de la visita
 - ¿Habéis cronometrado la visita? ¿Cabe en cuatro minutos?
 
 ::: aviso Material que debes preparar tú
-- **Las piezas de la maqueta acumuladas en las sesiones 3 a 8**: esqueleto del diagrama, módulo del Sector Público, filtración e inyección, palanca de demanda y palanca de oferta. Recuérdales traerlas.
+- **Las piezas de la maqueta acumuladas en las sesiones 3 a 6**: esqueleto del diagrama, módulo del Sector Público, filtración e inyección, palanca de demanda y palanca de oferta. Recuérdales traerlas.
 - **Material de manualidades** (cartulina, rotuladores de los dos colores de la unidad, velcro o pinzas para los elementos móviles) **y/o dispositivos digitales** según el formato que elija cada grupo.
 - **Acceso a las webs del IECA y del INE**, con los enlaces preparados para no perder tiempo.
 - **Lista de cotejo de los 5 elementos obligatorios**, impresa, una por grupo.
 - **Plantilla de guion de la visita** con reparto de paradas, y cronómetro.
-- **Ficha del visitante** preparada para la sesión 10, con la casilla obligatoria de agentes.
+- **Ficha del visitante** preparada para la sesión 8, con la casilla obligatoria de agentes.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -54,7 +54,7 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto y bastante movimie
 
 Hoy se junta todo. Las piezas que habéis ido construyendo desde la sesión 3 se ensamblan en vuestra maqueta, y preparáis el guion de la visita guiada de la feria.
 
-Un aviso importante: esta vez la rúbrica del criterio 3.2 **se aplica completa**, incluidas las partes sobre el modelo DA-OA que en la SdA 8 todavía no eran exigibles. El listón se ha elevado, y conviene que lo sepáis antes y no después.
+Un aviso importante: la rúbrica del criterio 3.2 **se aplica completa**, incluidas las partes sobre el modelo DA-OA. Es la única vez que se califica este criterio, y conviene que lo sepáis antes y no después.
 
 ## Diapositivas de la sesión
 
@@ -69,10 +69,10 @@ sda9-s09-06.webp | El control de calidad
 
 ## Los cinco elementos obligatorios
 
-<table><thead><tr><th width="5%"></th><th width="60%">Elemento</th><th width="25%">Se construyó en…</th><th width="10%"></th></tr></thead><tbody><tr><td>1</td><td>Los <b>agentes económicos</b> y sus funciones</td><td>Sesión 3</td><td></td></tr><tr><td>2</td><td>Los <b>dos mercados</b> y los <b>dos flujos</b>, diferenciados por color</td><td>Sesión 3</td><td></td></tr><tr><td>3</td><td>El <b>triple papel del Sector Público</b>, con operaciones malagueñas reales</td><td>Sesión 4</td><td></td></tr><tr><td>4</td><td>Una <b>filtración</b> y una <b>inyección</b> del circuito</td><td>Sesiones 5 y 6</td><td></td></tr><tr><td>5</td><td><b>Panel de escenarios</b> con una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 7 y 8</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="5%"></th><th width="60%">Elemento</th><th width="25%">Se construyó en…</th><th width="10%"></th></tr></thead><tbody><tr><td>1</td><td>Los <b>agentes económicos</b> y sus funciones</td><td>Sesión 3</td><td></td></tr><tr><td>2</td><td>Los <b>dos mercados</b> y los <b>dos flujos</b>, diferenciados por color</td><td>Sesión 3</td><td></td></tr><tr><td>3</td><td>El <b>triple papel del Sector Público</b>, con operaciones malagueñas reales</td><td>Sesión 3</td><td></td></tr><tr><td>4</td><td>Una <b>filtración</b> y una <b>inyección</b> del circuito</td><td>Sesión 4</td><td></td></tr><tr><td>5</td><td><b>Panel de escenarios</b> con una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 5 y 6</td><td></td></tr></tbody></table>
 
 ::: aviso Esta vez la rúbrica se aplica completa
-En la SdA 8 el criterio 3.2 se evaluó de forma **parcial**: solo dos de sus tres operaciones. Aquí se aplica en su integridad, incluida la tercera —establecer las relaciones entre agentes mediante el modelo DA-OA—, que es el núcleo del elemento 5. Y la nota que obtengáis aquí es la **calificación definitiva** del criterio.
+En la SdA 8 preparasteis el criterio 3.2 sin calificarlo. Aquí se aplica en su integridad, incluida la tercera operación —establecer las relaciones entre agentes mediante el modelo DA-OA—, que es el núcleo del elemento 5. Y la nota que obtengáis aquí es la **única calificación** del criterio.
 :::
 
 ## Las tres tareas del laboratorio

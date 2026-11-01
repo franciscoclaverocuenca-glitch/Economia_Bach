@@ -1,5 +1,5 @@
 ---
-titulo: Autoevaluación y evalución docente
+titulo: Autoevaluación y evaluación docente
 ---
 
 ## Autoevaluación

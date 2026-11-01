@@ -47,10 +47,6 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-::: aviso Nota de coordinación docente
-**Coordinación con CEE — Competencia específica 3.** El trabajo sobre innovación como fuente de valor añadido y sobre la aportación de la empresa al bienestar social conecta directamente con los elementos curriculares propios de Cultura Emprendedora y Empresarial, verificados en el Anexo II de la Orden de 30 de mayo de 2023. Pendiente de confirmar matrícula común.
-:::
-
 ## Para empezar
 
 Hasta ahora hemos calculado el beneficio. Hoy toca la pregunta incómoda: **¿vale todo para conseguirlo?**

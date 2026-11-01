@@ -48,10 +48,6 @@ Recuerda la medida DUA: quien tenga **ansiedad escénica documentada** puede hab
 Sesión de exposición oral con turno de preguntas. Sitúa a este alumno/a con visión frontal de quien expone y del jurado, exige que las preguntas se formulen de pie, de una en una y de frente, y facilita **por escrito** los Canvas de los demás equipos antes de la sesión para que pueda seguir las cifras sin depender solo del oído.
 :::
 
-::: aviso Nota de coordinación docente
-**Coordinación con CEE — Competencia específica 2.** La defensa del proyecto ante un jurado conecta con los elementos curriculares propios de Cultura Emprendedora y Empresarial. Si hay matrícula común, las sesiones 8 a 10 pueden servir como evidencia compartida sin repetir la actividad en CEE.
-:::
-
 ## Para empezar
 
 Hoy defendéis vuestra empresa ante un jurado. **3-4 minutos** de reloj y un turno de preguntas.

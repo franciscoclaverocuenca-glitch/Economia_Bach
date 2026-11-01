@@ -17,7 +17,7 @@ Refréscalos antes de impartir, en **INE**, **IECA**, **Banco de España**, **CG
 :::
 
 ::: aviso Otras notas
-- La **doble coordinación con Filosofía** (criterio FILO.1.3.2 en la sesión 7 y FILO.1.8.1/.2 en la sesión 8) sigue siendo una **propuesta**: falta confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro. Se señala expresamente que el profesorado de Filosofía **puede recoger esas mismas sesiones como evidencia propia sin repetir la actividad**.
+- La **coordinación con Filosofía** (competencia específica 8, criterio 8.1, saber FILO.1.C.1.1, en la sesión 8) sigue siendo una **propuesta**: falta confirmar oferta de la materia y matrícula común. El profesorado de Filosofía **puede recoger esa sesión como evidencia propia sin repetir la actividad**.
 - Sobre la **persona invitada** de la sesión 2, se fija un criterio de pluralidad explícito: priorizar un perfil **técnico o institucional** frente a uno abiertamente partidista, porque esa sesión es fuente de datos y no toma de postura. Las posturas enfrentadas ya se trabajan en el Juicio.
 - Es la **primera unidad del curso**: los conceptos de escasez, coste de oportunidad, tipos de bien y eficiencia frente a equidad se reutilizan en prácticamente todas las demás SdA.
 :::
@@ -38,7 +38,7 @@ Málaga tiene un problema de vivienda, y ese problema es **económico**. Esta un
 - Y a sostener una postura ante un tribunal, con datos oficiales y con argumentos.
 
 ::: idea Elementos curriculares
-Competencia específica **1** · Criterios de evaluación **1.2** y **1.3** · Saberes básicos **A1**, **A2**, **A5** y **C2** · 11 sesiones · Doble coordinación propuesta con Filosofía en las sesiones 7 y 8.
+Competencia específica **1** · Criterios de evaluación **1.2** y **1.3** · Saberes básicos **A1**, **A2**, **A5** y **C2** · 11 sesiones · Coordinación propuesta con Filosofía en la sesión 8.
 :::
 
 ## El reto: el Juicio simulado

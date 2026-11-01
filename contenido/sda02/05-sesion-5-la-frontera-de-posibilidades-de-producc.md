@@ -46,7 +46,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 :::
 
 ::: aviso Nota de coordinación docente
-**Coordinación con Matemáticas Aplicadas a las Ciencias Sociales I** (competencia específica MACS.1.7 y criterios MACS.1.7.1/.2: representar conceptos e información matemáticos seleccionando la tecnología más adecuada). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y los códigos exactos en la concreción curricular del centro. Se sugiere impartirla **en la misma semana** que el contenido correspondiente en Matemáticas.
+**Coordinación con Matemáticas Aplicadas a las Ciencias Sociales I** (competencia específica 7, criterio 7.2; saber MACS.1.C.4: representar conceptos e información matemáticos seleccionando la tecnología más adecuada). Sigue siendo una propuesta pendiente de confirmar oferta de la materia y matrícula común. Se sugiere impartirla **en la misma semana** que el contenido correspondiente en Matemáticas.
 :::
 
 ## Para empezar

@@ -4,7 +4,7 @@ titulo: Sesión 6 · ¿Crecer primero, repartir después? Las Cuatro Esquinas
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico) — sesión coordinada con EPCD I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.2 (parcial)</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Cuatro esquinas</td><td><b>Carácter</b></td><td>Formativa — evidencia de observación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro de la argumentación y del uso de evidencia · D: debate estructurado de las Cuatro Esquinas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico) — sesión coordinada con EPCD I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Cuatro esquinas</td><td><b>Carácter</b></td><td>Formativa — evidencia de observación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro de la argumentación y del uso de evidencia · D: debate estructurado de las Cuatro Esquinas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -14,13 +14,13 @@ titulo: Sesión 6 · ¿Crecer primero, repartir después? Las Cuatro Esquinas
 
 **1. El Estado del bienestar en un gráfico (15 min).** Un único hilo empírico: **la desigualdad de mercado no es la desigualdad final**. Compara el Gini de España antes y después de impuestos y transferencias.
 
-Y lee ese gráfico **con el tarjetero de agentes delante**: la diferencia entre el Gini antes y el Gini después no es un efecto automático, es el resultado de que un agente —el Sector Público— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente es exactamente lo que el criterio 3.2 pide diferenciar.
+Y lee ese gráfico **con el tarjetero de agentes delante**: la diferencia entre el Gini antes y el Gini después no es un efecto automático, es el resultado de que un agente —el Sector Público— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
 
 Recupera aquí el dilema eficiencia-equidad de la SdA 1 —entonces abstracto, ahora con cifras— y las dos preguntas abiertas pendientes: la no-convergencia andaluza de la S4 y la media engañosa de la Estación D.
 
 **2. La ficha de posicionamiento (5 min).** Cuatro campos: tesis, un dato de la unidad, un concepto correctamente usado y —campo añadido en la revisión— la identificación del agente que soporta el coste y del que recibe el beneficio.
 
-**3. El debate (22 min).** Portavoz rotatorio por esquina, defensa y réplica a la esquina que elija. **Requisito formal innegociable**: ninguna defensa se da por completa hasta que responde en una frase a «¿quién paga y quién gana con vuestra opción?». Anúncialo antes de empezar y exígelo sistemáticamente: obliga a que cada postura se haga cargo de sus costes y produce la evidencia oral del criterio 3.2.
+**3. El debate (22 min).** Portavoz rotatorio por esquina, defensa y réplica a la esquina que elija. **Requisito formal innegociable**: ninguna defensa se da por completa hasta que responde en una frase a «¿quién paga y quién gana con vuestra opción?». Anúncialo antes de empezar y exígelo sistemáticamente: obliga a que cada postura se haga cargo de sus costes.
 
 Y una regla que conviene subrayar: el **cambio razonado de esquina puntúa como virtud**, no como derrota. Es la conducta intelectual que la unidad quiere entrenar. Solo se permite si se explica en voz alta qué argumento ha movido a la persona.
 
@@ -49,11 +49,11 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 :::
 
 ::: aviso Nota de coordinación docente
-La revisión de julio de 2026 no modifica la estructura ni la temporalización de esta sesión. Añade una única fila a la ficha de posicionamiento —«¿qué agente soporta el coste de tu modelo y cuál recibe el beneficio?»— y convierte esa identificación en **requisito formal de cierre** de cada intervención. Esta sesión es, junto a la S7, la principal fuente de evidencia oral del criterio 3.2 en la unidad.
+Esta sesión incluye una fila a la ficha de posicionamiento —«¿qué agente soporta el coste de tu modelo y cuál recibe el beneficio?»— y convierte esa identificación en **requisito formal de cierre** de cada intervención. Es un andamiaje formativo hacia el criterio 3.2, que se evalúa en la SdA 9.
 :::
 
 ::: aviso Nota de coordinación docente
-La coordinación con **EPCD I** (criterios 2.1, 2.2 y 3.1; saberes EPCD.1.A.2.1, EPCD.1.A.2.3 y EPCD.1.B.3.3) es aplicable **si el centro oferta la materia**. Conviene confirmarlo.
+La coordinación con **EPCD I** (criterio 3.1; saber EPCD.1.B.3.3) es aplicable **si el centro oferta la materia**. Conviene confirmarlo.
 :::
 
 ## Para empezar
@@ -84,7 +84,7 @@ sda8-s06-08.webp | Cierre
 Comparad el índice de Gini de España **antes** y **después** de impuestos y transferencias. Pensiones, sanidad, educación y prestaciones reducen sustancialmente la desigualdad medida.
 
 ::: nota Y leed ese gráfico con el tarjetero de agentes delante
-La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente —el **Sector Público**— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente es exactamente lo que pide el criterio 3.2.
+La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente —el **Sector Público**— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que pedirá el criterio 3.2 en la SdA 9.
 :::
 
 ### Las cuatro esquinas
@@ -118,7 +118,7 @@ El mercado reparte la renta según lo que cada persona aporta y posee. Ese repar
 En España, la diferencia entre el Gini de mercado y el Gini final es sustancial: pensiones, sanidad, educación y prestaciones reducen apreciablemente la desigualdad medida.
 
 ::: nota Y esa diferencia tiene un responsable
-No es un efecto automático de la economía. Es el resultado de que un agente concreto —el **Sector Público**— toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente es exactamente lo que el criterio 3.2 pide diferenciar.
+No es un efecto automático de la economía. Es el resultado de que un agente concreto —el **Sector Público**— toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
 :::
 
 ### 2. Eficiencia y equidad: el dilema con cifras
@@ -134,7 +134,7 @@ Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta
 ### 4. Lo que se evalúa hoy
 
 ::: aviso Dos cosas, y ninguna es «ganar»
-**Primera:** que cada intervención cierre respondiendo a «¿quién paga y quién gana con vuestra opción?». Sin eso, la defensa está incompleta. Es el requisito formal de la sesión y la evidencia oral del criterio 3.2.
+**Primera:** que cada intervención cierre respondiendo a «¿quién paga y quién gana con vuestra opción?». Sin eso, la defensa está incompleta. Es el requisito formal de la sesión.
 
 **Segunda:** que el **cambio razonado de opinión** se valore como virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.
 :::

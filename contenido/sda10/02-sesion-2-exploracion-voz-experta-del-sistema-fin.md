@@ -68,7 +68,7 @@ sda10-s02-04.webp | Cierre
 
 ## Cierre
 
-Anota en tu portafolio la respuesta a las **dos preguntas obligatorias**: las vas a usar en la sesión 9, cuando construyas el Plan Financiero de tu personaje.
+Anota en tu portafolio la respuesta a las **dos preguntas obligatorias**: las vas a usar en las sesiones 8 y 9, cuando construyas el Plan Financiero de tu personaje.
 
 ## Comprueba lo que sabes
 

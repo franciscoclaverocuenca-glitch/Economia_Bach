@@ -4,7 +4,7 @@ titulo: Sesión 3 · La fábrica de PIB y el mapa de los agentes
 
 ## Guía docente · Sesión 3 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3 + 3.2 (parcial)</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, panel de mandos, plantilla de cálculo y mapa de agentes · OD: observación durante el emparejamiento, el cálculo y la asignación · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, panel de mandos, plantilla de cálculo y mapa de agentes · OD: observación durante el emparejamiento, el cálculo y la asignación · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -22,7 +22,7 @@ titulo: Sesión 3 · La fábrica de PIB y el mapa de los agentes
 
 **5. El mapa de los agentes (7 min).** Arranca sobre el resultado que acaban de calcular: «habéis sumado lo que se paga por los bienes finales; ¿y quién lo paga exactamente?». De sus respuestas extrae C + I + G + (X − M) y subraya que no es una fórmula que memorizar sino un **censo de nombres**. Reparte el tarjetero y resuelve el reto de las 12 operaciones con estructura 1-2-4, dedicando tiempo a los **casos límite**, que son los que enseñan.
 
-Cierra dictando al Cornell las **dos frases** que son la formulación exacta de lo que el criterio 3.2 evaluará, y siembra la pregunta de género que la sesión 4 recogerá.
+Cierra dictando al Cornell las **dos frases** que anticipan lo que el criterio 3.2 evaluará en la SdA 9, y siembra la pregunta de género que la sesión 4 recogerá.
 
 ### Preguntas guía del profesorado
 
@@ -49,7 +49,7 @@ Sesión densa y con tres cambios de agrupamiento. Sitúa a este alumno/a con vis
 :::
 
 ::: aviso Nota de coordinación docente
-Sesión resultante de **fusionar** las antiguas S3 (panel de mandos) y S4 (fábrica de PIB), más el bloque de agentes de 7 minutos añadido en la revisión de julio de 2026. El cálculo de Economilandia mantiene sus tres vías completas: el momento «ajá» de la triple coincidencia es el núcleo de la sesión y no debe recortarse. Si la práctica individual de cierre no cabe, se completa en casa.
+Sesión resultante de **fusionar** las antiguas S3 (panel de mandos) y S4 (fábrica de PIB), más un bloque formativo de agentes de 7 minutos. El cálculo de Economilandia mantiene sus tres vías completas: el momento «ajá» de la triple coincidencia es el núcleo de la sesión y no debe recortarse. Si la práctica individual de cierre no cabe, se completa en casa.
 :::
 
 ## Para empezar
@@ -163,7 +163,7 @@ Que no es una fórmula que memorizar, sino un **censo de nombres**: el consumo d
 
 ### 5. Las dos frases que hay que retener
 
-::: aviso Esto es literalmente lo que evalúa el criterio 3.2
+::: aviso Esto es lo que evaluará el criterio 3.2 en la SdA 9
 **Primera:** «Lo que para un agente es un gasto, para otro es un ingreso: la economía es un **circuito**, no una suma de compartimentos».
 
 **Segunda:** «Por eso, ante cualquier medida económica hay que preguntarse siempre **quién soporta el coste y quién recibe el beneficio**».

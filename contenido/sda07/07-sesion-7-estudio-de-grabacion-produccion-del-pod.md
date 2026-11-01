@@ -45,7 +45,7 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gru
 :::
 
 ::: aviso Nota de coordinación docente
-La conexión con **Antropología y Sociología** (entrevista semiestructurada como técnica de recogida de datos, AYSO.1.B.3, y emisión de conclusiones públicas, AYSO 2.5) es una propuesta pendiente de confirmación.
+La conexión con **Antropología y Sociología** (competencia específica 1, criterio 1.4; saber AYSO.1.A.3: la entrevista como técnica de recogida de datos) es una propuesta pendiente de confirmación.
 :::
 
 ## Para empezar

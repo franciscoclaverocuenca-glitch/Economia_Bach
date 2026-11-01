@@ -1,8 +1,8 @@
 ---
-titulo: 'Sesión 10 · Taller de la Comisión: redacción del Dictamen'
+titulo: 'Sesión 12 · Taller de la Comisión: redacción del Dictamen'
 ---
 
-## Guía docente · Sesión 10 {.docente .plegado}
+## Guía docente · Sesión 12 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2 + 6.1 + 6.2 (formativa)</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4 (roles)</td><td><b>Carácter</b></td><td>Formativa — laboratorio de preparación del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: trabajo cooperativo y reparto de roles · P: borradores y análisis de datos en el portafolio</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 

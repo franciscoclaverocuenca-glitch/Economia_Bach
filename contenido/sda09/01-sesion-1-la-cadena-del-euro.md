@@ -18,13 +18,13 @@ titulo: Sesión 1 · La cadena del euro
 
 **Ronda 2 — La crisis.** Retira al turista: «este año no viene». El grupo continúa la cadena y descubre en carne propia que la camarera cobra menos, consume menos en la panadería, el panadero paga menos impuestos… Formula la pregunta clave en gran grupo: **¿por qué la desaparición de un solo agente ha acabado afectando a todos los demás?**
 
-**Ronda 3 — La fuga.** Introduce la tarjeta de «hucha»: un rol ahorra la ficha y la cadena se detiene. Es la primera intuición de las filtraciones, y es la ronda a la que conviene dedicar los minutos que se ganen en las anteriores: siembra directamente las sesiones 5 y 6.
+**Ronda 3 — La fuga.** Introduce la tarjeta de «hucha»: un rol ahorra la ficha y la cadena se detiene. Es la primera intuición de las filtraciones, y es la ronda a la que conviene dedicar los minutos que se ganen en las anteriores: siembra directamente la sesión 4.
 
 **2. Puesta en común (10 min).** Cierra con el primer esbozo colectivo del diagrama en la pizarra: personas y empresas conectadas por flechas de dinero y de cosas. Anuncia que ese dibujo intuitivo tiene nombre y que la unidad entera consistirá en completarlo. Y formula explícitamente el salto: «en la SdA 8 aprendisteis quiénes son los agentes y a preguntar quién paga y quién gana; aquí vais a aprender por qué la respuesta es la que es».
 
 **3. Diagnóstico y reto (10 min).** Cuatro o cinco preguntas de respuesta corta, no calificables. La primera es de recuperación del mapa de agentes de la SdA 8 y te dice si la sesión 3 puede acelerarse o necesita refuerzo. Después, presenta la feria-museo con los cinco elementos obligatorios y el calendario de piezas.
 
-**4. Cierre transversal (5 min).** La observación sobre la propia simulación: nadie ha cuidado, cocinado ni limpiado. La pregunta queda anotada en el margen del Cornell como «pregunta abierta» y se recupera en la sesión 4 con Marilyn Waring. **No la cierres con conclusión.**
+**4. Cierre transversal (5 min).** La observación sobre la propia simulación: nadie ha cuidado, cocinado ni limpiado. La pregunta queda anotada en el margen del Cornell como «pregunta abierta» y se recupera en la sesión 3 con Marilyn Waring. **No la cierres con conclusión.**
 
 ### Preguntas guía del profesorado
 
@@ -150,7 +150,7 @@ La renta **no se destruye al gastarse: circula**. Es la formulación precisa de 
 
 ### 3. El reto de la unidad
 
-En la sesión 10 el aula se convertirá en un museo económico: la feria **«El viaje de un euro»**. Tu grupo expondrá una infografía o maqueta interactiva del flujo circular aplicada a un sector de la economía de Málaga, con un panel de escenarios «¿qué pasa si…?» resuelto con el modelo de demanda y oferta agregadas.
+En la sesión 8 el aula se convertirá en un museo económico: la feria **«El viaje de un euro»**. Tu grupo expondrá una infografía o maqueta interactiva del flujo circular aplicada a un sector de la economía de Málaga, con un panel de escenarios «¿qué pasa si…?» resuelto con el modelo de demanda y oferta agregadas.
 
 No hay que construirla al final: **cada sesión aporta una pieza**. Guárdalas todas.
 
@@ -161,7 +161,7 @@ Fíjate en algo de nuestra propia simulación: en la cadena del euro nadie ha cu
 
 Según la **Encuesta de Empleo del Tiempo del INE**, las mujeres dedican en torno al doble de horas diarias que los hombres al trabajo doméstico y de cuidados no remunerado.
 
-La pregunta queda anotada en el margen de tu Cornell: **si por ese trabajo no circula ningún euro, ¿aparecerá en el modelo que vamos a construir? ¿Debería?** La retomaremos en la sesión 4.
+La pregunta queda anotada en el margen de tu Cornell: **si por ese trabajo no circula ningún euro, ¿aparecerá en el modelo que vamos a construir? ¿Debería?** La retomaremos en la sesión 3.
 :::
 
 ### Glosario de la sesión
@@ -170,7 +170,7 @@ La pregunta queda anotada en el margen de tu Cornell: **si por ese trabajo no ci
 
 ## Diagnóstico inicial
 
-Antes de irte, responde el **diagnóstico inicial**: es breve y no se califica. Y anota en el margen de tu Cornell la **pregunta abierta** sobre el trabajo por el que no circula ningún euro. La vamos a recuperar en la sesión 4.
+Antes de irte, responde el **diagnóstico inicial**: es breve y no se califica. Y anota en el margen de tu Cornell la **pregunta abierta** sobre el trabajo por el que no circula ningún euro. La vamos a recuperar en la sesión 3.
 
 ## Comprueba lo que sabes
 

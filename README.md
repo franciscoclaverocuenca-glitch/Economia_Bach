@@ -1,6 +1,6 @@
 # Economía · 1.º de Bachillerato
 
-Doce situaciones de aprendizaje de Economía para 1.º de Bachillerato (IES · Málaga, curso 2026-2027),
+Doce situaciones de aprendizaje de Economía para 1.º de Bachillerato (IES · Málaga, curso 2027-2028),
 ancladas en la realidad económica de Málaga y Andalucía.
 
 Del mismo contenido salen dos cosas:

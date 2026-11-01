@@ -4,7 +4,7 @@ titulo: Sesión 7 · El hackeo de la mente económica
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico · sesión coordinada con Filosofía</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo sobre sesgos cognitivos · OD: observación del diseño de la propuesta de Nudge en equipo · Co.Ev.: coevaluación de las propuestas expuestas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo sobre sesgos cognitivos · OD: observación del diseño de la propuesta de Nudge en equipo · Co.Ev.: coevaluación de las propuestas expuestas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -16,7 +16,7 @@ titulo: Sesión 7 · El hackeo de la mente económica
 
 A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Kahneman y los sesgos cognitivos: aversión a la pérdida, efecto anclaje, efecto manada. Aplícalos a la vivienda: por qué un propietario se resiste a bajar el precio de un piso vacío pese a llevar meses sin alquilarlo.
 
-**Nómbralos también como lo que son desde Filosofía**: falacias y sesgos en la argumentación. El profesorado de Filosofía puede recoger esta misma sesión como evidencia para su propio criterio, **sin repetir la actividad**. Esa es la coordinación real.
+**Nómbralos también como lo que son desde Filosofía**: falacias y sesgos en la argumentación.
 
 **2. Los Nudges (30 min).** Explica brevemente qué es un *nudge*: un cambio en el entorno que altera el comportamiento de forma predecible **sin prohibir nada**. Los grupos diseñan una política para un problema real del instituto y la presentan en un post-it gigante.
 
@@ -32,7 +32,6 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 - **Material del experimento en vivo**: dos versiones de la misma consigna, una en clave de ganancia y otra de pérdida. **No avises de que es un experimento.**
 - **Post-its gigantes** y material de diseño: rotuladores y cartulina.
 - **Cuestionario formativo** sobre sesgos cognitivos.
-- **Coordinación previa con el departamento de Filosofía**: esta sesión puede recogerse allí como evidencia sin repetir la actividad.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -41,10 +40,6 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
-:::
-
-::: aviso Nota de coordinación docente
-**Coordinación con Filosofía** (criterio FILO.1.3.2: detección de sesgos y falacias). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y el código exacto en la concreción curricular del centro. El diseño previsto es especialmente eficiente: el profesorado de Filosofía puede recoger **esta misma sesión** como evidencia para su criterio, sin repetir la actividad.
 :::
 
 ## Para empezar

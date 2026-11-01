@@ -17,11 +17,11 @@ titulo: Sesión 2 · Quien toma el pulso a la economía andaluza
 **2. La charla (40 min).** La persona experta aporta una fuente primaria sobre cómo se toma el pulso a la economía andaluza: qué datos se recogen, cómo se estima lo que aporta el turismo y qué recorrido hacen las rentas que entran en la provincia. Antes del turno libre, garantiza que se formulan las **dos preguntas obligatorias** preparadas en la sesión 1:
 
 - «¿Qué recorrido hace de verdad un euro que gasta un turista en Málaga: cuánto se queda en la ciudad y por dónde se escapa?» — que da la intuición de las filtraciones antes de estudiarlas.
-- «¿Qué dato oficial nos recomendaría usar para documentar nuestra maqueta y dónde se consulta?» — que enlaza con el anclaje andaluz del producto final (S9).
+- «¿Qué dato oficial nos recomendaría usar para documentar nuestra maqueta y dónde se consulta?» — que enlaza con el anclaje andaluz del producto final (S7).
 
 Reparte las preguntas entre personas concretas: el turno abierto sin asignar se queda en silencio.
 
-**3. Cierre (5 min).** Cuestionario formativo de 4-5 preguntas breves: qué agentes aparecieron en el relato, qué flujos mencionó, qué filtraciones señaló. Nótese que este cuestionario es, junto al diagnóstico de la S1, uno de los instrumentos que la SdA 8 no pudo aplicar al criterio 3.2 y que aquí sí computa.
+**3. Cierre (5 min).** Cuestionario formativo de 4-5 preguntas breves: qué agentes aparecieron en el relato, qué flujos mencionó, qué filtraciones señaló. Junto al diagnóstico de la S1, es una de las primeras evidencias del criterio 3.2, que se califica íntegramente en esta unidad.
 
 ### Preguntas guía del profesorado
 
@@ -77,7 +77,7 @@ sda9-s02-04.webp | Cierre
 
 ## Cierre
 
-Guarda tus notas y, sobre todo, **el dato oficial y su fuente**: en la sesión 9 tendrás que citarlo en tu maqueta con fuente y fecha, y justificar por escrito por qué es fiable.
+Guarda tus notas y, sobre todo, **el dato oficial y su fuente**: en la sesión 7 tendrás que citarlo en tu maqueta con fuente y fecha, y justificar por escrito por qué es fiable.
 
 ## Comprueba lo que sabes
 

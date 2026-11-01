@@ -1,18 +1,18 @@
 # Datos de la unidad. Las páginas son los .md de esta carpeta, en orden alfabético.
 n: 4
 carpeta: sda04
-titulo: La empresa y sus lógicas
+titulo: De la idea al beneficio
 titulo_largo: SdA 4 · La empresa y sus lógicas · Economía 1.º Bachillerato
-descripcion: 'Situación de aprendizaje 4: la empresa, el proceso productivo, los costes y el beneficio. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+descripcion: 'Situación de aprendizaje 4: la empresa, el proceso productivo, los costes y el beneficio. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2027-2028.'
 autor: Francisco Clavero Cuenca
 trimestre: 1
 sesiones: 11
-producto: Un <b>modelo de negocio completo</b> y su defensa en un pitch de cuatro minutos ante un jurado.
+producto: Un <b>plan de empresa</b> para una empresa ficticia, defendido en un <b>pitch</b> de 3-4 minutos ante un jurado, con un compromiso explícito de responsabilidad social.
 ce: CE2
 criterios: '2.4'
 saberes: B1
 referente: —
-interdisciplinar: Cultura Emprendedora y Empresarial (triple coordinación)
+interdisciplinar: Cultura Emprendedora y Empresarial (sesiones 6 y 9)
 temas: empresa funciones producción riesgo social sectores tejido empresarial andaluz forma jurídica cooperativa productividad producto marginal costes fijos variables beneficio innovación valor añadido responsabilidad social canvas pitch design thinking
 rubricas:
 - criterio: '2.4'

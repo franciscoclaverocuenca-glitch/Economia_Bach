@@ -3,16 +3,16 @@ n: 1
 carpeta: sda01
 titulo: ¿De quién es la vivienda?
 titulo_largo: SdA 1 · ¿De quién es la vivienda? · Economía 1.º Bachillerato
-descripcion: 'Situación de aprendizaje 1: la escasez, el problema económico básico y los límites de la racionalidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+descripcion: 'Situación de aprendizaje 1: la escasez, el problema económico básico y los límites de la racionalidad. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2027-2028.'
 autor: Francisco Clavero Cuenca
 trimestre: 1
 sesiones: 11
-producto: Un <b>juicio simulado</b> sobre el precio de la vivienda en Málaga, con dossier documentado y veredicto económico.
+producto: Un <b>juicio simulado</b> con cuatro partes —inquilinos, grandes tenedores, constructoras y administración— y un <b>dossier de conclusiones</b>; un Tribunal imparcial dicta un veredicto que equilibre eficiencia y equidad.
 ce: CE1
 criterios: 1.2 · 1.3
 saberes: A1 · A2 · A5 · C2
 referente: Elinor Ostrom
-interdisciplinar: Filosofía (sesiones 7 y 8)
+interdisciplinar: Filosofía (sesión 8)
 temas: escasez necesidades bienes servicios coste de oportunidad coste irrecuperable análisis marginal maslow bienes públicos comunes homo economicus kahneman sesgos nudge eficiencia equidad adam smith vivienda alquiler juicio ostrom
 rubricas:
 - criterio: '1.2'

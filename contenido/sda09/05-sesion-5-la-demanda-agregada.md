@@ -1,8 +1,8 @@
 ---
-titulo: Sesión 7 · La demanda agregada
+titulo: Sesión 5 · La demanda agregada
 ---
 
-## Guía docente · Sesión 7 {.docente .plegado}
+## Guía docente · Sesión 5 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1 (la demanda agregada y su funcionamiento)</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de cuestionario</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y plantillas de escenarios · C: cuestionario formativo de cierre · OD: registro del taller de titulares</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -81,7 +81,7 @@ sda9-s07-08.webp | Cierre
 <table><thead><tr><th width="10%">Paso</th><th width="90%">Qué haces</th></tr></thead><tbody><tr><td><b>I</b></td><td>Detectar qué <b>factor</b> está variando.</td></tr><tr><td><b>II</b></td><td>Deducir a qué <b>componente</b> del gasto afecta: C, I, G o XN.</td></tr><tr><td><b>III</b></td><td>Explicar qué ocurre con la <b>curva</b>: movimiento o desplazamiento, y en qué sentido.</td></tr></tbody></table>
 
 ::: nota Este método se queda en el mural del aula
-Lo vas a usar en esta sesión, en la sesión 8, en tu panel de escenarios de la maqueta y en el bloque 2 de la prueba escrita. Es el procedimiento central de la unidad.
+Lo vas a usar en esta sesión, en la sesión 6, en tu panel de escenarios de la maqueta y en el bloque 2 de la prueba escrita. Es el procedimiento central de la unidad.
 :::
 
 ### Taller «Titulares a juicio»
@@ -123,7 +123,7 @@ Importante: esto se afirma siempre bajo la condición ***ceteris paribus***, es 
 
 ### 4. El método de tres pasos
 
-Es el procedimiento que vas a usar en esta sesión, en la 8, en tu maqueta y en la prueba escrita. Consta de tres pasos y conviene escribirlos siempre:
+Es el procedimiento que vas a usar en esta sesión, en la 6, en tu maqueta y en la prueba escrita. Consta de tres pasos y conviene escribirlos siempre:
 
 1. **Detectar el factor** que está variando.
 2. **Deducir el componente** del gasto al que afecta: C, I, G o XN.
@@ -135,7 +135,7 @@ Ejemplo resuelto: «el Banco Central Europeo baja los tipos de interés». Paso 
 
 Al leer información económica hay que distinguir con cuidado entre lo que **ha ocurrido** y lo que **se prevé** que ocurra. «Cayó el consumo» y «se prevé que caiga el consumo» no son el mismo titular.
 
-Y no es una cuestión de precisión formal: una previsión actúa a través de las **expectativas**, que como viste en la sesión 6 son en sí mismas una variable económica capaz de mover la curva antes de que el hecho previsto llegue a producirse.
+Y no es una cuestión de precisión formal: una previsión actúa a través de las **expectativas**, que como viste en la sesión 4 son en sí mismas una variable económica capaz de mover la curva antes de que el hecho previsto llegue a producirse.
 
 ### Glosario de la sesión
 
@@ -144,9 +144,9 @@ Y no es una cuestión de precisión formal: una previsión actúa a través de l
 ## Comprueba lo que sabes
 
 ```actividad
-id: sda09-s07-cuestionario
+id: sda09-s05-cuestionario
 tipo: verdadero-falso
-titulo: Cuestionario de la sesión 7
+titulo: Cuestionario de la sesión 5
 puntua: true
 revisar: true
 instrucciones: Decide si cada afirmación es verdadera o falsa. Al corregir verás tu puntuación y la explicación de cada respuesta.

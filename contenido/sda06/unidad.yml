@@ -3,16 +3,16 @@ n: 6
 carpeta: sda06
 titulo: El mercado al banquillo
 titulo_largo: SdA 6 · El mercado al banquillo · Economía 1.º Bachillerato
-descripcion: 'Situación de aprendizaje 6: estructuras y fallos de mercado. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+descripcion: 'Situación de aprendizaje 6: estructuras y fallos de mercado. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2027-2028.'
 autor: Francisco Clavero Cuenca
 trimestre: 2
 sesiones: 9
-producto: Un <b>informe pericial</b> sobre un caso real de mercado, ratificado ante la Comisión de Competencia del aula.
+producto: Un <b>informe pericial</b> (infografía) en cinco apartados sobre un caso real de mercado, ratificado oralmente ante la <b>Comisión de Competencia</b> del aula.
 ce: CE2
 criterios: 2.1 · 2.3
 saberes: B3
-referente: Cani Fernández · Joan Robinson
-interdisciplinar: Historia del Mundo Contemporáneo (sesiones 4 y 6)
+referente: Joan Robinson
+interdisciplinar: Historia del Mundo Contemporáneo (sesión 4)
 temas: estructuras de mercado competencia perfecta monopolio barreras de entrada oligopolio cártel colusión dilema del prisionero clemencia competencia monopolística externalidades bienes públicos información asimétrica akerlof selección adversa cnmc acrea coste beneficio
 rubricas:
 - criterio: '2.1'

@@ -4,7 +4,7 @@ titulo: Sesión 4 · ¿Crecemos de verdad? y lo que el PIB no ve
 
 ## Guía docente · Sesión 4 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.3 + 3.1 + 3.2 (parcial)</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas → Grupos base de 4 rotando por estaciones</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio, coevaluación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>P: prácticas de cálculo y folios giratorios · OD: trabajo por parejas y rotación · Co.Ev.: corrección cruzada del Torneo · D: mini-debate de cierre</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.3 + 3.1</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas → Grupos base de 4 rotando por estaciones</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio, coevaluación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>P: prácticas de cálculo y folios giratorios · OD: trabajo por parejas y rotación · Co.Ev.: corrección cruzada del Torneo · D: mini-debate de cierre</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -47,7 +47,11 @@ La rotación por estaciones implica movimiento y cuatro conversaciones simultán
 :::
 
 ::: aviso Nota de coordinación docente
-Sesión resultante de **fusionar** las antiguas S5 (nominal/real/PPA y Torneo de tasas) y S6 (galería de las 4 estaciones). El Torneo se reduce a 2 rondas y cada estación dura 5 minutos. La revisión de julio de 2026 no altera la temporalización: solo añade a cada estación una segunda pregunta de una línea en el folio giratorio, que se responde dentro de los mismos 5 minutos porque el tarjetero de agentes de la S3 permite contestarla sin explicación adicional.
+Sesión resultante de **fusionar** las antiguas S5 (nominal/real/PPA y Torneo de tasas) y S6 (galería de las 4 estaciones). El Torneo se reduce a 2 rondas y cada estación dura 5 minutos. La temporalización no cambia: se añade a cada estación una segunda pregunta de una línea en el folio giratorio, que se responde dentro de los mismos 5 minutos porque el tarjetero de agentes de la S3 permite contestarla sin explicación adicional.
+:::
+
+::: aviso Nota de coordinación docente
+**Coordinación con EPCD I** (competencia específica 3, criterio 3.1; saber EPCD.1.B.3.3). Aplicable **si el centro oferta la materia**. Conviene confirmarlo.
 :::
 
 ## Para empezar

@@ -4,7 +4,7 @@ titulo: 'Sesión 2 · Exploración: presupuesto participativo del centro'
 
 ## Guía docente · Sesión 2 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de decisión pública real</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.2</td><td><b>Saberes básicos</b></td><td>A5 · D2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 · feria de defensa · votación en gran grupo</td><td><b>Carácter</b></td><td>Formativa · decide el destino de una partida real del centro</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de cuatro ítems durante propuestas y feria · P: ficha de propuesta grupal y análisis individual del resultado</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de decisión pública real</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.2</td><td><b>Saberes básicos</b></td><td>D2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 · feria de defensa · votación en gran grupo</td><td><b>Carácter</b></td><td>Formativa · decide el destino de una partida real del centro</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de cuatro ítems durante propuestas y feria · P: ficha de propuesta grupal y análisis individual del resultado</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 

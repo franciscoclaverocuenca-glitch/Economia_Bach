@@ -3,16 +3,16 @@ n: 9
 carpeta: sda09
 titulo: El viaje de un euro
 titulo_largo: SdA 9 · El viaje de un euro · Economía 1.º Bachillerato
-descripcion: 'Situación de aprendizaje 9: el flujo circular de la renta y el modelo de demanda y oferta agregadas. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2026-2027.'
+descripcion: 'Situación de aprendizaje 9: el flujo circular de la renta y el modelo de demanda y oferta agregadas. Economía, 1.º de Bachillerato (Humanidades y Ciencias Sociales). IES · Málaga · Curso 2027-2028.'
 autor: Francisco Clavero Cuenca
 trimestre: 3
-sesiones: 11
-producto: El recorrido de un euro por el circuito económico, con el criterio 3.2 cerrado de forma definitiva.
+sesiones: 9
+producto: Una <b>maqueta o infografía interactiva</b> del flujo circular de la renta, presentada en la <b>feria-museo «El viaje de un euro»</b>.
 ce: CE3
 criterios: '3.2'
 saberes: C1
-referente: Marlyn Waring
-interdisciplinar: Matemáticas Aplicadas a las CCSS I (sesiones 6 y 8)
+referente: Marilyn Waring
+interdisciplinar: Matemáticas Aplicadas a las CCSS I (sesiones 4 y 5)
 temas: circuito económico flujo circular renta agentes económicos familias empresas sector público exterior euro
 rubricas:
 - criterio: '3.2'

@@ -46,6 +46,10 @@ Lo pendiente —la primera prueba de grabación y el acabado de la infografía�
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega **por escrito** el resultado del control de calidad. Y si este alumno/a ejerce la Portavocía, ten en cuenta que la grabación del podcast puede hacerse en un espacio tranquilo y con tantas tomas como haga falta.
 :::
 
+::: aviso Nota de coordinación docente
+**Coordinación con Historia del Mundo Contemporáneo** (competencia específica 5, criterio 5.2; saberes del bloque HMCO.1.B: la globalización y sus retos). La campaña que se produce hoy puede recogerse en Historia como evidencia sin repetir la actividad. Sigue siendo una propuesta pendiente de confirmar oferta de la materia y matrícula común.
+:::
+
 ## Para empezar
 
 Hoy se junta todo. Abrid los portafolios y poned sobre la mesa **todos** vuestros apuntes Cornell de la unidad.

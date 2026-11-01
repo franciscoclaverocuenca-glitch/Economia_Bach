@@ -37,7 +37,6 @@ Con ejemplos graduados —la fábrica que contamina el río, la vacuna que prote
 - **Tres tarjetas de postura** para el mini-debate: propietario/a que alquila a turistas, vecino/a de toda la vida, y persona joven que busca alquiler.
 - **Plantilla de análisis coste-beneficio** guiada, una por pareja, y calculadora.
 - **Datos sencillos** para la mini-práctica sobre la intervención a analizar (limitar nuevas licencias de vivienda turística), y opcionalmente para la segunda alternativa (tasa por pernoctación) como extensión.
-- **Coordinación previa con el departamento de Historia**: segunda sesión de encuentro con HMC.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -50,10 +49,6 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 
 ::: aviso Nota de coordinación docente
 Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente: las dos exposiciones magistrales se funden en un bloque único de 12 minutos; el mini-debate se acorta de 20 a 16 minutos reduciendo de 4 a 3 las posturas; y la mini-práctica de coste-beneficio se simplifica a una única intervención a analizar, manteniendo el mismo método y la misma plantilla.
-:::
-
-::: aviso Nota de coordinación docente
-Segunda **coordinación con Historia del Mundo Contemporáneo** (criterio HMCO.1.6.1), pendiente de confirmación.
 :::
 
 ## Para empezar

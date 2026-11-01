@@ -20,7 +20,7 @@ Presenta los **tres retos reales** que afectan hoy a su sostenibilidad: el envej
 
 La **regla de juego** es doble y hay que sostenerla: para intervenir, cada persona debe usar al menos un término económico de la sesión —financiación, cotización, sostenibilidad, economía sumergida— **y responder directamente al argumento anterior**, no solo exponer el propio. Sin la segunda parte, el debate se convierte en cuatro monólogos por turnos.
 
-**3. Cierre (5 min).** El Estado del bienestar como contrato social construido históricamente. Es la coordinación con Historia del Mundo Contemporáneo: su evolución, sus logros y sus retrocesos son también un objeto histórico.
+**3. Cierre (5 min).** El Estado del bienestar como contrato social construido históricamente. Su evolución, sus logros y sus retrocesos son también un objeto histórico.
 
 ### Preguntas guía del profesorado
 
@@ -34,7 +34,6 @@ La **regla de juego** es doble y hay que sostenerla: para intervenir, cada perso
 - **Tarjetas de datos reales** sobre los tres retos: pensiones y envejecimiento, flujos migratorios y economía sumergida. Verificados y actualizados.
 - **Tarjetas de las cuatro posturas** para el sorteo.
 - **Sillas dispuestas en círculo**: prepara el aula antes de que entre el grupo.
-- **Coordinación previa con el departamento de Historia**: segunda sesión de encuentro con HMC.
 - Cronómetro y lista de cotejo para registrar el uso del vocabulario exigido.
 :::
 
@@ -44,10 +43,6 @@ La **regla de juego** es doble y hay que sostenerla: para intervenir, cada perso
 
 ::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
-:::
-
-::: aviso Nota de coordinación docente
-Segunda **coordinación con Historia del Mundo Contemporáneo** (criterio HMC.1.3.3: evolución del Estado social, logros, retrocesos y retos desde una perspectiva solidaria). Pendiente de confirmar oferta de la materia, matrícula común y el código exacto en la concreción curricular del centro.
 :::
 
 ## Para empezar
@@ -118,7 +113,7 @@ Y ninguna es completa por sí sola. El objetivo del debate no es que gane una: e
 
 El Estado del bienestar no existió siempre ni existe en todas partes. Se construyó históricamente, a lo largo del siglo XX, mediante decisiones políticas y conflictos sociales concretos. Y puede ampliarse o reducirse según las decisiones que se tomen.
 
-Por eso esta sesión se coordina con **Historia del Mundo Contemporáneo**: su evolución, sus logros y sus retrocesos son también un objeto histórico, y entenderlo así evita darlo por descontado o darlo por perdido.
+Por eso conviene mirarlo también con ojos de **historiador**: su evolución, sus logros y sus retrocesos son también un objeto histórico, y entenderlo así evita darlo por descontado o darlo por perdido.
 
 ### Glosario de la sesión
 

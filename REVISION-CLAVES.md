@@ -6,7 +6,7 @@ cuestionarios se redactaron durante la migración a partir del contenido de cada
 Para dar una por buena: abre el fichero indicado, corrige lo que haga falta y **borra la línea `revisar: true`**.
 Vuelve a generar esta lista con `npm run claves`.
 
-**32 cuestionarios pendientes.**
+**34 cuestionarios pendientes.**
 
 ## SdA 1 · Sesión 7 · El hackeo de la mente económica
 
@@ -315,9 +315,9 @@ Fichero: `contenido/sda09/02-sesion-2-quien-toma-el-pulso-a-la-economia-andal.md
 | 3 | Parte del dinero que un turista gasta en Málaga sale de la provincia. | **V** | **Verdadero.** Parte del gasto paga productos y beneficios de fuera de la provincia: son filtraciones del circuito local. |
 | 4 | Una charla de una persona experta es una fuente primaria. | **V** | **Verdadero.** Es información obtenida directamente de quien la produce o la vive. |
 
-## SdA 9 · Sesión 7 · La demanda agregada
+## SdA 9 · Sesión 5 · La demanda agregada
 
-Fichero: `contenido/sda09/07-sesion-7-la-demanda-agregada.md` · actividad `sda09-s07-cuestionario`
+Fichero: `contenido/sda09/05-sesion-5-la-demanda-agregada.md` · actividad `sda09-s05-cuestionario`
 
 | # | Afirmación | Clave | Explicación |
 |---|---|---|---|
@@ -339,7 +339,7 @@ Fichero: `contenido/sda10/02-sesion-2-exploracion-voz-experta-del-sistema-fin.md
 | 3 | Una charla de una persona profesional del sector es una fuente primaria. | **V** | **Verdadero.** Es información de primera mano de quien trabaja en el sector. |
 | 4 | Los bancos ofrecen los mismos productos a todas las personas independientemente de su perfil. | **F** | **Falso.** Están obligados a evaluar el perfil (conocimientos, riesgo, necesidades) de cada cliente. |
 
-## SdA 10 · Sesión 8 · El nuevo dinero y los nuevos riesgos
+## SdA 10 · Sesión 8 · El nuevo dinero y los nuevos riesgos + laboratorio del Plan
 
 Fichero: `contenido/sda10/08-sesion-8-el-nuevo-dinero-y-los-nuevos-riesgos.md` · actividad `sda10-s08-cuestionario`
 
@@ -352,15 +352,16 @@ Fichero: `contenido/sda10/08-sesion-8-el-nuevo-dinero-y-los-nuevos-riesgos.md` �
 | 5 | Un seguro consiste en pagar una cantidad pequeña y segura para cubrir una pérdida grande e incierta. | **V** | **Verdadero.** Es la lógica del seguro: transformar un riesgo grande e incierto en un coste pequeño y cierto. |
 | 6 | «Esta vez es diferente» es una buena razón para invertir en algo que está subiendo mucho. | **F** | **Falso.** Es la frase típica de las burbujas. Que algo suba mucho no garantiza que siga subiendo. |
 
-## SdA 11 · Sesión 2 · Exploración: la inflación vista desde Málaga
+## SdA 11 · Sesión 2 · Exploración: visita al Banco de España en Málaga
 
-Fichero: `contenido/sda11/02-sesion-2-exploracion-la-inflacion-vista-desde-ma.md` · actividad `sda11-s02-cuestionario`
+Fichero: `contenido/sda11/02-sesion-2-exploracion-visita-al-banco-de-espana.md` · actividad `sda11-s02-cuestionario`
 
 | # | Afirmación | Clave | Explicación |
 |---|---|---|---|
 | 1 | El Banco de España forma parte del Eurosistema junto con el BCE. | **V** | **Verdadero.** El Eurosistema lo forman el BCE y los bancos centrales nacionales de la zona euro. |
 | 2 | La inflación afecta por igual a todas las familias. | **F** | **Falso.** Depende de en qué gasta cada familia: afecta más a quien dedica más renta a alimentos, energía o vivienda. |
-| 3 | Una charla de una persona experta es una fuente primaria de información. | **V** | **Verdadero.** Es información de primera mano de quien trabaja en el ámbito. |
+| 3 | El Banco de España decide por su cuenta los tipos de interés que se aplican en España. | **F** | **Falso.** Los tipos los decide el Consejo de Gobierno del BCE para toda la zona euro; el gobernador del Banco de España forma parte de ese Consejo. |
+| 4 | Lo que cuenta el personal del Banco de España durante la visita es una fuente primaria de información. | **V** | **Verdadero.** Es información de primera mano de quien trabaja en la institución. |
 
 ## SdA 11 · Sesión 4 · Causas de la inflación y la deflación
 
@@ -400,3 +401,25 @@ Fichero: `contenido/sda12/06-sesion-6-politica-fiscal-estabilizadores-y-multi.md
 | 4 | El multiplicador real suele ser menor que el teórico. | **V** | **Verdadero.** Hay impuestos, ahorro e importaciones que filtran parte del gasto en cada ronda. |
 | 5 | Una política fiscal expansiva consiste en subir impuestos y reducir el gasto público. | **F** | **Falso.** Eso es una política contractiva. La expansiva baja impuestos o aumenta el gasto. |
 | 6 | El multiplicador es la suma de una progresión geométrica convergente. | **V** | **Verdadero.** Cada ronda de gasto es una fracción de la anterior: la suma converge a 1 / (1 − PMC). |
+
+## SdA 12 · Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, envejecimiento y migraciones
+
+Fichero: `contenido/sda12/09-sesion-9-el-estado-del-bienestar-y-su-sostenibilidad.md` · actividad `sda12-s09-cuestionario`
+
+| # | Afirmación | Clave | Explicación |
+|---|---|---|---|
+| 1 | En un sistema de reparto, las cotizaciones de quienes trabajan hoy pagan las pensiones de hoy. | **V** | **Verdadero.** No hay una hucha individual: el dinero que entra cada mes paga las pensiones de ese mes. |
+| 2 | Si sube la tasa de dependencia, hay más personas en edad de trabajar por cada persona mayor. | **F** | **Falso.** Es al revés: hay menos personas en edad de trabajar por cada mayor de 65 años. |
+| 3 | La inmigración regularizada aumenta el número de personas que cotizan. | **V** | **Verdadero.** Por eso aparece en el debate sobre la sostenibilidad de las pensiones, aunque por sí sola no resuelve el envejecimiento. |
+| 4 | La brecha de género en las pensiones se explica en parte por carreras laborales interrumpidas por los cuidados. | **V** | **Verdadero.** Menos años cotizados y bases más bajas se traducen en pensiones contributivas más bajas. |
+
+## SdA 12 · Sesión 10 · Globalización y revolución digital: los nuevos retos para financiar el Estado
+
+Fichero: `contenido/sda12/10-sesion-10-globalizacion-y-revolucion-digital.md` · actividad `sda12-s10-cuestionario`
+
+| # | Afirmación | Clave | Explicación |
+|---|---|---|---|
+| 1 | El tipo mínimo global acordado en la OCDE para las grandes multinacionales es del 15 %. | **V** | **Verdadero.** Busca frenar la competencia fiscal a la baja entre países. |
+| 2 | La globalización solo ha tenido efectos negativos sobre la pobreza en el mundo. | **F** | **Falso.** Ha contribuido a reducir la pobreza extrema, aunque también ha aumentado la movilidad del capital y la competencia fiscal. |
+| 3 | Si una tarea se automatiza, el Estado puede dejar de ingresar las cotizaciones de ese puesto de trabajo. | **V** | **Verdadero.** Las cotizaciones se pagan por el trabajo; si el puesto desaparece, esa fuente de ingresos también. |
+| 4 | La competencia fiscal consiste en que los países suben sus impuestos para atraer empresas. | **F** | **Falso.** Es al revés: los países bajan impuestos para atraer empresas y beneficios. |

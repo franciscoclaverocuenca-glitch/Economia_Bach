@@ -1,8 +1,8 @@
 ---
-titulo: Sesión 11 · Defensa del Dictamen e integración del Pacto
+titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 ---
 
-## Guía docente · Sesión 11 {.docente .plegado}
+## Guía docente · Sesión 13 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1 + 6.2 (sumativa) + 5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo / roles de comisión</td><td><b>Carácter</b></td><td>Sumativa — producto final integrador de los cuatro criterios</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: valoración del Dictamen · D: turno de contraste · Co.Ev.: coevaluación entre comisiones</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 

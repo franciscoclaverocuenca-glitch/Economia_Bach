@@ -1,8 +1,8 @@
 ---
-titulo: Sesión 10 · La feria-museo «El viaje de un euro»
+titulo: Sesión 8 · La feria-museo «El viaje de un euro»
 ---
 
-## Guía docente · Sesión 10 {.docente .plegado}
+## Guía docente · Sesión 8 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2 (sumativa)</td><td><b>Saberes básicos</b></td><td>C1 (síntesis: flujo circular; DA-OA)</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo organizado en expositores / mitades rotativas de cada grupo base</td><td><b>Carácter</b></td><td>Sumativa — evidencia oral y de producto del criterio 3.2</td></tr><tr><td><b>Instrumentos</b></td><td>EO: visita guiada · R: valoración de la maqueta · D: careo de preguntas entre grupos · Co.Ev.: escala de dedos 1-4</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -91,4 +91,4 @@ Valorad los dos expositores visitados con la escala de dedos 1-4, **justificando
 
 ## Cierre
 
-Recordatorio: la **prueba escrita** es en la sesión 11. Tres bloques: representación de operaciones en el diagrama, escenarios DA-OA con el método de tres pasos y una valoración argumentada sobre los límites del modelo.
+Recordatorio: la **prueba escrita** es en la sesión 9. Tres bloques: representación de operaciones en el diagrama, escenarios DA-OA con el método de tres pasos y una valoración argumentada sobre los límites del modelo.

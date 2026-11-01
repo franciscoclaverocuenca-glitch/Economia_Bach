@@ -4,7 +4,7 @@ titulo: Sesión 8 · La Cumbre del Desarrollo Humano
 
 ## Guía docente · Sesión 8 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Aplicar + Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de síntesis y evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3 + 3.2 (parcial)</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo organizado en delegaciones de 4</td><td><b>Carácter</b></td><td>Sumativa — defensa oral y entrega del Informe país</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: Informe país entregado, matriz incluida · D: preguntas cruzadas · Co.Ev.: escala de dedos razonada · OD: registro de toda la simulación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Aplicar + Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de síntesis y evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo organizado en delegaciones de 4</td><td><b>Carácter</b></td><td>Sumativa — defensa oral y entrega del Informe país</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: Informe país entregado, matriz incluida · D: preguntas cruzadas · Co.Ev.: escala de dedos razonada · OD: registro de toda la simulación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -14,7 +14,7 @@ titulo: Sesión 8 · La Cumbre del Desarrollo Humano
 
 **1. Apertura (5 min).** Deja claro desde el principio que la Cumbre es un **comité técnico internacional, no un concurso**: no hay país ganador ni delegación ganadora, hay diagnósticos mejor o peor fundamentados. Recuerda las dos obligaciones formales de cada defensa: que intervengan al menos dos miembros y que el gráfico se use como **soporte real** de la argumentación —señalarlo, leerlo, extraer de él una conclusión—, no como decorado.
 
-**2. Las rondas (35 min).** Tras cada defensa, dos delegaciones designadas por turno rotatorio formulan sendas preguntas obligatorias. La **primera es fija** y común a todas: constituye la evidencia oral principal del criterio 3.2. La delegación interpelada responde apoyándose en su matriz, y quien preguntó dispone de una **réplica de quince segundos** para señalar un agente que considere olvidado.
+**2. Las rondas (35 min).** Tras cada defensa, dos delegaciones designadas por turno rotatorio formulan sendas preguntas obligatorias. La **primera es fija** y común a todas. La delegación interpelada responde apoyándose en su matriz, y quien preguntó dispone de una **réplica de quince segundos** para señalar un agente que considere olvidado.
 
 Ese intercambio breve es deliberadamente el momento de mayor exigencia cognitiva de la sesión y el más resistente a un uso indebido de la IA: exige comprensión real del reparto, no un texto preparado. Protégelo del reloj.
 
@@ -32,7 +32,7 @@ La segunda pregunta es libre; el guion ofrece arranques, pero **premia la pregun
 ::: aviso Material que debes preparar tú
 - **Informes, gráficos y matrices** de cada delegación, listos para exponer y para entregar.
 - **Guion de preguntas cruzadas** con la pregunta fija destacada y arranques para la libre.
-- **Escala de coevaluación (1-4)** con los descriptores de las rúbricas de los criterios 3.1, 3.3 y 3.2 — **las mismas con las que calificará el docente** —.
+- **Escala de coevaluación (1-4)** con los descriptores de las rúbricas de los criterios 3.1 y 3.3 — **las mismas con las que calificará el docente** —.
 - **Cronómetro visible** para los 4-5 minutos de cada defensa y los 15 segundos de réplica.
 - **Acta del veredicto colectivo** para recoger las frases finales, que quedará expuesta en el aula.
 - **Hoja de registro simultáneo** de los cinco instrumentos (EO, R, D, Co.Ev., OD).
@@ -73,7 +73,7 @@ sda8-s08-06.webp | Qué se evalúa
 
 ### Las dos preguntas cruzadas
 
-<table><thead><tr><th width="12%"></th><th width="58%">Pregunta</th><th width="30%">Qué evalúa</th></tr></thead><tbody><tr><td><b>FIJA</b></td><td>«De vuestras propuestas, ¿quién paga y quién gana, y por qué eso mejora (o no) el bienestar del país?» Es la misma para todas las delegaciones y ya la preparasteis ayer.</td><td>Evidencia oral <b>principal</b> del criterio 3.2</td></tr><tr><td><b>LIBRE</b></td><td>La que vosotros elijáis. El guion ofrece arranques —«¿qué dato os contradiría?», «¿por qué ese indicador libre?», «¿cuál es el coste de oportunidad de vuestra primera propuesta?»— pero se <b>premia la pregunta propia</b> que nace de haber escuchado.</td><td>Criterios 3.1 y 3.3 · instrumento D</td></tr></tbody></table>
+<table><thead><tr><th width="12%"></th><th width="58%">Pregunta</th><th width="30%">Qué evalúa</th></tr></thead><tbody><tr><td><b>FIJA</b></td><td>«De vuestras propuestas, ¿quién paga y quién gana, y por qué eso mejora (o no) el bienestar del país?» Es la misma para todas las delegaciones y ya la preparasteis ayer.</td><td>Criterios 3.1 y 3.3 · prepara el criterio 3.2 de la SdA 9</td></tr><tr><td><b>LIBRE</b></td><td>La que vosotros elijáis. El guion ofrece arranques —«¿qué dato os contradiría?», «¿por qué ese indicador libre?», «¿cuál es el coste de oportunidad de vuestra primera propuesta?»— pero se <b>premia la pregunta propia</b> que nace de haber escuchado.</td><td>Criterios 3.1 y 3.3 · instrumento D</td></tr></tbody></table>
 
 ::: aviso Los quince segundos de réplica
 La delegación interpelada responde apoyándose en su matriz. Y la delegación que preguntó dispone de **quince segundos de réplica** para señalar un agente que considere olvidado.
@@ -83,7 +83,7 @@ Ese intercambio breve es deliberadamente el momento de **mayor exigencia cogniti
 
 ### La coevaluación
 
-Tras cada defensa, todas las delegaciones coevalúan con la escala de dedos (1-4) y una justificación de una frase, aplicando **los descriptores de las rúbricas de los criterios 3.1, 3.3 y 3.2**: las mismas con las que calificará el docente.
+Tras cada defensa, todas las delegaciones coevalúan con la escala de dedos (1-4) y una justificación de una frase, aplicando **los descriptores de las rúbricas de los criterios 3.1 y 3.3**: las mismas con las que calificará el docente.
 
 ## El veredicto colectivo
 
@@ -99,4 +99,4 @@ Las frases se recogen en el acta, que queda **expuesta en el aula**. Es la sínt
 
 ## Cierre
 
-Los informes se entregan **formalmente** al cierre de la sesión (instrumento R). Se valoran con los descriptores de las rúbricas de los criterios 3.1 y 3.3, y la **matriz de ganadores y perdedores** incluida en el informe se valora, dentro del mismo instrumento, con la rúbrica del criterio 3.2 aplicada de forma parcial.
+Los informes se entregan **formalmente** al cierre de la sesión (instrumento R). Se valoran con los descriptores de las rúbricas de los criterios 3.1 y 3.3, incluida la **matriz de ganadores y perdedores**.

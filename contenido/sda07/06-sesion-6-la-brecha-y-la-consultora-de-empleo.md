@@ -53,7 +53,7 @@ Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la sig
 :::
 
 ::: aviso Nota de coordinación docente
-La conexión con **Antropología y Sociología** (criterio AYSO 1.4, saberes AYSO.1.A.3 y A.10) es una propuesta pendiente de confirmación.
+La conexión con **Antropología y Sociología** (competencia específica 1, criterio 1.4; saber AYSO.1.A.3) es una propuesta pendiente de confirmación.
 :::
 
 ## Para empezar

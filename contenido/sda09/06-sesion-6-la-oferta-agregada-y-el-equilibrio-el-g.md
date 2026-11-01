@@ -1,8 +1,8 @@
 ---
-titulo: 'Sesión 8 · La oferta agregada y el equilibrio: el gabinete de crisis'
+titulo: 'Sesión 6 · La oferta agregada y el equilibrio: el gabinete de crisis'
 ---
 
-## Guía docente · Sesión 8 {.docente .plegado}
+## Guía docente · Sesión 6 {.docente .plegado}
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1 (la oferta agregada; el equilibrio macroeconómico)</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4 → Gran grupo (debate)</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de debate</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y plantillas de escenarios · D: debate estructurado del gabinete de crisis · OD: registro del análisis cooperativo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -30,14 +30,14 @@ En el debate exige dos cosas en cada intervención: que **cite el modelo** (curv
 ::: aviso Material que debes preparar tú
 - **Tres fichas de crisis** con los rasgos esenciales de cada caso: **1973** (encarecimiento brusco del petróleo: caída de la producción con fuerte subida de precios), **2008** (desplome de la confianza, la riqueza y el crédito: caída de la producción con precios contenidos) y **2020** (parón simultáneo por la pandemia).
 - **Gráficas DA-OA en A3**, una por grupo, y proyectables para la corrección conjunta.
-- **Plantilla del método de tres pasos** (la misma de la sesión 7) y el mural con el método visible.
+- **Plantilla del método de tres pasos** (la misma de la sesión 5) y el mural con el método visible.
 - **Semáforo de escenarios** para el cierre y la quinta pieza de la maqueta (palanca de oferta).
 - Cronómetro para los turnos del debate.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El paralelismo explícito con la sesión 7 —mismo método de tres pasos, distinta curva— reduce la carga cognitiva de un contenido nuevo al presentarlo como aplicación de un procedimiento ya automatizado.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate del gabinete se desarrolla con turnos reglados y con el diagnóstico gráfico ya resuelto por escrito, de modo que la intervención oral se apoye en un trabajo previo y no dependa de la improvisación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El paralelismo explícito con la sesión 5 —mismo método de tres pasos, distinta curva— reduce la carga cognitiva de un contenido nuevo al presentarlo como aplicación de un procedimiento ya automatizado.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate del gabinete se desarrolla con turnos reglados y con el diagnóstico gráfico ya resuelto por escrito, de modo que la intervención oral se apoye en un trabajo previo y no dependa de la improvisación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
@@ -111,7 +111,7 @@ Su curva tiene **pendiente positiva**: a mayores precios, más empresas cubren s
 <table><thead><tr><th width="44%">La curva de OA se desplaza cuando cambia…</th><th width="56%">Ejemplos</th></tr></thead><tbody><tr><td>La <b>cantidad de factores</b> disponibles</td><td>Más población activa, nuevos recursos naturales, más capital instalado</td></tr><tr><td>La <b>productividad</b></td><td>Formación de la población trabajadora, progreso técnico, mejor organización</td></tr><tr><td>El <b>precio de los factores</b></td><td>Salarios, energía, materias primas</td></tr></tbody></table>
 
 ::: nota Mismo método, distinta curva
-El **método de tres pasos** de la sesión 7 funciona exactamente igual aquí: detectar el factor, deducir a qué afecta, explicar el efecto sobre la curva. No hay que aprender un procedimiento nuevo.
+El **método de tres pasos** de la sesión 5 funciona exactamente igual aquí: detectar el factor, deducir a qué afecta, explicar el efecto sobre la curva. No hay que aprender un procedimiento nuevo.
 :::
 
 ### 2. El equilibrio macroeconómico

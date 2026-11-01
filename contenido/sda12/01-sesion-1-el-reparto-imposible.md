@@ -18,7 +18,7 @@ titulo: Sesión 1 · El reparto imposible
 
 **3. Conceptualización (15 min).** A partir de lo que ha salido, nombra las tres funciones (proveer, redistribuir, estabilizar) con la diapositiva 7. Define el Estado del Bienestar como un conjunto de sistemas concretos, no como una etiqueta. Cierra con Mazzucato (diapositiva 9): no como anécdota biográfica, sino como reencuadre del debate que necesitarán en el Dictamen.
 
-**4. Reto y diagnóstico (10 min).** Presenta el reto con la diapositiva 10 y lanza la encuesta de diagnóstico. Guarda los resultados: se recuperan literalmente en la sesión 12.
+**4. Reto y diagnóstico (10 min).** Presenta el reto con la diapositiva 10 y lanza la encuesta de diagnóstico. Guarda los resultados: se recuperan literalmente en la sesión 14.
 
 ### Preguntas guía del profesorado
 

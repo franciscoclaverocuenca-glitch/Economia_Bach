@@ -34,7 +34,7 @@ No pases por alto **las cigarreras**: las Reales Fábricas de Sevilla y de Mála
 - **Tarjetas de hitos históricos** para la línea del tiempo: el estanco del tabaco y la Tabacalera (con las Reales Fábricas de Sevilla y de Málaga y sus cigarreras), Campsa y el monopolio de petróleos, la Telefónica del siglo XX como concesionaria única, y la Renfe anterior a la liberalización ferroviaria.
 - **Cada tarjeta debe llevar la pregunta clave**: ¿por qué el Estado creó, protegió o desmanteló este monopolio y qué doctrina lo justificaba?
 - **Presentación de apoyo** con imágenes de las Reales Fábricas, hoy espacios culturales.
-- **Coordinación previa con el departamento de Historia**: esta es la primera de las dos sesiones de encuentro con HMC, y la reflexión de cierre puede recogerse allí.
+- **Coordinación previa con el departamento de Historia**: la reflexión de cierre puede recogerse allí.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -46,7 +46,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 :::
 
 ::: aviso Nota de coordinación docente
-Primera de las dos **coordinaciones con Historia del Mundo Contemporáneo** (criterio HMCO.1.6.2). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y el código exacto del criterio en la concreción curricular del centro.
+**Coordinación con Historia del Mundo Contemporáneo** (criterio 6.2; saber HMCO.1.A.6). Sigue siendo una propuesta pendiente de confirmar oferta de la materia, matrícula común y el código exacto del criterio en la concreción curricular del centro.
 :::
 
 ## Para empezar
