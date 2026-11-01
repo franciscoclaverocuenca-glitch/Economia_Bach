@@ -4,7 +4,7 @@ titulo: 'Sesión 12 · Taller de la Comisión: redacción del Dictamen'
 
 ## Guía docente · Sesión 12 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2 + 6.1 + 6.2 (formativa)</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4 (roles)</td><td><b>Carácter</b></td><td>Formativa — laboratorio de preparación del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: trabajo cooperativo y reparto de roles · P: borradores y análisis de datos en el portafolio</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2 + 6.1 + 6.2 (formativa)</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4 (roles)</td><td><b>Carácter</b></td><td>Formativa, laboratorio de preparación del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: trabajo cooperativo y reparto de roles · P: borradores y análisis de datos en el portafolio</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -16,7 +16,7 @@ titulo: 'Sesión 12 · Taller de la Comisión: redacción del Dictamen'
 
 **2. Taller (35 min).** Circula entre comisiones como asesor, no como corrector. Preguntas útiles: ¿de dónde sale ese número?, ¿a cuánta gente afecta exactamente?, ¿qué le pasaría a alguien que hoy no paga y con vuestra medida pasaría a pagar? La tercera suele destapar el punto débil de la propuesta.
 
-**3. Control de calidad (10 min).** Revisa el borrador de cada comisión con la lista de comprobación y devuelve retroalimentación estructurada: dos cosas que funcionan y una que hay que arreglar antes de la defensa. Es formativa: aún hay margen.
+**3. Control de calidad (10 min).** Revisa el borrador de cada comisión con la lista de comprobación y devuelve retroalimentación estructurada. Dos cosas que funcionan y una que hay que arreglar antes de la defensa. Es formativa: aún hay margen.
 
 ### Preguntas guía del profesorado
 
@@ -41,14 +41,14 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Ubica a la comisi
 :::
 
 ::: aviso Nota de coordinación docente
-Conviene vigilar el cómputo de sesiones: el taller podría requerir una sesión adicional según el ritmo del grupo, lo que agravaría la desviación de la unidad respecto a la tabla maestra.
+Conviene vigilar el cómputo de sesiones. El taller podría requerir una sesión adicional según el ritmo del grupo, lo que agravaría la desviación de la unidad respecto a la tabla maestra.
 :::
 
 ## Para empezar
 
 Hoy es la sesión de trabajo real. 35 minutos para investigar, calcular y redactar el Dictamen que defenderéis mañana ante el resto de comisiones.
 
-**Orden recomendado:** primero el Documentalista busca, después el Analista calcula, después el Redactor escribe. Trabajar en paralelo parece más rápido y no lo es.
+**Orden recomendado.** primero el Documentalista busca, después el Analista calcula, después el Redactor escribe. Trabajar en paralelo parece más rápido y no lo es.
 
 ## Diapositivas de la sesión
 

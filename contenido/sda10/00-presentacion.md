@@ -18,9 +18,9 @@ Todas las cifras del material van marcadas como orden de magnitud. La sesión 6 
 
 ## Presentación de la unidad
 
-«Compra ahora y paga en cómodos plazos sin intereses». «Duplico tu dinero con cripto, rentabilidad garantizada». «Préstamo en 10 minutos, sin papeles». Ves estos mensajes todos los días y todos son legales. Todos tienen letra pequeña.
+“Compra ahora y paga en cómodos plazos sin intereses”. “Duplico tu dinero con cripto, rentabilidad garantizada”. “Préstamo en 10 minutos, sin papeles”. Ves estos mensajes todos los días y todos son legales. Todos tienen letra pequeña.
 
-Esta unidad va sobre las decisiones financieras que vas a tomar durante toda tu vida: cuánto gastar, cuánto guardar, cuándo endeudarse y a qué coste, dónde poner el dinero que sobra y cómo no dejar que te estafen. No es un tema técnico: es probablemente la unidad de este curso que más te va a servir.
+Esta unidad va sobre las decisiones financieras que vas a tomar durante toda tu vida: cuánto gastar, cuánto guardar, cuándo endeudarse y a qué coste, dónde poner el dinero que sobra y cómo no dejar que te estafen. No es un tema técnico. Es probablemente la unidad de este curso que más te va a servir.
 
 ### Qué vas a aprender
 
@@ -37,7 +37,7 @@ Competencia específica **4** · Criterios de evaluación **4.1, 4.2 y 4.3** · 
 
 ## El reto: Plan Financiero Personal y Comité de Inversión y Riesgos
 
-Vuestro grupo recibirá el perfil de una **persona joven real** —con sus ingresos, sus gastos y sus objetivos— y tendrá que elaborar su **Plan Financiero Personal** completo y defenderlo ante un **Comité de Inversión y Riesgos**.
+Vuestro grupo recibirá el perfil de una **persona joven real** (con sus ingresos, sus gastos y sus objetivos) y tendrá que elaborar su **Plan Financiero Personal** completo y defenderlo ante un **Comité de Inversión y Riesgos**.
 
 ### El producto final tiene dos piezas inseparables
 
@@ -53,13 +53,13 @@ Es un plan aplicado a un **personaje concreto**, con datos que tenéis que busca
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido: puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -67,9 +67,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 
@@ -91,4 +91,4 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 Estas son las diez sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
 
-<table><thead><tr><th width="5%">Nº</th><th width="58%">Sesión</th><th width="20%">Fase</th><th width="17%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>¿De quién es tu dinero? Motivación, activación y diagnóstico</td><td>Movilizar + Activar</td><td>4.2</td></tr><tr><td>2</td><td>Exploración: voz experta del sistema financiero</td><td>Explorar</td><td>4.1</td></tr><tr><td>3</td><td>El dinero y el sistema financiero</td><td>Estructurar</td><td>4.1</td></tr><tr><td>4</td><td>El precio del dinero: interés simple, compuesto y TAE</td><td>Estructurar</td><td>4.1 · 4.2</td></tr><tr><td>5</td><td>Presupuesto, ahorro y colchón de emergencia</td><td>Estructurar</td><td>4.2</td></tr><tr><td>6</td><td>Deuda y crédito: préstamos, hipotecas, revolving y compra a plazos</td><td>Estructurar</td><td>4.2 · 4.3</td></tr><tr><td>7</td><td>Invertir: riesgo, rentabilidad y diversificación</td><td>Estructurar</td><td>4.1 · 4.2</td></tr><tr><td>8</td><td>El nuevo dinero y los nuevos riesgos: fintech, cripto y ciberseguridad + laboratorio del Plan</td><td>Estructurar</td><td>4.1 · 4.3 (lab.: 4.2)</td></tr><tr><td>9</td><td>El Comité de Inversión y Riesgos: defensa del Plan Financiero Personal</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr><tr><td>10</td><td>Prueba escrita y autoevaluación de cierre</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr></tbody></table>
+<table><thead><tr><th width="5%">Nº</th><th width="58%">Sesión</th><th width="20%">Fase</th><th width="17%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>¿De quién es tu dinero? Motivación, activación y diagnóstico</td><td>Movilizar + Activar</td><td>4.2</td></tr><tr><td>2</td><td>Exploración: voz experta del sistema financiero</td><td>Explorar</td><td>4.1</td></tr><tr><td>3</td><td>El dinero y el sistema financiero</td><td>Estructurar</td><td>4.1</td></tr><tr><td>4</td><td>El precio del dinero: interés simple, compuesto y TAE</td><td>Estructurar</td><td>4.1 · 4.2</td></tr><tr><td>5</td><td>Presupuesto, ahorro y colchón de emergencia</td><td>Estructurar</td><td>4.2</td></tr><tr><td>6</td><td>Deuda y crédito: préstamos, hipotecas, revolving y compra a plazos</td><td>Estructurar</td><td>4.2 · 4.3</td></tr><tr><td>7</td><td>Invertir: riesgo, rentabilidad y diversificación</td><td>Estructurar</td><td>4.1 · 4.2</td></tr><tr><td>8</td><td>El nuevo dinero y los nuevos riesgos. Fintech, cripto y ciberseguridad + laboratorio del Plan</td><td>Estructurar</td><td>4.1 · 4.3 (lab.: 4.2)</td></tr><tr><td>9</td><td>El Comité de Inversión y Riesgos: defensa del Plan Financiero Personal</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr><tr><td>10</td><td>Prueba escrita y autoevaluación de cierre</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr></tbody></table>

@@ -6,7 +6,7 @@ titulo: Autoevaluación y evaluación docente
 
 ### Ficha de autoevaluación de cierre
 
-<table><thead><tr><th width="6%"></th><th width="94%">Qué se te pide</th></tr></thead><tbody><tr><td><b>1</b></td><td>Sitúate en los niveles de las rúbricas de los criterios <b>1.3</b> y <b>1.4</b>, justificando con <b>evidencias concretas</b> de tu propio trabajo a lo largo de la unidad.</td></tr><tr><td><b>2</b></td><td>Propón <b>un aspecto concreto de mejora</b> de cara a la SdA 3. Concreto: «estudiar más» no vale.</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Qué se te pide</th></tr></thead><tbody><tr><td><b>1</b></td><td>Sitúate en los niveles de las rúbricas de los criterios <b>1.3</b> y <b>1.4</b>, justificando con <b>evidencias concretas</b> de tu propio trabajo a lo largo de la unidad.</td></tr><tr><td><b>2</b></td><td>Propón <b>un aspecto concreto de mejora</b> de cara a la SdA 3. Concreto: “estudiar más” no vale.</td></tr></tbody></table>
 
 ### Y mira atrás un momento
 
@@ -19,7 +19,7 @@ Has **vivenciado** tres reglas distintas de reparto (S1), escuchado una forma re
 id: sda02-autoevaluacion
 tipo: autoevaluacion
 titulo: Autoevaluación de cierre
-instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, «estudiar más» no vale.'
+instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, “estudiar más” no vale.'
 criterios:
 - '1.3'
 - '1.4'

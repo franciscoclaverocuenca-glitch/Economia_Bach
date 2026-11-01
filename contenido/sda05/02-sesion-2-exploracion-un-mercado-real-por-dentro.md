@@ -8,7 +8,7 @@ titulo: 'Sesión 2 · Exploración: un mercado real por dentro (taller con Sim C
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:08</td><td>Alta en el simulador, reparto de parejas y de los tres productos asignados.</td><td>2</td></tr><tr><td>00:08 – 00:16</td><td>Reconocimiento del entorno: dónde está el precio, el histórico y la competencia.</td><td>3</td></tr><tr><td>00:16 – 00:28</td><td>Reto 1 · Leer el histórico: identificar un pico y explicarlo.</td><td>4–5</td></tr><tr><td>00:28 – 00:40</td><td>Reto 2 · Decidir un precio, con hipótesis escrita antes de ejecutar.</td><td>6</td></tr><tr><td>00:40 – 00:48</td><td>Puesta en común: qué le pasó al precio de cada pareja y por qué.</td><td>7</td></tr><tr><td>00:48 – 00:55</td><td>Cuestionario digital sobre lo observado.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:08</td><td>Alta en el simulador, reparto de parejas y de los tres productos asignados.</td><td>2</td></tr><tr><td>00:08 – 00:16</td><td>Reconocimiento del entorno. Dónde está el precio, el histórico y la competencia.</td><td>3</td></tr><tr><td>00:16 – 00:28</td><td>Reto 1 · Leer el histórico: identificar un pico y explicarlo.</td><td>4–5</td></tr><tr><td>00:28 – 00:40</td><td>Reto 2 · Decidir un precio, con hipótesis escrita antes de ejecutar.</td><td>6</td></tr><tr><td>00:40 – 00:48</td><td>Puesta en común. Qué le pasó al precio de cada pareja y por qué.</td><td>7</td></tr><tr><td>00:48 – 00:55</td><td>Cuestionario digital sobre lo observado.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
@@ -20,7 +20,7 @@ titulo: 'Sesión 2 · Exploración: un mercado real por dentro (taller con Sim C
 
 **3. Reto 1 · el histórico (12 min).** Cada pareja localiza **un pico** en el histórico de precios de uno de sus productos y escribe qué cree que pasó.
 
-Aquí está el segundo ítem de observación, y es el importante: **al explicar un movimiento, atribuye la causa a un lado del mercado** —quien vende o quien compra— **y no a «el mercado»**. «Subió porque el mercado subió» no explica nada. «Subió porque se retiraron vendedores» sí.
+Aquí está el segundo ítem de observación, y es el importante: **al explicar un movimiento, atribuye la causa a un lado del mercado**, quien vende o quien compra, **y no a “el mercado”**. “Subió porque el mercado subió” no explica nada. “Subió porque se retiraron vendedores” sí.
 
 **4. Reto 2 · decidir un precio (12 min).** Cada pareja fija el precio de uno de sus productos. Y antes de ejecutar, **escribe la hipótesis**: qué cree que va a pasar.
 
@@ -38,7 +38,7 @@ Primer ítem de observación: **escribe la hipótesis antes de mirar el resultad
 - ¿Se cumplió vuestra hipótesis? Y si no, ¿por qué creéis que falló?
 
 ::: aviso Material que debes preparar tú
-- **Alta previa en el simulador** con las cuentas del alumnado creadas y comprobadas. Hazlo con días de antelación: es lo único que puede arruinar la sesión.
+- **Alta previa en el simulador** con las cuentas del alumnado creadas y comprobadas. Hazlo con días de antelación. Es lo único que puede arruinar la sesión.
 - **Reparto de tres productos por pareja**, preparado de modo que haya variedad de niveles de competencia entre productos.
 - **Ficha de observación por pareja**: los datos de los tres productos, el pico identificado con su explicación, el precio decidido y la **hipótesis escrita**.
 - **Lista de cotejo** con los tres ítems de la sesión.
@@ -76,15 +76,15 @@ expl-sda05-06.webp | La rotación
 ## Los dos retos del taller
 
 ::: aviso La regla que no se salta
-Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a ocurrir y por qué. Si acertáis, bien; si no, también: lo que se valora es el razonamiento, no el resultado.
+Antes de tocar el precio, **escribid vuestra hipótesis**. Qué creéis que va a ocurrir y por qué. Si acertáis, bien; si no, también. Lo que se valora es el razonamiento, no el resultado.
 :::
 
 ### Reto 1 · Leer el histórico
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué hacéis</th></tr></thead><tbody><tr><td>1</td><td>Elegid uno de vuestros tres productos y abrid su <b>histórico de precios</b>.</td></tr><tr><td>2</td><td>Localizad un <b>pico</b>: una subida o una bajada llamativa.</td></tr><tr><td>3</td><td>Escribid qué creéis que pasó. Y aquí está lo importante: <b>¿lo provocó quien vende o quien compra?</b></td></tr></tbody></table>
 
-::: nota «El mercado subió» no es una explicación
-Es repetir el hecho con otras palabras. Una explicación señala **un lado**: «se retiraron vendedores y quedó menos producto», o «entraron muchos compradores a la vez». Eso sí dice algo.
+::: nota “El mercado subió” no es una explicación
+Es repetir el hecho con otras palabras. Una explicación señala **un lado**: “se retiraron vendedores y quedó menos producto”, o “entraron muchos compradores a la vez”. Eso sí dice algo.
 :::
 
 ### Reto 2 · Decidir vuestro precio
@@ -108,7 +108,7 @@ En las sesiones 3, 4 y 5 le vais a poner nombre: demanda, oferta, equilibrio y e
 ### 2. Dos lados, no uno
 
 ::: nota La idea que vale más de esta sesión
-Un precio se mueve porque cambia algo en **uno de los dos lados** del mercado: quien vende o quien compra. Decir «el mercado subió» es describir el hecho, no explicarlo.
+Un precio se mueve porque cambia algo en **uno de los dos lados** del mercado: quien vende o quien compra. Decir “el mercado subió” es describir el hecho, no explicarlo.
 
 Cuando en la sesión 5 aparezcan los desplazamientos de curva, estaréis poniendo notación a algo que hoy ya habéis observado.
 :::
@@ -123,7 +123,7 @@ Escribirla antes tiene dos efectos. Os obliga a razonar de verdad. Y permite val
 
 Uno de vuestros tres productos tenía muchos vendedores y otro pocos. Fijaos en si eso tuvo algo que ver con lo que pudisteis hacer con el precio.
 
-No adelantamos la explicación. Pero guardad la observación: en la SdA 6 vais a estudiar exactamente eso.
+No adelantamos la explicación. Pero guardad la observación. En la SdA 6 vais a estudiar exactamente eso.
 
 ### Glosario de la sesión
 
@@ -139,7 +139,7 @@ puntua: true
 revisar: true
 instrucciones: Decide si cada afirmación es verdadera o falsa. Al corregir verás tu puntuación y la explicación de cada respuesta.
 preguntas:
-- enunciado: «El precio subió porque el mercado subió» es una buena explicación.
+- enunciado: “El precio subió porque el mercado subió” es una buena explicación.
   respuesta: falso
   explicacion: '**Falso.** Es una explicación circular: no dice qué cambió en la oferta o en la demanda.'
 - enunciado: La hipótesis se escribe antes de ejecutar el cambio de precio.

@@ -12,9 +12,9 @@ titulo: Sesión 2 · Los guardianes del mercado
 
 ### Guion paso a paso
 
-**1. Presentación (5 min).** Recupera la pregunta que quedó abierta ayer —«¿quién vigila a los que ponen los precios?»— y presenta a la persona invitada como la respuesta encarnada.
+**1. Presentación (5 min).** Recupera la pregunta que quedó abierta ayer (“¿quién vigila a los que ponen los precios?”) y presenta a la persona invitada como la respuesta encarnada.
 
-**2. La charla (25 min).** Los cuatro contenidos que solo puede aportar quien lo hace a diario: cómo se detecta y se sanciona un cártel; qué es el **programa de clemencia** —la primera empresa que confiesa puede quedar exenta de multa—, que es un guiño directo al juego de la sesión 5; qué diferencia hay entre la autoridad estatal (CNMC) y la andaluza (ACREA); y qué puede hacer un consumidor concreto ante un abuso.
+**2. La charla (25 min).** Los cuatro contenidos que solo puede aportar quien lo hace a diario. Cómo se detecta y se sanciona un cártel; qué es el **programa de clemencia** (la primera empresa que confiesa puede quedar exenta de multa), que es un guiño directo al juego de la sesión 5; qué diferencia hay entre la autoridad estatal (CNMC) y la andaluza (ACREA); y qué puede hacer un consumidor concreto ante un abuso.
 
 **3. El turno de preguntas (15 min).** Cada gabinete trae **preparada de casa** al menos una pregunta conectada con su caso pericial. Eso convierte la charla en la primera fuente documental del informe y garantiza que el turno no se quede en silencio.
 
@@ -30,7 +30,7 @@ titulo: Sesión 2 · Los guardianes del mercado
 ::: aviso Material que debes preparar tú
 - **Contactar con antelación suficiente** con la **ACREA** (Agencia de la Competencia y de la Regulación Económica de Andalucía, organismo de la Junta con sede en Sevilla, con departamentos de investigación y de promoción de la competencia) o con **FACUA-Consumidores en Acción** (asociación nacida en Sevilla, con delegación en Málaga). Charla presencial o por videoconferencia.
 - **Alternativa de contingencia**: si no fuera posible, la sesión puede sostenerse sobre materiales divulgativos audiovisuales de la propia CNMC y una entrevista escrita real, manteniendo la voz externa como fuente.
-- **Revisa las preguntas de los gabinetes** antes de la sesión: cada uno debe traer al menos una conectada con su caso pericial.
+- **Revisa las preguntas de los gabinetes** antes de la sesión. Cada uno debe traer al menos una conectada con su caso pericial.
 - **Cuestionario formativo digital** (V/F y respuesta corta) montado y listo.
 - Cuaderno de notas del alumnado.
 :::
@@ -49,7 +49,7 @@ Ayer quedó una pregunta abierta en la pizarra: **¿quién vigila a los que pone
 
 Hoy viene la respuesta en persona. Alguien que investiga cárteles, o que defiende a los consumidores frente a los abusos, va a contaros cómo se hace eso realmente.
 
-Vuestro gabinete trae una pregunta preparada, y tiene que estar conectada con vuestro caso: esta charla es la **primera fuente documental** de vuestro informe pericial.
+Vuestro gabinete trae una pregunta preparada, y tiene que estar conectada con vuestro caso. Esta charla es la **primera fuente documental** de vuestro informe pericial.
 
 ## Diapositivas de la sesión
 
@@ -67,12 +67,12 @@ sda6-s02-04.webp | Cierre
 <table><thead><tr><th width="34%">Contenido</th><th width="66%">Por qué os importa</th></tr></thead><tbody><tr><td><b>Cómo se detecta y se sanciona un cártel</b></td><td>Un pacto de precios es secreto por definición. La respuesta pasa por el <b>programa de clemencia</b>: la primera empresa que confiesa puede quedar exenta de multa. Guardadlo: es un guiño directo al juego de la sesión 5.</td></tr><tr><td><b>Quién vigila qué</b></td><td>La CNMC es la autoridad estatal; la ACREA, la andaluza, con sede en Sevilla. Y las asociaciones de consumidores como FACUA, nacida también en Sevilla, actúan desde otro lado.</td></tr><tr><td><b>Qué puede hacer un consumidor concreto</b></td><td>Hojas de reclamaciones, denuncia ante consumo, reclamación de daños tras una sanción por cártel. Es la parte más práctica de la charla.</td></tr><tr><td><b>Casos reales resueltos</b></td><td>Preguntad si conoce alguno parecido al vuestro. Puede daros el mejor material del informe.</td></tr></tbody></table>
 
 ::: nota Vuestra pregunta obligatoria
-Cada gabinete formula al menos **una pregunta conectada con su caso pericial**. Anotad la respuesta con cuidado: una fuente institucional de primera mano tiene mucho valor documental, y así se lo debéis reconocer en el informe.
+Cada gabinete formula al menos **una pregunta conectada con su caso pericial**. Anotad la respuesta con cuidado. Una fuente institucional de primera mano tiene mucho valor documental, y así se lo debéis reconocer en el informe.
 :::
 
 ## Cierre
 
-Anotad la respuesta a vuestra pregunta: es material del informe pericial. Y valorad la **fiabilidad** de lo que acabáis de escuchar: es una fuente institucional de primera mano, y eso tiene un peso documental distinto al de un titular de prensa.
+Anotad la respuesta a vuestra pregunta: es material del informe pericial. Y valorad la **fiabilidad** de lo que acabáis de escuchar. Es una fuente institucional de primera mano, y eso tiene un peso documental distinto al de un titular de prensa.
 
 ## Comprueba lo que sabes
 

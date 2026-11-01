@@ -4,11 +4,11 @@ titulo: Sesión 7 · ¿Beneficio a cualquier precio?
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4 → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable — formativa (debate observado)</td></tr><tr><td><b>Instrumentos</b></td><td>D: controversia estructurada con turnos e inversión de roles · OD: observación de la argumentación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4 → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable, formativa (debate observado)</td></tr><tr><td><b>Instrumentos</b></td><td>D: controversia estructurada con turnos e inversión de roles · OD: observación de la argumentación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Innovación y valor añadido: ejemplos reales de innovación en producto, proceso y modelo.</td><td>2–3</td></tr><tr><td>00:10 – 00:35</td><td>Controversia estructurada «¿Beneficio a cualquier precio?» con casos reales.</td><td>4–5</td></tr><tr><td>00:35 – 00:45</td><td>Manifiesto de consenso por equipos: 3 compromisos que debería asumir cualquier empresa.</td><td>5</td></tr><tr><td>00:45 – 00:50</td><td>Síntesis: conexión con el ODS 8.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Innovación y valor añadido. Ejemplos reales de innovación en producto, proceso y modelo.</td><td>2–3</td></tr><tr><td>00:10 – 00:35</td><td>Controversia estructurada “¿Beneficio a cualquier precio?” con casos reales.</td><td>4–5</td></tr><tr><td>00:35 – 00:45</td><td>Manifiesto de consenso por equipos: 3 compromisos que debería asumir cualquier empresa.</td><td>5</td></tr><tr><td>00:45 – 00:50</td><td>Síntesis: conexión con el ODS 8.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
@@ -16,13 +16,13 @@ titulo: Sesión 7 · ¿Beneficio a cualquier precio?
 
 Conecta explícitamente con el valor añadido de la sesión 3: innovar es, en el fondo, encontrar formas de **añadir más valor** al producto.
 
-**2. La controversia (25 min).** Grupos de 4 repartidos en dos parejas, ante casos reales límite: una empresa que reduce costes deslocalizando producción frente a una cooperativa de economía social andaluza que prioriza el empleo local aun con menor margen.
+**2. La controversia (25 min).** Grupos de 4 repartidos en dos parejas, ante casos reales límite. Una empresa que reduce costes deslocalizando producción frente a una cooperativa de economía social andaluza que prioriza el empleo local aun con menor margen.
 
 Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inversión de roles** defendiendo la postura que se atacaba, y manifiesto de consenso. La fase 2 es la que obliga a entender el argumento contrario en lugar de despacharlo: **protégela si vas justo de tiempo**.
 
 **3. El manifiesto (10 min).** Tres compromisos que debería asumir cualquier empresa más allá del beneficio. Exige que sean **realistas y concretos**: compromisos que una empresa pueda cumplir de verdad, no declaraciones de intenciones.
 
-**4. ODS 8 (5 min).** Trabajo decente y crecimiento económico. Y anuncia que esto vuelve como **exigencia concreta** en el Canvas: su empresa ficticia va a necesitar un compromiso real.
+**4. ODS 8 (5 min).** Trabajo decente y crecimiento económico. Y anuncia que esto vuelve como **exigencia concreta** en el Canvas. Su empresa ficticia va a necesitar un compromiso real.
 
 ### Preguntas guía del profesorado
 
@@ -32,7 +32,7 @@ Tres fases: debate por turnos tomando notas de los argumentos contrarios, **inve
 - De vuestros tres compromisos, ¿cuál podría cumplir de verdad una empresa pequeña?
 
 ::: aviso Material que debes preparar tú
-- **2-3 ejemplos reales de innovación**, preferentemente de empresas andaluzas: uno de producto, uno de proceso y uno de modelo de negocio.
+- **2-3 ejemplos reales de innovación**, preferentemente de empresas andaluzas. Uno de producto, uno de proceso y uno de modelo de negocio.
 - **Tarjetas de dilemas** con casos reales límite. Se sugiere el contraste entre una empresa que reduce costes deslocalizando y una **cooperativa de economía social andaluza** que prioriza el empleo local con menor margen.
 - **Casos reales de responsabilidad social** y de economía social andaluza.
 - **Plantilla del manifiesto** de tres compromisos, una por equipo.
@@ -68,13 +68,13 @@ sda4-s07-06.webp | ODS 8
 
 ### Tres formas de innovar
 
-<table><thead><tr><th width="24%">Tipo</th><th width="36%">En qué consiste</th><th width="40%">Ejemplo</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Un aceite con una certificación que antes no existía; un envase que alarga la conservación</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo, pero de otra manera: más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Vender por suscripción en lugar de por unidad; vender del productor al consumidor sin intermediarios</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Tipo</th><th width="36%">En qué consiste</th><th width="40%">Ejemplo</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Un aceite con una certificación que antes no existía; un envase que alarga la conservación</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo, pero de otra manera. Más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Vender por suscripción en lugar de por unidad; vender del productor al consumidor sin intermediarios</td></tr></tbody></table>
 
 ::: nota La idea que las conecta
 El **valor añadido** es lo que la empresa suma al producto por encima de lo que le costaron los materiales. Innovar es, básicamente, encontrar formas de **añadir más valor**. Y de ahí sale el criterio 2.4: la innovación como fuente de valor y de resolución de problemas económicos y sociales.
 :::
 
-## Controversia «¿Beneficio a cualquier precio?»
+## Controversia “¿Beneficio a cualquier precio?”
 
 ### Los dos casos
 
@@ -85,7 +85,7 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 <table><thead><tr><th width="24%">Fase</th><th width="76%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Las dos parejas debaten. Mientras una habla, la otra <b>toma notas</b> de los argumentos contrarios.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura que atacaba. <b>Esta es la fase que importa.</b></td></tr><tr><td><b>3 · Manifiesto de consenso</b></td><td>El equipo redacta <b>tres compromisos</b> que debería asumir cualquier empresa, más allá del beneficio.</td></tr></tbody></table>
 
 ::: aviso Los compromisos tienen que ser realistas
-«Ser sostenibles» no es un compromiso: es un deseo. «Usar envase retornable con depósito» sí lo es. Buscad cosas que una empresa **pueda cumplir de verdad** y que se pueda comprobar si cumple.
+“Ser sostenibles” no es un compromiso: es un deseo. “Usar envase retornable con depósito” sí lo es. Buscad cosas que una empresa **pueda cumplir de verdad** y que se pueda comprobar si cumple.
 :::
 
 ### Vuestro manifiesto
@@ -93,7 +93,7 @@ El **valor añadido** es lo que la empresa suma al producto por encima de lo que
 <table><thead><tr><th width="6%"></th><th width="94%">Compromiso que debería asumir cualquier empresa</th></tr></thead><tbody><tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr><tr><td>3</td><td></td></tr></tbody></table>
 
 ::: nota Y esto vuelve
-La conexión con el **ODS 8** —trabajo decente y crecimiento económico— no se queda aquí: en las sesiones 8 y 9 vuestro Canvas va a necesitar **un compromiso concreto de responsabilidad social**. Id pensándolo.
+La conexión con el **ODS 8**, trabajo decente y crecimiento económico, no se queda aquí. En las sesiones 8 y 9 vuestro Canvas va a necesitar **un compromiso concreto de responsabilidad social**. Id pensándolo.
 :::
 
 ## Apuntes de la sesión
@@ -102,7 +102,7 @@ La conexión con el **ODS 8** —trabajo decente y crecimiento económico— no 
 
 En la sesión 3 visteis que el **valor añadido** es lo que la empresa suma al producto por encima del coste de los materiales. Innovar es, en el fondo, encontrar formas de añadir **más** valor. Y hay tres caminos:
 
-<table><thead><tr><th width="24%">Tipo de innovación</th><th width="40%">En qué consiste</th><th width="36%">Por qué importa</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Es la más visible, y la que permite diferenciarse</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo pero de otra manera: más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y a menudo la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Puede transformar un sector entero sin tocar el producto</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Tipo de innovación</th><th width="40%">En qué consiste</th><th width="36%">Por qué importa</th></tr></thead><tbody><tr><td><b>De producto</b></td><td>Se crea algo nuevo o se mejora sustancialmente lo existente</td><td>Es la más visible, y la que permite diferenciarse</td></tr><tr><td><b>De proceso</b></td><td>Se produce lo mismo pero de otra manera. Más barata, más rápida o más limpia</td><td>Es la que menos se ve desde fuera y a menudo la que más margen genera</td></tr><tr><td><b>De modelo de negocio</b></td><td>Cambia la forma de cobrar o de llegar al cliente</td><td>Puede transformar un sector entero sin tocar el producto</td></tr></tbody></table>
 
 ### 2. La pregunta incómoda
 
@@ -121,18 +121,18 @@ Por eso la controversia incluye **inversión de roles**: defender la postura con
 
 ### 3. La responsabilidad social de la empresa
 
-La **función social** que visteis en la sesión 3 se concreta aquí: lo que una empresa aporta a su entorno además de su producto. Y la **responsabilidad social corporativa** es el conjunto de compromisos que asume voluntariamente más allá de lo que la ley le exige.
+La **función social** que visteis en la sesión 3 se concreta aquí. Lo que una empresa aporta a su entorno además de su producto. Y la **responsabilidad social corporativa** es el conjunto de compromisos que asume voluntariamente más allá de lo que la ley le exige.
 
-El criterio para distinguir un compromiso real de una declaración vacía es sencillo: **¿se puede comprobar si se cumple?** «Ser sostenibles» no se puede comprobar. «Usar envase retornable con depósito» sí.
+El criterio para distinguir un compromiso real de una declaración vacía es sencillo: **¿se puede comprobar si se cumple?** “Ser sostenibles” no se puede comprobar. “Usar envase retornable con depósito” sí.
 
 ### 4. El ODS 8
 
 ::: aviso Trabajo decente y crecimiento económico
 El Objetivo de Desarrollo Sostenible 8 no se conforma con que la economía crezca: exige que ese crecimiento venga acompañado de **trabajo decente**, con derechos, salario suficiente y seguridad.
 
-Aplicado a vuestro proyecto: no basta con que vuestra empresa ficticia dé beneficio. En el Canvas vais a tener que incluir **un compromiso concreto** de responsabilidad social o medioambiental, y defenderlo en el pitch.
+Aplicado a vuestro proyecto. No basta con que vuestra empresa ficticia dé beneficio. En el Canvas vais a tener que incluir **un compromiso concreto** de responsabilidad social o medioambiental, y defenderlo en el pitch.
 :::
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Innovación de producto</b></td><td>Creación de un bien o servicio nuevo o sustancialmente mejorado.</td></tr><tr><td><b>Innovación de proceso</b></td><td>Nueva forma de producir lo mismo, más eficiente o más limpia.</td></tr><tr><td><b>Innovación de modelo de negocio</b></td><td>Cambio en la forma de cobrar o de llegar al cliente.</td></tr><tr><td><b>Deslocalización</b></td><td>Traslado de la producción a otro territorio con costes más bajos.</td></tr><tr><td><b>Economía social</b></td><td>Conjunto de empresas —cooperativas, sociedades laborales— que priorizan a las personas sobre el capital.</td></tr><tr><td><b>Responsabilidad social corporativa</b></td><td>Compromisos que una empresa asume voluntariamente más allá de lo que exige la ley.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Innovación de producto</b></td><td>Creación de un bien o servicio nuevo o sustancialmente mejorado.</td></tr><tr><td><b>Innovación de proceso</b></td><td>Nueva forma de producir lo mismo, más eficiente o más limpia.</td></tr><tr><td><b>Innovación de modelo de negocio</b></td><td>Cambio en la forma de cobrar o de llegar al cliente.</td></tr><tr><td><b>Deslocalización</b></td><td>Traslado de la producción a otro territorio con costes más bajos.</td></tr><tr><td><b>Economía social</b></td><td>Conjunto de empresas (cooperativas, sociedades laborales) que priorizan a las personas sobre el capital.</td></tr><tr><td><b>Responsabilidad social corporativa</b></td><td>Compromisos que una empresa asume voluntariamente más allá de lo que exige la ley.</td></tr></tbody></table>

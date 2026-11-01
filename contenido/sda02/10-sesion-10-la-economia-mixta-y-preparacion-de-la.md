@@ -8,19 +8,19 @@ titulo: Sesión 10 · La economía mixta y preparación de la Cumbre
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>La economía mixta: España como caso vivo.</td><td>2–4</td></tr><tr><td>00:15 – 00:45</td><td>Preparación de la Cumbre: asignación de delegaciones y borrador del dossier.</td><td>5–7</td></tr><tr><td>00:45 – 00:50</td><td>Cierre: reparto de subroles con revisión de patrones de género.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>La economía mixta: España como caso vivo.</td><td>2–4</td></tr><tr><td>00:15 – 00:45</td><td>Preparación de la Cumbre. Asignación de delegaciones y borrador del dossier.</td><td>5–7</td></tr><tr><td>00:45 – 00:50</td><td>Cierre. Reparto de subroles con revisión de patrones de género.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. La economía mixta (15 min).** Explicación magistral breve como combinación de mercado e intervención pública, con datos reales del peso del gasto público sobre el PIB en España y de sectores históricamente públicos o mixtos: sanidad, educación, algunas infraestructuras. **Actualiza el dato del gasto público cada curso.**
 
-**Retoma explícitamente la charla de la sesión 2** y presenta el **cooperativismo agrario andaluz** —con tradición histórica propia y muy presente en el sector oleícola y hortofrutícola— como una forma real de organización intermedia: ni empresa puramente capitalista ni propiedad estatal. Aquella charla no era una anécdota: era el ejemplo vivo.
+**Retoma explícitamente la charla de la sesión 2** y presenta el **cooperativismo agrario andaluz** (con tradición histórica propia y muy presente en el sector oleícola y hortofrutícola) como una forma real de organización intermedia. Ni empresa puramente capitalista ni propiedad estatal. Aquella charla no era una anécdota: era el ejemplo vivo.
 
-**El dato de género**: los países con mayor provisión pública de cuidado infantil y bajas parentales, rasgo típico de las economías mixtas de tipo nórdico, presentan tasas de participación laboral femenina más altas. Plantéalo como **pregunta abierta** —¿hasta qué punto el diseño del sistema económico condiciona la igualdad efectiva?— y no como conclusión.
+**El dato de género**: los países con mayor provisión pública de cuidado infantil y bajas parentales, rasgo típico de las economías mixtas de tipo nórdico, presentan tasas de participación laboral femenina más altas. Plantéalo como **pregunta abierta** (¿hasta qué punto el diseño del sistema económico condiciona la igualdad efectiva?) y no como conclusión.
 
 **2. Preparación de la Cumbre (30 min).** Asigna una delegación a cada grupo base y arranca el dossier: ficha comparativa de los tres sistemas con sus propias palabras, postura de la delegación ante el reto común, y borrador del turno de palabra inicial.
 
-**3. Cierre (5 min).** Reparto de subroles —Portavoz, Secretario/a, Cartógrafo/a de datos y Coordinador/a—, **revisando que no se repitan patrones estereotipados por género acumulados en sesiones anteriores**.
+**3. Cierre (5 min).** Reparto de subroles (Portavoz, Secretario/a, Cartógrafo/a de datos y Coordinador/a), **revisando que no se repitan patrones estereotipados por género acumulados en sesiones anteriores**.
 
 ### Preguntas guía del profesorado
 
@@ -71,17 +71,17 @@ sda2-s10-07.webp | El reto de la Cumbre
 <table><thead><tr><th width="36%">Dónde se ve</th><th width="64%">Qué significa</th></tr></thead><tbody><tr><td><b>El peso del gasto público sobre el PIB</b></td><td>Un porcentaje muy significativo de la economía española pasa por las administraciones públicas. Ese dato hay que actualizarlo cada curso.</td></tr><tr><td><b>Sectores históricamente públicos o mixtos</b></td><td>Sanidad, educación y algunas infraestructuras. Ninguno de ellos se deja enteramente al mercado.</td></tr><tr><td><b>El cooperativismo agrario andaluz</b></td><td>Con tradición histórica propia y muy presente en el sector oleícola y hortofrutícola. Una forma real de organización <b>intermedia</b>.</td></tr></tbody></table>
 
 ::: nota La charla de la sesión 2 no era una anécdota
-Era el **ejemplo vivo** de que entre el mercado puro y la planificación central hay mucho territorio. Ni empresa puramente capitalista ni propiedad estatal: socios que deciden colectivamente con sus propias reglas de voto y de reparto.
+Era el **ejemplo vivo** de que entre el mercado puro y la planificación central hay mucho territorio. Ni empresa puramente capitalista ni propiedad estatal. Socios que deciden colectivamente con sus propias reglas de voto y de reparto.
 
 Volved a vuestras notas de aquel día: son material para el dossier.
 :::
 
 ### Un dato de género, y una pregunta abierta
 
-Los países con mayor provisión pública de **cuidado infantil** y **bajas parentales** —rasgo típico de las economías mixtas de tipo nórdico— presentan tasas de **participación laboral femenina más altas**.
+Los países con mayor provisión pública de **cuidado infantil** y **bajas parentales**, rasgo típico de las economías mixtas de tipo nórdico, presentan tasas de **participación laboral femenina más altas**.
 
 ::: aviso La pregunta que queda abierta
-¿Hasta qué punto el **diseño del sistema económico** condiciona la igualdad efectiva? No lo cerramos hoy: es exactamente el tipo de cuestión que puede aparecer en la Cumbre, y la delegación de economía mixta hará bien en tenerlo preparado.
+¿Hasta qué punto el **diseño del sistema económico** condiciona la igualdad efectiva? No lo cerramos hoy. Es exactamente el tipo de cuestión que puede aparecer en la Cumbre, y la delegación de economía mixta hará bien en tenerlo preparado.
 :::
 
 ## Preparación de la Cumbre
@@ -112,7 +112,7 @@ Al repartir los subroles, **revisad que no se repitan patrones estereotipados po
 
 ### 1. Qué es la economía mixta
 
-Es el sistema que **combina el mercado como mecanismo principal de asignación con una intervención pública significativa**. No es un promedio ni un punto medio abstracto: es una arquitectura concreta, con decisiones concretas sobre dónde llega cada cosa.
+Es el sistema que **combina el mercado como mecanismo principal de asignación con una intervención pública significativa**. No es un promedio ni un punto medio abstracto. Es una arquitectura concreta, con decisiones concretas sobre dónde llega cada cosa.
 
 Y es, con diferencia, el sistema más extendido en el mundo real.
 
@@ -125,14 +125,14 @@ Y es, con diferencia, el sistema más extendido en el mundo real.
 ::: nota La forma intermedia que teníais al lado
 El cooperativismo agrario tiene en Andalucía una **tradición histórica propia** y está muy presente en el sector oleícola y hortofrutícola. Es una forma real de organización económica **intermedia**: ni empresa puramente capitalista ni propiedad estatal.
 
-La charla de la sesión 2 no era una anécdota local: era el ejemplo vivo de que entre el mercado puro y la planificación central hay mucho territorio, y de que ese territorio está habitado.
+La charla de la sesión 2 no era una anécdota local. Era el ejemplo vivo de que entre el mercado puro y la planificación central hay mucho territorio, y de que ese territorio está habitado.
 :::
 
 ### 4. Un dato de género y una pregunta abierta
 
-Los países con mayor provisión pública de **cuidado infantil** y **bajas parentales** —rasgo típico de las economías mixtas de tipo nórdico— presentan tasas de **participación laboral femenina más altas**.
+Los países con mayor provisión pública de **cuidado infantil** y **bajas parentales**, rasgo típico de las economías mixtas de tipo nórdico, presentan tasas de **participación laboral femenina más altas**.
 
-De ahí sale una pregunta que no se cierra: **¿hasta qué punto el diseño del sistema económico condiciona la igualdad efectiva?** No basta con declarar la igualdad: las instituciones concretas —quién cuida, con qué apoyo, durante cuánto tiempo— la facilitan o la dificultan.
+De ahí sale una pregunta que no se cierra: **¿hasta qué punto el diseño del sistema económico condiciona la igualdad efectiva?** No basta con declarar la igualdad: las instituciones concretas (quién cuida, con qué apoyo, durante cuánto tiempo) la facilitan o la dificultan.
 
 ### 5. Y ahora, la Cumbre
 
@@ -172,6 +172,6 @@ preguntas:
 
 ## Cierre
 
-Repartid los **cuatro subroles** —Portavoz, Secretario/a, Cartógrafo/a de datos y Coordinador/a— revisando que no se repitan patrones estereotipados por género acumulados en sesiones anteriores.
+Repartid los **cuatro subroles** (Portavoz, Secretario/a, Cartógrafo/a de datos y Coordinador/a) revisando que no se repitan patrones estereotipados por género acumulados en sesiones anteriores.
 
 Y ensayad el turno de palabra inicial con cronómetro: **dos minutos son muy pocos**.

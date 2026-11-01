@@ -37,11 +37,11 @@ Fichero: `contenido/sda02/03-sesion-3-como-piensa-un-economista.md` · actividad
 
 | # | Afirmación | Clave | Explicación |
 |---|---|---|---|
-| 1 | «La tasa de paro juvenil se situó en el 25 % el último trimestre» es un enunciado positivo. | **V** | **Verdadero.** Describe un hecho que se puede comprobar con datos: es un enunciado positivo. |
-| 2 | «Es injusto que los jóvenes tengan tanto paro» es un enunciado positivo. | **F** | **Falso.** «Injusto» es un juicio de valor: es un enunciado normativo. |
+| 1 | “La tasa de paro juvenil se situó en el 25 % el último trimestre” es un enunciado positivo. | **V** | **Verdadero.** Describe un hecho que se puede comprobar con datos: es un enunciado positivo. |
+| 2 | “Es injusto que los jóvenes tengan tanto paro” es un enunciado positivo. | **F** | **Falso.** “Injusto” es un juicio de valor: es un enunciado normativo. |
 | 3 | Un enunciado normativo puede ser verdadero o falso. | **F** | **Falso.** Un enunciado normativo expresa una valoración u opinión; no se puede comprobar con datos si es verdadero o falso. |
 | 4 | Un modelo económico debe reproducir la realidad con todo detalle para ser útil. | **F** | **Falso.** Un modelo simplifica a propósito: se queda con lo esencial para poder explicar y predecir. |
-| 5 | «Ceteris paribus» significa mantener constante todo lo demás. | **V** | **Verdadero.** *Ceteris paribus*: «lo demás constante». Permite estudiar el efecto de una sola variable. |
+| 5 | “Ceteris paribus” significa mantener constante todo lo demás. | **V** | **Verdadero.** *Ceteris paribus*: “lo demás constante”. Permite estudiar el efecto de una sola variable. |
 | 6 | Un mismo titular no puede contener a la vez un elemento positivo y uno normativo. | **F** | **Falso.** Es muy frecuente que un titular mezcle un dato (positivo) con una valoración (normativo). Saber separarlos es la habilidad que se entrena. |
 
 ## SdA 2 · Sesión 8 · La economía de mercado
@@ -111,7 +111,7 @@ Fichero: `contenido/sda03/08-sesion-8-la-nueva-economia-digital-colaborativa.md`
 
 | # | Afirmación | Clave | Explicación |
 |---|---|---|---|
-| 1 | La economía circular se basa en el modelo de «producir-usar-tirar». | **F** | **Falso.** Eso es la economía **lineal**. La circular busca reducir, reutilizar y reciclar para cerrar el ciclo. |
+| 1 | La economía circular se basa en el modelo de “producir-usar-tirar”. | **F** | **Falso.** Eso es la economía **lineal**. La circular busca reducir, reutilizar y reciclar para cerrar el ciclo. |
 | 2 | Un efecto de red significa que un servicio gana valor cuantas más personas lo usan. | **V** | **Verdadero.** Cuantos más usuarios tiene una red (una plataforma, una app), más valor tiene para cada uno. |
 | 3 | Que el 78 % de las empresas tecnológicas no cubra sus vacantes significa que falta empleo. | **F** | **Falso.** Significa lo contrario: hay empleo disponible, pero falta personal con la cualificación que se busca. |
 | 4 | La economía colaborativa no tiene inconvenientes en zonas turísticas. | **F** | **Falso.** En zonas turísticas puede presionar al alza los alquileres y reducir la vivienda residencial disponible. |
@@ -200,7 +200,7 @@ Fichero: `contenido/sda05/02-sesion-2-exploracion-un-mercado-real-por-dentro.md`
 
 | # | Afirmación | Clave | Explicación |
 |---|---|---|---|
-| 1 | «El precio subió porque el mercado subió» es una buena explicación. | **F** | **Falso.** Es una explicación circular: no dice qué cambió en la oferta o en la demanda. |
+| 1 | “El precio subió porque el mercado subió” es una buena explicación. | **F** | **Falso.** Es una explicación circular: no dice qué cambió en la oferta o en la demanda. |
 | 2 | La hipótesis se escribe antes de ejecutar el cambio de precio. | **V** | **Verdadero.** La hipótesis se escribe antes de ver el resultado. Es lo que convierte la exploración en evidencia de razonamiento. |
 | 3 | Se evalúa acertar con la hipótesis. | **F** | **Falso.** No se evalúa acertar, sino el razonamiento: qué esperabas y por qué. |
 | 4 | El control del dispositivo debe rotar dentro de la pareja en cada reto. | **V** | **Verdadero.** El control del dispositivo cambia de manos en cada reto. |
@@ -324,7 +324,7 @@ Fichero: `contenido/sda09/05-sesion-5-la-demanda-agregada.md` · actividad `sda0
 | 1 | La demanda agregada es C + I + G + (X − M). | **V** | **Verdadero.** Consumo + inversión + gasto público + exportaciones netas. |
 | 2 | Si sube el nivel general de precios, la curva de demanda agregada se desplaza a la izquierda. | **F** | **Falso.** Un cambio en el nivel de precios es un **movimiento a lo largo** de la curva, no un desplazamiento. |
 | 3 | Una bajada de los tipos de interés desplaza la curva de demanda agregada a la derecha. | **V** | **Verdadero.** Abarata el crédito y estimula el consumo y la inversión. |
-| 4 | Un titular que dice «se prevé que caiga el consumo» describe un hecho ya ocurrido. | **F** | **Falso.** «Se prevé» indica una previsión, no un hecho ocurrido. |
+| 4 | Un titular que dice “se prevé que caiga el consumo” describe un hecho ya ocurrido. | **F** | **Falso.** “Se prevé” indica una previsión, no un hecho ocurrido. |
 | 5 | La curva de demanda agregada tiene pendiente negativa. | **V** | **Verdadero.** Cuando sube el nivel de precios, la cantidad demandada agregada disminuye. |
 | 6 | Una subida de las transferencias a las familias no afecta a la demanda agregada. | **F** | **Falso.** Aumentan la renta disponible y el consumo, así que la demanda agregada aumenta. |
 
@@ -350,7 +350,7 @@ Fichero: `contenido/sda10/08-sesion-8-el-nuevo-dinero-y-los-nuevos-riesgos.md` �
 | 3 | Se puede comprobar si una entidad de inversión está autorizada. | **V** | **Verdadero.** Se puede consultar en los registros de la CNMV y del Banco de España. |
 | 4 | En un esquema piramidal, el rendimiento depende de una actividad económica real. | **F** | **Falso.** El rendimiento sale del dinero de quienes entran después, no de una actividad real. |
 | 5 | Un seguro consiste en pagar una cantidad pequeña y segura para cubrir una pérdida grande e incierta. | **V** | **Verdadero.** Es la lógica del seguro: transformar un riesgo grande e incierto en un coste pequeño y cierto. |
-| 6 | «Esta vez es diferente» es una buena razón para invertir en algo que está subiendo mucho. | **F** | **Falso.** Es la frase típica de las burbujas. Que algo suba mucho no garantiza que siga subiendo. |
+| 6 | “Esta vez es diferente” es una buena razón para invertir en algo que está subiendo mucho. | **F** | **Falso.** Es la frase típica de las burbujas. Que algo suba mucho no garantiza que siga subiendo. |
 
 ## SdA 11 · Sesión 2 · Exploración: visita al Banco de España en Málaga
 

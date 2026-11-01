@@ -7,7 +7,7 @@ descripcion: 'Situación de aprendizaje 5: el mercado y sus fuerzas. Oferta, dem
 autor: Francisco Clavero Cuenca
 trimestre: 2
 sesiones: 8
-producto: '<b>El Parqué de Málaga</b>: una simulación de mercado en tres rondas (mercado libre, perturbación de la oferta y de la demanda) cuyos datos sirven para un <b>informe de oferta, demanda y elasticidad</b>.'
+producto: '<b>El Parqué de Málaga</b> es una simulación de mercado en tres rondas (mercado libre, perturbación de la oferta y de la demanda) cuyos datos sirven para un <b>informe de oferta, demanda y elasticidad</b>.'
 ce: CE2
 criterios: '2.2'
 saberes: B2
@@ -32,7 +32,7 @@ rubricas:
     descriptor: Explica correctamente el funcionamiento del mercado y los efectos básicos de un desplazamiento de la demanda o de la oferta sobre el precio y la cantidad de equilibrio; lo demuestra con corrección tanto en la prueba escrita como en su trabajo cooperativo observado durante la simulación y el laboratorio de datos.
   - nivel: Notable
     notas: 7-8
-    descriptor: Analiza con precisión los cambios de equilibrio y la elasticidad, aplicándolos a casos reales; lo argumenta con solidez tanto de forma oral —en el debate sobre precios dinámicos y en el pitch de datos del informe— como por escrito —en la prueba escrita y en el informe grupal—, conectando el modelo teórico con los datos observados.
+    descriptor: Analiza con precisión los cambios de equilibrio y la elasticidad, aplicándolos a casos reales; lo argumenta con solidez tanto de forma oral (en el debate sobre precios dinámicos y en el pitch de datos del informe) como por escrito, en la prueba escrita y en el informe grupal,, conectando el modelo teórico con los datos observados.
   - nivel: Sobresaliente
     notas: 9-10
     descriptor: 'Domina el análisis del mercado integrando desplazamientos, elasticidad y una reflexión crítica y autónoma sobre su papel como fuente de mejora económica y social y sobre sus límites, de forma consistente en todos los instrumentos aplicados: simulación y debate, informe grupal y su defensa oral, prueba escrita, portafolio, y su propia autoevaluación y coevaluación entre iguales.'

@@ -12,9 +12,9 @@ titulo: 'Sesión 2 · Exploración: voz experta del sistema financiero'
 
 ### Guion paso a paso
 
-**1. Presentación (5 min).** Sitúa la charla en el hilo de la unidad: en la sesión 1 quedaron tres preguntas abiertas en el mural, y hoy viene alguien que trabaja a diario con esos productos.
+**1. Presentación (5 min).** Sitúa la charla en el hilo de la unidad. En la sesión 1 quedaron tres preguntas abiertas en el mural, y hoy viene alguien que trabaja a diario con esos productos.
 
-**2. La charla (40 min).** Antes de abrir el turno libre, garantiza que se formulan las **dos preguntas obligatorias**: «¿cuál es el primer producto financiero que debería tener una persona de nuestra edad y para qué sirve?» y «¿cuál es el fraude o error financiero más frecuente que ve entre la gente joven y cómo se evita?». Enlazan respectivamente con la S3 y con las S6 y S8. Reparte las preguntas entre personas concretas: el turno abierto sin asignar se queda en silencio.
+**2. La charla (40 min).** Antes de abrir el turno libre, garantiza que se formulan las **dos preguntas obligatorias**: “¿cuál es el primer producto financiero que debería tener una persona de nuestra edad y para qué sirve?” y “¿cuál es el fraude o error financiero más frecuente que ve entre la gente joven y cómo se evita?”. Enlazan respectivamente con la S3 y con las S6 y S8. Reparte las preguntas entre personas concretas. El turno abierto sin asignar se queda en silencio.
 
 **3. Cierre (5 min).** Cuestionario formativo de 4-5 preguntas breves para consolidar las ideas clave del testimonio y recoger dudas que enlacen con la sesión siguiente.
 
@@ -60,7 +60,7 @@ sda10-s02-04.webp | Cierre
 
 ### Las dos preguntas que no pueden faltar
 
-<table><thead><tr><th width="46%">Pregunta</th><th width="54%">Con qué enlaza</th></tr></thead><tbody><tr><td><b>«¿Cuál es el primer producto financiero que debería tener una persona de nuestra edad, y para qué sirve?»</b></td><td>Con la sesión 3 (el sistema financiero y sus productos) y con vuestro Plan Financiero: el personaje que os toque necesitará exactamente eso.</td></tr><tr><td><b>«¿Cuál es el fraude o error financiero más frecuente que ve entre la gente joven, y cómo se evita?»</b></td><td>Con la sesión 6 (deuda) y con la sesión 8 (ciberseguridad y detección de fraude). La respuesta de quien lo ve a diario vale más que cualquier manual.</td></tr></tbody></table>
+<table><thead><tr><th width="46%">Pregunta</th><th width="54%">Con qué enlaza</th></tr></thead><tbody><tr><td><b>“¿Cuál es el primer producto financiero que debería tener una persona de nuestra edad, y para qué sirve?”</b></td><td>Con la sesión 3 (el sistema financiero y sus productos) y con vuestro Plan Financiero. El personaje que os toque necesitará exactamente eso.</td></tr><tr><td><b>“¿Cuál es el fraude o error financiero más frecuente que ve entre la gente joven, y cómo se evita?”</b></td><td>Con la sesión 6 (deuda) y con la sesión 8 (ciberseguridad y detección de fraude). La respuesta de quien lo ve a diario vale más que cualquier manual.</td></tr></tbody></table>
 
 ### Tu guion de notas
 

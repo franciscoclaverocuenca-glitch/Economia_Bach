@@ -16,7 +16,7 @@ titulo: 'Sesión 11 · Decrecimiento, ODS y retos andaluces: arranque de la Comi
 
 **2. La Comisión (10 min).** Constitúyela formalmente: el gesto importa. Entrega la plantilla del Dictamen y explica los cuatro criterios de calidad *antes* de asignar los retos, para que sepan qué se les va a exigir mientras eligen enfoque.
 
-**3. Roles y arranque (30 min).** Los subroles son estables hasta la sesión 13 y conviene asignarlos tú, no dejarlos a la negociación interna. Acompaña como asesor: pasa por cada comisión y haz una sola pregunta —¿qué dato concreto necesitáis y dónde lo vais a buscar?—. Exige desde el principio un dato oficial y una estimación cuantitativa sencilla de la medida (saberes A6 y D2), y que cada Dictamen conecte su reto con la realidad andaluza (E5).
+**3. Roles y arranque (30 min).** Los subroles son estables hasta la sesión 13 y conviene asignarlos tú, no dejarlos a la negociación interna. Acompaña como asesor. Pasa por cada comisión y haz una sola pregunta (¿qué dato concreto necesitáis y dónde lo vais a buscar?). Exige desde el principio un dato oficial y una estimación cuantitativa sencilla de la medida (saberes A6 y D2), y que cada Dictamen conecte su reto con la realidad andaluza (E5).
 
 ### Preguntas guía del profesorado
 
@@ -31,7 +31,7 @@ titulo: 'Sesión 11 · Decrecimiento, ODS y retos andaluces: arranque de la Comi
 - **Plantilla del Dictamen** impresa o en Moodle, con los seis apartados del guion común.
 - **Tarjetas de subrol** (Coordinador/a, Documentalista, Analista de datos, Redactor/a-Portavoz).
 - **Acceso a dispositivos** y enlaces preparados a IECA, INE, AIReF y Eurostat.
-- Comprueba la composición de los grupos base: deben ser heterogéneos y formados por ti.
+- Comprueba la composición de los grupos base. Deben ser heterogéneos y formados por ti.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -50,7 +50,7 @@ Si el grupo es numeroso, pueden constituirse dos comisiones por reto y contrasta
 
 En las dos últimas sesiones has visto tres grandes retos del siglo XXI: el envejecimiento, la globalización y la revolución digital. Hoy completamos la lista con una pregunta incómoda: **¿y si el problema fuera querer crecer siempre?**
 
-Después se constituye la **Comisión de Expertos «Pacto Fiscal 2050»**. Tu comisión recibirá uno de los cuatro grandes retos y tendrá que producir un dictamen técnico con propuestas concretas, cuantificadas y defendibles.
+Después se constituye la **Comisión de Expertos “Pacto Fiscal 2050”**. Tu comisión recibirá uno de los cuatro grandes retos y tendrá que producir un dictamen técnico con propuestas concretas, cuantificadas y defendibles.
 
 ## Diapositivas de la sesión
 
@@ -98,7 +98,7 @@ modelo: "Con la dependencia del turismo, un partidario del decrecimiento propond
 ### Los cuatro criterios de calidad
 
 ::: aviso Esto es lo que separa un notable de un aprobado
-1. Al menos **un dato oficial** citado con su fuente. No vale «se estima que».
+1. Al menos **un dato oficial** citado con su fuente. No vale “se estima que”.
 2. Una **estimación cuantitativa propia**: recaudación esperada, coste o población afectada.
 3. Una **valoración honesta de los inconvenientes** de vuestra propia propuesta.
 4. Una **conexión explícita con la economía andaluza**: la medida tiene que aterrizar en el territorio.
@@ -108,4 +108,4 @@ modelo: "Con la dependencia del turismo, un partidario del decrecimiento propond
 
 <table><thead><tr><th width="26%">Fuente</th><th width="74%">Para qué</th></tr></thead><tbody><tr><td><b>IECA</b></td><td>Instituto de Estadística y Cartografía de Andalucía. Todo lo andaluz.</td></tr><tr><td><b>INE</b></td><td>Renta, pobreza, población, Atlas de distribución de renta de los hogares.</td></tr><tr><td><b>AIReF</b></td><td>Informes sobre déficit, deuda y sostenibilidad de las finanzas públicas.</td></tr><tr><td><b>Eurostat / Agencia Tributaria</b></td><td>Comparación europea y recaudación efectiva por figura impositiva.</td></tr></tbody></table>
 
-**Regla simple:** si el dato no viene de una de estas fuentes, seguid buscando hasta encontrarlo en una de ellas.
+**Regla simple.** si el dato no viene de una de estas fuentes, seguid buscando hasta encontrarlo en una de ellas.

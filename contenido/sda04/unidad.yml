@@ -11,7 +11,7 @@ producto: Un <b>plan de empresa</b> para una empresa ficticia, defendido en un <
 ce: CE2
 criterios: '2.4'
 saberes: B1
-referente: —
+referente: ""
 interdisciplinar: Cultura Emprendedora y Empresarial (sesiones 6 y 9)
 temas: empresa funciones producción riesgo social sectores tejido empresarial andaluz forma jurídica cooperativa productividad producto marginal costes fijos variables beneficio innovación valor añadido responsabilidad social canvas pitch design thinking
 rubricas:
@@ -35,4 +35,4 @@ rubricas:
     descriptor: Analiza con rigor el papel de la empresa como generadora de valor añadido, integrando datos reales del tejido empresarial andaluz en el cuestionario y el Canvas, y defiende con solidez y creatividad su proyecto en el pitch, incorporando alguna referencia justificada a la responsabilidad social de su empresa ficticia.
   - nivel: Sobresaliente
     notas: 9-10
-    descriptor: Demuestra un dominio completo y crítico del papel de la empresa en la generación de valor añadido y bienestar social, aportando un análisis original y bien fundamentado —tanto en la prueba escrita como en el Canvas y el pitch final ante el jurado— que integra la viabilidad económica del proyecto con un compromiso genuino de innovación y responsabilidad social, respondiendo con solvencia a las preguntas del jurado.
+    descriptor: Demuestra un dominio completo y crítico del papel de la empresa en la generación de valor añadido y bienestar social, aportando un análisis original y bien fundamentado (tanto en la prueba escrita como en el Canvas y el pitch final ante el jurado) que integra la viabilidad económica del proyecto con un compromiso genuino de innovación y responsabilidad social, respondiendo con solvencia a las preguntas del jurado.

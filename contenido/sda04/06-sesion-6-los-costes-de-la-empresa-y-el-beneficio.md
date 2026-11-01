@@ -4,23 +4,23 @@ titulo: Sesión 6 · Los costes de la empresa y el beneficio
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos de 4 (rotación de roles)</td><td><b>Carácter</b></td><td>Formativa — primera evidencia calificable de cálculo</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario de cálculo · OD: observación de la rotación de roles · Co.Ev.: contraste de resultados dentro del equipo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos de 4 (rotación de roles)</td><td><b>Carácter</b></td><td>Formativa, primera evidencia calificable de cálculo</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario de cálculo · OD: observación de la rotación de roles · Co.Ev.: contraste de resultados dentro del equipo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Costes fijos y variables: clasificación con ejemplos reales aportados por el alumnado.</td><td>2</td></tr><tr><td>00:15 – 00:30</td><td>Cálculo guiado de ingreso total, coste total y beneficio con un caso sencillo.</td><td>3–4</td></tr><tr><td>00:30 – 00:45</td><td>Rotación de roles en grupos de 4: cada miembro calcula una pieza de un caso complejo.</td><td>5</td></tr><tr><td>00:45 – 00:50</td><td>Cierre: ¿qué pasaría con el beneficio si subieran los costes fijos un 10 %?</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Costes fijos y variables. Clasificación con ejemplos reales aportados por el alumnado.</td><td>2</td></tr><tr><td>00:15 – 00:30</td><td>Cálculo guiado de ingreso total, coste total y beneficio con un caso sencillo.</td><td>3–4</td></tr><tr><td>00:30 – 00:45</td><td>Rotación de roles en grupos de 4: cada miembro calcula una pieza de un caso complejo.</td><td>5</td></tr><tr><td>00:45 – 00:50</td><td>Cierre. ¿qué pasaría con el beneficio si subieran los costes fijos un 10 %?</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Fijos y variables (15 min).** Clasificación **con ejemplos aportados por el propio alumnado**, no con una lista cerrada: costes fijos (no dependen de la cantidad producida: alquiler, seguros, cuota de autónomos) y variables (sí dependen: materia prima, envases, comisiones).
+**1. Fijos y variables (15 min).** Clasificación **con ejemplos aportados por el propio alumnado**, no con una lista cerrada. Costes fijos (no dependen de la cantidad producida: alquiler, seguros, cuota de autónomos) y variables (sí dependen: materia prima, envases, comisiones).
 
-Aquí es donde se falla después. Dedica tiempo a los casos dudosos —el salario de un empleado fijo frente a las horas extra, la energía del local frente a la energía de la maquinaria— porque son los que aparecen en el examen y en sus propios proyectos.
+Aquí es donde se falla después. Dedica tiempo a los casos dudosos (el salario de un empleado fijo frente a las horas extra, la energía del local frente a la energía de la maquinaria) porque son los que aparecen en el examen y en sus propios proyectos.
 
 **2. El caso guiado (15 min).** Paso a paso y todos juntos: identificar los costes, calcular el coste total, el ingreso total (precio × cantidad) y el beneficio. **Verifica que todo el mundo entiende cada paso antes de pasar al caso complejo**: esta es la sesión más importante de la unidad y no conviene dejar a nadie atrás.
 
 **3. La rotación de roles (15 min).** En grupos de 4, cada miembro calcula una pieza distinta de un caso más completo: costes fijos totales, costes variables totales, ingreso total, y la cuarta persona integra los tres cálculos en el beneficio final y lo presenta al equipo. **Los roles rotan respecto a los ya usados en sesiones anteriores.**
 
-**4. El cierre (5 min).** «Si los costes fijos subieran un 10 %, ¿qué tendría que pasar con el precio, la cantidad vendida o los costes variables para mantener el mismo beneficio?». Hay **tres palancas** posibles, y esta pregunta anticipa la actividad de ampliación de la sesión 9.
+**4. El cierre (5 min).** “Si los costes fijos subieran un 10 %, ¿qué tendría que pasar con el precio, la cantidad vendida o los costes variables para mantener el mismo beneficio?”. Hay **tres palancas** posibles, y esta pregunta anticipa la actividad de ampliación de la sesión 9.
 
 ### Preguntas guía del profesorado
 
@@ -75,7 +75,7 @@ sda4-s06-06.webp | Sensibilidad
 <table><thead><tr><th width="50%">Costes FIJOS</th><th width="50%">Costes VARIABLES</th></tr></thead><tbody><tr><td><b>No</b> dependen de cuánto produzcas.</td><td><b>Sí</b> dependen de cuánto produzcas.</td></tr><tr><td>Alquiler del local, seguros, cuota de autónomos, suscripciones.</td><td>Materia prima, envases, comisiones por venta, energía de producción.</td></tr><tr><td>Los pagas produzcas mil unidades o ninguna.</td><td>Si no produces nada, no los pagas.</td></tr><tr><td>Son los que te hunden si no vendes.</td><td>Crecen contigo.</td></tr></tbody></table>
 
 ::: aviso Los casos dudosos son los que se preguntan
-¿El salario de un empleado con contrato fijo? Fijo. ¿Las horas extra que se pagan solo cuando hay pedidos? Variable. ¿La luz del local? Fija. ¿La energía que consume la maquinaria al producir? Variable. La pregunta que resuelve casi todos los casos es: **«¿lo pagaría igual si no produjera nada?»**
+¿El salario de un empleado con contrato fijo? Fijo. ¿Las horas extra que se pagan solo cuando hay pedidos? Variable. ¿La luz del local? Fija. ¿La energía que consume la maquinaria al producir? Variable. La pregunta que resuelve casi todos los casos es: **“¿lo pagaría igual si no produjera nada?”**
 :::
 
 ### Las tres fórmulas
@@ -89,7 +89,7 @@ Si el beneficio sale negativo, se llama **pérdida**. Y es una información tan 
 <table><thead><tr><th width="12%">Paso</th><th width="88%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1</b></td><td>Identificad qué costes son fijos y cuáles variables. <b>Aquí es donde se falla.</b></td></tr><tr><td><b>2</b></td><td>Calculad el coste total.</td></tr><tr><td><b>3</b></td><td>Calculad el ingreso total.</td></tr><tr><td><b>4</b></td><td>Restad. Y decid si esa empresa gana o pierde dinero.</td></tr></tbody></table>
 
 ::: nota Nadie pasa al caso complejo sin tener claro este
-Si algo del caso guiado no ha quedado claro, decidlo **ahora**. Todo lo que viene después —el caso complejo, la sesión 9 y el bloque 2 del examen— se apoya en estos cuatro pasos.
+Si algo del caso guiado no ha quedado claro, decidlo **ahora**. Todo lo que viene después (el caso complejo, la sesión 9 y el bloque 2 del examen) se apoya en estos cuatro pasos.
 :::
 
 ## Practica · ¿Coste fijo o variable?
@@ -131,11 +131,11 @@ En grupos de 4, ante un caso más completo con varias partidas de costes. Cada p
 
 <table><thead><tr><th width="22%">Rol</th><th width="78%">Qué calcula</th></tr></thead><tbody><tr><td><b>Persona 1</b></td><td>Los costes fijos totales</td></tr><tr><td><b>Persona 2</b></td><td>Los costes variables totales</td></tr><tr><td><b>Persona 3</b></td><td>El ingreso total</td></tr><tr><td><b>Persona 4</b></td><td>Integra los tres cálculos en el <b>beneficio final</b> y lo presenta al resto del equipo</td></tr></tbody></table>
 
-Los roles **rotan** respecto a los que ya habéis usado en sesiones anteriores: no repitáis el mismo papel de siempre.
+Los roles **rotan** respecto a los que ya habéis usado en sesiones anteriores. No repitáis el mismo papel de siempre.
 
 ### Cierre: la sensibilidad del beneficio
 
-«Si los costes fijos subieran un 10 %, ¿qué tendría que pasar con el precio, la cantidad vendida o los costes variables para mantener el mismo beneficio?»
+“Si los costes fijos subieran un 10 %, ¿qué tendría que pasar con el precio, la cantidad vendida o los costes variables para mantener el mismo beneficio?”
 
 ::: aviso Hay tres palancas, no una
 Subir el precio, vender más unidades o reducir los costes variables. Cada una tiene sus consecuencias, y ninguna es gratis. Esta pregunta anticipa la **actividad de ampliación de la sesión 9**, donde la aplicaréis a vuestro propio proyecto.
@@ -148,7 +148,7 @@ Subir el precio, vender más unidades o reducir los costes variables. Cada una t
 <table><thead><tr><th width="22%"></th><th width="39%">Costes FIJOS</th><th width="39%">Costes VARIABLES</th></tr></thead><tbody><tr><td><b>Definición</b></td><td>No dependen de la cantidad producida</td><td>Dependen de la cantidad producida</td></tr><tr><td><b>Ejemplos</b></td><td>Alquiler, seguros, cuota de autónomos, suscripciones de software</td><td>Materia prima, envases, comisiones por venta, energía de producción</td></tr><tr><td><b>Si no produces nada</b></td><td>Los sigues pagando</td><td>No los pagas</td></tr><tr><td><b>Riesgo asociado</b></td><td>Son los que hunden a una empresa que no vende</td><td>Crecen con la actividad, así que se autorregulan</td></tr></tbody></table>
 
 ::: aviso La pregunta que resuelve casi todos los casos dudosos
-«**¿Lo pagaría igual si no produjera nada?**» Si la respuesta es sí, es fijo. Si es no, es variable.
+“**¿Lo pagaría igual si no produjera nada?**” Si la respuesta es sí, es fijo. Si es no, es variable.
 
 El salario de un empleado con contrato fijo: **fijo**. Las horas extra que solo se pagan cuando hay pedidos: **variable**. La luz del local: **fija**. La energía que consume la maquinaria al producir: **variable**.
 :::
@@ -170,7 +170,7 @@ Los cuatro pasos, siempre en este orden:
 
 ### 4. La sensibilidad del beneficio: tres palancas
 
-Si los costes fijos suben —el casero sube el alquiler, sube el seguro— el beneficio cae. Para recuperarlo hay **tres palancas**, y ninguna es gratis:
+Si los costes fijos suben (el casero sube el alquiler, sube el seguro) el beneficio cae. Para recuperarlo hay **tres palancas**, y ninguna es gratis:
 
 <table><thead><tr><th width="26%">Palanca</th><th width="38%">Qué implica</th><th width="36%">Su riesgo</th></tr></thead><tbody><tr><td><b>Subir el precio</b></td><td>Cada unidad vendida aporta más</td><td>Puedes vender menos unidades. Lo veréis con detalle en la SdA 5</td></tr><tr><td><b>Vender más unidades</b></td><td>El coste fijo se reparte entre más ventas</td><td>Exige captar más clientes, y eso también cuesta</td></tr><tr><td><b>Reducir los costes variables</b></td><td>Cada unidad cuesta menos de producir</td><td>Puede afectar a la calidad, y con ella a las ventas</td></tr></tbody></table>
 

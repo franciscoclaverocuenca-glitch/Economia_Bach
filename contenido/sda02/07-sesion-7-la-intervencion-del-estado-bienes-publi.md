@@ -8,21 +8,21 @@ titulo: 'Sesión 7 · La intervención del Estado: bienes públicos y fallos de 
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Clasificación de 8 bienes y servicios según excluibilidad y rivalidad.</td><td>2–4</td></tr><tr><td>00:20 – 00:35</td><td>Debate corto: ¿por qué falla el mercado con los bienes públicos? El problema del polizón.</td><td>5</td></tr><tr><td>00:35 – 00:50</td><td>Cierre: redacción individual de un ejemplo propio de intervención del Estado.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Clasificación de 8 bienes y servicios según excluibilidad y rivalidad.</td><td>2–4</td></tr><tr><td>00:20 – 00:35</td><td>Debate corto. ¿por qué falla el mercado con los bienes públicos? El problema del polizón.</td><td>5</td></tr><tr><td>00:35 – 00:50</td><td>Cierre. Redacción individual de un ejemplo propio de intervención del Estado.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. La clasificación (20 min).** Dos criterios y solo dos: **excluibilidad** (¿se puede impedir que alguien lo consuma si no paga?) y **rivalidad** (¿que yo lo consuma impide que tú lo consumas?). Del cruce salen cuatro tipos: privados, públicos, comunes y de club.
 
-Ocho bienes reales para clasificar en grupos base. Uno de ellos —el **agua de riego de una comunidad de regantes**— es el mismo tipo de bien que **los peces del arrecife de la Isla Utopía** que clasificaron en la SdA 1, y conviene señalar el paralelismo.
+Ocho bienes reales para clasificar en grupos base. Uno de ellos, el **agua de riego de una comunidad de regantes**, es el mismo tipo de bien que **los peces del arrecife de la Isla Utopía** que clasificaron en la SdA 1, y conviene señalar el paralelismo.
 
-**2. El problema del polizón (15 min).** Debate corto dirigido con una pregunta concreta: **si el alumbrado público se vendiera solo a quien lo pagase, ¿qué pasaría?** Deja que lleguen cooperativamente a la conclusión: nadie pagaría, porque no se puede excluir a quien no paga. Ese es el *free-rider*.
+**2. El problema del polizón (15 min).** Debate corto dirigido con una pregunta concreta: **si el alumbrado público se vendiera solo a quien lo pagase, ¿qué pasaría?** Deja que lleguen cooperativamente a la conclusión. Nadie pagaría, porque no se puede excluir a quien no paga. Ese es el *free-rider*.
 
-La idea clave a fijar: el mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**.
+La idea clave a fijar. El mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**.
 
-**3. Cierre (15 min).** Usa el **Servicio Andaluz de Salud** como ejemplo cercano de bien preferente provisto públicamente para garantizar el acceso con independencia de la capacidad de pago. Y conecta con las **externalidades ambientales** —contaminación, sobreexplotación de recursos comunes— como otra justificación clásica, vinculada al **ODS 12**.
+**3. Cierre (15 min).** Usa el **Servicio Andaluz de Salud** como ejemplo cercano de bien preferente provisto públicamente para garantizar el acceso con independencia de la capacidad de pago. Y conecta con las **externalidades ambientales** (contaminación, sobreexplotación de recursos comunes) como otra justificación clásica, vinculada al **ODS 12**.
 
-Redacción individual de tres líneas: «un ejemplo de intervención del Estado en mi vida cotidiana y qué fallo de mercado corrige».
+Redacción individual de tres líneas. “un ejemplo de intervención del Estado en mi vida cotidiana y qué fallo de mercado corrige”.
 
 ### Preguntas guía del profesorado
 
@@ -33,7 +33,7 @@ Redacción individual de tres líneas: «un ejemplo de intervención del Estado 
 
 ::: aviso Material que debes preparar tú
 - **Tarjetas de 8 bienes y servicios reales**: un iPhone, el alumbrado público de una calle, un concierto con entrada, el agua de riego de una comunidad de regantes, la sanidad pública, un parque, la pesca en alta mar y la señal de una emisora de radio.
-- **Plantilla de clasificación** con las dos preguntas —excluibilidad y rivalidad— y los cuatro tipos resultantes.
+- **Plantilla de clasificación** con las dos preguntas, excluibilidad y rivalidad, y los cuatro tipos resultantes.
 - **Ejemplo del Servicio Andaluz de Salud** como bien preferente provisto públicamente.
 - Señala el paralelismo entre el **agua de riego** y los **peces del arrecife** de la Isla Utopía, que clasificaron en la SdA 1.
 - Ficha de redacción individual para el cierre.
@@ -68,7 +68,7 @@ sda2-s07-06.webp | El SAS y las externalidades
 
 ### Dos preguntas, cuatro tipos
 
-<table><thead><tr><th width="22%"></th><th width="39%">¿Es EXCLUIBLE?</th><th width="39%">¿Es RIVAL?</th></tr></thead><tbody><tr><td><b>Qué pregunta</b></td><td>¿Se puede impedir que alguien lo consuma si no paga?</td><td>¿Que yo lo consuma impide que tú lo consumas?</td></tr><tr><td><b>Ejemplo de SÍ</b></td><td>Un concierto con entrada: sí se puede</td><td>Un iPhone: si me lo quedo yo, tú no</td></tr><tr><td><b>Ejemplo de NO</b></td><td>El alumbrado de una calle: no se puede</td><td>La señal de una emisora: nos llega igual a los dos</td></tr></tbody></table>
+<table><thead><tr><th width="22%"></th><th width="39%">¿Es EXCLUIBLE?</th><th width="39%">¿Es RIVAL?</th></tr></thead><tbody><tr><td><b>Qué pregunta</b></td><td>¿Se puede impedir que alguien lo consuma si no paga?</td><td>¿Que yo lo consuma impide que tú lo consumas?</td></tr><tr><td><b>Ejemplo de SÍ</b></td><td>Un concierto con entrada: sí se puede</td><td>Un iPhone. Si me lo quedo yo, tú no</td></tr><tr><td><b>Ejemplo de NO</b></td><td>El alumbrado de una calle: no se puede</td><td>La señal de una emisora: nos llega igual a los dos</td></tr></tbody></table>
 
 <table><thead><tr><th width="20%"></th><th width="40%">RIVAL</th><th width="40%">NO rival</th></tr></thead><tbody><tr><td><b>EXCLUIBLE</b></td><td>Bien <b>PRIVADO</b><br/>(un iPhone, un concierto con entrada)</td><td>Bien de <b>CLUB</b><br/>(una piscina municipal con abono)</td></tr><tr><td><b>NO excluible</b></td><td>Bien <b>COMÚN</b><br/>(la pesca en alta mar, el agua de riego)</td><td>Bien <b>PÚBLICO</b><br/>(el alumbrado, la señal de radio)</td></tr></tbody></table>
 
@@ -82,14 +82,14 @@ El agua de riego de una comunidad de regantes es el mismo tipo de bien que **los
 
 ### El problema del polizón
 
-«Si el alumbrado público se vendiera solo a quien lo pagase, ¿qué pasaría?»
+“Si el alumbrado público se vendiera solo a quien lo pagase, ¿qué pasaría?”
 
-Que **nadie pagaría**. Porque no se puede impedir que lo disfrute quien no paga: la luz de la farola cae sobre todos por igual.
+Que **nadie pagaría**. Porque no se puede impedir que lo disfrute quien no paga. La luz de la farola cae sobre todos por igual.
 
 ::: nota Free-rider: el polizón
 Si puedo disfrutarlo sin pagar, ¿por qué voy a pagar? Y si todos razonan así, el bien **no se produce**, aunque todos lo quieran.
 
-De ahí la conclusión importante: el mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad.
+De ahí la conclusión importante. El mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad.
 :::
 
 ## Bienes preferentes y externalidades
@@ -102,7 +102,7 @@ Un recurso común sin reglas tiende a sobreexplotarse. Es exactamente lo que vis
 
 ### Cierre individual
 
-Tres líneas: «**Un ejemplo de intervención del Estado en mi vida cotidiana y qué fallo de mercado corrige**».
+Tres líneas: “**Un ejemplo de intervención del Estado en mi vida cotidiana y qué fallo de mercado corrige**”.
 
 Que sea de verdad cotidiano: algo que hayas visto esta semana.
 
@@ -121,17 +121,17 @@ Que sea de verdad cotidiano: algo que hayas visto esta semana.
 ::: nota Por qué el mercado no puede con los bienes públicos
 Si el alumbrado se vendiera solo a quien lo pagase, **nadie pagaría**: no hay forma de impedir que lo disfrute quien no paga. Y si todos razonan así, el bien no se produce aunque todos lo quieran.
 
-A eso se le llama **problema del polizón** (*free-rider*). Y la conclusión es importante: el mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad ni de ideología.
+A eso se le llama **problema del polizón** (*free-rider*). Y la conclusión es importante. El mercado no provee bien los bienes públicos **no porque no quiera, sino porque no puede cobrarlos**. Es un problema técnico, no una cuestión de voluntad ni de ideología.
 :::
 
 ### 4. Otras dos justificaciones de la intervención
 
-**Los bienes preferentes.** Hay bienes que el mercado **sí** podría vender, y que sin embargo se proveen públicamente porque se considera que el acceso no debe depender de la renta. El **Servicio Andaluz de Salud** es el ejemplo más cercano: la sanidad podría venderse, pero se decide que no dependa de la capacidad de pago.
+**Los bienes preferentes.** Hay bienes que el mercado **sí** podría vender, y que sin embargo se proveen públicamente porque se considera que el acceso no debe depender de la renta. El **Servicio Andaluz de Salud** es el ejemplo más cercano. La sanidad podría venderse, pero se decide que no dependa de la capacidad de pago.
 
-**Las externalidades.** Son costes o beneficios que recaen sobre terceros que no participaron en la transacción. La contaminación es el caso clásico: una empresa y un cliente cierran un trato voluntario y beneficioso para ambos, y el coste ambiental lo paga todo el mundo. Ahí aparece el **ODS 12**, sobre producción y consumo responsables.
+**Las externalidades.** Son costes o beneficios que recaen sobre terceros que no participaron en la transacción. La contaminación es el caso clásico. Una empresa y un cliente cierran un trato voluntario y beneficioso para ambos, y el coste ambiental lo paga todo el mundo. Ahí aparece el **ODS 12**, sobre producción y consumo responsables.
 
 ::: aviso Y la conexión con la SdA 1
-Un **recurso común** sin reglas tiende a sobreexplotarse: nadie puede ser excluido, pero el recurso se agota al usarlo. Es exactamente el caso de los **peces del arrecife** de la Isla Utopía, y el trabajo por el que Elinor Ostrom recibió el Premio en Ciencias Económicas. Sin reglas colectivas, el recurso desaparece.
+Un **recurso común** sin reglas tiende a sobreexplotarse. Nadie puede ser excluido, pero el recurso se agota al usarlo. Es exactamente el caso de los **peces del arrecife** de la Isla Utopía, y el trabajo por el que Elinor Ostrom recibió el Premio en Ciencias Económicas. Sin reglas colectivas, el recurso desaparece.
 :::
 
 ### Glosario de la sesión
@@ -155,7 +155,7 @@ preguntas:
   explicacion: '**Falso.** Porque **no puede cobrarlos**: no hay forma de excluir a quien no paga. Es un problema técnico, no de voluntad.'
 - enunciado: El agua de riego de una comunidad de regantes es un bien común.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es rival —lo que usa uno no lo usa otro— pero difícilmente excluible. Por eso tiende a la sobreexplotación sin reglas.'
+  explicacion: '**Verdadero.** Es rival, lo que usa uno no lo usa otro, pero difícilmente excluible. Por eso tiende a la sobreexplotación sin reglas.'
 - enunciado: Un bien preferente es aquel que el mercado no podría vender de ninguna manera.
   respuesta: falso
   explicacion: '**Falso.** Sí podría venderlo. Se provee públicamente porque se decide que el acceso **no debe depender de la capacidad de pago**.'

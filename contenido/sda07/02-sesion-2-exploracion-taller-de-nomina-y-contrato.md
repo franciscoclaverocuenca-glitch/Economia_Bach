@@ -8,19 +8,19 @@ titulo: 'Sesión 2 · Exploración: taller de nómina y contrato'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:07</td><td>Estimación inicial anotada: ¿cuánto cuesta a la empresa alguien que cobra 1.200 € netos?</td><td>2</td></tr><tr><td>00:07 – 00:25</td><td>Anatomía de la nómina: marcado de partidas sobre documento real anonimizado.</td><td>3–5</td></tr><tr><td>00:25 – 00:40</td><td>Comparador de contratos: cuatro modalidades, cinco columnas.</td><td>6–7</td></tr><tr><td>00:40 – 00:48</td><td>Puesta en común y contraste con la estimación inicial.</td><td>8</td></tr><tr><td>00:48 – 00:50</td><td>Anotación de cierre: diferencia entre lo estimado y lo comprobado.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:07</td><td>Estimación inicial anotada. ¿cuánto cuesta a la empresa alguien que cobra 1.200 € netos?</td><td>2</td></tr><tr><td>00:07 – 00:25</td><td>Anatomía de la nómina. Marcado de partidas sobre documento real anonimizado.</td><td>3–5</td></tr><tr><td>00:25 – 00:40</td><td>Comparador de contratos: cuatro modalidades, cinco columnas.</td><td>6–7</td></tr><tr><td>00:40 – 00:48</td><td>Puesta en común y contraste con la estimación inicial.</td><td>8</td></tr><tr><td>00:48 – 00:50</td><td>Anotación de cierre. Diferencia entre lo estimado y lo comprobado.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **Codocencia.** Dos docentes en el aula, y eso permite un registro más denso. El acuerdo previo es explícito: **el docente de Economía observa el razonamiento económico y el de FOL la corrección técnica**, cada uno sobre su propia lista. **Conviene acordar ambas listas antes de la sesión.**
 
-**1. La estimación inicial (7 min).** Antes de nada, cada estudiante anota su respuesta a una pregunta: «¿cuánto le cuesta a una empresa una persona que cobra 1.200 € netos al mes?». Se recoge y **se archiva**: se contrasta con el dato real en el cierre.
+**1. La estimación inicial (7 min).** Antes de nada, cada estudiante anota su respuesta a una pregunta. “¿cuánto le cuesta a una empresa una persona que cobra 1.200 € netos al mes?”. Se recoge y **se archiva**: se contrasta con el dato real en el cierre.
 
 Casi todo el mundo responde muy por debajo. Ese hueco es la sesión.
 
 **2. La nómina (18 min).** Sobre una **nómina real anonimizada**, cada pareja marca las partidas: salario base, complementos, cotizaciones a cargo del trabajador, retención de IRPF, líquido a percibir. Y al margen, **el cálculo del coste total para la empresa**, que incluye las cotizaciones a cargo de la empresa que no aparecen en el líquido.
 
-Ítems del registro de Economía: la pareja **distingue lo que paga la empresa de lo que ve el trabajador**; y **calcula el coste total y no solo el líquido**.
+Ítems del registro de Economía. La pareja **distingue lo que paga la empresa de lo que ve el trabajador**; y **calcula el coste total y no solo el líquido**.
 
 **3. El comparador de contratos (15 min).** Cuatro modalidades contractuales, cinco columnas: duración, causa, indemnización, protección generada y perfil típico.
 
@@ -28,7 +28,7 @@ Tercer ítem: al comparar, **relaciona la modalidad con la estacionalidad del se
 
 **4. El cierre (10 min).** Puesta en común y devolución de la estimación inicial. Cada estudiante anota **la diferencia entre lo que estimó y lo que ha comprobado, más una consecuencia que extraiga de ello**. Al ser necesariamente personal, esa anotación es resistente a la copia.
 
-**Al terminar**, cruza las dos listas de cotejo. La divergencia es informativa: quien calcula bien pero interpreta mal queda identificado con una precisión que una sola observación no permitiría.
+**Al terminar**, cruza las dos listas de cotejo. La divergencia es informativa. Quien calcula bien pero interpreta mal queda identificado con una precisión que una sola observación no permitiría.
 
 ### Preguntas guía del profesorado
 
@@ -60,7 +60,7 @@ Escribid un número antes de empezar: **¿cuánto le cuesta a una empresa una pe
 
 Guardadlo. Al final de la sesión os lo devolvemos.
 
-Hoy trabajáis sobre una nómina real y sobre cuatro tipos de contrato, con dos profesores en el aula: uno de Economía y otro de Formación y Orientación Laboral.
+Hoy trabajáis sobre una nómina real y sobre cuatro tipos de contrato, con dos profesores en el aula. Uno de Economía y otro de Formación y Orientación Laboral.
 
 ## Diapositivas de la sesión
 
@@ -105,7 +105,7 @@ Las **cotizaciones a cargo de la empresa** no aparecen en lo que el trabajador c
 
 Son dos cifras distintas y la diferencia es grande. El **líquido a percibir** es lo que llega a la cuenta. El **coste total para la empresa** incluye además las cotizaciones sociales que paga la empresa por cada persona empleada y que no figuran en lo que esa persona cobra.
 
-Casi todo el mundo, al estimar, se queda muy corto. No es ignorancia: es que esa parte no se ve.
+Casi todo el mundo, al estimar, se queda muy corto. No es ignorancia. Es que esa parte no se ve.
 
 ### 2. Las partidas de una nómina
 
@@ -115,7 +115,7 @@ Casi todo el mundo, al estimar, se queda muy corto. No es ignorancia: es que esa
 
 Porque las necesidades de las empresas no son iguales. Un puesto estable y otro que solo existe cuatro meses al año no se cubren con la misma figura.
 
-Y aquí Málaga aporta un caso propio: la **estacionalidad turística** concentra la actividad en unos meses, lo que explica el peso de determinadas modalidades en hostelería y comercio. La modalidad de contrato no es una decisión arbitraria: responde a la forma que tiene la demanda de trabajo en cada sector.
+Y aquí Málaga aporta un caso propio. La **estacionalidad turística** concentra la actividad en unos meses, lo que explica el peso de determinadas modalidades en hostelería y comercio. La modalidad de contrato no es una decisión arbitraria. Responde a la forma que tiene la demanda de trabajo en cada sector.
 
 ::: nota Y tiene consecuencias
 Cada modalidad genera una **protección** distinta: distinta indemnización, distinto acceso a la prestación por desempleo, distinta capacidad para acceder a un alquiler o a una hipoteca. Elegir sector no es solo elegir tarea.
@@ -123,7 +123,7 @@ Cada modalidad genera una **protección** distinta: distinta indemnización, dis
 
 ### 4. Sobre vuestra estimación
 
-La diferencia entre lo que escribisteis al empezar y lo que habéis comprobado no es un error que corregir: es la medida de cuánto de la economía del trabajo queda fuera de la vista.
+La diferencia entre lo que escribisteis al empezar y lo que habéis comprobado no es un error que corregir. Es la medida de cuánto de la economía del trabajo queda fuera de la vista.
 
 Esa es la razón de esta sesión, y por eso la anotación de cierre pide una **consecuencia** y no solo un número.
 

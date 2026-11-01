@@ -8,15 +8,15 @@ titulo: Sesión 9 · La economía de planificación central
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:25</td><td>Estudio dirigido del caso histórico real de economía de planificación central.</td><td>2–4</td></tr><tr><td>00:25 – 00:45</td><td>Tarea individual: misma ficha de 4 apartados que en la sesión 8.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre con cuestionario formativo de repaso.</td><td>5</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:25</td><td>Estudio dirigido del caso histórico real de economía de planificación central.</td><td>2–4</td></tr><tr><td>00:25 – 00:45</td><td>Tarea individual. Misma ficha de 4 apartados que en la sesión 8.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre con cuestionario formativo de repaso.</td><td>5</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El estudio dirigido (25 min).** Caso histórico real de economía de planificación central: el Estado es propietario de los medios de producción y decide de forma centralizada qué, cómo y para quién producir.
+**1. El estudio dirigido (25 min).** Caso histórico real de economía de planificación central. El Estado es propietario de los medios de producción y decide de forma centralizada qué, cómo y para quién producir.
 
-Presenta de manera **documentada y equilibrada** tanto los objetivos que perseguía —pleno empleo, reducción de desigualdades, planificación a largo plazo— como sus limitaciones históricamente constatadas —escasez crónica de bienes de consumo, falta de incentivos, dificultad para fijar precios sin mercado—.
+Presenta de manera **documentada y equilibrada** tanto los objetivos que perseguía (pleno empleo, reducción de desigualdades, planificación a largo plazo) como sus limitaciones históricamente constatadas (escasez crónica de bienes de consumo, falta de incentivos, dificultad para fijar precios sin mercado).
 
-**la nota metodológica es explícita y conviene respetarla:** el objetivo no es que el alumnado memorice un juicio cerrado sobre qué sistema es «mejor», sino que compare datos y argumentos de ambos con el mismo rigor. La valoración crítica personal se reserva para la síntesis de la sesión 10 y para la Cumbre. Dilo en voz alta al empezar.
+**la nota metodológica es explícita y conviene respetarla.** el objetivo no es que el alumnado memorice un juicio cerrado sobre qué sistema es “mejor”, sino que compare datos y argumentos de ambos con el mismo rigor. La valoración crítica personal se reserva para la síntesis de la sesión 10 y para la Cumbre. Dilo en voz alta al empezar.
 
 **2. La ficha (20 min).** Exactamente la misma de ayer: tres preguntas básicas, dato ilustrativo, ventaja documentada y crítica documentada.
 
@@ -34,7 +34,7 @@ Presenta de manera **documentada y equilibrada** tanto los objetivos que persegu
 - **La misma ficha de análisis de cuatro apartados** de ayer, para poder comparar en la sesión 10.
 - **Plantilla Cornell.**
 - **Cuestionario formativo** de repaso, breve.
-- Enuncia la nota metodológica al empezar: no se busca un juicio cerrado, sino comparación con el mismo rigor.
+- Enuncia la nota metodológica al empezar. No se busca un juicio cerrado, sino comparación con el mismo rigor.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -107,7 +107,7 @@ Ese es el problema técnico central del sistema, y explica buena parte de sus li
 
 ### 2. Los objetivos que perseguía
 
-<table><thead><tr><th width="32%">Objetivo</th><th width="68%">Su lógica</th></tr></thead><tbody><tr><td><b>Pleno empleo</b></td><td>Si el Estado decide la producción, puede garantizar un puesto de trabajo a cada persona en lugar de dejarlo al mercado.</td></tr><tr><td><b>Reducción de desigualdades</b></td><td>El reparto no depende de la capacidad de pago sino de un criterio de necesidad fijado por el plan.</td></tr><tr><td><b>Planificación a largo plazo</b></td><td>Permite priorizar inversiones estratégicas —infraestructuras, industria pesada, educación— sin depender de la rentabilidad inmediata.</td></tr></tbody></table>
+<table><thead><tr><th width="32%">Objetivo</th><th width="68%">Su lógica</th></tr></thead><tbody><tr><td><b>Pleno empleo</b></td><td>Si el Estado decide la producción, puede garantizar un puesto de trabajo a cada persona en lugar de dejarlo al mercado.</td></tr><tr><td><b>Reducción de desigualdades</b></td><td>El reparto no depende de la capacidad de pago sino de un criterio de necesidad fijado por el plan.</td></tr><tr><td><b>Planificación a largo plazo</b></td><td>Permite priorizar inversiones estratégicas (infraestructuras, industria pesada, educación) sin depender de la rentabilidad inmediata.</td></tr></tbody></table>
 
 ### 3. Las limitaciones históricamente constatadas
 

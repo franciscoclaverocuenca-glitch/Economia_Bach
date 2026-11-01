@@ -8,13 +8,13 @@ titulo: 'Sesión 10 · Globalización y revolución digital: los nuevos retos pa
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Activación: ¿dónde pagan sus impuestos las empresas de las aplicaciones que usamos cada día?</td><td>—</td></tr><tr><td>00:10 – 00:25</td><td>Explicación con Cornell: globalización, desigualdad y competencia fiscal entre países (E1); revolución digital, economía colaborativa y circular, y su efecto sobre el empleo y la renta (E2).</td><td>—</td></tr><tr><td>00:25 – 00:45</td><td>Estudio de casos en grupos base: paraísos fiscales y tipo mínimo global; tasa digital; plataformas y cotizaciones; automatización y empleo.</td><td>—</td></tr><tr><td>00:45 – 00:55</td><td>Puesta en común: qué cambia en la recaudación, quién gana y quién pierde, y qué medida fiscal se propondría.</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Activación. ¿dónde pagan sus impuestos las empresas de las aplicaciones que usamos cada día?</td><td>–</td></tr><tr><td>00:10 – 00:25</td><td>Explicación con Cornell: globalización, desigualdad y competencia fiscal entre países (E1); revolución digital, economía colaborativa y circular, y su efecto sobre el empleo y la renta (E2).</td><td>–</td></tr><tr><td>00:25 – 00:45</td><td>Estudio de casos en grupos base. Paraísos fiscales y tipo mínimo global; tasa digital; plataformas y cotizaciones; automatización y empleo.</td><td>–</td></tr><tr><td>00:45 – 00:55</td><td>Puesta en común: qué cambia en la recaudación, quién gana y quién pierde, y qué medida fiscal se propondría.</td><td>–</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Activación (10 min).** Pide que saquen el móvil y elijan tres aplicaciones que usen a diario. ¿Dónde tiene su sede la empresa? ¿Dónde crees que paga sus impuestos? La pregunta abre las dos mitades de la sesión: la movilidad del capital y la economía digital.
+**1. Activación (10 min).** Pide que saquen el móvil y elijan tres aplicaciones que usen a diario. ¿Dónde tiene su sede la empresa? ¿Dónde crees que paga sus impuestos? La pregunta abre las dos mitades de la sesión. La movilidad del capital y la economía digital.
 
-**2. Cornell (15 min).** **Globalización (E1):** ha contribuido a reducir la pobreza extrema en el mundo, pero también ha aumentado la movilidad del capital; las grandes multinacionales pueden trasladar beneficios a territorios de baja tributación. Paraísos fiscales y el acuerdo internacional sobre un **tipo mínimo global del 15 %** en el impuesto de sociedades. **Revolución digital (E2):** la economía digital, colaborativa y circular transforma el empleo y la distribución de la renta; aparecen nuevas formas de trabajo en plataformas, se automatizan tareas y cambia la base sobre la que se recaudan impuestos y cotizaciones.
+**2. Cornell (15 min).** **Globalización (E1).** ha contribuido a reducir la pobreza extrema en el mundo, pero también ha aumentado la movilidad del capital; las grandes multinacionales pueden trasladar beneficios a territorios de baja tributación. Paraísos fiscales y el acuerdo internacional sobre un **tipo mínimo global del 15 %** en el impuesto de sociedades. **Revolución digital (E2).** la economía digital, colaborativa y circular transforma el empleo y la distribución de la renta; aparecen nuevas formas de trabajo en plataformas, se automatizan tareas y cambia la base sobre la que se recaudan impuestos y cotizaciones.
 
 **3. Estudio de casos (20 min).** Cada grupo base analiza un caso con datos oficiales (OCDE, AIReF, Agencia Tributaria) y responde a tres preguntas: qué cambia en la recaudación, quién gana y quién pierde, y qué medida fiscal propondría.
 
@@ -60,7 +60,7 @@ Para frenar esa carrera a la baja, más de un centenar de países acordaron en l
 
 ### Revolución digital y nueva economía
 
-La economía **digital, colaborativa y circular** cambia cómo se trabaja y cómo se reparte la renta: aparece el trabajo en **plataformas**, se **automatizan** tareas y parte de la actividad se vuelve difícil de localizar. Todo eso cambia la base sobre la que se recaudan **impuestos y cotizaciones**.
+La economía **digital, colaborativa y circular** cambia cómo se trabaja y cómo se reparte la renta. Aparece el trabajo en **plataformas**, se **automatizan** tareas y parte de la actividad se vuelve difícil de localizar. Todo eso cambia la base sobre la que se recaudan **impuestos y cotizaciones**.
 
 ## Estudio de casos
 
@@ -71,12 +71,12 @@ Tu grupo recibe uno de estos cuatro casos. Respondéis a las tres preguntas y lo
 ```actividad
 id: sda12-s10-caso
 tipo: respuesta-abierta
-pregunta: Vuestro caso en tres respuestas — ¿qué cambia en la recaudación?, ¿quién gana y quién pierde?, ¿qué medida fiscal proponéis?
+pregunta: Vuestro caso en tres respuestas, ¿qué cambia en la recaudación?, ¿quién gana y quién pierde?, ¿qué medida fiscal proponéis?
 modelo: "Caso 3. Si los repartidores figuran como autónomos, la plataforma no paga cotizaciones por ellos y la Seguridad Social ingresa menos. Gana la plataforma, que reduce costes; pierden los repartidores, con menos protección, y el sistema público. Proponemos reconocerlos como asalariados cuando la plataforma organiza su trabajo, como hace la llamada ley rider."
 ```
 
 ::: aviso Esto va directo a la Comisión
-Lo que concluyáis hoy alimenta los **retos 1 (globalización y competencia fiscal) y 4 (digitalización)** del «Pacto Fiscal 2050». Guardad la ficha.
+Lo que concluyáis hoy alimenta los **retos 1 (globalización y competencia fiscal) y 4 (digitalización)** del “Pacto Fiscal 2050”. Guardad la ficha.
 :::
 
 ## Comprueba lo que sabes

@@ -12,13 +12,13 @@ titulo: Sesión 2 · La voz de la cooperativa
 
 ### Guion paso a paso
 
-**1. Presentación (5 min).** Sitúa la charla en el hilo de la unidad: ayer descubristeis que hay al menos tres formas de decidir un reparto. Hoy viene alguien que vive dentro de una **cuarta forma real**, que no es ni empresa capitalista al uso ni propiedad estatal.
+**1. Presentación (5 min).** Sitúa la charla en el hilo de la unidad. Ayer descubristeis que hay al menos tres formas de decidir un reparto. Hoy viene alguien que vive dentro de una **cuarta forma real**, que no es ni empresa capitalista al uso ni propiedad estatal.
 
 **2. La charla (40 min).** El valor de esta sesión está en su **momento**: llega **antes** de formalizar los tres sistemas económicos. Así, cuando en la sesión 6 aparezcan las tres fichas del puzzle, el alumnado ya tendrá una referencia concreta contra la que contrastarlas, y en la sesión 10 podrá reconocer el cooperativismo como forma intermedia real.
 
 Garantiza el **guion mínimo de preguntas**: quién decide qué se produce y cuánto, cómo se reparten los beneficios entre los socios, si vale lo mismo el voto de quien más aporta que el de quien menos, y en qué se parece y se diferencia esto de una empresa privada tradicional o de una decisión municipal.
 
-**Consigna importante para el alumnado**: que tomen notas sobre **cómo se toman las decisiones** —quién decide y con qué reglas— más que sobre los datos de producción.
+**Consigna importante para el alumnado**: que tomen notas sobre **cómo se toman las decisiones**, quién decide y con qué reglas, más que sobre los datos de producción.
 
 **3. Cierre (5 min).** Cuestionario formativo de 4-5 preguntas que recoja los rasgos del modelo cooperativo señalados por la persona invitada, para compararlo con el mercado (S8) y la planificación central (S9) y retomarlo a fondo en la S10.
 
@@ -64,7 +64,7 @@ sda2-s02-04.webp | Cierre
 
 ## El guion mínimo de preguntas
 
-<table><thead><tr><th width="44%">Pregunta obligatoria</th><th width="56%">Por qué esta</th></tr></thead><tbody><tr><td><b>«¿Quién decide qué se produce y cuánto en la cooperativa?»</b></td><td>Es la pregunta de la unidad —<i>¿quién decide?</i>— formulada a alguien que lo vive cada campaña. Anotad la respuesta con sus palabras.</td></tr><tr><td><b>«¿Cómo se reparten los beneficios entre los socios?»</b></td><td>Es la tercera pregunta económica básica: <b>¿para quién?</b> Aplicada a un caso real y cercano.</td></tr><tr><td><b>«¿Vale lo mismo el voto de quien más aporta que el de quien menos aporta?»</b></td><td>Aquí está el corazón del modelo cooperativo, y la respuesta suele sorprender. Compárala con cómo funciona el voto en una sociedad anónima.</td></tr><tr><td><b>«¿En qué se parece y en qué se diferencia esto de una empresa privada tradicional, o de una decisión del Ayuntamiento?»</b></td><td>Es la pregunta que prepara la <b>sesión 10</b>, cuando estudiéis la economía mixta como combinación de formas.</td></tr></tbody></table>
+<table><thead><tr><th width="44%">Pregunta obligatoria</th><th width="56%">Por qué esta</th></tr></thead><tbody><tr><td><b>“¿Quién decide qué se produce y cuánto en la cooperativa?”</b></td><td>Es la pregunta de la unidad, <i>¿quién decide?</i>, formulada a alguien que lo vive cada campaña. Anotad la respuesta con sus palabras.</td></tr><tr><td><b>“¿Cómo se reparten los beneficios entre los socios?”</b></td><td>Es la tercera pregunta económica básica: <b>¿para quién?</b> Aplicada a un caso real y cercano.</td></tr><tr><td><b>“¿Vale lo mismo el voto de quien más aporta que el de quien menos aporta?”</b></td><td>Aquí está el corazón del modelo cooperativo, y la respuesta suele sorprender. Compárala con cómo funciona el voto en una sociedad anónima.</td></tr><tr><td><b>“¿En qué se parece y en qué se diferencia esto de una empresa privada tradicional, o de una decisión del Ayuntamiento?”</b></td><td>Es la pregunta que prepara la <b>sesión 10</b>, cuando estudiéis la economía mixta como combinación de formas.</td></tr></tbody></table>
 
 ::: aviso Qué anotar exactamente
 Prestad más atención a **cómo se toman las decisiones** que a los datos de producción. Quién decide, con qué reglas, cuántos votos tiene cada socio, cómo se reparte lo que se gana. Eso es lo que os va a servir durante toda la unidad.

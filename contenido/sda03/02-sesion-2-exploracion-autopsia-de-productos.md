@@ -8,21 +8,21 @@ titulo: 'Sesión 2 · Exploración: autopsia de productos'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Entrega de las fichas domiciliarias y organización del volcado.</td><td>2</td></tr><tr><td>00:05 – 00:18</td><td>Volcado de datos a la hoja de cálculo compartida.</td><td>3–4</td></tr><tr><td>00:18 – 00:32</td><td>Análisis agregado: qué dice el recuento de toda la clase.</td><td>5–6</td></tr><tr><td>00:32 – 00:44</td><td>Lectura en gran grupo y aparición de la cadena de valor.</td><td>7</td></tr><tr><td>00:44 – 00:50</td><td>Conclusión individual y pregunta pendiente, con el recuento proyectado.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Entrega de las fichas domiciliarias y organización del volcado.</td><td>2</td></tr><tr><td>00:05 – 00:18</td><td>Volcado de datos a la hoja de cálculo compartida.</td><td>3–4</td></tr><tr><td>00:18 – 00:32</td><td>Análisis agregado. Qué dice el recuento de toda la clase.</td><td>5–6</td></tr><tr><td>00:32 – 00:44</td><td>Lectura en gran grupo y aparición de la cadena de valor.</td><td>7</td></tr><tr><td>00:44 – 00:50</td><td>Conclusión individual y pregunta pendiente, con el recuento proyectado.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**Antes de la sesión.** Se encarga la **recogida domiciliaria**: cada estudiante elige **cinco productos** de su casa y anota cinco campos de cada uno —categoría, marca, empresa matriz, país de fabricación y país de la sede—. Los tres últimos exigen buscar, y ahí está el trabajo.
+**Antes de la sesión.** Se encarga la **recogida domiciliaria**: cada estudiante elige **cinco productos** de su casa y anota cinco campos de cada uno (categoría, marca, empresa matriz, país de fabricación y país de la sede). Los tres últimos exigen buscar, y ahí está el trabajo.
 
 **1. El volcado (13 min).** Los grupos base vuelcan sus datos a una **hoja de cálculo compartida** proyectada. Es una de las dos fases observables.
 
-Aquí aparece el primer ítem de la lista de cotejo, y es el más discriminante: **el grupo depura los datos antes de darlos por buenos** —unifica los nombres de los países, corrige categorías mal puestas—. Obsérvalo **hacia el minuto 12**, cuando ya hay datos suficientes para que las inconsistencias salten a la vista.
+Aquí aparece el primer ítem de la lista de cotejo, y es el más discriminante: **el grupo depura los datos antes de darlos por buenos** (unifica los nombres de los países, corrige categorías mal puestas). Obsérvalo **hacia el minuto 12**, cuando ya hay datos suficientes para que las inconsistencias salten a la vista.
 
 Segundo ítem: reparte el volcado en lugar de delegarlo en quien maneja mejor la hoja.
 
 **2. El análisis agregado (14 min).** Con todos los datos dentro, el recuento por país. Tercer ítem de la lista: **al leer el recuento, distingue el país de la marca del país de fabricación**. Esa distinción es el hallazgo de la sesión y conviene no adelantarla: deja que salga de los datos.
 
-**3. La lectura (12 min).** Preguntas: «¿cuántos países distintos han hecho falta para llenar vuestras casas?», «¿coincide el país de la marca con el de fabricación?», «¿hay algún país que aparezca mucho como fabricante y poco como sede?».
+**3. La lectura (12 min).** Preguntas: “¿cuántos países distintos han hecho falta para llenar vuestras casas?”, “¿coincide el país de la marca con el de fabricación?”, “¿hay algún país que aparezca mucho como fabricante y poco como sede?”.
 
 De ahí sale, sin nombrarla todavía, la **cadena de valor global** que se formaliza en la sesión 7.
 
@@ -48,7 +48,7 @@ El **historial de versiones** de la hoja compartida documenta quién introdujo q
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los productos analizados son los de la propia casa del alumnado, lo que convierte un contenido abstracto sobre comercio internacional en un inventario personal.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El recuento agregado hace visible un patrón que ningún caso individual muestra: la cadena de valor global emerge de los datos antes de nombrarse.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los productos analizados son los de la propia casa del alumnado, lo que convierte un contenido abstracto sobre comercio internacional en un inventario personal.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El recuento agregado hace visible un patrón que ningún caso individual muestra. La cadena de valor global emerge de los datos antes de nombrarse.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -88,7 +88,7 @@ La categoría y la marca están en el producto. La **empresa matriz**, el **paí
 <table><thead><tr><th width="6%"></th><th width="94%">Antes de dar un dato por bueno</th></tr></thead><tbody><tr><td>1</td><td>¿Está el mismo país escrito de varias maneras? Unificadlo.</td></tr><tr><td>2</td><td>¿Hay categorías mal puestas? Corregidlas.</td></tr><tr><td>3</td><td>¿Falta algún campo? Complétalo o márcalo como desconocido, pero no lo inventes.</td></tr></tbody></table>
 
 ::: nota Depurar es parte de la tarea
-Un recuento sobre datos sucios no dice nada. Y el historial de versiones de la hoja registra quién introdujo qué y quién corrigió qué: el trabajo de depuración se ve y cuenta.
+Un recuento sobre datos sucios no dice nada. Y el historial de versiones de la hoja registra quién introdujo qué y quién corrigió qué. El trabajo de depuración se ve y cuenta.
 :::
 
 ### El análisis agregado

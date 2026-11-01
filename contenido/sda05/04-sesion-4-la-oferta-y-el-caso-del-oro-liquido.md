@@ -8,17 +8,17 @@ titulo: Sesión 4 · La oferta y el caso del oro líquido
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Explicación magistral (Cornell): la ley de la oferta, su curva y los factores que la desplazan.</td><td>2–4</td></tr><tr><td>00:15 – 00:25</td><td>Recuperación de las hipótesis de la S1 y contraste con los datos oficiales.</td><td>5–6</td></tr><tr><td>00:25 – 00:45</td><td>Actividad individual: la secuencia del oro líquido en dos gráficos + 5 líneas de explicación.</td><td>7</td></tr><tr><td>00:45 – 00:55</td><td>Puesta en común, veredicto sobre las hipótesis iniciales y cierre del Cornell.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Explicación magistral (Cornell). La ley de la oferta, su curva y los factores que la desplazan.</td><td>2–4</td></tr><tr><td>00:15 – 00:25</td><td>Recuperación de las hipótesis de la S1 y contraste con los datos oficiales.</td><td>5–6</td></tr><tr><td>00:25 – 00:45</td><td>Actividad individual. La secuencia del oro líquido en dos gráficos + 5 líneas de explicación.</td><td>7</td></tr><tr><td>00:45 – 00:55</td><td>Puesta en común, veredicto sobre las hipótesis iniciales y cierre del Cornell.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. La ley de la oferta (15 min).** La oferta como cantidad que las empresas están dispuestas a producir y vender a cada precio, con relación **directa** precio-cantidad. Y la razón, que enlaza con la SdA 4: a mayor precio, más productores cubren sus costes y más unidades resulta rentable producir.
 
-Después los cuatro factores que desplazan la curva: precio de los factores de producción, tecnología, precios de otros bienes relacionados y expectativas. Y **retoma literalmente la frase de Mercamálaga** —«si hay poco género, el precio se dispara solo»— como formulación de oficio de lo que se acaba de modelizar. Ese reconocimiento vale más que media explicación.
+Después los cuatro factores que desplazan la curva: precio de los factores de producción, tecnología, precios de otros bienes relacionados y expectativas. Y **retoma literalmente la frase de Mercamálaga** (“si hay poco género, el precio se dispara solo”) como formulación de oficio de lo que se acaba de modelizar. Ese reconocimiento vale más que media explicación.
 
-**2. La resolución del enigma (10 min).** Recupera las hipótesis que la clase dejó anotadas en la sesión 1 y confróntalas con los datos: la evolución real de la producción española de aceite —dos campañas consecutivas de cosecha mínima por la sequía— y la serie de precios en origen de **POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería. Narra la secuencia completa con las cifras a la vista.
+**2. La resolución del enigma (10 min).** Recupera las hipótesis que la clase dejó anotadas en la sesión 1 y confróntalas con los datos: la evolución real de la producción española de aceite, dos campañas consecutivas de cosecha mínima por la sequía, y la serie de precios en origen de **POOLred** (Fundación del Olivar, Jaén) y del **Observatorio de Precios y Mercados** de la Consejería. Narra la secuencia completa con las cifras a la vista.
 
-**3. La actividad (20 min).** Dos gráficos —subida y bajada— con equilibrio inicial, desplazamiento y nuevo equilibrio, más una explicación de cinco líneas **dirigida a alguien de la familia que cree que la subida fue un capricho de los supermercados**. Esa consigna concreta cambia por completo el registro y la calidad de lo que escriben. La plantilla de gráficos guiada está disponible como refuerzo.
+**3. La actividad (20 min).** Dos gráficos, subida y bajada, con equilibrio inicial, desplazamiento y nuevo equilibrio, más una explicación de cinco líneas **dirigida a alguien de la familia que cree que la subida fue un capricho de los supermercados**. Esa consigna concreta cambia por completo el registro y la calidad de lo que escriben. La plantilla de gráficos guiada está disponible como refuerzo.
 
 **4. El veredicto (10 min).** La puesta en común dicta veredicto sobre las hipótesis de la S1: cuáles resistieron el contraste con los datos y cuáles no. **No lo dictes tú**: que lo deduzcan de las cifras proyectadas.
 
@@ -39,7 +39,7 @@ Después los cuatro factores que desplazan la curva: precio de los factores de p
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de gráficos guiada está disponible como medida de refuerzo, lo que permite que quien tiene dificultad con la representación se concentre en el razonamiento económico sin quedar bloqueado en el trazado.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La secuencia del caso se narra con las cifras a la vista y se representa después gráficamente, de modo que la misma historia esté disponible en formato verbal, numérico y gráfico.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La consigna de explicar el caso «a alguien de tu familia que cree que la subida fue un capricho» convierte la tarea en una comunicación con destinatario real, lo que aumenta la implicación y obliga a traducir el modelo a lenguaje propio.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de gráficos guiada está disponible como medida de refuerzo, lo que permite que quien tiene dificultad con la representación se concentre en el razonamiento económico sin quedar bloqueado en el trazado.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La secuencia del caso se narra con las cifras a la vista y se representa después gráficamente, de modo que la misma historia esté disponible en formato verbal, numérico y gráfico.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La consigna de explicar el caso “a alguien de tu familia que cree que la subida fue un capricho” convierte la tarea en una comunicación con destinatario real, lo que aumenta la implicación y obliga a traducir el modelo a lenguaje propio.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -81,12 +81,12 @@ Cuanto mayor es el precio de un bien, **mayor** es la cantidad que las empresas 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué ocurrió</th></tr></thead><tbody><tr><td>1</td><td><b>Sequía</b>: dos campañas consecutivas de cosecha mínima en el olivar español.</td></tr><tr><td>2</td><td><b>Desplome de la cosecha</b>: hay mucho menos aceite disponible a cada precio.</td></tr><tr><td>3</td><td><b>Desplazamiento de la curva de oferta hacia la izquierda.</b></td></tr><tr><td>4</td><td><b>Precio récord</b>, agravado porque la demanda de aceite es <b>poco sensible</b> al precio: la gente lo sigue comprando.</td></tr><tr><td>5</td><td><b>Recuperación</b> de la cosecha → desplazamiento de vuelta → <b>caída</b> del precio.</td></tr></tbody></table>
 
 ::: aviso Y ahora juzgad vuestras hipótesis
-¿Aparece el Gobierno en algún punto de la secuencia? Si lo decidieron los supermercados, ¿por qué lo bajaron después sin que nadie les obligara? La avaricia, si existe, es constante: ¿explica una subida **seguida de una bajada**? **El veredicto lo dictan los datos, no el profesorado.**
+¿Aparece el Gobierno en algún punto de la secuencia? Si lo decidieron los supermercados, ¿por qué lo bajaron después sin que nadie les obligara? La avaricia, si existe, es constante. ¿explica una subida **seguida de una bajada**? **El veredicto lo dictan los datos, no el profesorado.**
 :::
 
 ### Vuestra tarea
 
-1. Representad la historia completa en **dos gráficos** de oferta y demanda: el episodio de la subida y el de la bajada.
+1. Representad la historia completa en **dos gráficos** de oferta y demanda. El episodio de la subida y el de la bajada.
 2. Señalad en cada uno el **equilibrio inicial**, el **desplazamiento** y el **nuevo equilibrio**.
 3. Y redactad debajo una explicación de **cinco líneas** dirigida a alguien de tu familia que cree que la subida fue un capricho de los supermercados.
 
@@ -96,14 +96,14 @@ Cuanto mayor es el precio de un bien, **mayor** es la cantidad que las empresas 
 
 La **oferta** es la cantidad de un bien que las empresas están dispuestas a producir y vender a cada precio. Y la ley de la oferta establece una relación **directa**: cuanto mayor es el precio, mayor es la cantidad ofrecida. Su curva tiene pendiente **positiva**.
 
-La razón la conocéis de la SdA 4, cuando estudiasteis producción, costes y beneficio: a mayor precio, **más productores cubren sus costes** y a más unidades les resulta rentable producir. Un olivar con costes altos que no compensaba a 4 € el litro sí compensa a 9 €.
+La razón la conocéis de la SdA 4, cuando estudiasteis producción, costes y beneficio. A mayor precio, **más productores cubren sus costes** y a más unidades les resulta rentable producir. Un olivar con costes altos que no compensaba a 4 € el litro sí compensa a 9 €.
 
 ### 2. Los factores que desplazan la oferta
 
-<table><thead><tr><th width="30%">Factor</th><th width="70%">Cómo funciona</th></tr></thead><tbody><tr><td><b>El precio de los factores de producción</b></td><td>Si sube el coste de la energía, de los fertilizantes o de la mano de obra, producir sale más caro y se ofrece menos a cada precio: la curva se desplaza a la izquierda.</td></tr><tr><td><b>La tecnología</b></td><td>Una mejora técnica permite producir más con los mismos recursos: la curva se desplaza a la derecha.</td></tr><tr><td><b>Los precios de otros bienes relacionados</b></td><td>Si otro cultivo alternativo se paga mucho mejor, parte de los recursos se desvían hacia él y se ofrece menos del primero.</td></tr><tr><td><b>Las expectativas</b></td><td>Si se espera que el precio suba pronto, puede retenerse producto hoy para venderlo después.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Factor</th><th width="70%">Cómo funciona</th></tr></thead><tbody><tr><td><b>El precio de los factores de producción</b></td><td>Si sube el coste de la energía, de los fertilizantes o de la mano de obra, producir sale más caro y se ofrece menos a cada precio. La curva se desplaza a la izquierda.</td></tr><tr><td><b>La tecnología</b></td><td>Una mejora técnica permite producir más con los mismos recursos. La curva se desplaza a la derecha.</td></tr><tr><td><b>Los precios de otros bienes relacionados</b></td><td>Si otro cultivo alternativo se paga mucho mejor, parte de los recursos se desvían hacia él y se ofrece menos del primero.</td></tr><tr><td><b>Las expectativas</b></td><td>Si se espera que el precio suba pronto, puede retenerse producto hoy para venderlo después.</td></tr></tbody></table>
 
 ::: nota Lo que os dijeron en Mercamálaga
-«**Si hay poco género, el precio se dispara solo**». Esa frase, dicha con palabras de oficio, es exactamente lo que acabáis de modelizar: un desplazamiento de la curva de oferta hacia la izquierda. La teoría no ha inventado nada: le ha puesto nombre a algo que quien trabaja en el mercado sabe desde siempre.
+“**Si hay poco género, el precio se dispara solo**”. Esa frase, dicha con palabras de oficio, es exactamente lo que acabáis de modelizar. Un desplazamiento de la curva de oferta hacia la izquierda. La teoría no ha inventado nada. Le ha puesto nombre a algo que quien trabaja en el mercado sabe desde siempre.
 :::
 
 ### 3. El caso del oro líquido: la secuencia completa
@@ -126,4 +126,4 @@ Los precios son **señales**, no caprichos. Leerlas con datos oficiales en lugar
 
 ## Cierre
 
-Cierra tu Cornell con el veredicto: **¿cuál de las hipótesis de la sesión 1 ha resistido el contraste con los datos, y por qué?** Y guarda tus dos gráficos: son evidencia de portafolio y el modelo exacto que te va a pedir el bloque 2 de la prueba escrita, con otro producto.
+Cierra tu Cornell con el veredicto: **¿cuál de las hipótesis de la sesión 1 ha resistido el contraste con los datos, y por qué?** Y guarda tus dos gráficos. Son evidencia de portafolio y el modelo exacto que te va a pedir el bloque 2 de la prueba escrita, con otro producto.

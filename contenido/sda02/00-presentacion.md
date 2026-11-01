@@ -11,7 +11,7 @@ Cada sesión de la SdA 2 es una página de este material. Dentro de cada página
 <table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
 
 ::: aviso Antes de impartir: lo que hay que preparar
-Cuatro materiales con gestión previa: las **12 fichas y los puntos de puja desiguales** de la sesión 1; la **charla con la cooperativa agroalimentaria andaluza** de la sesión 2; los **10 titulares reales** del Detective Económico y los **8 titulares micro/macro** de la sesión 4; y las **tres fichas de experto** del puzzle de la sesión 6.
+Cuatro materiales con gestión previa. Las **12 fichas y los puntos de puja desiguales** de la sesión 1; la **charla con la cooperativa agroalimentaria andaluza** de la sesión 2; los **10 titulares reales** del Detective Económico y los **8 titulares micro/macro** de la sesión 4; y las **tres fichas de experto** del puzzle de la sesión 6.
 
 Actualiza también el dato del **peso del gasto público sobre el PIB en España** que abre la sesión 10, y coordina con Matemáticas la semana en que se imparte la sesión 5.
 :::
@@ -29,7 +29,7 @@ Esta unidad va sobre eso. Sobre quién decide qué se produce, cómo se produce 
 ### Qué vas a aprender
 
 - Las tres preguntas que todo sistema económico del mundo tiene que responder.
-- Cómo piensa un economista: el método científico y la diferencia entre lo que *es* y lo que *debería ser*.
+- Cómo piensa un economista. El método científico y la diferencia entre lo que *es* y lo que *debería ser*.
 - La diferencia entre Microeconomía y Macroeconomía, y los cuatro factores de producción.
 - A construir e interpretar una Frontera de Posibilidades de Producción, y a calcular el coste de oportunidad sobre ella.
 - Los tres sistemas económicos, con casos reales y con el mismo rigor para todos.
@@ -42,7 +42,7 @@ Competencia específica **1** · Criterios de evaluación **1.3** y **1.4** · S
 
 ## El reto: la Cumbre de Sistemas Económicos
 
-En la sesión 11 el aula se convierte en una **Cumbre de Sistemas Económicos**. Cuatro delegaciones con sistemas distintos tienen que encontrar puntos de acuerdo ante un reto común: una **crisis alimentaria global** que exige decidir qué, cómo y para quién producir alimentos de emergencia.
+En la sesión 11 el aula se convierte en una **Cumbre de Sistemas Económicos**. Cuatro delegaciones con sistemas distintos tienen que encontrar puntos de acuerdo ante un reto común. Una **crisis alimentaria global** que exige decidir qué, cómo y para quién producir alimentos de emergencia.
 
 ### El producto final tiene dos piezas
 
@@ -55,21 +55,21 @@ No se trata de que una delegación gane. Se trata de que salga un acuerdo que to
 :::
 
 ::: aviso Las cuatro delegaciones
-1. **Economía de mercado** — defiende la libertad de precios y la iniciativa privada como motor de eficiencia e innovación.
-2. **Economía de planificación central** — defiende una respuesta coordinada que garantice el reparto según necesidad, no según poder adquisitivo.
-3. **Economía mixta** — defiende una combinación de mercado regulado e intervención pública, apoyándose en el caso español y el cooperativismo andaluz.
-4. **Organismo internacional de desarrollo sostenible** — no defiende sistema propio: modera preguntas sobre impacto ambiental y sostenibilidad a largo plazo (ODS 12 y 13).
+1. **Economía de mercado**, defiende la libertad de precios y la iniciativa privada como motor de eficiencia e innovación.
+2. **Economía de planificación central**, defiende una respuesta coordinada que garantice el reparto según necesidad, no según poder adquisitivo.
+3. **Economía mixta**, defiende una combinación de mercado regulado e intervención pública, apoyándose en el caso español y el cooperativismo andaluz.
+4. **Organismo internacional de desarrollo sostenible**, no defiende sistema propio. Modera preguntas sobre impacto ambiental y sostenibilidad a largo plazo (ODS 12 y 13).
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido: puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -77,9 +77,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 

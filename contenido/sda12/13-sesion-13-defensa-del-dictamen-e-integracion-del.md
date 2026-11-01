@@ -4,21 +4,21 @@ titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 
 ## Guía docente · Sesión 13 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1 + 6.2 (sumativa) + 5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo / roles de comisión</td><td><b>Carácter</b></td><td>Sumativa — producto final integrador de los cuatro criterios</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: valoración del Dictamen · D: turno de contraste · Co.Ev.: coevaluación entre comisiones</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1 + 6.2 (sumativa) + 5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo / roles de comisión</td><td><b>Carácter</b></td><td>Sumativa, producto final integrador de los cuatro criterios</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: valoración del Dictamen · D: turno de contraste · Co.Ev.: coevaluación entre comisiones</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Constitución de la Comisión y reglas de la sesión.</td><td>1–2</td></tr><tr><td>00:05 – 00:30</td><td>Defensa de cada Dictamen: exposición y turno de preguntas cruzadas.</td><td>2</td></tr><tr><td>00:30 – 00:45</td><td>Integración negociada de las propuestas en el «Pacto Fiscal 2050».</td><td>3–5</td></tr><tr><td>00:45 – 00:50</td><td>Coevaluación entre comisiones y cierre.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Constitución de la Comisión y reglas de la sesión.</td><td>1–2</td></tr><tr><td>00:05 – 00:30</td><td>Defensa de cada Dictamen: exposición y turno de preguntas cruzadas.</td><td>2</td></tr><tr><td>00:30 – 00:45</td><td>Integración negociada de las propuestas en el “Pacto Fiscal 2050”.</td><td>3–5</td></tr><tr><td>00:45 – 00:50</td><td>Coevaluación entre comisiones y cierre.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Constitución (5 min).** Abre la sesión con formalidad: es el punto culminante de la unidad y del curso, y el marco importa. Recuerda que se evalúan cuatro instrumentos a la vez y que las preguntas cruzadas puntúan tanto como la exposición.
+**1. Constitución (5 min).** Abre la sesión con formalidad. Es el punto culminante de la unidad y del curso, y el marco importa. Recuerda que se evalúan cuatro instrumentos a la vez y que las preguntas cruzadas puntúan tanto como la exposición.
 
-**2. Defensas (25 min).** Turno tasado por comisión: exposición y después preguntas cruzadas. Exige que todo el mundo tome notas: sin ellas la fase de integración es imposible. Registra simultáneamente EO, R, D y Co.Ev.
+**2. Defensas (25 min).** Turno tasado por comisión: exposición y después preguntas cruzadas. Exige que todo el mundo tome notas. Sin ellas la fase de integración es imposible. Registra simultáneamente EO, R, D y Co.Ev.
 
 **3. Integración (15 min).** Esta es la fase decisiva y la que más se suele descuidar por falta de tiempo: protégela. Los conflictos entre propuestas no se resuelven votando, se resuelven negociando y dejando constancia del acuerdo en el acta. Recupera aquí el marco de Mazzucato de la sesión 1 para cerrar el hilo de la unidad.
 
-**4. Cierre (5 min).** Coevaluación con escala de dedos aplicando los descriptores de la rúbrica, y una pregunta final: ¿qué habéis tenido que recordar de todo el curso para poder hacer esto? Es la síntesis del año.
+**4. Cierre (5 min).** Coevaluación con escala de dedos aplicando los descriptores de la rúbrica, y una pregunta final. ¿qué habéis tenido que recordar de todo el curso para poder hacer esto? Es la síntesis del año.
 
 ### Preguntas guía del profesorado
 
@@ -30,7 +30,7 @@ titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 ::: aviso Material que debes preparar tú
 - **Dictámenes entregados** por cada comisión, impresos o proyectables.
 - **Rúbrica de los criterios 5.1, 5.2, 6.1 y 6.2** visible para todo el mundo durante la sesión.
-- **Plantilla del acta del «Pacto Fiscal 2050»** para recoger el acuerdo negociado.
+- **Plantilla del acta del “Pacto Fiscal 2050”** para recoger el acuerdo negociado.
 - Proyector y disposición del aula en forma de comisión (mesa central o herradura).
 - Hoja de registro simultáneo de los cuatro instrumentos (EO, R, D, Co.Ev.).
 :::
@@ -76,6 +76,6 @@ El turno de preguntas cruzadas se evalúa. Una pregunta que localiza el punto d�
 
 ### El criterio con el que se leerá vuestra acta
 
-En la sesión 1 conocisteis a **Mariana Mazzucato** y su idea de que lo público no es solo coste, sino también inversión que orienta la economía. Ahora esa idea se vuelve operativa: la pregunta no es solo si vuestro Pacto cuadra las cuentas, sino si **orienta la economía hacia algo** —la transición ecológica, la reducción de desigualdades, la reindustrialización de Andalucía—.
+En la sesión 1 conocisteis a **Mariana Mazzucato** y su idea de que lo público no es solo coste, sino también inversión que orienta la economía. Ahora esa idea se vuelve operativa: la pregunta no es solo si vuestro Pacto cuadra las cuentas, sino si **orienta la economía hacia algo** (la transición ecológica, la reducción de desigualdades, la reindustrialización de Andalucía).
 
 Un Pacto Fiscal 2050 que solo cuadre las cuentas habrá resuelto la mitad del problema.

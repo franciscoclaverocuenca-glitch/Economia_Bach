@@ -4,25 +4,25 @@ titulo: Sesión 6 · ¿Crecer primero, repartir después? Las Cuatro Esquinas
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico) — sesión coordinada con EPCD I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Cuatro esquinas</td><td><b>Carácter</b></td><td>Formativa — evidencia de observación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro de la argumentación y del uso de evidencia · D: debate estructurado de las Cuatro Esquinas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico), sesión coordinada con EPCD I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Cuatro esquinas</td><td><b>Carácter</b></td><td>Formativa, evidencia de observación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro de la argumentación y del uso de evidencia · D: debate estructurado de las Cuatro Esquinas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Explicación con datos: distribución de la renta y el Estado del bienestar como redistribuidor (Gini antes/después).</td><td>2–3</td></tr><tr><td>00:15 – 00:20</td><td>Presentación de las cuatro esquinas y cumplimentación de la ficha de posicionamiento, incluida la fila de agentes.</td><td>4–5</td></tr><tr><td>00:20 – 00:42</td><td>Debate de las Cuatro Esquinas: rondas de defensa, réplica y cambios razonados, con cierre obligatorio por agentes.</td><td>6–7</td></tr><tr><td>00:42 – 00:50</td><td>Síntesis en gran grupo y cierre de la ficha: ¿qué te haría cambiar de esquina?</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Explicación con datos. Distribución de la renta y el Estado del bienestar como redistribuidor (Gini antes/después).</td><td>2–3</td></tr><tr><td>00:15 – 00:20</td><td>Presentación de las cuatro esquinas y cumplimentación de la ficha de posicionamiento, incluida la fila de agentes.</td><td>4–5</td></tr><tr><td>00:20 – 00:42</td><td>Debate de las Cuatro Esquinas: rondas de defensa, réplica y cambios razonados, con cierre obligatorio por agentes.</td><td>6–7</td></tr><tr><td>00:42 – 00:50</td><td>Síntesis en gran grupo y cierre de la ficha: ¿qué te haría cambiar de esquina?</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. El Estado del bienestar en un gráfico (15 min).** Un único hilo empírico: **la desigualdad de mercado no es la desigualdad final**. Compara el Gini de España antes y después de impuestos y transferencias.
 
-Y lee ese gráfico **con el tarjetero de agentes delante**: la diferencia entre el Gini antes y el Gini después no es un efecto automático, es el resultado de que un agente —el Sector Público— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
+Y lee ese gráfico **con el tarjetero de agentes delante**: la diferencia entre el Gini antes y el Gini después no es un efecto automático, es el resultado de que un agente, el Sector Público, toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
 
-Recupera aquí el dilema eficiencia-equidad de la SdA 1 —entonces abstracto, ahora con cifras— y las dos preguntas abiertas pendientes: la no-convergencia andaluza de la S4 y la media engañosa de la Estación D.
+Recupera aquí el dilema eficiencia-equidad de la SdA 1 (entonces abstracto, ahora con cifras) y las dos preguntas abiertas pendientes. La no-convergencia andaluza de la S4 y la media engañosa de la Estación D.
 
-**2. La ficha de posicionamiento (5 min).** Cuatro campos: tesis, un dato de la unidad, un concepto correctamente usado y —campo añadido en la revisión— la identificación del agente que soporta el coste y del que recibe el beneficio.
+**2. La ficha de posicionamiento (5 min).** Cuatro campos: tesis, un dato de la unidad, un concepto correctamente usado y, campo añadido en la revisión, la identificación del agente que soporta el coste y del que recibe el beneficio.
 
-**3. El debate (22 min).** Portavoz rotatorio por esquina, defensa y réplica a la esquina que elija. **Requisito formal innegociable**: ninguna defensa se da por completa hasta que responde en una frase a «¿quién paga y quién gana con vuestra opción?». Anúncialo antes de empezar y exígelo sistemáticamente: obliga a que cada postura se haga cargo de sus costes.
+**3. El debate (22 min).** Portavoz rotatorio por esquina, defensa y réplica a la esquina que elija. **Requisito formal innegociable**: ninguna defensa se da por completa hasta que responde en una frase a “¿quién paga y quién gana con vuestra opción?”. Anúncialo antes de empezar y exígelo sistemáticamente. Obliga a que cada postura se haga cargo de sus costes.
 
-Y una regla que conviene subrayar: el **cambio razonado de esquina puntúa como virtud**, no como derrota. Es la conducta intelectual que la unidad quiere entrenar. Solo se permite si se explica en voz alta qué argumento ha movido a la persona.
+Y una regla que conviene subrayar. El **cambio razonado de esquina puntúa como virtud**, no como derrota. Es la conducta intelectual que la unidad quiere entrenar. Solo se permite si se explica en voz alta qué argumento ha movido a la persona.
 
 ### Preguntas guía del profesorado
 
@@ -49,7 +49,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 :::
 
 ::: aviso Nota de coordinación docente
-Esta sesión incluye una fila a la ficha de posicionamiento —«¿qué agente soporta el coste de tu modelo y cuál recibe el beneficio?»— y convierte esa identificación en **requisito formal de cierre** de cada intervención. Es un andamiaje formativo hacia el criterio 3.2, que se evalúa en la SdA 9.
+Esta sesión incluye una fila a la ficha de posicionamiento (“¿qué agente soporta el coste de tu modelo y cuál recibe el beneficio?”) y convierte esa identificación en **requisito formal de cierre** de cada intervención. Es un andamiaje formativo hacia el criterio 3.2, que se evalúa en la SdA 9.
 :::
 
 ::: aviso Nota de coordinación docente
@@ -62,7 +62,7 @@ Hoy no hay explicación larga ni cálculo. Hay un dato y un debate.
 
 El dato: la **desigualdad de mercado no es la desigualdad final**. El índice de Gini de España baja sustancialmente después de impuestos y transferencias.
 
-Y el debate: ¿crecer primero y repartir después, o repartir ya? Vais a elegir esquina físicamente. Y podréis cambiar de esquina, si sabéis explicar qué argumento os ha movido.
+Y el debate. ¿crecer primero y repartir después, o repartir ya? Vais a elegir esquina físicamente. Y podréis cambiar de esquina, si sabéis explicar qué argumento os ha movido.
 
 ## Diapositivas de la sesión
 
@@ -84,7 +84,7 @@ sda8-s06-08.webp | Cierre
 Comparad el índice de Gini de España **antes** y **después** de impuestos y transferencias. Pensiones, sanidad, educación y prestaciones reducen sustancialmente la desigualdad medida.
 
 ::: nota Y leed ese gráfico con el tarjetero de agentes delante
-La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente —el **Sector Público**— toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que pedirá el criterio 3.2 en la SdA 9.
+La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente, el **Sector Público**, toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que pedirá el criterio 3.2 en la SdA 9.
 :::
 
 ### Las cuatro esquinas
@@ -96,15 +96,15 @@ La diferencia entre el Gini antes y el Gini después **no es un efecto automáti
 <table><thead><tr><th width="18%">Campo</th><th width="82%">Qué escribes</th></tr></thead><tbody><tr><td><b>1 · Tesis</b></td><td>Qué esquina eliges y por qué.</td></tr><tr><td><b>2 · Un dato</b></td><td>Un dato concreto de la unidad que la apoye, con su fuente.</td></tr><tr><td><b>3 · Un concepto</b></td><td>Un concepto económico de la unidad, correctamente usado.</td></tr><tr><td><b>4 · Los agentes</b></td><td>Qué agente <b>soporta el coste</b> de esa opción y cuál <b>recibe el beneficio</b>.</td></tr></tbody></table>
 
 ::: aviso Requisito formal de cierre: innegociable
-Ninguna intervención de defensa se da por completa hasta que su portavoz responde en una frase a: **«¿quién paga y quién gana con vuestra opción?»**
+Ninguna intervención de defensa se da por completa hasta que su portavoz responde en una frase a: **“¿quién paga y quién gana con vuestra opción?”**
 
-Obliga a que cada postura se haga cargo de sus costes en lugar de enunciar solo sus beneficios. Y la réplica puede consistir precisamente en discutir ese reparto: «no es cierto que solo lo paguen las empresas, también…».
+Obliga a que cada postura se haga cargo de sus costes en lugar de enunciar solo sus beneficios. Y la réplica puede consistir precisamente en discutir ese reparto. “no es cierto que solo lo paguen las empresas, también…”.
 :::
 
 ### Y la regla que más importa
 
 ::: nota Cambiar de opinión puntúa como virtud
-Cualquier persona puede **cambiar de esquina** en los cambios reglados. Pero solo si explica en voz alta **qué argumento le ha movido**. El cambio razonado no es una derrota: es la conducta intelectual que esta unidad quiere entrenar.
+Cualquier persona puede **cambiar de esquina** en los cambios reglados. Pero solo si explica en voz alta **qué argumento le ha movido**. El cambio razonado no es una derrota. Es la conducta intelectual que esta unidad quiere entrenar.
 :::
 
 ## Apuntes de la sesión
@@ -118,12 +118,12 @@ El mercado reparte la renta según lo que cada persona aporta y posee. Ese repar
 En España, la diferencia entre el Gini de mercado y el Gini final es sustancial: pensiones, sanidad, educación y prestaciones reducen apreciablemente la desigualdad medida.
 
 ::: nota Y esa diferencia tiene un responsable
-No es un efecto automático de la economía. Es el resultado de que un agente concreto —el **Sector Público**— toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
+No es un efecto automático de la economía. Es el resultado de que un agente concreto, el **Sector Público**, toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
 :::
 
 ### 2. Eficiencia y equidad: el dilema con cifras
 
-En la SdA 1 planteamos el dilema entre eficiencia y equidad como una cuestión abstracta: ¿conviene una economía que produce más, o una que reparte mejor?
+En la SdA 1 planteamos el dilema entre eficiencia y equidad como una cuestión abstracta. ¿conviene una economía que produce más, o una que reparte mejor?
 
 Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta técnica única, porque es una decisión **política**: depende de qué se prioriza. Lo que sí puede exigirse es que cada postura sea coherente y se haga cargo de sus costes.
 
@@ -133,21 +133,21 @@ Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta
 
 ### 4. Lo que se evalúa hoy
 
-::: aviso Dos cosas, y ninguna es «ganar»
-**Primera:** que cada intervención cierre respondiendo a «¿quién paga y quién gana con vuestra opción?». Sin eso, la defensa está incompleta. Es el requisito formal de la sesión.
+::: aviso Dos cosas, y ninguna es “ganar”
+**Primera.** que cada intervención cierre respondiendo a “¿quién paga y quién gana con vuestra opción?”. Sin eso, la defensa está incompleta. Es el requisito formal de la sesión.
 
-**Segunda:** que el **cambio razonado de opinión** se valore como virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.
+**Segunda.** que el **cambio razonado de opinión** se valore como virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.
 :::
 
 ### 5. Esto también es Educación para la Convivencia Democrática
 
 La toma de posición razonada y dialogante sobre el papel del Estado ante la igualdad económica es el objeto literal de los criterios 2.1 y 2.2 de EPCD I, y las esquinas 3 y 4 desarrollan su criterio 3.1 sobre nuestra relación con el medio ambiente.
 
-La fila de agentes de vuestra ficha resulta especialmente útil allí: preguntarse quién soporta el coste y quién recibe el beneficio de cada modelo de reparto es el planteamiento mismo del saber EPCD.1.A.2.1 sobre la distribución justa de la riqueza.
+La fila de agentes de vuestra ficha resulta especialmente útil allí. Preguntarse quién soporta el coste y quién recibe el beneficio de cada modelo de reparto es el planteamiento mismo del saber EPCD.1.A.2.1 sobre la distribución justa de la riqueza.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Índice de Gini de mercado</b></td><td>Desigualdad de la renta antes de impuestos y transferencias.</td></tr><tr><td><b>Índice de Gini final</b></td><td>Desigualdad de la renta después de la intervención del Sector Público.</td></tr><tr><td><b>Redistribución</b></td><td>Transferencia de renta entre agentes mediante impuestos y prestaciones.</td></tr><tr><td><b>Estado del bienestar</b></td><td>Conjunto de sistemas públicos que garantizan derechos sociales y reducen la desigualdad.</td></tr><tr><td><b>Eficiencia / equidad</b></td><td>Producir más frente a repartir mejor: el dilema central de la política económica.</td></tr><tr><td><b>Convergencia regional</b></td><td>Proceso por el que una región reduce su distancia respecto de la media.</td></tr></tbody></table>
+<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Índice de Gini de mercado</b></td><td>Desigualdad de la renta antes de impuestos y transferencias.</td></tr><tr><td><b>Índice de Gini final</b></td><td>Desigualdad de la renta después de la intervención del Sector Público.</td></tr><tr><td><b>Redistribución</b></td><td>Transferencia de renta entre agentes mediante impuestos y prestaciones.</td></tr><tr><td><b>Estado del bienestar</b></td><td>Conjunto de sistemas públicos que garantizan derechos sociales y reducen la desigualdad.</td></tr><tr><td><b>Eficiencia / equidad</b></td><td>Producir más frente a repartir mejor. El dilema central de la política económica.</td></tr><tr><td><b>Convergencia regional</b></td><td>Proceso por el que una región reduce su distancia respecto de la media.</td></tr></tbody></table>
 
 ## Cierre
 

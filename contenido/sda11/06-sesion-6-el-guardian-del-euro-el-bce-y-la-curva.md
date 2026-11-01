@@ -4,17 +4,17 @@ titulo: 'Sesión 6 · El guardián del euro: el BCE y la curva de Phillips'
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Parejas</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: participación en la controversia · D: calidad argumentativa del debate «¿precios o empleo?»</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Parejas</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: participación en la controversia · D: calidad argumentativa del debate “¿precios o empleo?”</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>El BCE y el Eurosistema: quién es, qué mandato tiene y por qué es independiente.</td><td>2–4</td></tr><tr><td>00:20 – 00:35</td><td>Inflación y desempleo: la curva de Phillips y la estanflación.</td><td>5–6</td></tr><tr><td>00:35 – 00:55</td><td>Controversia estructurada «¿precios o empleo?».</td><td>7–9</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>El BCE y el Eurosistema. Quién es, qué mandato tiene y por qué es independiente.</td><td>2–4</td></tr><tr><td>00:20 – 00:35</td><td>Inflación y desempleo. La curva de Phillips y la estanflación.</td><td>5–6</td></tr><tr><td>00:35 – 00:55</td><td>Controversia estructurada “¿precios o empleo?”.</td><td>7–9</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El BCE (20 min).** Qué es, cuál es su mandato y por qué es independiente. La explicación de la independencia es la que más engancha: evitar la tentación de dar a la máquina de imprimir dinero para financiar gasto político a corto plazo. Proyecta los tipos oficiales actuales: que vean la cifra real de la que van a partir.
+**1. El BCE (20 min).** Qué es, cuál es su mandato y por qué es independiente. La explicación de la independencia es la que más engancha. Evitar la tentación de dar a la máquina de imprimir dinero para financiar gasto político a corto plazo. Proyecta los tipos oficiales actuales. Que vean la cifra real de la que van a partir.
 
-**2. La curva de Phillips (15 min).** Preséntala como una relación históricamente observada, no como una ley. Y matiza inmediatamente con la estanflación: a veces coinciden los dos males a la vez. Ese matiz es el que evita que se lo aprendan como una regla mecánica.
+**2. La curva de Phillips (15 min).** Preséntala como una relación históricamente observada, no como una ley. Y matiza inmediatamente con la estanflación. A veces coinciden los dos males a la vez. Ese matiz es el que evita que se lo aprendan como una regla mecánica.
 
 **3. La controversia (20 min).** Pareja A defiende subir tipos; pareja B, priorizar el empleo. Turno de argumentos y después **inversión de roles**: ese es el momento clave y el que no hay que saltarse por falta de tiempo. Cada grupo redacta una postura de consenso en dos líneas que diga qué debe primar *y en qué condiciones*.
 
@@ -80,17 +80,17 @@ A veces coinciden los dos males a la vez. Se llama **estanflación**: inflación
 Porque una decisión de política monetaria que no entiende el argumento contrario es una decisión mal tomada. En la rueda de prensa de la sesión 9, la prensa os preguntará justamente por el coste de vuestra decisión. Más vale haberlo pensado antes.
 :::
 
-**Guardad vuestras dos líneas de consenso:** son la base de vuestro comunicado de la sesión 8.
+**Guardad vuestras dos líneas de consenso.** son la base de vuestro comunicado de la sesión 8.
 
 ## Apuntes de la sesión
 
 ### 1. El Banco Central Europeo y el Eurosistema
 
-**Qué es.** El BCE, con sede en Fráncfort, es el banco central de los países que comparten el euro. Junto con los bancos centrales nacionales —como el Banco de España, que mantiene sucursal en Málaga, en la Alameda Principal— forma el **Eurosistema**, responsable de la política monetaria única de la zona euro.
+**Qué es.** El BCE, con sede en Fráncfort, es el banco central de los países que comparten el euro. Junto con los bancos centrales nacionales (como el Banco de España, que mantiene sucursal en Málaga, en la Alameda Principal) forma el **Eurosistema**, responsable de la política monetaria única de la zona euro.
 
 **Su mandato.** Mantener la **estabilidad de precios**, que el propio BCE define como una inflación en torno al **2 % a medio plazo**. Fíjate en el matiz: no persigue que los precios no suban nada, sino que suban de forma baja, estable y previsible.
 
-**Su independencia.** El BCE toma sus decisiones con independencia de los gobiernos. La razón es histórica: evitar la tentación de «dar a la máquina de imprimir dinero» para financiar gasto político a corto plazo, algo que una y otra vez ha desembocado en inflaciones descontroladas.
+**Su independencia.** El BCE toma sus decisiones con independencia de los gobiernos. La razón es histórica. Evitar la tentación de “dar a la máquina de imprimir dinero” para financiar gasto político a corto plazo, algo que una y otra vez ha desembocado en inflaciones descontroladas.
 
 **Quién decide.** Las decisiones de tipos las adopta su **Consejo de Gobierno**, que se reúne cada seis semanas aproximadamente. Su presidencia la ejerce **Christine Lagarde** desde noviembre de 2019, y en su Comité Ejecutivo figura **Isabel Schnabel**. Ambas son referentes de mujeres al frente de la política monetaria europea. Y es el lugar que vas a ocupar simbólicamente en el producto final.
 
@@ -111,12 +111,12 @@ La **curva de Phillips** describe una relación históricamente observada entre 
 - Si el BCE **baja** los tipos, el crédito se abarata, la economía se anima, sube el consumo y la inversión y baja el paro. Pero con más demanda, los precios tienden a subir.
 - Si el BCE **sube** los tipos, el crédito se encarece, la economía se enfría y se frena la subida de precios. Pero al enfriarse la actividad, tiende a subir el paro.
 
-De ahí el dilema: cada decisión tiene un coste en la otra variable. No hay una opción sin contrapartida, y por eso las decisiones de política monetaria son siempre discutibles.
+De ahí el dilema. Cada decisión tiene un coste en la otra variable. No hay una opción sin contrapartida, y por eso las decisiones de política monetaria son siempre discutibles.
 
 ::: aviso La excepción que lo complica todo: la estanflación
-Esa relación no siempre se cumple. La **estanflación** —inflación alta con estancamiento y paro elevado a la vez— demuestra que a veces coinciden los dos males. Ocurrió en la crisis del petróleo de los años setenta y en parte de 2022. Cuando pasa, el banco central no tiene ninguna buena opción: si sube tipos agrava el paro, y si los baja agrava la inflación.
+Esa relación no siempre se cumple. La **estanflación** (inflación alta con estancamiento y paro elevado a la vez) demuestra que a veces coinciden los dos males. Ocurrió en la crisis del petróleo de los años setenta y en parte de 2022. Cuando pasa, el banco central no tiene ninguna buena opción. Si sube tipos agrava el paro, y si los baja agrava la inflación.
 :::
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>BCE</b></td><td>Banco Central Europeo: banco central de los países del euro, con sede en Fráncfort.</td></tr><tr><td><b>Eurosistema</b></td><td>El BCE junto con los bancos centrales nacionales de los países del euro.</td></tr><tr><td><b>Estabilidad de precios</b></td><td>Mandato principal del BCE: inflación en torno al 2 % a medio plazo.</td></tr><tr><td><b>Independencia del banco central</b></td><td>Capacidad de decidir sin instrucciones de los gobiernos.</td></tr><tr><td><b>Consejo de Gobierno</b></td><td>Órgano del BCE que adopta las decisiones de tipos de interés.</td></tr><tr><td><b>Curva de Phillips</b></td><td>Relación históricamente observada entre inflación y desempleo a corto plazo.</td></tr><tr><td><b>Estanflación</b></td><td>Coincidencia de inflación alta con estancamiento económico y paro elevado.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>BCE</b></td><td>Banco Central Europeo. Banco central de los países del euro, con sede en Fráncfort.</td></tr><tr><td><b>Eurosistema</b></td><td>El BCE junto con los bancos centrales nacionales de los países del euro.</td></tr><tr><td><b>Estabilidad de precios</b></td><td>Mandato principal del BCE: inflación en torno al 2 % a medio plazo.</td></tr><tr><td><b>Independencia del banco central</b></td><td>Capacidad de decidir sin instrucciones de los gobiernos.</td></tr><tr><td><b>Consejo de Gobierno</b></td><td>Órgano del BCE que adopta las decisiones de tipos de interés.</td></tr><tr><td><b>Curva de Phillips</b></td><td>Relación históricamente observada entre inflación y desempleo a corto plazo.</td></tr><tr><td><b>Estanflación</b></td><td>Coincidencia de inflación alta con estancamiento económico y paro elevado.</td></tr></tbody></table>

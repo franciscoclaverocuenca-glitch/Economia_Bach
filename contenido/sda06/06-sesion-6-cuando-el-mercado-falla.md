@@ -4,23 +4,23 @@ titulo: Sesión 6 · Cuando el mercado falla
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico · sesión interdisciplinar con HMC</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.3 (con 2.1)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>Formativa con registro (portafolio y debate)</td></tr><tr><td><b>Instrumentos</b></td><td>D: mini-debate «¿quién paga la fiesta?» · OD: argumentación y trabajo por parejas · P: Cornell, argumentario escrito y plantilla de coste-beneficio resuelta</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico · sesión interdisciplinar con HMC</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.3 (con 2.1)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>Formativa con registro (portafolio y debate)</td></tr><tr><td><b>Instrumentos</b></td><td>D: mini-debate “¿quién paga la fiesta?” · OD: argumentación y trabajo por parejas · P: Cornell, argumentario escrito y plantilla de coste-beneficio resuelta</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:12</td><td>Explicación integrada con Cornell: externalidades, bienes públicos e información asimétrica.</td><td>2–6</td></tr><tr><td>00:12 – 00:28</td><td>Mini-debate «¿quién paga la fiesta?» sobre la vivienda turística, con interpretación previa de datos.</td><td>7</td></tr><tr><td>00:28 – 00:40</td><td>La caja de herramientas del Estado y sus costes.</td><td>8–9</td></tr><tr><td>00:40 – 00:52</td><td>Mini-práctica por parejas de análisis coste-beneficio sobre una intervención local.</td><td>10</td></tr><tr><td>00:52 – 00:55</td><td>Síntesis interdisciplinar, argumentario escrito y cierre del Cornell.</td><td>10</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:12</td><td>Explicación integrada con Cornell: externalidades, bienes públicos e información asimétrica.</td><td>2–6</td></tr><tr><td>00:12 – 00:28</td><td>Mini-debate “¿quién paga la fiesta?” sobre la vivienda turística, con interpretación previa de datos.</td><td>7</td></tr><tr><td>00:28 – 00:40</td><td>La caja de herramientas del Estado y sus costes.</td><td>8–9</td></tr><tr><td>00:40 – 00:52</td><td>Mini-práctica por parejas de análisis coste-beneficio sobre una intervención local.</td><td>10</td></tr><tr><td>00:52 – 00:55</td><td>Síntesis interdisciplinar, argumentario escrito y cierre del Cornell.</td><td>10</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. Exposición integrada (12 min).** La idea central del criterio 2.3: hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes o beneficios se derraman sobre terceros. Nadie hace nada ilegal y el resultado colectivo es malo.
 
-Con ejemplos graduados —la fábrica que contamina el río, la vacuna que protege al vecino, la vivienda turística que encarece el alquiler del barrio— define externalidades negativas y positivas, y razona por qué el mercado produce **demasiado** de las primeras y **demasiado poco** de las segundas. Después, bienes públicos y problema del polizón. Y cierra el catálogo con la información asimétrica de Akerlof, distinguiendo **selección adversa** (antes del contrato) de **riesgo moral** (después).
+Con ejemplos graduados (la fábrica que contamina el río, la vacuna que protege al vecino, la vivienda turística que encarece el alquiler del barrio) define externalidades negativas y positivas, y razona por qué el mercado produce **demasiado** de las primeras y **demasiado poco** de las segundas. Después, bienes públicos y problema del polizón. Y cierra el catálogo con la información asimétrica de Akerlof, distinguiendo **selección adversa** (antes del contrato) de **riesgo moral** (después).
 
-**2. El mini-debate (16 min).** Proyecta los datos y deja que los interpreten **individualmente antes** de debatir. Tres posturas con tarjeta y dos reglas: cada intervención usa al menos un término técnico, y nadie interviene dos veces hasta que todas las posturas hayan hablado. **No se busca un ganador**: se busca cartografiar el conflicto.
+**2. El mini-debate (16 min).** Proyecta los datos y deja que los interpreten **individualmente antes** de debatir. Tres posturas con tarjeta y dos reglas. Cada intervención usa al menos un término técnico, y nadie interviene dos veces hasta que todas las posturas hayan hablado. **No se busca un ganador**: se busca cartografiar el conflicto.
 
-**3. La caja de herramientas (12 min).** Cada intervención con sus ventajas **y sus costes**. Subraya la idea crítica de la sesión: la intervención también tiene costes y puede fallar, de modo que la pregunta pericial correcta no es «¿mercado o Estado?» sino «¿qué combinación produce el mejor resultado neto?».
+**3. La caja de herramientas (12 min).** Cada intervención con sus ventajas **y sus costes**. Subraya la idea crítica de la sesión. La intervención también tiene costes y puede fallar, de modo que la pregunta pericial correcta no es “¿mercado o Estado?” sino “¿qué combinación produce el mejor resultado neto?”.
 
-**4. El coste-beneficio (12 min).** Con plantilla guiada y datos sencillos. Insiste en los efectos **no monetizables** y en la pregunta de a quién beneficia y a quién perjudica: eficiencia y equidad son el corazón del criterio 2.3. La plantilla resuelta es exactamente el método del apartado 4 del informe pericial.
+**4. El coste-beneficio (12 min).** Con plantilla guiada y datos sencillos. Insiste en los efectos **no monetizables** y en la pregunta de a quién beneficia y a quién perjudica. Eficiencia y equidad son el corazón del criterio 2.3. La plantilla resuelta es exactamente el método del apartado 4 del informe pericial.
 
 **5. Cierre (3 min).** Conexión con Historia del Mundo Contemporáneo y argumentario escrito individual.
 
@@ -48,7 +48,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 :::
 
 ::: aviso Nota de coordinación docente
-Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente: las dos exposiciones magistrales se funden en un bloque único de 12 minutos; el mini-debate se acorta de 20 a 16 minutos reduciendo de 4 a 3 las posturas; y la mini-práctica de coste-beneficio se simplifica a una única intervención a analizar, manteniendo el mismo método y la misma plantilla.
+Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente. Las dos exposiciones magistrales se funden en un bloque único de 12 minutos; el mini-debate se acorta de 20 a 16 minutos reduciendo de 4 a 3 las posturas; y la mini-práctica de coste-beneficio se simplifica a una única intervención a analizar, manteniendo el mismo método y la misma plantilla.
 :::
 
 ## Para empezar
@@ -57,7 +57,7 @@ Hasta ahora hemos visto mercados que funcionan mal porque hay pocos vendedores o
 
 Hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes se derraman sobre terceros. Nadie hace nada ilegal. Nadie engaña a nadie. Y aun así el resultado colectivo es malo.
 
-A eso lo llamamos un **fallo de mercado**. Y el caso que lo va a ilustrar lo tenéis a diez minutos de aquí: la vivienda turística del centro de Málaga.
+A eso lo llamamos un **fallo de mercado**. Y el caso que lo va a ilustrar lo tenéis a diez minutos de aquí. La vivienda turística del centro de Málaga.
 
 ## Diapositivas de la sesión
 
@@ -78,7 +78,7 @@ sda6-s06-10.webp | El análisis coste-beneficio
 
 ### Los tres fallos de hoy
 
-<table><thead><tr><th width="24%">Fallo</th><th width="42%">En qué consiste</th><th width="34%">Ejemplo</th></tr></thead><tbody><tr><td><b>Externalidad negativa</b></td><td>El coste de una transacción recae parcialmente sobre quien no participa en ella. El mercado produce <b>demasiado</b> de esto.</td><td>La fábrica que contamina el río; la vivienda turística que encarece el alquiler del barrio</td></tr><tr><td><b>Externalidad positiva</b></td><td>El beneficio se derrama sobre terceros que no lo pagan. El mercado produce <b>demasiado poco</b> de esto.</td><td>La vacuna que protege también al vecino no vacunado</td></tr><tr><td><b>Bien público</b></td><td>No rival (que yo lo use no impide que tú lo uses) y no excluible (no se puede impedir que alguien lo disfrute).</td><td>El alumbrado, la seguridad, el pronóstico meteorológico</td></tr><tr><td><b>Información asimétrica</b></td><td>Una parte sabe algo relevante que la otra no sabe.</td><td>«Los cacharros» de Akerlof: el vendedor sabe si su coche es bueno; el comprador, no</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Fallo</th><th width="42%">En qué consiste</th><th width="34%">Ejemplo</th></tr></thead><tbody><tr><td><b>Externalidad negativa</b></td><td>El coste de una transacción recae parcialmente sobre quien no participa en ella. El mercado produce <b>demasiado</b> de esto.</td><td>La fábrica que contamina el río; la vivienda turística que encarece el alquiler del barrio</td></tr><tr><td><b>Externalidad positiva</b></td><td>El beneficio se derrama sobre terceros que no lo pagan. El mercado produce <b>demasiado poco</b> de esto.</td><td>La vacuna que protege también al vecino no vacunado</td></tr><tr><td><b>Bien público</b></td><td>No rival (que yo lo use no impide que tú lo uses) y no excluible (no se puede impedir que alguien lo disfrute).</td><td>El alumbrado, la seguridad, el pronóstico meteorológico</td></tr><tr><td><b>Información asimétrica</b></td><td>Una parte sabe algo relevante que la otra no sabe.</td><td>“Los cacharros” de Akerlof. El vendedor sabe si su coche es bueno; el comprador, no</td></tr></tbody></table>
 
 ::: aviso Selección adversa y riesgo moral no son lo mismo
 **Selección adversa**: ocurre **antes** de firmar. Una parte oculta información, la desconfianza hunde el precio, los buenos productos se retiran y el mercado puede llegar a deshacerse.
@@ -107,7 +107,7 @@ Y no buscamos un ganador: buscamos **cartografiar el conflicto**. Una actividad 
 <table><thead><tr><th width="28%">Herramienta</th><th width="40%">Cómo funciona</th><th width="32%">Su coste</th></tr></thead><tbody><tr><td><b>Impuestos correctores y subvenciones</b></td><td>Gravar la externalidad negativa, premiar la positiva</td><td>Es difícil calibrar la cuantía justa</td></tr><tr><td><b>Regulación y límites</b></td><td>Licencias, estándares, topes</td><td>Puede rigidizar el mercado o crear barreras de entrada</td></tr><tr><td><b>Provisión pública directa</b></td><td>El Estado produce el bien público</td><td>Coste presupuestario y riesgo de ineficiencia</td></tr><tr><td><b>Obligaciones de información</b></td><td>Etiquetado, garantías, hojas de reclamaciones</td><td>Carga administrativa para las empresas</td></tr><tr><td><b>Defensa de la competencia</b></td><td>Las sanciones de la CNMC y la ACREA</td><td>Lenta y difícil de probar</td></tr></tbody></table>
 
 ::: aviso La idea crítica de la sesión
-La intervención **también tiene costes y también puede fallar**. Por eso la pregunta pericial correcta no es «¿mercado o Estado?», sino **«¿qué combinación produce el mejor resultado neto?»**. Anotadlo: es el corazón del apartado 4 de vuestro informe.
+La intervención **también tiene costes y también puede fallar**. Por eso la pregunta pericial correcta no es “¿mercado o Estado?”, sino **“¿qué combinación produce el mejor resultado neto?”**. Anotadlo: es el corazón del apartado 4 de vuestro informe.
 :::
 
 ### La plantilla de coste-beneficio
@@ -128,7 +128,7 @@ Si vais con soltura, comparad además una **segunda alternativa**: implantar una
 
 Hasta ahora los problemas venían de la **estructura** del mercado: pocos vendedores, barreras de entrada. Los fallos de hoy son distintos y más incómodos, porque pueden darse en mercados con muchísimos participantes y sin ninguna práctica ilegal.
 
-La idea central es esta: hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes o beneficios **se derraman sobre terceros** que no han participado en ellas.
+La idea central es esta. Hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes o beneficios **se derraman sobre terceros** que no han participado en ellas.
 
 ### 2. Las externalidades
 
@@ -143,10 +143,10 @@ Un **bien público** tiene dos características simultáneas:
 
 De ahí el **problema del polizón** (*free rider*): si puedo disfrutarlo sin pagar, ¿por qué voy a pagar? Y si todos razonan así, el bien **no se produce**, aunque todos lo quieran. Por eso los bienes públicos los provee el Estado: alumbrado, seguridad, pronóstico meteorológico, defensa.
 
-### 4. La información asimétrica: «los cacharros» de Akerlof
+### 4. La información asimétrica: “los cacharros” de Akerlof
 
 ::: nota El mercado que se deshace solo
-George Akerlof lo explicó con el mercado de coches de segunda mano. Quien vende **sabe** si su coche es bueno o es un «cacharro». Quien compra, **no**.
+George Akerlof lo explicó con el mercado de coches de segunda mano. Quien vende **sabe** si su coche es bueno o es un “cacharro”. Quien compra, **no**.
 
 El comprador, ante la duda, ofrece un precio intermedio. Pero a ese precio, a quien tiene un coche bueno no le compensa venderlo, y lo retira del mercado. Quedan más cacharros, el precio baja aún más, se retiran más coches buenos… y el mercado puede llegar a **deshacerse**. Eso es la **selección adversa**.
 :::
@@ -160,7 +160,7 @@ El mismo mecanismo se rastrea en los **seguros** (quien sabe que tiene más ries
 <table><thead><tr><th width="26%">Herramienta</th><th width="42%">Cómo funciona</th><th width="32%">Su coste</th></tr></thead><tbody><tr><td><b>Impuestos correctores y subvenciones</b></td><td>Gravar la externalidad negativa para que quien la genera la pague; subvencionar la positiva</td><td>Calibrar la cuantía justa es muy difícil</td></tr><tr><td><b>Regulación y límites</b></td><td>Licencias, estándares mínimos, topes de precio o cantidad</td><td>Puede rigidizar el mercado o convertirse en una barrera de entrada</td></tr><tr><td><b>Provisión pública directa</b></td><td>El Estado produce el bien público que el mercado no daría</td><td>Coste presupuestario y riesgo de ineficiencia</td></tr><tr><td><b>Obligaciones de información</b></td><td>Etiquetado, garantías, hojas de reclamaciones: reducen la asimetría</td><td>Carga administrativa para las empresas</td></tr><tr><td><b>Defensa de la competencia</b></td><td>Investigación y sanción de prácticas anticompetitivas</td><td>Lenta, costosa y difícil de probar</td></tr></tbody></table>
 
 ::: aviso La pregunta pericial correcta
-La intervención **también tiene costes y también puede fallar**. Por eso un perito serio no pregunta «¿mercado o Estado?», sino **«¿qué combinación produce el mejor resultado neto?»**. Es la diferencia entre un dictamen y un eslogan.
+La intervención **también tiene costes y también puede fallar**. Por eso un perito serio no pregunta “¿mercado o Estado?”, sino **“¿qué combinación produce el mejor resultado neto?”**. Es la diferencia entre un dictamen y un eslogan.
 :::
 
 ### 6. El análisis coste-beneficio

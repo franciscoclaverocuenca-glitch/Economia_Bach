@@ -12,13 +12,13 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 
 ### Guion paso a paso
 
-**1. La explicación (10 min).** Conceptos básicos: economía, bienes, recursos, necesidades, escasez y el **problema económico básico** —la necesidad de elegir—. El alumnado toma apuntes con el método Cornell, que usará en la segunda parte de la sesión y subirá después a su portafolio digital.
+**1. La explicación (10 min).** Conceptos básicos: economía, bienes, recursos, necesidades, escasez y el **problema económico básico**, la necesidad de elegir. El alumnado toma apuntes con el método Cornell, que usará en la segunda parte de la sesión y subirá después a su portafolio digital.
 
-**2. El Rally 1-2-4 (50 min).** «El Mercado de Problemas» combina un rally de casos en parejas con la estructura cooperativa 1-2-4. Saca al alumnado del asiento, lo obliga a discutir y transfiere el contenido a situaciones reales.
+**2. El Rally 1-2-4 (50 min).** “El Mercado de Problemas” combina un rally de casos en parejas con la estructura cooperativa 1-2-4. Saca al alumnado del asiento, lo obliga a discutir y transfiere el contenido a situaciones reales.
 
-**Fase 1** (5 min): escaneo individual del reto proyectado, anotando una idea rápida en el margen del Cornell. **Fase 2** (20 min): las parejas circulan con un único «pasaporte» y resuelven al menos 4 tarjetas, **consultando de forma obligatoria sus apuntes**. **Fase 3** (15 min): las parejas se fusionan en cuartetos y contrastan; si difieren, debaten con el Cornell hasta unificar. **Fase 4** (10 min): ruleta digital, lectura de respuestas y coevaluación con escala de dedos.
+**Fase 1** (5 min): escaneo individual del reto proyectado, anotando una idea rápida en el margen del Cornell. **Fase 2** (20 min): las parejas circulan con un único “pasaporte” y resuelven al menos 4 tarjetas, **consultando de forma obligatoria sus apuntes**. **Fase 3** (15 min): las parejas se fusionan en cuartetos y contrastan; si difieren, debaten con el Cornell hasta unificar. **Fase 4** (10 min): ruleta digital, lectura de respuestas y coevaluación con escala de dedos.
 
-**Por qué funciona**, y conviene decirlo en voz alta: valida el esfuerzo previo (sin Cornell no se puede resolver el rally), rompe la pasividad con movimiento, y genera interdependencia positiva —quien tiene más dificultades recibe andamiaje horizontal de sus compañeros—.
+**Por qué funciona**, y conviene decirlo en voz alta: valida el esfuerzo previo (sin Cornell no se puede resolver el rally), rompe la pasividad con movimiento, y genera interdependencia positiva (quien tiene más dificultades recibe andamiaje horizontal de sus compañeros).
 
 ### Preguntas guía del profesorado
 
@@ -30,15 +30,15 @@ titulo: Sesión 3 · Conceptos básicos y Rally de Transferencia
 ::: aviso Material que debes preparar tú
 - **Presentación de conceptos** básicos y **plantilla Cornell**, una por alumno/a.
 - **6-8 tarjetas de reto grandes** (cartulinas) para colgar en las paredes del aula o repartir por las mesas.
-- **Un «pasaporte» de respuestas por pareja**: un único folio compartido.
+- **Un “pasaporte” de respuestas por pareja**: un único folio compartido.
 - **Ruleta digital** para la fase 4 y rúbrica de coevaluación.
-- **El reto inicial proyectado**: «mañana el precio del alquiler de todos los pisos de la ciudad se duplica de golpe, ¿qué problema económico y de escasez se genera?».
+- **El reto inicial proyectado**: “mañana el precio del alquiler de todos los pisos de la ciudad se duplica de golpe, ¿qué problema económico y de escasez se genera?”.
 - Espacio que permita circular: el rally requiere levantarse.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros de la pareja y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura 1-2-4 escalona la exposición en tres niveles crecientes —individual, pareja, cuarteto— antes de cualquier intervención ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El rally con circulación física y un único pasaporte compartido garantiza la participación de ambos miembros de la pareja y permite acceder al contenido moviéndose, no solo escuchando.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura 1-2-4 escalona la exposición en tres niveles crecientes (individual, pareja, cuarteto) antes de cualquier intervención ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
@@ -63,7 +63,7 @@ sda1-s03-07.webp | Tarjeta 3
 sda1-s03-08.webp | Por qué funciona
 ```
 
-## Rally de Transferencia · «El Mercado de Problemas»
+## Rally de Transferencia · “El Mercado de Problemas”
 
 ### Los conceptos que necesitáis
 
@@ -75,7 +75,7 @@ sda1-s03-08.webp | Por qué funciona
 
 ### Tres de las tarjetas
 
-<table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td><b>Necesidad frente a bien.</b> «Una persona hereda de golpe un millón de euros y una furgoneta vieja sin ITV.» Usando la diferencia entre recurso, bien y necesidad: ¿cuál es el verdadero «bien» que le permite resolver su necesidad de vivienda, y por qué el dinero por sí solo no es una vivienda?</td><td></td></tr><tr><td><b>2</b></td><td><b>Escasez relativa.</b> Poned tres ejemplos de vuestra vida diaria donde el <b>tiempo</b> o la <b>información</b> disponible —y no solo el dinero— sea el recurso escaso que os dificultaría encontrar un piso de alquiler en Málaga.</td><td></td></tr><tr><td><b>3</b></td><td><b>Bienes frente a servicios.</b> Una inmobiliaria y una constructora. Clasificad qué ofrece cada una y detallad al menos dos necesidades distintas que satisface cada una al consumidor.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td><b>Necesidad frente a bien.</b> “Una persona hereda de golpe un millón de euros y una furgoneta vieja sin ITV.” Usando la diferencia entre recurso, bien y necesidad. ¿cuál es el verdadero “bien” que le permite resolver su necesidad de vivienda, y por qué el dinero por sí solo no es una vivienda?</td><td></td></tr><tr><td><b>2</b></td><td><b>Escasez relativa.</b> Poned tres ejemplos de vuestra vida diaria donde el <b>tiempo</b> o la <b>información</b> disponible, y no solo el dinero, sea el recurso escaso que os dificultaría encontrar un piso de alquiler en Málaga.</td><td></td></tr><tr><td><b>3</b></td><td><b>Bienes frente a servicios.</b> Una inmobiliaria y una constructora. Clasificad qué ofrece cada una y detallad al menos dos necesidades distintas que satisface cada una al consumidor.</td><td></td></tr></tbody></table>
 
 ::: nota Por qué esta actividad funciona
 - **Valida el esfuerzo previo**: sin los apuntes Cornell no se puede resolver el rally. La utilidad de haberlos tomado bien es inmediata.
@@ -119,7 +119,7 @@ Hay **escasez** cuando los recursos disponibles no bastan para satisfacer todas 
 De ahí nace el **problema económico básico**: la obligación de **elegir**. Y de esa obligación nace la Economía como ciencia.
 :::
 
-Ojo con un malentendido frecuente: escasez **no** significa que algo se haya agotado. Hay viviendas en Málaga. Lo que no hay son suficientes al precio que la mayoría puede pagar. Eso es escasez.
+Ojo con un malentendido frecuente. Escasez **no** significa que algo se haya agotado. Hay viviendas en Málaga. Lo que no hay son suficientes al precio que la mayoría puede pagar. Eso es escasez.
 
 ### 3. Escasez física y escasez relativa
 

@@ -8,13 +8,13 @@ titulo: Sesión 7 · El hackeo de la mente económica
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Exposición e impacto: «El Laboratorio de Kahneman», con experimento en vivo.</td><td>2–4</td></tr><tr><td>00:20 – 00:50</td><td>Transferencia: diseñadores de «Nudges» en cuartetos.</td><td>5–6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Exposición e impacto. “El Laboratorio de Kahneman”, con experimento en vivo.</td><td>2–4</td></tr><tr><td>00:20 – 00:50</td><td>Transferencia: diseñadores de “Nudges” en cuartetos.</td><td>5–6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. El experimento en vivo (20 min).** Realiza un experimento rápido de anclaje o aversión a la pérdida **sin avisar**. Por ejemplo: a la mitad de la clase se le dice que tiene un 80 % de probabilidades de **ganar** un punto en un sorteo; a la otra mitad, un 20 % de **perderlo**. Son la misma probabilidad enunciada al revés, y las reacciones no son las mismas.
 
-A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Kahneman y los sesgos cognitivos: aversión a la pérdida, efecto anclaje, efecto manada. Aplícalos a la vivienda: por qué un propietario se resiste a bajar el precio de un piso vacío pese a llevar meses sin alquilarlo.
+A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Kahneman y los sesgos cognitivos: aversión a la pérdida, efecto anclaje, efecto manada. Aplícalos a la vivienda. Por qué un propietario se resiste a bajar el precio de un piso vacío pese a llevar meses sin alquilarlo.
 
 **Nómbralos también como lo que son desde Filosofía**: falacias y sesgos en la argumentación.
 
@@ -22,13 +22,13 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 
 ### Preguntas guía del profesorado
 
-- ¿Por qué reaccionáis distinto ante «80 % de ganar» y «20 % de perder»?
+- ¿Por qué reaccionáis distinto ante “80 % de ganar” y “20 % de perder”?
 - ¿Por qué un propietario mantiene un piso vacío meses antes que bajar el precio?
 - ¿Qué diferencia hay entre un nudge y una prohibición?
 - ¿Vuestro nudge cambia el comportamiento sin quitarle la opción a nadie?
 
 ::: aviso Material que debes preparar tú
-- **Presentación «Laboratorio de Kahneman»** con los sesgos principales.
+- **Presentación “Laboratorio de Kahneman”** con los sesgos principales.
 - **Material del experimento en vivo**: dos versiones de la misma consigna, una en clave de ganancia y otra de pérdida. **No avises de que es un experimento.**
 - **Post-its gigantes** y material de diseño: rotuladores y cartulina.
 - **Cuestionario formativo** sobre sesgos cognitivos.
@@ -36,7 +36,7 @@ A partir de esas reacciones, introduce la **racionalidad limitada** de Daniel Ka
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El experimento se realiza sobre el propio grupo y sin previo aviso: el contenido se descubre en la propia reacción, lo que genera una implicación difícil de conseguir con una explicación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La propuesta de <i>nudge</i> se presenta en formato visual sobre un post-it gigante, lo que permite comunicar una idea compleja sin depender de una exposición oral extensa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El experimento se realiza sobre el propio grupo y sin previo aviso. El contenido se descubre en la propia reacción, lo que genera una implicación difícil de conseguir con una explicación.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La propuesta de <i>nudge</i> se presenta en formato visual sobre un post-it gigante, lo que permite comunicar una idea compleja sin depender de una exposición oral extensa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -63,7 +63,7 @@ sda1-s07-06.webp | Los nudges
 
 ### Los sesgos cognitivos
 
-<table><thead><tr><th width="24%">Sesgo</th><th width="34%">En qué consiste</th><th width="42%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente</td><td>Un propietario mantiene un piso vacío meses antes que bajar el precio: bajarlo se siente como una pérdida</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona todo lo que valoramos después</td><td>El precio de salida de un piso ancla toda la negociación posterior</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a hacer lo que vemos hacer a los demás</td><td>«Todo el mundo está comprando ahora, hay que entrar ya»</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Sesgo</th><th width="34%">En qué consiste</th><th width="42%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente</td><td>Un propietario mantiene un piso vacío meses antes que bajar el precio: bajarlo se siente como una pérdida</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona todo lo que valoramos después</td><td>El precio de salida de un piso ancla toda la negociación posterior</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a hacer lo que vemos hacer a los demás</td><td>“Todo el mundo está comprando ahora, hay que entrar ya”</td></tr></tbody></table>
 
 ::: nota Racionalidad limitada
 El concepto es de **Daniel Kahneman**: no es que seamos irracionales, es que nuestra racionalidad tiene **límites**. Decidimos con atajos mentales que funcionan bien casi siempre y fallan de forma sistemática en ciertos casos. Y como fallan de forma sistemática, se pueden predecir.
@@ -93,13 +93,13 @@ Presentad vuestra propuesta en un **post-it gigante** en la pizarra.
 
 En la sesión anterior visteis que el **Homo Economicus** es un modelo, no una descripción. Hoy toca la explicación de por qué.
 
-**Daniel Kahneman** formuló el concepto de **racionalidad limitada**: no es que las personas seamos irracionales, es que nuestra racionalidad tiene límites. Decidimos con **atajos mentales** —heurísticos— que funcionan razonablemente bien casi siempre, pero que fallan de forma **sistemática** en ciertas situaciones.
+**Daniel Kahneman** formuló el concepto de **racionalidad limitada**: no es que las personas seamos irracionales, es que nuestra racionalidad tiene límites. Decidimos con **atajos mentales**, heurísticos, que funcionan razonablemente bien casi siempre, pero que fallan de forma **sistemática** en ciertas situaciones.
 
-Y ese «de forma sistemática» es lo importante: si los errores fueran aleatorios, no se podrían estudiar. Como son predecibles, sí.
+Y ese “de forma sistemática” es lo importante. Si los errores fueran aleatorios, no se podrían estudiar. Como son predecibles, sí.
 
 ### 2. Tres sesgos que conviene reconocer
 
-<table><thead><tr><th width="22%">Sesgo</th><th width="38%">En qué consiste</th><th width="40%">En el mercado de la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente. La misma cantidad pesa más como pérdida que como ganancia.</td><td>Un propietario mantiene un piso vacío durante meses antes que bajar el precio, porque bajarlo se <i>siente</i> como una pérdida aunque el piso vacío le esté costando dinero cada mes.</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona toda la valoración posterior, aunque sea arbitrario.</td><td>El precio de salida de un piso ancla toda la negociación: quien lo fija tiene ventaja.</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a imitar lo que vemos hacer a los demás, sobre todo en situaciones de incertidumbre.</td><td>«Todo el mundo está comprando ahora, hay que entrar ya antes de que suba más.»</td></tr></tbody></table>
+<table><thead><tr><th width="22%">Sesgo</th><th width="38%">En qué consiste</th><th width="40%">En el mercado de la vivienda</th></tr></thead><tbody><tr><td><b>Aversión a la pérdida</b></td><td>Nos duele más perder algo que lo que nos alegra ganar lo equivalente. La misma cantidad pesa más como pérdida que como ganancia.</td><td>Un propietario mantiene un piso vacío durante meses antes que bajar el precio, porque bajarlo se <i>siente</i> como una pérdida aunque el piso vacío le esté costando dinero cada mes.</td></tr><tr><td><b>Efecto anclaje</b></td><td>El primer número que oímos condiciona toda la valoración posterior, aunque sea arbitrario.</td><td>El precio de salida de un piso ancla toda la negociación: quien lo fija tiene ventaja.</td></tr><tr><td><b>Efecto manada</b></td><td>Tendemos a imitar lo que vemos hacer a los demás, sobre todo en situaciones de incertidumbre.</td><td>“Todo el mundo está comprando ahora, hay que entrar ya antes de que suba más.”</td></tr></tbody></table>
 
 ### 3. Los nudges
 
@@ -109,7 +109,7 @@ Un **cambio en el entorno** que altera el comportamiento de forma predecible, **
 La prueba para saber si algo es un nudge: **¿alguien pierde alguna opción?** Si la respuesta es sí, no es un nudge: es una prohibición o un impuesto.
 :::
 
-Colocar la fruta a la altura de los ojos en la cafetería no impide comprar bollería: solo hace la fruta más fácil de elegir. Poner una canasta de baloncesto sobre el cubo de reciclaje no obliga a reciclar: solo lo hace más divertido.
+Colocar la fruta a la altura de los ojos en la cafetería no impide comprar bollería. Solo hace la fruta más fácil de elegir. Poner una canasta de baloncesto sobre el cubo de reciclaje no obliga a reciclar: solo lo hace más divertido.
 
 Los nudges funcionan precisamente **porque** existen los sesgos. Aprovechan los atajos mentales en lugar de combatirlos.
 
@@ -117,7 +117,7 @@ Los nudges funcionan precisamente **porque** existen los sesgos. Aprovechan los 
 
 Si los nudges funcionan, también pueden usarse para empujar en direcciones discutibles. Diseñar la arquitectura de la decisión es una forma de poder, y conviene saber que existe **tanto para usarla como para reconocer cuándo la están usando con vosotros**.
 
-Esa es exactamente la competencia que se trabaja también en Filosofía: reconocer sesgos y falacias en la argumentación ajena. Y en la propia.
+Esa es exactamente la competencia que se trabaja también en Filosofía. Reconocer sesgos y falacias en la argumentación ajena. Y en la propia.
 
 ### Glosario de la sesión
 

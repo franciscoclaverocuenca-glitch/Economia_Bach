@@ -4,7 +4,7 @@ titulo: 'Sesión 9 · El Canvas completo: costes, ingresos y beneficio'
 
 ## Guía docente · Sesión 9 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de aplicación — desarrollo del producto</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4 (sumativa — producto)</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Equipos</td><td><b>Carácter</b></td><td>Sumativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación del trabajo en equipo · P: Canvas completo en el portafolio · C: comprobación de la coherencia de las cifras</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de aplicación, desarrollo del producto</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4 (sumativa, producto)</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Equipos</td><td><b>Carácter</b></td><td>Sumativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación del trabajo en equipo · P: Canvas completo en el portafolio · C: comprobación de la coherencia de las cifras</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -12,19 +12,19 @@ titulo: 'Sesión 9 · El Canvas completo: costes, ingresos y beneficio'
 
 ### Guion paso a paso
 
-**1. Costes e ingresos (20 min).** Cada equipo completa los bloques de **estructura de costes** —fijos y variables de su proyecto, aplicando exactamente lo trabajado en la S6— y **fuentes de ingresos** —cómo y cuánto cobra—.
+**1. Costes e ingresos (20 min).** Cada equipo completa los bloques de **estructura de costes** (fijos y variables de su proyecto, aplicando exactamente lo trabajado en la S6) y **fuentes de ingresos**, cómo y cuánto cobra.
 
-Circula comprobando la clasificación de costes: es donde se falla, y un error aquí arrastra todo el cálculo del beneficio.
+Circula comprobando la clasificación de costes. Es donde se falla, y un error aquí arrastra todo el cálculo del beneficio.
 
-**2. El beneficio estimado (15 min).** Para un periodo de referencia concreto —por ejemplo, el primer mes de actividad—, **explicitando los supuestos**: precio, cantidad estimada de clientes, costes principales.
+**2. El beneficio estimado (15 min).** Para un periodo de referencia concreto (por ejemplo, el primer mes de actividad), **explicitando los supuestos**: precio, cantidad estimada de clientes, costes principales.
 
-La consigna clave: **no se exige precisión contable, sino coherencia** entre las cifras y la idea de negocio. Si dicen 500 clientes el primer mes, tienen que poder explicar de dónde sale ese número. Y un beneficio negativo el primer mes no es un error: puede ser perfectamente realista, y lo que hay que hacer es explicarlo.
+La consigna clave: **no se exige precisión contable, sino coherencia** entre las cifras y la idea de negocio. Si dicen 500 clientes el primer mes, tienen que poder explicar de dónde sale ese número. Y un beneficio negativo el primer mes no es un error. Puede ser perfectamente realista, y lo que hay que hacer es explicarlo.
 
 **Ampliación disponible**: recalcular el beneficio con costes un 20 % más altos y argumentar qué decisión tomaría el equipo. Es la pregunta de sensibilidad de la S6 aplicada a su caso.
 
 **3. El guion del pitch (13 min).** Cuatro bloques obligatorios: problema, solución, cifras clave y **al menos un compromiso concreto** de responsabilidad social o medioambiental.
 
-**Enuncia la pauta de IA**: si se usa como apoyo a la investigación de mercado o a la redacción, hay que **citarlo explícitamente** y contrastar cualquier dato con una fuente real antes de incorporarlo. Dilo con naturalidad, no como amenaza: una cifra inventada se detecta en la primera pregunta del jurado.
+**Enuncia la pauta de IA**: si se usa como apoyo a la investigación de mercado o a la redacción, hay que **citarlo explícitamente** y contrastar cualquier dato con una fuente real antes de incorporarlo. Dilo con naturalidad, no como amenaza. Una cifra inventada se detecta en la primera pregunta del jurado.
 
 **4. Reparto (2 min).** Intervenciones del pitch y recordatorio de la opción de vídeo grabado para quien tenga ansiedad escénica documentada.
 
@@ -40,12 +40,12 @@ La consigna clave: **no se exige precisión contable, sino coherencia** entre la
 - **Plantilla de guion de pitch** (3-4 minutos) con los cuatro bloques obligatorios.
 - **Calculadora** u hoja de cálculo por equipo.
 - **Ficha de la actividad de ampliación**: recálculo del beneficio con costes un 20 % más altos, para los equipos que avancen con soltura.
-- **La pauta de uso de IA** por escrito y visible: si se usa, hay que citarlo y contrastar todo dato con una fuente real.
+- **La pauta de uso de IA** por escrito y visible. Si se usa, hay que citarlo y contrastar todo dato con una fuente real.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El Canvas descompone el modelo de negocio en bloques con contenido explícito y el guion del pitch fija cuatro apartados obligatorios, lo que convierte dos tareas abiertas en secuencias verificables.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La actividad de ampliación —recalcular el beneficio con costes un 20 % más altos— ofrece un reto adicional a quien avanza con soltura sin alterar la tarea común.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El Canvas descompone el modelo de negocio en bloques con contenido explícito y el guion del pitch fija cuatro apartados obligatorios, lo que convierte dos tareas abiertas en secuencias verificables.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La actividad de ampliación (recalcular el beneficio con costes un 20 % más altos) ofrece un reto adicional a quien avanza con soltura sin alterar la tarea común.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equipo en la zona más alejada y acuerda una norma de un solo turno de palabra. Al repartir las intervenciones del pitch, recuerda la **opción de vídeo grabado** prevista en las medidas DUA, evaluada con los mismos descriptores.
@@ -59,7 +59,7 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este equ
 
 Hoy vuestra idea se convierte en **números**.
 
-Es lo que distingue este proyecto de un póster bonito: hay que llegar hasta el beneficio estimado, y hay que poder **explicar de dónde sale cada cifra**.
+Es lo que distingue este proyecto de un póster bonito. Hay que llegar hasta el beneficio estimado, y hay que poder **explicar de dónde sale cada cifra**.
 
 No se os pide precisión contable. Se os pide **coherencia**: que los números cuenten la misma historia que la idea.
 
@@ -82,7 +82,7 @@ sda4-s09-07.webp | Repartid la defensa
 <table><thead><tr><th width="28%">Bloque</th><th width="72%">Qué hay que concretar</th></tr></thead><tbody><tr><td><b>ESTRUCTURA DE COSTES</b></td><td>Vuestros costes <b>fijos</b> (local, seguros, suscripciones) y <b>variables</b> (materia prima, envases, comisiones), aplicando exactamente lo de la sesión 6.</td></tr><tr><td><b>FUENTES DE INGRESOS</b></td><td>Cómo y cuánto cobráis: precio por unidad, suscripción, comisión… y a cuántos clientes esperáis llegar.</td></tr></tbody></table>
 
 ::: aviso La pregunta que resuelve la clasificación
-«**¿Lo pagaríamos igual si no vendiéramos nada?**» Si la respuesta es sí, es fijo. Un error aquí arrastra todo el cálculo del beneficio.
+“**¿Lo pagaríamos igual si no vendiéramos nada?**” Si la respuesta es sí, es fijo. Un error aquí arrastra todo el cálculo del beneficio.
 :::
 
 ### El cálculo del beneficio estimado
@@ -94,7 +94,7 @@ Beneficio = (precio × clientes estimados) − (costes fijos + costes variables)
 ::: nota La columna que más importa es la tercera
 Si decís que vais a tener 500 clientes el primer mes, tenéis que poder explicar **de dónde sale ese número**. Es la primera pregunta que os hará el jurado.
 
-Y un aviso: un **beneficio negativo** el primer mes no es un error. Puede ser perfectamente realista. Lo que hay que hacer es explicarlo, no maquillarlo.
+Y un aviso. Un **beneficio negativo** el primer mes no es un error. Puede ser perfectamente realista. Lo que hay que hacer es explicarlo, no maquillarlo.
 :::
 
 ### Ampliación (opcional)
@@ -113,7 +113,7 @@ Y **contrastar cualquier dato** que os dé con una fuente real antes de incorpor
 
 ### Antes de terminar
 
-<table><thead><tr><th width="6%"></th><th width="94%">Qué hacer</th></tr></thead><tbody><tr><td>1</td><td>Repartid las intervenciones del pitch entre los miembros del equipo.</td></tr><tr><td>2</td><td><b>Ensayadlo con cronómetro</b>: 3-4 minutos son muchos menos de lo que parecen.</td></tr><tr><td>3</td><td>Anticipad las preguntas del jurado: «¿de dónde sale esa cifra?», «¿por qué ese precio?».</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Qué hacer</th></tr></thead><tbody><tr><td>1</td><td>Repartid las intervenciones del pitch entre los miembros del equipo.</td></tr><tr><td>2</td><td><b>Ensayadlo con cronómetro</b>: 3-4 minutos son muchos menos de lo que parecen.</td></tr><tr><td>3</td><td>Anticipad las preguntas del jurado. “¿de dónde sale esa cifra?”, “¿por qué ese precio?”.</td></tr></tbody></table>
 
 ::: nota Y una opción disponible
 Quien tenga **ansiedad escénica documentada** puede presentar su pitch en formato de **vídeo grabado previamente**, evaluado con los mismos descriptores de la rúbrica.

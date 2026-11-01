@@ -8,17 +8,17 @@ titulo: Sesión 7 · La cadena que da la vuelta al mundo
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Diseca tu móvil: la cadena de valor global.</td><td>2–3</td></tr><tr><td>00:10 – 00:20</td><td>Factores explicativos de la globalización: explicación magistral.</td><td>4</td></tr><tr><td>00:20 – 00:35</td><td>Cooperativo: «Oportunidades y riesgos» en grupos base + galería.</td><td>5–6</td></tr><tr><td>00:35 – 00:45</td><td>Puesta en común final guiada.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Desigualdad y pobreza: el otro lado de la globalización.</td><td>7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Diseca tu móvil: la cadena de valor global.</td><td>2–3</td></tr><tr><td>00:10 – 00:20</td><td>Factores explicativos de la globalización: explicación magistral.</td><td>4</td></tr><tr><td>00:20 – 00:35</td><td>Cooperativo. “Oportunidades y riesgos” en grupos base + galería.</td><td>5–6</td></tr><tr><td>00:35 – 00:45</td><td>Puesta en común final guiada.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Desigualdad y pobreza: el otro lado de la globalización.</td><td>7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Diseca tu móvil (10 min).** Pide que saquen el teléfono —o proyecta uno genérico— y lanza la pregunta: «¿en qué país se diseñó, en cuáles se fabricaron sus componentes, dónde se ensambló y desde dónde ha llegado hasta Málaga?».
+**1. Diseca tu móvil (10 min).** Pide que saquen el teléfono, o proyecta uno genérico, y lanza la pregunta: “¿en qué país se diseñó, en cuáles se fabricaron sus componentes, dónde se ensambló y desde dónde ha llegado hasta Málaga?”.
 
 Presenta después, de forma simplificada, una cadena de valor global real de la industria electrónica. El objetivo es **visualizar de forma concreta** lo que hasta ahora se ha nombrado de forma abstracta.
 
 **2. Los factores (10 min).** Reducción de los costes de transporte y comunicación, liberalización del comercio y de los capitales, y papel de las multinacionales y las nuevas tecnologías. Pide que **relacionen cada factor con el caso del móvil**: sin esa vuelta, la explicación se queda en lista.
 
-**3. Oportunidades y riesgos (15 min + galería).** Cada grupo recibe un ámbito —comercio, finanzas, cultura, medioambiente— y busca **una oportunidad real y un riesgo real**, apoyándose en ejemplos ya trabajados. Puesta en común en formato galería: cada grupo pega su tarjeta, el resto circula y añade una pregunta o matiz con un post-it.
+**3. Oportunidades y riesgos (15 min + galería).** Cada grupo recibe un ámbito (comercio, finanzas, cultura, medioambiente) y busca **una oportunidad real y un riesgo real**, apoyándose en ejemplos ya trabajados. Puesta en común en formato galería. Cada grupo pega su tarjeta, el resto circula y añade una pregunta o matiz con un post-it.
 
 **4. Cierre (5 min).** La globalización ha sacado de la pobreza extrema a cientos de millones de personas, sobre todo en Asia. Y la Agenda 2030 sigue señalando la erradicación de la pobreza como su primer objetivo, porque sus beneficios **no se han repartido de forma homogénea**. Sostener las dos afirmaciones a la vez es el objetivo de la sesión.
 
@@ -39,7 +39,7 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un objeto que todo el alumnado lleva encima: la globalización deja de ser un concepto abstracto y se convierte en algo que se puede sostener en la mano.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La fase de galería permite aportar por escrito mediante post-it, una vía de participación que no exige intervención oral ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un objeto que todo el alumnado lleva encima. La globalización deja de ser un concepto abstracto y se convierte en algo que se puede sostener en la mano.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La fase de galería permite aportar por escrito mediante post-it, una vía de participación que no exige intervención oral ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 La fase de galería implica circulación y conversaciones simultáneas. Sitúa la tarjeta del grupo de este alumno/a en la zona más alejada, y en la puesta en común final exige que quien interviene lo haga de pie, de frente y de uno en uno.
@@ -49,9 +49,9 @@ La fase de galería implica circulación y conversaciones simultáneas. Sitúa l
 
 Sacad el móvil. Ese objeto que lleváis en el bolsillo es la globalización hecha cosa.
 
-«¿En qué país se diseñó? ¿En cuáles se fabricaron sus componentes? ¿Dónde se ensambló? ¿Y desde dónde ha llegado hasta Málaga?»
+“¿En qué país se diseñó? ¿En cuáles se fabricaron sus componentes? ¿Dónde se ensambló? ¿Y desde dónde ha llegado hasta Málaga?”
 
-Hoy empieza el **Bloque B** de la unidad: los grandes retos de la economía actual.
+Hoy empieza el **Bloque B** de la unidad. Los grandes retos de la economía actual.
 
 ## Diapositivas de la sesión
 
@@ -69,7 +69,7 @@ sda3-s07-07.webp | El otro lado
 
 ### La cadena de valor global
 
-<table><thead><tr><th width="24%">Fase</th><th width="32%">Dónde ocurre</th><th width="44%">Cuánto valor añadido genera</th></tr></thead><tbody><tr><td><b>Diseño</b></td><td>En un país</td><td>Mucho: ingeniería, software y marca concentran el grueso del valor</td></tr><tr><td><b>Semiconductores</b></td><td>En muy pocos países del mundo</td><td>Alto, y son un cuello de botella estratégico</td></tr><tr><td><b>Ensamblaje final</b></td><td>Donde los costes laborales son menores</td><td>Poco, aunque es la fase que más empleo emplea</td></tr><tr><td><b>Distribución</b></td><td>Mundial</td><td>El mismo modelo llega a Málaga, a Bogotá y a Yakarta</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Fase</th><th width="32%">Dónde ocurre</th><th width="44%">Cuánto valor añadido genera</th></tr></thead><tbody><tr><td><b>Diseño</b></td><td>En un país</td><td>Mucho. Ingeniería, software y marca concentran el grueso del valor</td></tr><tr><td><b>Semiconductores</b></td><td>En muy pocos países del mundo</td><td>Alto, y son un cuello de botella estratégico</td></tr><tr><td><b>Ensamblaje final</b></td><td>Donde los costes laborales son menores</td><td>Poco, aunque es la fase que más empleo emplea</td></tr><tr><td><b>Distribución</b></td><td>Mundial</td><td>El mismo modelo llega a Málaga, a Bogotá y a Yakarta</td></tr></tbody></table>
 
 ### Los factores que explican la globalización
 
@@ -103,7 +103,7 @@ Y las distintas fases **no generan el mismo valor añadido**. El diseño y la ma
 
 ### 3. Oportunidades y riesgos, ámbito por ámbito
 
-<table><thead><tr><th width="22%">Ámbito</th><th width="39%">Oportunidad</th><th width="39%">Riesgo</th></tr></thead><tbody><tr><td><b>Comercio</b></td><td>Acceso a mercados mucho mayores para cualquier empresa</td><td>Dependencia de un único cliente o mercado exterior</td></tr><tr><td><b>Finanzas</b></td><td>Financiación internacional para proyectos locales</td><td>Volatilidad: los capitales entran y salen muy rápido</td></tr><tr><td><b>Cultura</b></td><td>Acceso a producción cultural de todo el mundo</td><td>Homogeneización y pérdida de diversidad local</td></tr><tr><td><b>Medioambiente</b></td><td>Difusión global de tecnologías limpias</td><td>Huella del transporte y deslocalización de la contaminación</td></tr></tbody></table>
+<table><thead><tr><th width="22%">Ámbito</th><th width="39%">Oportunidad</th><th width="39%">Riesgo</th></tr></thead><tbody><tr><td><b>Comercio</b></td><td>Acceso a mercados mucho mayores para cualquier empresa</td><td>Dependencia de un único cliente o mercado exterior</td></tr><tr><td><b>Finanzas</b></td><td>Financiación internacional para proyectos locales</td><td>Volatilidad. Los capitales entran y salen muy rápido</td></tr><tr><td><b>Cultura</b></td><td>Acceso a producción cultural de todo el mundo</td><td>Homogeneización y pérdida de diversidad local</td></tr><tr><td><b>Medioambiente</b></td><td>Difusión global de tecnologías limpias</td><td>Huella del transporte y deslocalización de la contaminación</td></tr></tbody></table>
 
 ### 4. El otro lado: desigualdad y pobreza
 

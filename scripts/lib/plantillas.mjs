@@ -1,7 +1,7 @@
 // Plantillas HTML. Todo el HTML de las páginas sale de aquí.
 import { esc } from './markdown.mjs';
 
-const FUENTES = ['assets/fuentes/literata-latin-400-normal.woff2', 'assets/fuentes/literata-latin-700-normal.woff2'];
+const FUENTES = ['assets/fuentes/alegreya-latin-400-normal.woff2', 'assets/fuentes/alegreya-latin-700-normal.woff2', 'assets/fuentes/alegreya-sans-latin-400-normal.woff2'];
 
 /** Título breve para índices: «Sesión 3 · Algo» → { num: 'S3', texto: 'Algo' } */
 export function partesTitulo(pagina, i) {
@@ -11,6 +11,17 @@ export function partesTitulo(pagina, i) {
   if (m) return { num: `S${m[1]}`, texto: m[2] };
   return { num: '', texto: pagina.titulo };
 }
+
+// Oferta y demanda dibujadas a mano alzada en la cabecera de la portada
+const GRAFICO = `<svg class="cabecera-grafico" viewBox="0 0 520 300" aria-hidden="true" fill="none" stroke-linecap="round">
+  <path d="M40 20 V270 H500" stroke="#b9cdd8" stroke-width="1.5" opacity=".5"/>
+  <path d="M70 50 C170 110 300 190 470 250" stroke="#F0C4AC" stroke-width="3"/>
+  <path d="M70 250 C200 200 330 120 470 40" stroke="#C1694A" stroke-width="3"/>
+  <path d="M268 148 V270 M268 148 H40" stroke="#FDF3EC" stroke-width="1.2" stroke-dasharray="4 6" opacity=".6"/>
+  <circle cx="268" cy="148" r="6" fill="#FDF3EC" stroke="none"/>
+  <text x="478" y="255" fill="#F0C4AC" font-family="Alegreya, serif" font-style="italic" font-size="20" stroke="none">D</text>
+  <text x="478" y="44" fill="#C1694A" font-family="Alegreya, serif" font-style="italic" font-size="20" stroke="none">O</text>
+</svg>`;
 
 const resaltar = (s) => esc(s).replace(/\*([^*]+)\*/g, '<em>$1</em>');
 
@@ -22,7 +33,7 @@ function cabeza({ titulo, descripcion, base, extra = '' }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(titulo)}</title>
 ${descripcion ? `<meta name="description" content="${esc(descripcion)}">` : ''}
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#1B4B66">
 ${FUENTES.map((f) => `<link rel="preload" href="${base}${f}" as="font" type="font/woff2" crossorigin>`).join('\n')}
 <link rel="stylesheet" href="${base}assets/app.css">
 <link rel="icon" href="${base}assets/favicon.svg" type="image/svg+xml">
@@ -69,7 +80,7 @@ export function plantillaPagina({ curso, unidad, pagina, indice, html, modo }) {
     <ol>${lista}</ol>
     <div class="indice-estado" hidden>
       <p><span data-estado-visitadas>0</span> de ${unidad.paginas.length} páginas vistas</p>
-      ${indice.totalPuntuable ? `<p>Cuestionarios: <strong data-estado-nota>—</strong></p>` : ''}
+      ${indice.totalPuntuable ? `<p>Cuestionarios: <strong data-estado-nota>–</strong></p>` : ''}
     </div>
   </nav>
   <main id="contenido" class="contenido" tabindex="-1">
@@ -92,7 +103,7 @@ export function plantillaBloque(b, cuerpo, idx) {
   const clases = ['bloque', b.docente ? 'docente' : '', ...b.clases].filter(Boolean).join(' ');
   return (
     `<details class="${clases}" id="${id}"${b.plegado ? '' : ' open'}>` +
-    `<summary><h2>${esc(b.titulo)}${b.docente ? ' <span class="marca-docente">(docente)</span>' : ''}</h2></summary>` +
+    `<summary><h2>${esc(b.titulo)}${b.docente ? ' <span class="marca-docente">docente</span>' : ''}</h2></summary>` +
     `<div class="bloque-cuerpo">${cuerpo}</div></details>`
   );
 }
@@ -111,7 +122,7 @@ export function plantillaPortada({ curso, scormDisponible }) {
             <p class="producto">${u.producto}</p>
             <p class="ud-datos">${u.sesiones} sesiones · ${esc(u.ce)}<span class="ud-progreso" hidden></span></p>
             <div class="docente">
-              <p><b>Criterios:</b> ${esc(u.criterios)} · <b>Saberes:</b> ${esc(u.saberes)} · <b>Referente:</b> ${esc(u.referente)}</p>
+              <p><b>Criterios:</b> ${esc(u.criterios)} · <b>Saberes:</b> ${esc(u.saberes)} ${u.referente ? ` · <b>Referente:</b> ${esc(u.referente)}` : ""}</p>
               <p><b>Interdisciplinar:</b> ${esc(u.interdisciplinar)}</p>
               <p class="materiales">
                 ${[
@@ -124,17 +135,38 @@ export function plantillaPortada({ curso, scormDisponible }) {
           </div>
         </li>`;
 
+  const ordinal = { 1: '1.º', 2: '2.º', 3: '3.º' };
   const listado = tris
     .map(
       (t) => `
-    <section class="trimestre" aria-labelledby="tri${t}">
-      <h2 id="tri${t}">${esc(curso.trimestres[t].nombre)}</h2>
-      <p class="tri-sub">${esc(curso.trimestres[t].sub)} (${sesiones(t)} sesiones)</p>
+    <section class="trimestre" id="trimestre${t}" aria-labelledby="tri${t}">
+      <div class="tri-cab">
+        <span class="tri-num" aria-hidden="true">${t}</span>
+        <h2 id="tri${t}">${esc(curso.trimestres[t].nombre)}</h2>
+        <p class="tri-sub">${esc(curso.trimestres[t].sub)}. ${sesiones(t)} sesiones.</p>
+      </div>
       <ol class="unidades">${curso.unidades.filter((u) => u.trimestre === t).map(fila).join('')}
       </ol>
     </section>`,
     )
     .join('');
+
+  const resumen = tris
+    .map((t) => `<a href="#trimestre${t}"><b>${curso.unidades.filter((u) => u.trimestre === t).length} unidades</b><span>${esc(curso.trimestres[t].nombre)}</span></a>`)
+    .join('');
+
+  const voces = (curso.voces || []).filter((v) => v.nombre);
+  const bloqueVoces = voces.length
+    ? `<div class="voces" data-voces>
+        <h2>Las voces del curso</h2>
+        <p class="voces-intro">Cada unidad mira la economía de la mano de alguien que la cambió. Pulsa un nombre.</p>
+        <ul class="voces-lista">${voces.map((v, i) => `<li><button type="button" aria-pressed="${i === 0}" data-voz="${i}">${esc(v.nombre)}</button></li>`).join('')}</ul>
+        ${voces.map((v, i) => {
+          const u = curso.unidades.find((x) => x.n === v.sda);
+          return `<div class="voz" data-voz-ficha="${i}"${i === 0 ? '' : ' hidden'}><p class="voz-nombre">${esc(v.nombre)}</p><p class="voz-dato">${esc(v.dato)}</p>${u ? `<p class="voz-ud"><a href="${u.carpeta}/index.html">La encontrarás en la unidad ${u.n}, ${esc(u.titulo)}</a></p>` : ''}</div>`;
+        }).join('')}
+      </div>`
+    : '';
 
   const pie = (curso.pie || [])
     .map((c) => `<div><h2>${esc(c.titulo)}</h2>${(c.parrafos || []).map((p) => `<p>${esc(p)}</p>`).join('')}${c.lista ? `<ul>${c.lista.map((l) => `<li>${esc(l)}</li>`).join('')}</ul>` : ''}</div>`)
@@ -145,10 +177,16 @@ export function plantillaPortada({ curso, scormDisponible }) {
 <a class="saltar" href="#listado">Saltar al listado de unidades</a>
 <header class="cabecera">
   <div class="pagina-ancho">
-    <p class="cabecera-sup"><span>${esc(curso.centro)} · Curso ${esc(curso.curso_escolar)}</span>${botonDocente}</p>
-    <h1>${esc(curso.titulo)}</h1>
-    <p class="lead">${esc(curso.portada.titular.replace(/\*/g, ''))}. ${esc(curso.portada.entradilla)}</p>
+    <p class="cabecera-sup"><span>${esc(curso.centro)}</span>${botonDocente}</p>
+    <div class="cabecera-txt">
+      <p class="cabecera-etq">${esc(curso.portada.etiqueta || curso.titulo)}</p>
+      <h1>${resaltar(curso.portada.titular)}</h1>
+      <p class="lead">${esc(curso.portada.entradilla)}</p>
+      <p class="cabecera-curso">${esc(curso.titulo)} · Curso ${esc(curso.curso_escolar)}</p>
+    </div>
+    <nav class="cabecera-pie" aria-label="Trimestres">${resumen}</nav>
   </div>
+  ${GRAFICO}
 </header>
 <main id="listado" class="pagina-ancho" tabindex="-1">
   <p class="buscador">
@@ -161,7 +199,7 @@ export function plantillaPortada({ curso, scormDisponible }) {
 </main>
 <footer class="pie-portada">
   <div class="pagina-ancho">
-    <div class="cols">${pie}</div>
+    <div class="cols"><div class="pie-sobre">${pie}</div>${bloqueVoces}</div>
     <p class="legal">Materiales elaborados por ${esc(curso.autor)} · <a href="${esc(curso.licencia_url)}" target="_blank" rel="noopener">${esc(curso.licencia)}</a></p>
   </div>
 </footer>

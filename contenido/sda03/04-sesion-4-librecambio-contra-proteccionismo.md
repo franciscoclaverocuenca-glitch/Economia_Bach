@@ -12,15 +12,15 @@ titulo: Sesión 4 · Librecambio contra proteccionismo
 
 ### Guion paso a paso
 
-**1. La cuestión pendiente (10 min).** Recupera la pregunta anotada al cierre de la sesión 1 —«¿quién gana y quién pierde con esta noticia?»— y presenta el contexto real que la origina, con los datos verificados de 2025.
+**1. La cuestión pendiente (10 min).** Recupera la pregunta anotada al cierre de la sesión 1 (“¿quién gana y quién pierde con esta noticia?”) y presenta el contexto real que la origina, con los datos verificados de 2025.
 
 **2. La controversia (25 min).** Grupos base de 4 repartidos en dos parejas con posturas **asignadas**. Fase 1: debate por turnos con toma de notas. Fase 2: **inversión de roles**. Fase 3: el grupo redacta un **manifiesto conjunto** con 3 medidas realistas que una empresa exportadora andaluza podría tomar ante aranceles crecientes.
 
-Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar el mes que viene. «Que el Gobierno negocie» no es una medida que pueda tomar una empresa.
+Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar el mes que viene. “Que el Gobierno negocie” no es una medida que pueda tomar una empresa.
 
 **3. El mapa de medidas (10 min).** Explicación breve y estructurada de aranceles, contingentes, subvenciones a la exportación y barreras administrativas y sanitarias, pidiendo que identifiquen **cuál ha aparecido** en el dosier de noticias trabajado.
 
-**4. Cierre (5 min).** La pregunta de síntesis conecta con la tarjeta 3 del rally de ayer: la especialización da eficiencia, pero también expone.
+**4. Cierre (5 min).** La pregunta de síntesis conecta con la tarjeta 3 del rally de ayer. La especialización da eficiencia, pero también expone.
 
 ### Preguntas guía del profesorado
 
@@ -33,7 +33,7 @@ Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar 
 - **Dos dosieres de noticias reales** sobre los aranceles de 2025, uno por postura. Deben incluir los datos verificables: aranceles de EE. UU. del 10 % desde abril y del 15 % desde agosto de 2025; caída en torno al 17 % de las ventas andaluzas a ese país, especialmente en combustibles y aceite de oliva; y compensación parcial vía Asia, con China creciendo un 19,6 % ese año, además de Portugal y los Países Bajos.
 - **Plantilla de manifiesto de consenso**, una por grupo base.
 - **Tarjetas de rol** para las parejas A y B, y cronómetro visible.
-- **Verifica y actualiza los datos** antes de impartir: son los más volátiles de la unidad.
+- **Verifica y actualiza los datos** antes de impartir. Son los más volátiles de la unidad.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
@@ -48,9 +48,9 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 
 En la sesión 1 quedó una pregunta anotada en el margen de vuestra libreta:
 
-«¿Quién puede salir beneficiado con esta noticia y quién perjudicado?»
+“¿Quién puede salir beneficiado con esta noticia y quién perjudicado?”
 
-Hoy la respondemos. Y con datos muy recientes: los aranceles que Estados Unidos impuso a la Unión Europea en 2025 y su efecto medible sobre las exportaciones andaluzas.
+Hoy la respondemos. Y con datos muy recientes. Los aranceles que Estados Unidos impuso a la Unión Europea en 2025 y su efecto medible sobre las exportaciones andaluzas.
 
 ## Diapositivas de la sesión
 
@@ -72,14 +72,14 @@ sda3-s04-07.webp | Cierre
 
 ### Las dos posturas
 
-<table><thead><tr><th width="50%">PAREJA A · Librecambio</th><th width="50%">PAREJA B · Proteccionismo selectivo</th></tr></thead><tbody><tr><td>Los aranceles solo generan pérdidas de bienestar generalizadas: encarecen los productos para el propio consumidor que los impone y provocan represalias. La respuesta correcta es <b>negociar la apertura</b>, no cerrar más mercados.</td><td>Ciertos sectores estratégicos <b>sí necesitan protegerse temporalmente</b>: un sector destruido no se reconstruye fácilmente. Y la diversificación hacia Asia demuestra que Andalucía puede adaptarse sin depender de un único mercado.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">PAREJA A · Librecambio</th><th width="50%">PAREJA B · Proteccionismo selectivo</th></tr></thead><tbody><tr><td>Los aranceles solo generan pérdidas de bienestar generalizadas. Encarecen los productos para el propio consumidor que los impone y provocan represalias. La respuesta correcta es <b>negociar la apertura</b>, no cerrar más mercados.</td><td>Ciertos sectores estratégicos <b>sí necesitan protegerse temporalmente</b>: un sector destruido no se reconstruye fácilmente. Y la diversificación hacia Asia demuestra que Andalucía puede adaptarse sin depender de un único mercado.</td></tr></tbody></table>
 
 ### Las tres fases
 
 <table><thead><tr><th width="26%">Fase</th><th width="74%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Entre las dos parejas del grupo base. Mientras una habla, la otra <b>toma notas</b> de los argumentos.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura contraria.</td></tr><tr><td><b>3 · Manifiesto conjunto</b></td><td>El grupo de 4 redacta <b>3 medidas realistas</b> que una empresa exportadora andaluza podría tomar ante un escenario de aranceles crecientes.</td></tr></tbody></table>
 
-::: aviso «Realistas» significa esto
-Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. «Que el Gobierno negocie» no es una medida que pueda tomar una empresa. «Buscar dos distribuidores en Asia antes de fin de año» sí lo es.
+::: aviso “Realistas” significa esto
+Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. “Que el Gobierno negocie” no es una medida que pueda tomar una empresa. “Buscar dos distribuidores en Asia antes de fin de año” sí lo es.
 :::
 
 ## El mapa de las medidas proteccionistas
@@ -87,7 +87,7 @@ Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. «Qu
 <table><thead><tr><th width="30%">Medida</th><th width="46%">En qué consiste</th><th width="24%">¿Ha aparecido en vuestro dosier?</th></tr></thead><tbody><tr><td><b>ARANCEL</b></td><td>Un impuesto sobre el producto importado, que encarece su precio final</td><td></td></tr><tr><td><b>CONTINGENTE</b></td><td>Un límite máximo a la cantidad que se puede importar</td><td></td></tr><tr><td><b>SUBVENCIÓN A LA EXPORTACIÓN</b></td><td>Ayuda pública que abarata el producto nacional en el exterior</td><td></td></tr><tr><td><b>BARRERAS ADMINISTRATIVAS Y SANITARIAS</b></td><td>Requisitos técnicos, certificaciones y controles que dificultan la entrada</td><td></td></tr></tbody></table>
 
 ::: nota La pregunta de cierre
-«Si los aranceles no afectan solo al aceite de oliva sino también a los combustibles, ¿por qué unos sectores logran compensar la pérdida cambiando de mercado y otros lo tienen más difícil?»
+“Si los aranceles no afectan solo al aceite de oliva sino también a los combustibles, ¿por qué unos sectores logran compensar la pérdida cambiando de mercado y otros lo tienen más difícil?”
 
 Pensad en la tarjeta 3 del rally de ayer.
 :::
@@ -98,25 +98,25 @@ Pensad en la tarjeta 3 del rally de ayer.
 
 Son las dos grandes posiciones sobre el comercio internacional, y las dos tienen argumentos sólidos. Conviene entenderlas bien antes de tomar partido.
 
-<table><thead><tr><th width="50%">LIBRECAMBIO</th><th width="50%">PROTECCIONISMO</th></tr></thead><tbody><tr><td>Defiende eliminar las barreras al comercio.</td><td>Defiende proteger la producción nacional frente a la competencia exterior.</td></tr><tr><td>Argumento: cada país se especializa donde tiene ventaja comparativa y todos ganan.</td><td>Argumento: ciertos sectores estratégicos o nacientes necesitan protección para sobrevivir.</td></tr><tr><td>Los aranceles encarecen los productos para el propio consumidor que los impone.</td><td>Un sector destruido por la competencia exterior no se reconstruye fácilmente.</td></tr><tr><td>Y suelen provocar represalias, en una espiral de cierre mutuo.</td><td>El empleo perdido en un sector no reaparece automáticamente en otro.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">LIBRECAMBIO</th><th width="50%">PROTECCIONISMO</th></tr></thead><tbody><tr><td>Defiende eliminar las barreras al comercio.</td><td>Defiende proteger la producción nacional frente a la competencia exterior.</td></tr><tr><td>Argumento. Cada país se especializa donde tiene ventaja comparativa y todos ganan.</td><td>Argumento. Ciertos sectores estratégicos o nacientes necesitan protección para sobrevivir.</td></tr><tr><td>Los aranceles encarecen los productos para el propio consumidor que los impone.</td><td>Un sector destruido por la competencia exterior no se reconstruye fácilmente.</td></tr><tr><td>Y suelen provocar represalias, en una espiral de cierre mutuo.</td><td>El empleo perdido en un sector no reaparece automáticamente en otro.</td></tr></tbody></table>
 
 ### 2. Las medidas proteccionistas
 
-<table><thead><tr><th width="30%">Medida</th><th width="70%">En qué consiste</th></tr></thead><tbody><tr><td><b>Arancel</b></td><td>Impuesto sobre el producto importado. Encarece su precio final y lo hace menos competitivo frente al nacional.</td></tr><tr><td><b>Contingente</b></td><td>Límite máximo a la cantidad que se puede importar de un producto.</td></tr><tr><td><b>Subvención a la exportación</b></td><td>Ayuda pública que abarata el producto nacional en el exterior. Protege por la vía contraria: no encareciendo lo ajeno, sino abaratando lo propio.</td></tr><tr><td><b>Barreras administrativas y sanitarias</b></td><td>Requisitos técnicos, certificaciones y controles que dificultan la entrada. Son las menos visibles y a menudo las más eficaces.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Medida</th><th width="70%">En qué consiste</th></tr></thead><tbody><tr><td><b>Arancel</b></td><td>Impuesto sobre el producto importado. Encarece su precio final y lo hace menos competitivo frente al nacional.</td></tr><tr><td><b>Contingente</b></td><td>Límite máximo a la cantidad que se puede importar de un producto.</td></tr><tr><td><b>Subvención a la exportación</b></td><td>Ayuda pública que abarata el producto nacional en el exterior. Protege por la vía contraria. No encareciendo lo ajeno, sino abaratando lo propio.</td></tr><tr><td><b>Barreras administrativas y sanitarias</b></td><td>Requisitos técnicos, certificaciones y controles que dificultan la entrada. Son las menos visibles y a menudo las más eficaces.</td></tr></tbody></table>
 
 ### 3. El caso real de 2025
 
 ::: aviso Lo que pasó y lo que se pudo medir
 - Estados Unidos impuso aranceles del **10 %** desde abril y del **15 %** desde agosto de 2025 a las importaciones procedentes de la Unión Europea.
 - Las ventas andaluzas a ese país cayeron en torno al **17 %**, especialmente en **combustibles** y **aceite de oliva**.
-- Andalucía compensó parte de esa caída intensificando sus ventas hacia **Asia** —China creció un 19,6 % ese año— y hacia socios europeos como **Portugal** y los **Países Bajos**.
+- Andalucía compensó parte de esa caída intensificando sus ventas hacia **Asia** (China creció un 19,6 % ese año) y hacia socios europeos como **Portugal** y los **Países Bajos**.
 :::
 
 ### 4. Por qué unos sectores compensan y otros no
 
 Es la pregunta de cierre, y su respuesta enlaza con la tarjeta 3 del rally de ayer.
 
-Un producto con **muchos compradores potenciales** en el mundo puede redirigirse: si Estados Unidos encarece la entrada del aceite andaluz, se busca comprador en Asia. Un producto cuya demanda está **concentrada** en pocos mercados, o cuya logística es rígida, no tiene esa salida.
+Un producto con **muchos compradores potenciales** en el mundo puede redirigirse. Si Estados Unidos encarece la entrada del aceite andaluz, se busca comprador en Asia. Un producto cuya demanda está **concentrada** en pocos mercados, o cuya logística es rígida, no tiene esa salida.
 
 De ahí la lección práctica: **la diversificación de mercados es una forma de reducir el riesgo**, igual que la especialización es una forma de aumentar la eficiencia. Las dos cosas compiten entre sí, y ahí está la decisión empresarial.
 

@@ -8,13 +8,13 @@ titulo: Sesión 4 · Conceptualización y andamiaje individual
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Enfoque inicial: pregunta provocadora para activar conocimientos previos.</td><td>2</td></tr><tr><td>00:05 – 00:35</td><td>Explicación magistral e interacción, con presentación de Elinor Ostrom.</td><td>3–5</td></tr><tr><td>00:35 – 00:45</td><td>Cierre individual del Cornell.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Logística: explicación del agrupamiento en equipos base de 4.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Enfoque inicial: pregunta provocadora para activar conocimientos previos.</td><td>2</td></tr><tr><td>00:05 – 00:35</td><td>Explicación magistral e interacción, con presentación de Elinor Ostrom.</td><td>3–5</td></tr><tr><td>00:35 – 00:45</td><td>Cierre individual del Cornell.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Logística. Explicación del agrupamiento en equipos base de 4.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El enfoque (5 min).** Pregunta provocadora: «si os regalaran 200.000 €, ¿podríais compraros ahora mismo el piso que queráis en Málaga capital? ¿Por qué?». Sirve para activar conocimientos previos y para volver a la idea de que **el dinero no es el único recurso escaso**.
+**1. El enfoque (5 min).** Pregunta provocadora: “si os regalaran 200.000 €, ¿podríais compraros ahora mismo el piso que queráis en Málaga capital? ¿Por qué?”. Sirve para activar conocimientos previos y para volver a la idea de que **el dinero no es el único recurso escaso**.
 
-**2. La explicación (30 min).** Se sistematizan los conceptos trabajados de forma práctica en la sesión 3 —recursos, bienes, necesidades, escasez física y relativa—, añadiendo la **Pirámide de Maslow** y la clasificación de bienes según su grado de escasez (libres o económicos) y su relación de propiedad (privados, públicos o comunes).
+**2. La explicación (30 min).** Se sistematizan los conceptos trabajados de forma práctica en la sesión 3 (recursos, bienes, necesidades, escasez física y relativa), añadiendo la **Pirámide de Maslow** y la clasificación de bienes según su grado de escasez (libres o económicos) y su relación de propiedad (privados, públicos o comunes).
 
 Y esa última distinción se aplica **directamente a la vivienda**: vivienda privada de mercado, vivienda pública o protegida, y el debate abierto sobre si debería tratarse como un bien más cercano a lo común.
 
@@ -53,7 +53,7 @@ Ayer usasteis los conceptos. Hoy los sistematizamos, les ponemos nombre técnico
 
 Y empezamos con una pregunta:
 
-«Si os regalaran 200.000 euros, ¿podríais compraros ahora mismo el piso que queráis en Málaga capital?»
+“Si os regalaran 200.000 euros, ¿podríais compraros ahora mismo el piso que queráis en Málaga capital?”
 
 ## Diapositivas de la sesión
 
@@ -83,7 +83,7 @@ sda1-s04-06.webp | Cierre del Cornell
 ### Referente: Elinor Ostrom
 
 ::: nota Primera mujer en recibir el Premio en Ciencias Económicas (2009)
-Ostrom estudió durante décadas cómo comunidades reales —de pescadores, de regantes, de pastores— gestionan de forma **sostenible** recursos y bienes compartidos sin que su sobreexplotación, o su privatización total, acabe perjudicando a todos.
+Ostrom estudió durante décadas cómo comunidades reales (de pescadores, de regantes, de pastores) gestionan de forma **sostenible** recursos y bienes compartidos sin que su sobreexplotación, o su privatización total, acabe perjudicando a todos.
 
 Frente a la idea de que un recurso común está condenado a agotarse, documentó cientos de casos en los que **no ocurrió**, y describió las reglas que lo hacían posible. Es un marco que vais a necesitar en la sesión 8, cuando debatáis si la vivienda debe regirse solo por la lógica del mercado.
 :::
@@ -92,7 +92,7 @@ Frente a la idea de que un recurso común está condenado a agotarse, documentó
 
 Completad la columna izquierda de palabras clave y redactad un **resumen de tres líneas**. Y recuperad explícitamente la **pregunta abierta de la sesión 1**:
 
-«¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?»
+“¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?”
 
 ¿Podéis responderla ahora mejor que el primer día? ¿Qué conceptos de hoy os ayudan?
 
@@ -106,11 +106,11 @@ La vivienda es interesante precisamente porque **aparece en varios niveles a la 
 
 ### 2. Clasificación de bienes según su escasez
 
-<table><thead><tr><th width="24%">Tipo</th><th width="44%">Qué es</th><th width="32%">Ejemplo</th></tr></thead><tbody><tr><td><b>Bienes libres</b></td><td>Existen en cantidad suficiente para todos. No tienen precio.</td><td>El aire que respiramos</td></tr><tr><td><b>Bienes económicos</b></td><td>Son escasos: no bastan para todos los usos que se les quiere dar. Tienen precio.</td><td>La vivienda, el suelo, el tiempo de un profesional</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Tipo</th><th width="44%">Qué es</th><th width="32%">Ejemplo</th></tr></thead><tbody><tr><td><b>Bienes libres</b></td><td>Existen en cantidad suficiente para todos. No tienen precio.</td><td>El aire que respiramos</td></tr><tr><td><b>Bienes económicos</b></td><td>Son escasos. No bastan para todos los usos que se les quiere dar. Tienen precio.</td><td>La vivienda, el suelo, el tiempo de un profesional</td></tr></tbody></table>
 
 ### 3. Clasificación de bienes según la propiedad y el acceso
 
-<table><thead><tr><th width="16%">Tipo</th><th width="44%">Qué es</th><th width="40%">En el caso de la vivienda</th></tr></thead><tbody><tr><td><b>Privados</b></td><td>Excluibles: se puede impedir su uso a quien no paga. Y rivales: si lo usa uno, no lo usa otro.</td><td>La vivienda de mercado, comprada o alquilada</td></tr><tr><td><b>Públicos</b></td><td>No excluibles y no rivales: el Estado los provee porque el mercado no lo haría bien.</td><td>El alumbrado de la calle, una plaza</td></tr><tr><td><b>Comunes</b></td><td>Rivales pero difícilmente excluibles: se agotan si se sobreexplotan, y no hay forma sencilla de excluir a nadie.</td><td>Un caladero de pesca, un acuífero compartido</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tipo</th><th width="44%">Qué es</th><th width="40%">En el caso de la vivienda</th></tr></thead><tbody><tr><td><b>Privados</b></td><td>Excluibles. Se puede impedir su uso a quien no paga. Y rivales: si lo usa uno, no lo usa otro.</td><td>La vivienda de mercado, comprada o alquilada</td></tr><tr><td><b>Públicos</b></td><td>No excluibles y no rivales. El Estado los provee porque el mercado no lo haría bien.</td><td>El alumbrado de la calle, una plaza</td></tr><tr><td><b>Comunes</b></td><td>Rivales pero difícilmente excluibles. Se agotan si se sobreexplotan, y no hay forma sencilla de excluir a nadie.</td><td>Un caladero de pesca, un acuífero compartido</td></tr></tbody></table>
 
 ::: aviso ¿Y dónde encaja la vivienda?
 Ahí está el debate. Hay **vivienda privada de mercado** y hay **vivienda pública o protegida**, con precio limitado y criterios de acceso regulados.
@@ -120,7 +120,7 @@ Y hay una tercera posición que sostiene que la vivienda debería tratarse como 
 
 ### 4. Elinor Ostrom y la gestión de lo común
 
-**Elinor Ostrom** fue la **primera mujer** en recibir el Premio en Ciencias Económicas, en 2009. Y lo recibió por algo muy concreto: demostrar que la idea de que todo recurso común acaba sobreexplotándose **no es una ley inevitable**.
+**Elinor Ostrom** fue la **primera mujer** en recibir el Premio en Ciencias Económicas, en 2009. Y lo recibió por algo muy concreto. Demostrar que la idea de que todo recurso común acaba sobreexplotándose **no es una ley inevitable**.
 
 Estudió comunidades reales de pescadores, regantes y pastores en distintos continentes, y documentó cientos de casos en los que la gestión colectiva funcionó durante generaciones. Después identificó qué reglas lo hacían posible: límites claros, participación de los usuarios en las normas, supervisión mutua, sanciones graduales y mecanismos de resolución de conflictos.
 
@@ -134,6 +134,6 @@ Porque abre una **tercera vía** entre la privatización total y la propiedad es
 
 ## Cierre
 
-Cierra tu Cornell: columna izquierda de palabras clave y **resumen de tres líneas**. Y recupera la **pregunta abierta de la sesión 1** sobre las familias monoparentales y la vivienda protegida: ¿puedes responderla mejor ahora?
+Cierra tu Cornell. Columna izquierda de palabras clave y **resumen de tres líneas**. Y recupera la **pregunta abierta de la sesión 1** sobre las familias monoparentales y la vivienda protegida: ¿puedes responderla mejor ahora?
 
 Se anuncian los **grupos base heterogéneos de 4** que trabajarán juntos el resto de la unidad y representarán una de las cuatro partes del Juicio.

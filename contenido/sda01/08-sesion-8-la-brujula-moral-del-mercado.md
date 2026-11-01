@@ -8,7 +8,7 @@ titulo: Sesión 8 · La brújula moral del mercado
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Exposición activa: el dilema de la eficiencia frente a la equidad.</td><td>2–4</td></tr><tr><td>00:15 – 00:50</td><td>Transferencia: dinámica de debate «La Pecera Moral» (Fishbowl).</td><td>5–7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Exposición activa. El dilema de la eficiencia frente a la equidad.</td><td>2–4</td></tr><tr><td>00:15 – 00:50</td><td>Transferencia. Dinámica de debate “La Pecera Moral” (Fishbowl).</td><td>5–7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
@@ -18,7 +18,7 @@ Presenta las visiones de **Adam Smith** (la mano invisible), **Karl Marx** (la d
 
 **2. La Pecera Moral (35 min).** Cuatro sillas en el centro con núcleo rotativo. Se debaten casos límite donde el mercado choca con la moral.
 
-La **regla de juego filo-económica** es innegociable y hay que sostenerla: para hablar en el centro hay que usar **al menos un término económico** de la sesión —bienestar social, eficiencia, escasez de recursos— **y un enfoque ético** —utilitarismo o justicia—. Sin las dos cosas, no se interviene.
+La **regla de juego filo-económica** es innegociable y hay que sostenerla: para hablar en el centro hay que usar **al menos un término económico** de la sesión (bienestar social, eficiencia, escasez de recursos) **y un enfoque ético**, utilitarismo o justicia. Sin las dos cosas, no se interviene.
 
 Esa regla es lo que convierte el debate en un ejercicio filo-económico y no en un intercambio de opiniones.
 
@@ -55,7 +55,7 @@ Hoy chocan dos cosas que las dos suenan bien: la **eficiencia** y la **equidad**
 
 Si hay pocos pisos de alquiler en una ciudad, ¿se los queda quien más pueda pagar, o se reparten por criterio de necesidad? Las dos respuestas tienen argumentos. Y las dos tienen coste.
 
-Regla de hoy: para hablar en el centro de la pecera hay que usar **un término económico y un enfoque ético**.
+Regla de hoy. Para hablar en el centro de la pecera hay que usar **un término económico y un enfoque ético**.
 
 ## Diapositivas de la sesión
 
@@ -73,14 +73,14 @@ sda1-s08-07.webp | Ostrom, otra vez
 
 ### Eficiencia y equidad
 
-<table><thead><tr><th width="22%"></th><th width="39%">EFICIENCIA</th><th width="39%">EQUIDAD</th></tr></thead><tbody><tr><td><b>Qué busca</b></td><td>Maximizar el uso de los recursos disponibles: que nada se desperdicie</td><td>Repartir de forma justa: que el reparto responda a un criterio defendible</td></tr><tr><td><b>Aplicado a la vivienda</b></td><td>Los pisos escasos van a quien más esté dispuesto a pagar: eso revela quién más los valora</td><td>Los pisos se reparten con criterios de necesidad y sorteo entre solicitantes de vivienda protegida</td></tr><tr><td><b>Su punto débil</b></td><td>«Estar dispuesto a pagar» depende de la renta, no solo de la necesidad</td><td>Puede desincentivar la construcción o generar listas de espera muy largas</td></tr></tbody></table>
+<table><thead><tr><th width="22%"></th><th width="39%">EFICIENCIA</th><th width="39%">EQUIDAD</th></tr></thead><tbody><tr><td><b>Qué busca</b></td><td>Maximizar el uso de los recursos disponibles: que nada se desperdicie</td><td>Repartir de forma justa. Que el reparto responda a un criterio defendible</td></tr><tr><td><b>Aplicado a la vivienda</b></td><td>Los pisos escasos van a quien más esté dispuesto a pagar: eso revela quién más los valora</td><td>Los pisos se reparten con criterios de necesidad y sorteo entre solicitantes de vivienda protegida</td></tr><tr><td><b>Su punto débil</b></td><td>“Estar dispuesto a pagar” depende de la renta, no solo de la necesidad</td><td>Puede desincentivar la construcción o generar listas de espera muy largas</td></tr></tbody></table>
 
 ### Tres miradas clásicas
 
 <table><thead><tr><th width="28%">Autor o enfoque</th><th width="72%">Su aportación</th></tr></thead><tbody><tr><td><b>Adam Smith</b></td><td>La <b>mano invisible</b>: la búsqueda del interés propio puede producir, sin proponérselo, un resultado colectivo beneficioso.</td></tr><tr><td><b>Karl Marx</b></td><td>La <b>distribución funcional de la renta</b>: cómo se reparte lo producido entre quienes aportan trabajo y quienes aportan capital no es neutral.</td></tr><tr><td><b>La justicia distributiva</b></td><td>El problema de qué criterio de reparto es defendible: ¿el mérito, la necesidad, el esfuerzo, la igualdad?</td></tr></tbody></table>
 
 ::: nota Y recordad a Elinor Ostrom
-La conocisteis en la sesión 4. Documentó que entre **privatizar del todo** y **que lo gestione el Estado** hay una tercera vía: comunidades que se dan reglas propias para gestionar un recurso compartido. Esa idea es directamente aplicable al debate de hoy.
+La conocisteis en la sesión 4. Documentó que entre **privatizar del todo** y **que lo gestione el Estado** hay una tercera vía. Comunidades que se dan reglas propias para gestionar un recurso compartido. Esa idea es directamente aplicable al debate de hoy.
 :::
 
 ### Los casos límite de la pecera
@@ -104,10 +104,10 @@ El **caso 3** recupera directamente la pregunta abierta que dejasteis en la sesi
 
 Son los dos grandes criterios con los que se juzga cualquier decisión económica, y muy a menudo **tiran en direcciones distintas**.
 
-<table><thead><tr><th width="24%"></th><th width="38%">EFICIENCIA</th><th width="38%">EQUIDAD</th></tr></thead><tbody><tr><td><b>Qué busca</b></td><td>Maximizar el uso de los recursos disponibles</td><td>Que el reparto responda a un criterio de justicia defendible</td></tr><tr><td><b>Cómo asigna la vivienda escasa</b></td><td>A quien más esté dispuesto a pagar: se supone que eso revela quién más la valora</td><td>Por criterios de necesidad, sorteo o baremo entre solicitantes</td></tr><tr><td><b>Su punto ciego</b></td><td>«Estar dispuesto a pagar» depende de la renta que se tenga, no solo de cuánto se necesite</td><td>Puede desincentivar la construcción o generar listas de espera de años</td></tr></tbody></table>
+<table><thead><tr><th width="24%"></th><th width="38%">EFICIENCIA</th><th width="38%">EQUIDAD</th></tr></thead><tbody><tr><td><b>Qué busca</b></td><td>Maximizar el uso de los recursos disponibles</td><td>Que el reparto responda a un criterio de justicia defendible</td></tr><tr><td><b>Cómo asigna la vivienda escasa</b></td><td>A quien más esté dispuesto a pagar. Se supone que eso revela quién más la valora</td><td>Por criterios de necesidad, sorteo o baremo entre solicitantes</td></tr><tr><td><b>Su punto ciego</b></td><td>“Estar dispuesto a pagar” depende de la renta que se tenga, no solo de cuánto se necesite</td><td>Puede desincentivar la construcción o generar listas de espera de años</td></tr></tbody></table>
 
 ::: nota Ninguno de los dos criterios basta por sí solo
-Un reparto perfectamente eficiente puede ser profundamente injusto. Y un reparto perfectamente equitativo puede desperdiciar recursos o desincentivar la producción. La discusión seria no es «eficiencia **o** equidad», sino **qué combinación** y a qué coste.
+Un reparto perfectamente eficiente puede ser profundamente injusto. Y un reparto perfectamente equitativo puede desperdiciar recursos o desincentivar la producción. La discusión seria no es “eficiencia **o** equidad”, sino **qué combinación** y a qué coste.
 :::
 
 ### 2. Tres miradas clásicas
@@ -116,12 +116,12 @@ Un reparto perfectamente eficiente puede ser profundamente injusto. Y un reparto
 
 ### 3. Los dos enfoques éticos que vais a usar
 
-<table><thead><tr><th width="26%">Enfoque</th><th width="34%">Su pregunta central</th><th width="40%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Utilitarismo</b></td><td>¿Qué opción produce <b>mayor bienestar total</b>?</td><td>Si permitir a los fondos comprar bloques aumenta la oferta y baja algo el precio medio, el balance agregado puede ser positivo aunque algunos salgan perjudicados.</td></tr><tr><td><b>Ética del deber y justicia</b></td><td>¿Se respetan los <b>derechos</b> de cada persona, sea cual sea el balance agregado?</td><td>Si la vivienda es un derecho, no basta con que el resultado medio mejore: hay que garantizar el acceso de quien queda fuera.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Enfoque</th><th width="34%">Su pregunta central</th><th width="40%">Aplicado a la vivienda</th></tr></thead><tbody><tr><td><b>Utilitarismo</b></td><td>¿Qué opción produce <b>mayor bienestar total</b>?</td><td>Si permitir a los fondos comprar bloques aumenta la oferta y baja algo el precio medio, el balance agregado puede ser positivo aunque algunos salgan perjudicados.</td></tr><tr><td><b>Ética del deber y justicia</b></td><td>¿Se respetan los <b>derechos</b> de cada persona, sea cual sea el balance agregado?</td><td>Si la vivienda es un derecho, no basta con que el resultado medio mejore. Hay que garantizar el acceso de quien queda fuera.</td></tr></tbody></table>
 
 ### 4. Y el caso que cierra el círculo
 
 ::: aviso Las familias monoparentales
-En la sesión 1 quedó anotada esta pregunta: ¿por qué la ley las identifica como colectivo prioritario para la vivienda protegida?
+En la sesión 1 quedó anotada esta pregunta. ¿por qué la ley las identifica como colectivo prioritario para la vivienda protegida?
 
 Ahora podéis responderla con herramientas. Depender de **una única renta** reduce la capacidad de pago sin reducir la necesidad. Para un mercado que asigna por capacidad de pago, eso las sitúa sistemáticamente en desventaja. ¿Es un fallo de eficiencia, un problema de equidad, o las dos cosas? Y si la administración les reserva vivienda protegida, ¿está corrigiendo una desigualdad o limitando la libertad contractual de quien alquila?
 :::

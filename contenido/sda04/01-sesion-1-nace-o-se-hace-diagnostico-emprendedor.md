@@ -4,21 +4,21 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 
 ## Guía docente · Sesión 1 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4 (diagnóstico, no calificable numéricamente)</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Gran grupo</td><td><b>Carácter</b></td><td>Formativa — primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la participación en la lluvia de ideas · C: cuestionario de autodiagnóstico emprendedor</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4 (diagnóstico, no calificable numéricamente)</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la participación en la lluvia de ideas · C: cuestionario de autodiagnóstico emprendedor</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Cuestionario individual y anónimo de autodiagnóstico emprendedor.</td><td>2</td></tr><tr><td>00:10 – 00:25</td><td>Caso real y reciente de creación o cierre de una empresa cercana; puesta en común guiada.</td><td>3</td></tr><tr><td>00:25 – 00:40</td><td>Lluvia de ideas «¿Qué es una empresa? Lo que ya sabemos», recogida sin corregir.</td><td>4</td></tr><tr><td>00:40 – 00:50</td><td>Presentación del reto final: «De la Idea al Beneficio».</td><td>5–7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Cuestionario individual y anónimo de autodiagnóstico emprendedor.</td><td>2</td></tr><tr><td>00:10 – 00:25</td><td>Caso real y reciente de creación o cierre de una empresa cercana; puesta en común guiada.</td><td>3</td></tr><tr><td>00:25 – 00:40</td><td>Lluvia de ideas “¿Qué es una empresa? Lo que ya sabemos”, recogida sin corregir.</td><td>4</td></tr><tr><td>00:40 – 00:50</td><td>Presentación del reto final: “De la Idea al Beneficio”.</td><td>5–7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El autodiagnóstico (10 min).** Cuestionario breve de 8-10 ítems tipo Likert sobre iniciativa, tolerancia al riesgo y al fracaso, creatividad y capacidad de trabajo en equipo. **Individual y anónimo**. Insiste en que no se corrige ni se califica: es un punto de partida para la reflexión personal que se recupera en el cierre de la unidad (S11).
+**1. El autodiagnóstico (10 min).** Cuestionario breve de 8-10 ítems tipo Likert sobre iniciativa, tolerancia al riesgo y al fracaso, creatividad y capacidad de trabajo en equipo. **Individual y anónimo**. Insiste en que no se corrige ni se califica. Es un punto de partida para la reflexión personal que se recupera en el cierre de la unidad (S11).
 
-**2. El caso real (15 min).** Presenta un caso reciente y verificado —prensa local o económica— de una empresa que ha nacido o ha cerrado cerca del alumnado. Dos preguntas abiertas: «¿por qué creéis que ha pasado esto?» y «¿qué tendría que saber alguien para montar un negocio con éxito?».
+**2. El caso real (15 min).** Presenta un caso reciente y verificado, prensa local o económica, de una empresa que ha nacido o ha cerrado cerca del alumnado. Dos preguntas abiertas. “¿por qué creéis que ha pasado esto?” y “¿qué tendría que saber alguien para montar un negocio con éxito?”.
 
 **Selecciona el caso en los días previos a la sesión**: viable, verificado y con fuente citable. Es lo que mantiene la actualidad y la cercanía del ejemplo, y no funciona igual con un caso de hace tres cursos.
 
-**3. La lluvia de ideas (15 min).** Recoge en la pizarra **todas** las asociaciones espontáneas con la palabra «empresa», sin corregir ni jerarquizar. **Fotografíala**: se recupera en la sesión 3 para contrastar las ideas previas con la definición técnica, y ese contraste es uno de los mejores momentos de la unidad.
+**3. La lluvia de ideas (15 min).** Recoge en la pizarra **todas** las asociaciones espontáneas con la palabra “empresa”, sin corregir ni jerarquizar. **Fotografíala**: se recupera en la sesión 3 para contrastar las ideas previas con la definición técnica, y ese contraste es uno de los mejores momentos de la unidad.
 
 **4. El reto (10 min).** Presenta el producto final y anticipa que mañana el aula recibe el testimonio de una persona real del mundo del emprendimiento, para que vengan con preguntas preparadas.
 
@@ -26,7 +26,7 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 
 - ¿Por qué creéis que esa empresa ha nacido (o ha cerrado)?
 - ¿Qué tendría que saber alguien para montar un negocio con éxito?
-- ¿Qué se os viene a la cabeza al oír la palabra «empresa»?
+- ¿Qué se os viene a la cabeza al oír la palabra “empresa”?
 - ¿La gente emprendedora nace o se hace?
 
 ::: aviso Material que debes preparar tú
@@ -39,7 +39,7 @@ titulo: Sesión 1 · ¿Nace o se hace? Diagnóstico emprendedor
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Autorregulación</td><td>El autodiagnóstico es anónimo y explícitamente no calificable, lo que permite responder con sinceridad; su recuperación en la sesión 11 convierte el punto de partida en una referencia visible del propio cambio.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El caso real se elige del entorno cercano del alumnado y la lluvia de ideas recoge todas las aportaciones sin jerarquizarlas, de modo que cualquier intuición previa tenga cabida.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La lluvia de ideas admite aportaciones muy breves y no exige elaboración: es una vía de participación accesible para quien evita las intervenciones largas ante el gran grupo.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Autorregulación</td><td>El autodiagnóstico es anónimo y explícitamente no calificable, lo que permite responder con sinceridad; su recuperación en la sesión 11 convierte el punto de partida en una referencia visible del propio cambio.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El caso real se elige del entorno cercano del alumnado y la lluvia de ideas recoge todas las aportaciones sin jerarquizarlas, de modo que cualquier intuición previa tenga cabida.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La lluvia de ideas admite aportaciones muy breves y no exige elaboración. Es una vía de participación accesible para quien evita las intervenciones largas ante el gran grupo.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -49,9 +49,9 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 ¿La gente emprendedora **nace o se hace**?
 
-Hoy no vamos a responder a eso. Vamos a hacer algo más útil: averiguar qué hace falta **saber** para montar un negocio y que no se hunda.
+Hoy no vamos a responder a eso. Vamos a hacer algo más útil. Averiguar qué hace falta **saber** para montar un negocio y que no se hunda.
 
-Y vas a empezar por ti: un cuestionario anónimo sobre cómo te ves ahora mismo. No se corrige, no se califica y nadie lo lee. Pero lo vas a volver a ver dentro de tres semanas.
+Y vas a empezar por ti. Un cuestionario anónimo sobre cómo te ves ahora mismo. No se corrige, no se califica y nadie lo lee. Pero lo vas a volver a ver dentro de tres semanas.
 
 ## Diapositivas de la sesión
 
@@ -83,9 +83,9 @@ Ocho a diez afirmaciones sobre **iniciativa**, **tolerancia al riesgo y al fraca
 
 Anotad vuestras respuestas a la segunda pregunta: son, literalmente, **el mapa de lo que vamos a aprender** en las próximas tres semanas.
 
-### «¿Qué es una empresa? Lo que ya sabemos»
+### “¿Qué es una empresa? Lo que ya sabemos”
 
-En gran grupo, decid todo lo que se os venga a la cabeza al oír la palabra «empresa». Se recoge **todo**: ideas, ejemplos, prejuicios, dudas. No se corrige ni se ordena nada.
+En gran grupo, decid todo lo que se os venga a la cabeza al oír la palabra “empresa”. Se recoge **todo**: ideas, ejemplos, prejuicios, dudas. No se corrige ni se ordena nada.
 
 ::: aviso Y se fotografía
 Esta lista se recupera en la **sesión 3** para contrastarla con la definición técnica. Lo que hoy parece obvio puede resultar que estaba a medias.
@@ -99,14 +99,14 @@ Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluac
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio: se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
+4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
 :::
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -114,9 +114,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 
@@ -130,7 +130,7 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ### 1. La pregunta que abre la unidad
 
-«¿La gente emprendedora nace o se hace?» es una pregunta con truco, porque mezcla dos cosas distintas: unas **actitudes** (iniciativa, tolerancia al riesgo, creatividad) y unos **conocimientos** (qué es una empresa, cómo se calculan sus costes, qué forma jurídica elegir).
+“¿La gente emprendedora nace o se hace?” es una pregunta con truco, porque mezcla dos cosas distintas: unas **actitudes** (iniciativa, tolerancia al riesgo, creatividad) y unos **conocimientos** (qué es una empresa, cómo se calculan sus costes, qué forma jurídica elegir).
 
 Las actitudes se pueden entrenar, aunque cada persona parta de un punto distinto. Los conocimientos, directamente, se aprenden. Y esta unidad va sobre los segundos.
 
@@ -154,10 +154,10 @@ Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay qu
 
 ## Cierre
 
-Mañana no explica el profesorado: viene alguien que montó una empresa de verdad. **Traed preguntas preparadas**, porque de esa charla van a salir tres ideas que apuntaréis en el cuaderno… y quizá la idea de negocio de vuestro equipo.
+Mañana no explica el profesorado. Viene alguien que montó una empresa de verdad. **Traed preguntas preparadas**, porque de esa charla van a salir tres ideas que apuntaréis en el cuaderno… y quizá la idea de negocio de vuestro equipo.
 
 ## Comprueba lo que sabes {.docente}
 
 ::: aviso Cuestionario pendiente
-En la web original este bloque mostraba por error el cuestionario de la SdA 3 · Sesión 6, y no existe ningún formulario «SdA 4 · S1». Añade aquí un bloque `actividad` con las preguntas de esta sesión y quita la marca `{.docente}` del título para que lo vea el alumnado.
+En la web original este bloque mostraba por error el cuestionario de la SdA 3 · Sesión 6, y no existe ningún formulario “SdA 4 · S1”. Añade aquí un bloque `actividad` con las preguntas de esta sesión y quita la marca `{.docente}` del título para que lo vea el alumnado.
 :::

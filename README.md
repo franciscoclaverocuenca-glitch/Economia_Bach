@@ -19,7 +19,7 @@ Materiales elaborados por Francisco Clavero Cuenca · [CC BY-SA 4.0](https://cre
 |---|---|
 | 12 exportaciones con jQuery, Bootstrap y su propio tema repetidos en cada una (137 MB) | Una sola hoja de estilos y un solo script compartidos, sin dependencias (≈100 KB en total) |
 | Diapositivas en PNG (≈7 MB por unidad) | WebP con miniaturas que se cargan solo al verlas (≈3,5 MB por unidad) |
-| Fuentes cargadas desde Google | Una sola tipografía de lectura (Literata) alojada en el propio sitio: sin rastreo de terceros y funciona sin conexión |
+| Fuentes cargadas desde Google | Una familia tipográfica (Alegreya y Alegreya Sans) alojada en el propio sitio: sin rastreo de terceros y funciona sin conexión |
 | 57 Google Forms incrustados, **56 de ellos en una sesión o unidad que no era la suya** | Cuestionarios propios en su sitio correcto, con corrección inmediata y explicación de cada respuesta |
 | Los cuestionarios no llegaban a Moodle | La nota y cada respuesta llegan al libro de calificaciones de Moodle |
 | Autoevaluación en Google Forms con los descriptores recortados | Autoevaluación interactiva con la rúbrica completa, que se guarda y se puede imprimir |

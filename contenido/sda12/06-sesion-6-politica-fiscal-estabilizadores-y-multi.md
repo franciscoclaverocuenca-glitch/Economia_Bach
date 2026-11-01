@@ -8,22 +8,22 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:12</td><td>Estabilizadores automáticos frente a política discrecional (expansiva/contractiva).</td><td>1–2</td></tr><tr><td>00:12 – 00:35</td><td>Construcción del multiplicador keynesiano: de las rondas de gasto a la fórmula 1/(1−c).</td><td>3–6</td></tr><tr><td>00:35 – 00:48</td><td>Simulación: efecto de una inyección de gasto público con distintos valores de c.</td><td>7</td></tr><tr><td>00:48 – 00:50</td><td>Coevaluación de resultados y límites del modelo.</td><td>8–9</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:12</td><td>Estabilizadores automáticos frente a política discrecional (expansiva/contractiva).</td><td>1–2</td></tr><tr><td>00:12 – 00:35</td><td>Construcción del multiplicador keynesiano. De las rondas de gasto a la fórmula 1/(1−c).</td><td>3–6</td></tr><tr><td>00:35 – 00:48</td><td>Simulación. Efecto de una inyección de gasto público con distintos valores de c.</td><td>7</td></tr><tr><td>00:48 – 00:50</td><td>Coevaluación de resultados y límites del modelo.</td><td>8–9</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. Dos formas de hacer política fiscal (12 min).** Estabilizadores automáticos frente a discrecional. La clave pedagógica es que los automáticos *ya están funcionando ahora mismo* sin que nadie decida nada, y eso suele resultar contraintuitivo.
 
-**2. El multiplicador (23 min).** No empieces por la fórmula. Empieza por la tabla de rondas con números concretos y deja que vean el patrón: 1.000, 800, 640, 512… Pregunta a dónde converge eso *antes* de escribir 1/(1−c). Solo después nombra la progresión geométrica y conecta explícitamente con MACS I. Este orden —caso, patrón, generalización, fórmula— es el que evalúa Matemáticas y el que hace que la fórmula se entienda en lugar de memorizarse.
+**2. El multiplicador (23 min).** No empieces por la fórmula. Empieza por la tabla de rondas con números concretos y deja que vean el patrón: 1.000, 800, 640, 512… Pregunta a dónde converge eso *antes* de escribir 1/(1−c). Solo después nombra la progresión geométrica y conecta explícitamente con MACS I. Este orden (caso, patrón, generalización, fórmula) es el que evalúa Matemáticas y el que hace que la fórmula se entienda en lugar de memorizarse.
 
 **3. Simulación (13 min).** Cada grupo con un valor distinto de c. Al poner en común, ordena los resultados en la pizarra por valor de c para que la relación salte a la vista.
 
-**4. Los límites (2 min).** Cierra desmontando el propio modelo: importaciones, ahorro por precaución, retardos, momento del ciclo. La lección doble —usar un modelo y desconfiar de él— es el objetivo real de la sesión.
+**4. Los límites (2 min).** Cierra desmontando el propio modelo: importaciones, ahorro por precaución, retardos, momento del ciclo. La lección doble, usar un modelo y desconfiar de él, es el objetivo real de la sesión.
 
 ### Preguntas guía del profesorado
 
 - Si la economía cae y nadie hace nada, ¿sube o baja automáticamente el gasto público? ¿Por qué?
-- Mirad la tabla de rondas: ¿por qué cada ronda es más pequeña que la anterior?
+- Mirad la tabla de rondas. ¿por qué cada ronda es más pequeña que la anterior?
 - ¿Qué pasaría con el multiplicador si la gente ahorrara todo lo que recibe?
 - Si el multiplicador es 5, ¿por qué no aumentamos el gasto público indefinidamente?
 
@@ -35,7 +35,7 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El modelo se presenta en tres notaciones equivalentes —tabla numérica, descripción verbal y fórmula algebraica— y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El modelo se presenta en tres notaciones equivalentes (tabla numérica, descripción verbal y fórmula algebraica) y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -43,7 +43,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 ## Para empezar
 
-Pregunta para empezar: si el Estado inyecta 1.000 millones de euros en una obra pública, ¿cuánta renta acaba moviéndose en la economía?
+Pregunta para empezar. Si el Estado inyecta 1.000 millones de euros en una obra pública, ¿cuánta renta acaba moviéndose en la economía?
 
 La respuesta no es 1.000. Es bastante más, y hoy vas a calcular exactamente cuánto. De paso descubrirás que es la misma progresión geométrica que estás viendo en Matemáticas.
 
@@ -100,7 +100,7 @@ La **política fiscal** es el uso del gasto público y de los impuestos para inf
 
 Los **estabilizadores automáticos** amortiguan el ciclo sin que nadie tenga que decidir nada en el momento. Los impuestos progresivos recaudan menos cuando la economía cae, dejando más renta disponible en manos de las familias; las prestaciones por desempleo suben solas cuando sube el paro. Su ventaja es que actúan de forma inmediata; su límite es que su tamaño es el que es.
 
-La **política fiscal discrecional** son decisiones deliberadas del Gobierno: subir o bajar el gasto y los impuestos. Es **expansiva** cuando aumenta el gasto o reduce los impuestos para reactivar la economía, y **contractiva** cuando hace lo contrario para enfriarla o reducir el déficit. Su ventaja es que puede ser grande y dirigida; su límite es que tarda en aprobarse y ejecutarse, y puede llegar tarde.
+La **política fiscal discrecional** son decisiones deliberadas del Gobierno. Subir o bajar el gasto y los impuestos. Es **expansiva** cuando aumenta el gasto o reduce los impuestos para reactivar la economía, y **contractiva** cuando hace lo contrario para enfriarla o reducir el déficit. Su ventaja es que puede ser grande y dirigida; su límite es que tarda en aprobarse y ejecutarse, y puede llegar tarde.
 
 ### 2. El multiplicador keynesiano
 

@@ -12,15 +12,15 @@ titulo: 'Sesión 3 · Por qué comerciamos: ventaja absoluta y comparativa'
 
 ### Guion paso a paso
 
-**1. La explicación (8 min).** Sustituye el ejemplo abstracto habitual por un caso real y verificable: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**, es la región líder mundial en ventas de «oro líquido», y la provincia de Málaga aporta en torno al 15 % de esas exportaciones andaluzas.
+**1. La explicación (8 min).** Sustituye el ejemplo abstracto habitual por un caso real y verificable: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**, es la región líder mundial en ventas de “oro líquido”, y la provincia de Málaga aporta en torno al 15 % de esas exportaciones andaluzas.
 
-Modela en la pizarra, paso a paso, un cálculo sencillo de coste de oportunidad y ventaja comparativa entre **dos países imaginarios** —Aurora y Bóreal— que producen aceite de oliva y maquinaria. Usa países imaginarios a propósito: con cifras reales de un país concreto se induce a error.
+Modela en la pizarra, paso a paso, un cálculo sencillo de coste de oportunidad y ventaja comparativa entre **dos países imaginarios**, Aurora y Bóreal, que producen aceite de oliva y maquinaria. Usa países imaginarios a propósito. Con cifras reales de un país concreto se induce a error.
 
 **2. El rally 1-2-4 (45 min).** La misma estructura consolidada desde la SdA 1. Escaneo individual (5 min), rally en parejas resolviendo al menos 4 de las 6 tarjetas (20 min), consenso en cuartetos (15 min) y ruleta de expertos con coevaluación (10 min).
 
-La **tarjeta 1** es la clave conceptual: un país más eficiente en todo sigue teniendo motivos para comerciar. La **tarjeta 3** anticipa deliberadamente la sesión 4: la especialización da eficiencia, pero también expone.
+La **tarjeta 1** es la clave conceptual. Un país más eficiente en todo sigue teniendo motivos para comerciar. La **tarjeta 3** anticipa deliberadamente la sesión 4: la especialización da eficiencia, pero también expone.
 
-**3. El cierre de género (5 min).** El dato del programa **«Internacionalizarse en Femenino»** del ICEX, puesto en marcha en 2024 tras un grupo de trabajo activo desde 2021. Y la pregunta abierta, que **no se cierra hoy**: se retoma en la sesión 8 con un caso contrario.
+**3. El cierre de género (5 min).** El dato del programa **“Internacionalizarse en Femenino”** del ICEX, puesto en marcha en 2024 tras un grupo de trabajo activo desde 2021. Y la pregunta abierta, que **no se cierra hoy**: se retoma en la sesión 8 con un caso contrario.
 
 ### Preguntas guía del profesorado
 
@@ -32,9 +32,9 @@ La **tarjeta 1** es la clave conceptual: un país más eficiente en todo sigue t
 ::: aviso Material que debes preparar tú
 - **Presentación de conceptos** con los datos del aceite de oliva andaluz verificados.
 - **Plantilla Cornell**, una por alumno/a.
-- **6 tarjetas de reto** para repartir por el aula, y un **«pasaporte» de respuestas** por pareja.
+- **6 tarjetas de reto** para repartir por el aula, y un **“pasaporte” de respuestas** por pareja.
 - **Ruleta digital** para la fase 4.
-- **Datos del programa ICEX «Internacionalizarse en Femenino»** (2024) y del grupo de trabajo «Mujer e Internacionalización» (desde 2021), para el cierre transversal.
+- **Datos del programa ICEX “Internacionalizarse en Femenino”** (2024) y del grupo de trabajo “Mujer e Internacionalización” (desde 2021), para el cierre transversal.
 - Espacio que permita circular: el rally requiere levantarse.
 :::
 
@@ -48,7 +48,7 @@ El rally implica circulación y conversación simultánea de todas las parejas. 
 
 ## Para empezar
 
-Un dato para empezar: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**. Es la región líder mundial en ventas de «oro líquido», y Málaga aporta alrededor del 15 % de esa cifra andaluza.
+Un dato para empezar: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**. Es la región líder mundial en ventas de “oro líquido”, y Málaga aporta alrededor del 15 % de esa cifra andaluza.
 
 Con ese dato encima de la mesa vamos a entender por qué los países comercian. Y vais a descubrir algo contraintuitivo: **a un país le interesa comerciar aunque sea mejor que el otro produciendo absolutamente todo**.
 
@@ -65,21 +65,21 @@ sda3-s03-07.webp | Cierre de género
 sda3-s03-08.webp | La pregunta abierta
 ```
 
-## Rally de transferencia «El Mapa del Comercio»
+## Rally de transferencia “El Mapa del Comercio”
 
 ### Las dos ventajas
 
 <table><thead><tr><th width="20%"></th><th width="38%">Ventaja ABSOLUTA</th><th width="42%">Ventaja COMPARATIVA</th></tr></thead><tbody><tr><td><b>Qué es</b></td><td>Producir un bien usando <b>menos recursos</b> que otro país</td><td>Producir un bien con <b>menor coste de oportunidad</b>: renunciando a menos de otra cosa</td></tr><tr><td><b>¿Se puede tener en todo?</b></td><td>Sí. Un país puede ser más eficiente en todos los bienes</td><td><b>No.</b> Es imposible tener ventaja comparativa en todo</td></tr><tr><td><b>Consecuencia</b></td><td>Por sí sola no basta para decidir qué producir</td><td>Es la que explica por qué <b>siempre</b> hay comercio posible</td></tr></tbody></table>
 
 ::: nota El modelado: Aurora y Bóreal
-Dos países imaginarios que producen aceite de oliva y maquinaria. Calculamos el **coste de oportunidad** de cada uno en cada bien: ¿a cuánta maquinaria renuncia Aurora por cada tonelada de aceite? ¿Y Bóreal?
+Dos países imaginarios que producen aceite de oliva y maquinaria. Calculamos el **coste de oportunidad** de cada uno en cada bien. ¿a cuánta maquinaria renuncia Aurora por cada tonelada de aceite? ¿Y Bóreal?
 
-Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debería especializarse. Usamos países imaginarios a propósito: con cifras reales de un país concreto se induce a error.
+Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debería especializarse. Usamos países imaginarios a propósito. Con cifras reales de un país concreto se induce a error.
 :::
 
 ### Las cuatro fases del rally
 
-<table><thead><tr><th width="24%">Fase</th><th width="62%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Lees la tarjeta-reto proyectada y anotas una idea rápida en el margen de tu Cornell.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Resolvéis, con vuestro «pasaporte» de respuestas, <b>al menos 4 de las 6</b> tarjetas repartidas por el aula.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan sus respuestas, debatiendo hasta llegar a una versión unificada.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta digital elige un cuarteto por tarjeta; el resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Fase</th><th width="62%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Lees la tarjeta-reto proyectada y anotas una idea rápida en el margen de tu Cornell.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Resolvéis, con vuestro “pasaporte” de respuestas, <b>al menos 4 de las 6</b> tarjetas repartidas por el aula.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan sus respuestas, debatiendo hasta llegar a una versión unificada.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta digital elige un cuarteto por tarjeta; el resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
 
 ### Tres de las seis tarjetas
 
@@ -89,7 +89,7 @@ Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debe
 
 ### 1. Por qué comercian los países
 
-La respuesta intuitiva es «porque uno tiene algo que el otro no tiene». Es cierta, pero se queda muy corta. La respuesta completa es mucho más interesante, y explica por qué comercian incluso países que podrían producirlo todo por su cuenta.
+La respuesta intuitiva es “porque uno tiene algo que el otro no tiene”. Es cierta, pero se queda muy corta. La respuesta completa es mucho más interesante, y explica por qué comercian incluso países que podrían producirlo todo por su cuenta.
 
 ### 2. Ventaja absoluta y ventaja comparativa
 
@@ -105,22 +105,22 @@ Eso es la ventaja comparativa, y es la razón por la que **siempre** hay comerci
 
 La herramienta para calcularlo la conocéis de la SdA 1: el **coste de oportunidad** es aquello a lo que renuncias al elegir una opción.
 
-Si Aurora, para producir una tonelada de aceite, tiene que renunciar a 2 máquinas, y Bóreal tiene que renunciar a 5, entonces el aceite le «cuesta» menos a Aurora. Aurora tiene **ventaja comparativa** en aceite, y debería especializarse en él aunque Bóreal fuera más eficiente produciendo ambas cosas.
+Si Aurora, para producir una tonelada de aceite, tiene que renunciar a 2 máquinas, y Bóreal tiene que renunciar a 5, entonces el aceite le “cuesta” menos a Aurora. Aurora tiene **ventaja comparativa** en aceite, y debería especializarse en él aunque Bóreal fuera más eficiente produciendo ambas cosas.
 
 ### 4. Especialización: la otra cara
 
 La especialización genera eficiencia. Pero también genera **exposición**.
 
-Una región que concentra sus exportaciones en un único producto —o en un único mercado de destino— gana en eficiencia, pero queda a merced de lo que le ocurra a ese producto o a ese cliente: una mala cosecha, una caída del precio mundial, un arancel inesperado.
+Una región que concentra sus exportaciones en un único producto, o en un único mercado de destino, gana en eficiencia, pero queda a merced de lo que le ocurra a ese producto o a ese cliente: una mala cosecha, una caída del precio mundial, un arancel inesperado.
 
 Es exactamente lo que vais a analizar mañana con los aranceles de 2025.
 
 ### 5. El dato de género
 
 ::: aviso ¿Quién exporta?
-Pese al peso creciente de las exportaciones andaluzas, las mujeres siguen **infrarrepresentadas al frente de las empresas que exportan**. Hasta el punto de que el ICEX puso en marcha en 2024 el programa **«Internacionalizarse en Femenino»**, tras un grupo de trabajo «Mujer e Internacionalización» activo desde 2021.
+Pese al peso creciente de las exportaciones andaluzas, las mujeres siguen **infrarrepresentadas al frente de las empresas que exportan**. Hasta el punto de que el ICEX puso en marcha en 2024 el programa **“Internacionalizarse en Femenino”**, tras un grupo de trabajo “Mujer e Internacionalización” activo desde 2021.
 
-Y la pregunta abierta: si la ventaja comparativa depende del talento y los recursos de un país, y **no del género** de quien dirige la empresa, ¿por qué siguen siendo minoría? ¿Qué tiene esto que ver con la «escasez» de talento aprovechado de la que hablasteis en la SdA 1?
+Y la pregunta abierta: si la ventaja comparativa depende del talento y los recursos de un país, y **no del género** de quien dirige la empresa, ¿por qué siguen siendo minoría? ¿Qué tiene esto que ver con la “escasez” de talento aprovechado de la que hablasteis en la SdA 1?
 :::
 
 No cerramos la pregunta hoy. La retomamos en la **sesión 8**, con un caso que apunta en dirección contraria.
@@ -149,11 +149,11 @@ preguntas:
   explicacion: '**Falso.** Es matemáticamente imposible. Sí puede tener ventaja **absoluta** en todos, pero no comparativa.'
 - enunciado: Andalucía concentra en torno al 69 % de las exportaciones españolas de aceite de oliva.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es la región líder mundial en ventas de «oro líquido», y Málaga aporta alrededor del 15 % de esa cifra andaluza.'
+  explicacion: '**Verdadero.** Es la región líder mundial en ventas de “oro líquido”, y Málaga aporta alrededor del 15 % de esa cifra andaluza.'
 - enunciado: Especializarse al máximo en un único producto de exportación no conlleva ningún riesgo.
   respuesta: falso
   explicacion: '**Falso.** Gana eficiencia pero queda expuesta a una caída del precio mundial, una mala cosecha o un arancel inesperado. Lo veréis mañana con datos reales.'
-- enunciado: El programa «Internacionalizarse en Femenino» del ICEX se puso en marcha en 2024.
+- enunciado: El programa “Internacionalizarse en Femenino” del ICEX se puso en marcha en 2024.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Tras un grupo de trabajo «Mujer e Internacionalización» activo desde 2021.'
+  explicacion: '**Verdadero.** Tras un grupo de trabajo “Mujer e Internacionalización” activo desde 2021.'
 ```

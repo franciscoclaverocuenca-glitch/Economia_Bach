@@ -8,11 +8,11 @@ titulo: 'Sesión 5 · Transferencia activa: el caso Isla Utopía'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Presentación del escenario «Isla Utopía» y reparto de roles cooperativos.</td><td>2–3</td></tr><tr><td>00:05 – 00:35</td><td>Resolución cooperativa de los Retos 1 a 4 en grupo base.</td><td>4–7</td></tr><tr><td>00:35 – 00:50</td><td>Puesta en común y debate de los Retos 2 y 3.</td><td>8</td></tr><tr><td>00:50 – 00:55</td><td>Coevaluación y cierre.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Presentación del escenario “Isla Utopía” y reparto de roles cooperativos.</td><td>2–3</td></tr><tr><td>00:05 – 00:35</td><td>Resolución cooperativa de los Retos 1 a 4 en grupo base.</td><td>4–7</td></tr><tr><td>00:35 – 00:50</td><td>Puesta en común y debate de los Retos 2 y 3.</td><td>8</td></tr><tr><td>00:50 – 00:55</td><td>Coevaluación y cierre.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El escenario (5 min).** Presenta la isla y reparte los **cuatro roles cooperativos** dentro de cada grupo base: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell. Este último es el que más rendimiento da: su tarea es asegurar que se emplea **la terminología exacta de los apuntes**, no una versión aproximada.
+**1. El escenario (5 min).** Presenta la isla y reparte los **cuatro roles cooperativos** dentro de cada grupo base: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell. Este último es el que más rendimiento da. Su tarea es asegurar que se emplea **la terminología exacta de los apuntes**, no una versión aproximada.
 
 **2. Los cuatro retos (30 min).** Cada grupo resuelve con apoyo de sus apuntes Cornell, plasmando las respuestas en **un único folio por grupo**. Esa restricción fuerza el consenso: con cuatro folios no hay debate.
 
@@ -27,10 +27,10 @@ El **Reto 3** es el más productivo: los peces del arrecife son un **recurso com
 - ¿Cuál es el problema económico básico en la asamblea de la isla?
 - ¿Los peces del arrecife son un bien público o un recurso común? ¿Qué los distingue?
 - ¿Qué pasaría si las baterías fallaran del todo? ¿Qué relación tienen con los paneles?
-- ¿Qué servicio —no bien— podría acelerar la construcción de viviendas en la isla?
+- ¿Qué servicio, no bien, podría acelerar la construcción de viviendas en la isla?
 
 ::: aviso Material que debes preparar tú
-- **Dossier del caso «Isla Utopía»** con el escenario y los cuatro retos, uno por grupo base.
+- **Dossier del caso “Isla Utopía”** con el escenario y los cuatro retos, uno por grupo base.
 - **Un único folio de respuestas por grupo.** La restricción es deliberada: fuerza el consenso.
 - **Tarjetas de los cuatro roles cooperativos**: Coordinador/a, Secretario/a, Portavoz y Controlador/a del Cornell.
 - **Las plantillas Cornell** de las sesiones 3 y 4: son material obligatorio de la sesión.
@@ -91,51 +91,51 @@ Y después, **como economistas**: justificad razonadamente qué demandas deben p
 Un recurso del que nadie puede ser excluido fácilmente, pero que **se agota si se sobreexplota**. Es exactamente el tipo de bien que estudió y sobre el que documentó que las comunidades pueden darse reglas propias. Recordad la sesión de ayer.
 :::
 
-Y una segunda parte: los **paneles solares** del barco y las **baterías** para almacenar su energía, ¿son sustitutivos o complementarios? ¿Qué pasaría si las baterías fallaran por completo?
+Y una segunda parte. Los **paneles solares** del barco y las **baterías** para almacenar su energía, ¿son sustitutivos o complementarios? ¿Qué pasaría si las baterías fallaran por completo?
 
 ### Reto 4 · Factores de producción y transferencia directa
 
 <table><thead><tr><th width="26%">Factor</th><th width="36%">Qué es</th><th width="38%">Un ejemplo concreto en la isla</th></tr></thead><tbody><tr><td><b>Tierra</b></td><td>Los recursos naturales</td><td></td></tr><tr><td><b>Trabajo</b></td><td>El esfuerzo humano</td><td></td></tr><tr><td><b>Capital</b></td><td>Los bienes que sirven para producir más bienes</td><td></td></tr><tr><td><b>Iniciativa empresarial</b></td><td>Organizar los otros tres y asumir el riesgo</td><td></td></tr></tbody></table>
 
-Y una propuesta de **tres líneas**: ¿cómo podría un **servicio** específico —no un bien material— creado por los colonos aumentar el ritmo de construcción de nuevas viviendas en la isla?
+Y una propuesta de **tres líneas**: ¿cómo podría un **servicio** específico, no un bien material, creado por los colonos aumentar el ritmo de construcción de nuevas viviendas en la isla?
 
 ::: aviso Un único folio por grupo
-La restricción es deliberada: con cuatro folios cada uno escribe lo suyo y no hay debate. Con uno, hay que ponerse de acuerdo.
+La restricción es deliberada. Con cuatro folios cada uno escribe lo suyo y no hay debate. Con uno, hay que ponerse de acuerdo.
 :::
 
 ## Apuntes de la sesión
 
 ### 1. Por qué una isla
 
-El caso de la Isla Utopía no es un adorno narrativo. Sirve para algo muy concreto: obliga a aplicar **todos** los conceptos de las sesiones 3 y 4 a la vez, en una situación donde nadie puede recurrir a lo que ya sabe de memoria sobre cómo funcionan las cosas.
+El caso de la Isla Utopía no es un adorno narrativo. Sirve para algo muy concreto. Obliga a aplicar **todos** los conceptos de las sesiones 3 y 4 a la vez, en una situación donde nadie puede recurrir a lo que ya sabe de memoria sobre cómo funcionan las cosas.
 
-Y hay una razón más: en una isla desde cero, la **vivienda** aparece inmediatamente como una de las primeras necesidades en disputa. Igual que en Málaga, pero sin el ruido de fondo.
+Y hay una razón más. En una isla desde cero, la **vivienda** aparece inmediatamente como una de las primeras necesidades en disputa. Igual que en Málaga, pero sin el ruido de fondo.
 
 ### 2. El problema económico básico, otra vez
 
 ::: nota Cinco herramientas y una comunidad cansada
-El Reto 1 es el problema económico en su forma más pura: hay recursos **limitados** —5 herramientas, mano de obra cansada— y necesidades que no lo son. Por tanto, **hay que elegir**. Y elegir significa renunciar.
+El Reto 1 es el problema económico en su forma más pura. Hay recursos **limitados** (5 herramientas, mano de obra cansada) y necesidades que no lo son. Por tanto, **hay que elegir**. Y elegir significa renunciar.
 :::
 
 ### 3. Escasez física y escasez relativa
 
-<table><thead><tr><th width="24%">Tipo</th><th width="40%">En qué consiste</th><th width="36%">En la isla</th></tr></thead><tbody><tr><td><b>Escasez física</b></td><td>El recurso es objetivamente limitado: no hay más, por mucho que se quiera</td><td>Solo hay 5 herramientas de construcción pesadas</td></tr><tr><td><b>Escasez relativa</b></td><td>El recurso existe, pero es insuficiente <b>respecto a lo que se desea</b></td><td>Hay madera y mano de obra, pero no bastan para atender a la vez las viviendas, los pozos y la red satelital</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Tipo</th><th width="40%">En qué consiste</th><th width="36%">En la isla</th></tr></thead><tbody><tr><td><b>Escasez física</b></td><td>El recurso es objetivamente limitado. No hay más, por mucho que se quiera</td><td>Solo hay 5 herramientas de construcción pesadas</td></tr><tr><td><b>Escasez relativa</b></td><td>El recurso existe, pero es insuficiente <b>respecto a lo que se desea</b></td><td>Hay madera y mano de obra, pero no bastan para atender a la vez las viviendas, los pozos y la red satelital</td></tr></tbody></table>
 
 ### 4. Los tipos de bien, aplicados
 
 <table><thead><tr><th width="26%">Elemento</th><th width="24%">Clasificación</th><th width="50%">Por qué</th></tr></thead><tbody><tr><td><b>El faro</b></td><td>Bien público</td><td>Su luz sirve a todos los barcos a la vez y no se puede impedir que alguien la vea. Ni rival ni excluible.</td></tr><tr><td><b>Los peces del arrecife</b></td><td>Recurso común</td><td>Nadie puede ser excluido de pescar, pero <b>lo que pesca uno no lo pesca otro</b>, y se agota si se sobreexplota.</td></tr><tr><td><b>Las cabañas</b></td><td>Bienes privados</td><td>Repartidas por sorteo entre familias concretas: son excluibles y rivales.</td></tr></tbody></table>
 
 ::: aviso Y por qué el arrecife es el caso interesante
-Un **recurso común** sin reglas tiende a sobreexplotarse: a cada colono le interesa pescar más, y si todos hacen lo mismo el arrecife se agota y pierden todos. Es exactamente el problema que estudió **Elinor Ostrom**, y que documentó que puede resolverse con reglas comunitarias propias, sin necesidad de privatizarlo ni estatalizarlo.
+Un **recurso común** sin reglas tiende a sobreexplotarse. A cada colono le interesa pescar más, y si todos hacen lo mismo el arrecife se agota y pierden todos. Es exactamente el problema que estudió **Elinor Ostrom**, y que documentó que puede resolverse con reglas comunitarias propias, sin necesidad de privatizarlo ni estatalizarlo.
 
-Guardad esta idea: en la sesión 8 vais a discutir si la vivienda debería tratarse como algo más cercano a un bien común.
+Guardad esta idea. En la sesión 8 vais a discutir si la vivienda debería tratarse como algo más cercano a un bien común.
 :::
 
 ### 5. Sustitutivos y complementarios
 
 Los **paneles solares** y las **baterías** son **complementarios**: se consumen juntos y cada uno pierde utilidad sin el otro. Si las baterías fallaran del todo, los paneles seguirían generando electricidad, pero solo utilizable en el momento: se perdería toda la energía nocturna.
 
-Dos bienes son **sustitutivos** cuando cubren la misma necesidad y compiten entre sí —cocos y pescado como fuente de alimento—; son **complementarios** cuando se necesitan mutuamente.
+Dos bienes son **sustitutivos** cuando cubren la misma necesidad y compiten entre sí, cocos y pescado como fuente de alimento; son **complementarios** cuando se necesitan mutuamente.
 
 ### Glosario de la sesión
 

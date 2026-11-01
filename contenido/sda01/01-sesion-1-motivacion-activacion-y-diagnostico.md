@@ -4,11 +4,11 @@ titulo: Sesión 1 · Motivación, activación y diagnóstico
 
 ## Guía docente · Sesión 1 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (con introducción a 1.3)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa — primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la argumentación durante la controversia estructurada · D: calidad del debate por parejas y del manifiesto conjunto</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (con introducción a 1.3)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la argumentación durante la controversia estructurada · D: calidad del debate por parejas y del manifiesto conjunto</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Reparto y contextualización de las 4 noticias por parejas dentro de cada grupo base.</td><td>2</td></tr><tr><td>00:05 – 00:30</td><td>Controversia estructurada: debate por turnos, inversión de roles y manifiesto de consenso.</td><td>3–4</td></tr><tr><td>00:30 – 00:40</td><td>Presentación del reto final: el Juicio simulado y sus 4 partes.</td><td>5</td></tr><tr><td>00:40 – 00:50</td><td>Cierre transversal: vivienda protegida, familias monoparentales y pregunta abierta.</td><td>6–7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Reparto y contextualización de las 4 noticias por parejas dentro de cada grupo base.</td><td>2</td></tr><tr><td>00:05 – 00:30</td><td>Controversia estructurada. Debate por turnos, inversión de roles y manifiesto de consenso.</td><td>3–4</td></tr><tr><td>00:30 – 00:40</td><td>Presentación del reto final. El Juicio simulado y sus 4 partes.</td><td>5</td></tr><tr><td>00:40 – 00:50</td><td>Cierre transversal. Vivienda protegida, familias monoparentales y pregunta abierta.</td><td>6–7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
@@ -18,11 +18,11 @@ titulo: Sesión 1 · Motivación, activación y diagnóstico
 
 **2. La controversia (25 min).** Asigna las posturas, no las elijan ellos. Pareja A: enfoque de la inversión y la oferta. Pareja B: enfoque social y del derecho a la vivienda. Tres fases: debate por turnos con toma de notas, **inversión de roles**, y manifiesto conjunto de tres medidas de consenso.
 
-La fase de inversión es la que hace el trabajo: obliga a entender el argumento contrario en lugar de despacharlo. Protégela si vas justo de tiempo.
+La fase de inversión es la que hace el trabajo. Obliga a entender el argumento contrario en lugar de despacharlo. Protégela si vas justo de tiempo.
 
 **3. El reto (10 min).** Presenta el Juicio simulado con sus cuatro partes y el dossier estructurado.
 
-**4. Cierre transversal (10 min).** El quinto dato, esta vez **normativo**: en Andalucía las familias monoparentales —mayoritariamente encabezadas por mujeres— figuran, junto a jóvenes, víctimas de violencia de género y personas mayores, entre los colectivos con acceso prioritario a la vivienda protegida en alquiler del **Plan Vive en Andalucía**.
+**4. Cierre transversal (10 min).** El quinto dato, esta vez **normativo**: en Andalucía las familias monoparentales, mayoritariamente encabezadas por mujeres, figuran, junto a jóvenes, víctimas de violencia de género y personas mayores, entre los colectivos con acceso prioritario a la vivienda protegida en alquiler del **Plan Vive en Andalucía**.
 
 La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abierta** y se recupera en la sesión 4.
 
@@ -34,7 +34,7 @@ La pregunta de cierre queda anotada en el margen del Cornell como **pregunta abi
 - ¿Y qué tiene eso que ver con la escasez de la que hemos hablado hoy?
 
 ::: aviso Material que debes preparar tú
-- **Cuatro noticias reales y recientes** sobre la crisis de vivienda en Málaga, con enlaces actualizados por ti: (a) el alquiler que absorbe buena parte del salario y las movilizaciones del Sindicato de Inquilinas e Inquilinos; (b) el precio medio de compra en Málaga capital y su ritmo de subida; (c) los datos del INE sobre viviendas de uso turístico en la provincia; (d) la concentración de grandes tenedores de vivienda en alquiler.
+- **Cuatro noticias reales y recientes** sobre la crisis de vivienda en Málaga, con enlaces actualizados por ti. (a) el alquiler que absorbe buena parte del salario y las movilizaciones del Sindicato de Inquilinas e Inquilinos; (b) el precio medio de compra en Málaga capital y su ritmo de subida; (c) los datos del INE sobre viviendas de uso turístico en la provincia; (d) la concentración de grandes tenedores de vivienda en alquiler.
 - **Plantilla de manifiesto de consenso**, una por grupo base.
 - **Dato del Plan Vive en Andalucía** sobre colectivos con acceso prioritario a la vivienda protegida en alquiler.
 - Pizarra o proyector, y plantilla Cornell para anotar la pregunta abierta.
@@ -53,7 +53,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 
 Cuatro noticias reales sobre la vivienda en Málaga. Y una pregunta que da título a toda la unidad:
 
-«¿De quién es la vivienda?»
+“¿De quién es la vivienda?”
 
 Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de camino, vais a tener que defender la contraria.
 
@@ -73,7 +73,7 @@ sda1-s01-07.webp | La pregunta abierta
 
 ### Las cuatro noticias
 
-<table><thead><tr><th width="26%">Foco</th><th width="74%">De qué habla</th></tr></thead><tbody><tr><td><b>El alquiler se dispara</b></td><td>Cómo el alquiler llega a absorber buena parte del salario de muchas familias malagueñas, y las movilizaciones del Sindicato de Inquilinas e Inquilinos de Málaga.</td></tr><tr><td><b>El precio de comprar</b></td><td>El precio medio de la vivienda en Málaga capital ronda ya los 3.800 €/m² y sigue subiendo: uno de los ritmos más altos de España tras Madrid y Barcelona.</td></tr><tr><td><b>La provincia con más pisos turísticos</b></td><td>Según el INE, Málaga es la provincia española con más viviendas de uso turístico —más de 45.000—, lo que reduce la oferta residencial disponible.</td></tr><tr><td><b>Los grandes propietarios</b></td><td>Los «grandes tenedores» de vivienda en alquiler (bancos y fondos de inversión), con Andalucía como segunda comunidad con mayor concentración tras Madrid.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Foco</th><th width="74%">De qué habla</th></tr></thead><tbody><tr><td><b>El alquiler se dispara</b></td><td>Cómo el alquiler llega a absorber buena parte del salario de muchas familias malagueñas, y las movilizaciones del Sindicato de Inquilinas e Inquilinos de Málaga.</td></tr><tr><td><b>El precio de comprar</b></td><td>El precio medio de la vivienda en Málaga capital ronda ya los 3.800 €/m² y sigue subiendo. Uno de los ritmos más altos de España tras Madrid y Barcelona.</td></tr><tr><td><b>La provincia con más pisos turísticos</b></td><td>Según el INE, Málaga es la provincia española con más viviendas de uso turístico, más de 45.000, lo que reduce la oferta residencial disponible.</td></tr><tr><td><b>Los grandes propietarios</b></td><td>Los “grandes tenedores” de vivienda en alquiler (bancos y fondos de inversión), con Andalucía como segunda comunidad con mayor concentración tras Madrid.</td></tr></tbody></table>
 
 ### Las dos posturas asignadas
 
@@ -103,10 +103,10 @@ Cada grupo base representará una parte, preparará un **dossier estructurado** 
 ### Y un quinto dato, esta vez normativo
 
 ::: nota El Plan Vive en Andalucía
-En Andalucía, las **familias monoparentales** —mayoritariamente encabezadas por mujeres— figuran, junto a los jóvenes, las víctimas de violencia de género y las personas mayores, entre los colectivos con **acceso prioritario** a la vivienda protegida en alquiler.
+En Andalucía, las **familias monoparentales**, mayoritariamente encabezadas por mujeres, figuran, junto a los jóvenes, las víctimas de violencia de género y las personas mayores, entre los colectivos con **acceso prioritario** a la vivienda protegida en alquiler.
 :::
 
-«¿Por qué creéis que la ley identifica a las familias monoparentales como un colectivo prioritario para la vivienda protegida? ¿Y qué tiene esto que ver con la escasez de la que hemos hablado hoy?»
+“¿Por qué creéis que la ley identifica a las familias monoparentales como un colectivo prioritario para la vivienda protegida? ¿Y qué tiene esto que ver con la escasez de la que hemos hablado hoy?”
 
 Anotadla en el margen del Cornell como **pregunta abierta**. La recuperamos en la sesión 4, al delimitar el ámbito de la Ciencia Económica.
 
@@ -118,14 +118,14 @@ Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluac
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio: se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
+4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
 :::
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -133,9 +133,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 
@@ -170,7 +170,7 @@ Luego descubriréis que **no somos tan racionales como creemos** (S6 y S7), y qu
 Y finalmente prepararéis un dossier (S9) y lo defenderéis en un **Juicio** (S10).
 
 ::: aviso La pregunta abierta que queda en tu Cornell
-«¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?»
+“¿Por qué la ley identifica a las familias monoparentales como colectivo prioritario para la vivienda protegida? ¿Qué tiene eso que ver con la escasez?”
 
 No la respondemos hoy. La recuperamos en la **sesión 4**, y vuelve otra vez como caso límite en el debate de la **sesión 8**.
 :::

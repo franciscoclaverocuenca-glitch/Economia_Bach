@@ -142,7 +142,7 @@
   }
 
   /* ───────────────────────── Actividades ───────────────────────── */
-  const normalizar = (s) => String(s ?? '').trim().toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[.,;:¡!¿?"«»()]/g, '').replace(/\s+/g, ' ');
+  const normalizar = (s) => String(s ?? '').trim().toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[.,;:¡!¿?"«»“”()]/g, '').replace(/\s+/g, ' ');
   const textoPlano = (el) => (el ? el.textContent.replace(/\s+/g, ' ').trim() : '');
   const marcado = (el) => { const i = $('input:checked', el); return i ? i.value : ''; };
 
@@ -263,7 +263,7 @@
       const v = T.vacios(r);
       if (v && !avisoVacios) {
         avisoVacios = true;
-        res.textContent = `Te ${v === 1 ? 'falta 1 respuesta' : `faltan ${v} respuestas`}. Pulsa «Corregir» otra vez si quieres corregir igualmente.`;
+        res.textContent = `Te ${v === 1 ? 'falta 1 respuesta' : `faltan ${v} respuestas`}. Pulsa “Corregir” otra vez si quieres corregir igualmente.`;
         return;
       }
       const prev = almacen.act(id) || {};
@@ -346,7 +346,7 @@
       almacen.guardarAct(id, { r, h: 1 });
       if (auto) {
         datos.criterios.forEach((c, i) => {
-          const nivel = r.l[i] !== '' ? c.niveles[+r.l[i]] : '—';
+          const nivel = r.l[i] !== '' ? c.niveles[+r.l[i]] : '–';
           almacen.interaccion({ id: `${id}-${c.c}`, tipo: 'likert', respuesta: `${nivel}: ${r.t[i] || ''}`, resultado: 'neutral' });
         });
         if (r.t[datos.criterios.length]) almacen.interaccion({ id: `${id}-mejora`, tipo: 'fill-in', respuesta: r.t[datos.criterios.length], resultado: 'neutral' });
@@ -364,14 +364,14 @@
     const esc = (s) => String(s).replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[c]);
     const filas = datos.criterios.map((c, i) => {
       const v = marcado($(`.act-item[data-i="${i}"]`, el));
-      return `<h2>Criterio ${esc(c.c)}: ${v !== '' ? esc(c.niveles[+v]) : '(sin nivel)'}</h2><p>${esc($$('textarea', el)[i].value || '—')}</p>`;
+      return `<h2>Criterio ${esc(c.c)}: ${v !== '' ? esc(c.niveles[+v]) : '(sin nivel)'}</h2><p>${esc($$('textarea', el)[i].value || '–')}</p>`;
     }).join('');
     const mejora = $(`#${id}-mejora`);
     const w = window.open('', '_blank');
     if (!w) return;
     w.document.write(`<!DOCTYPE html><html lang="es"><meta charset="utf-8"><title>Autoevaluación</title><style>body{font:16px/1.5 system-ui,sans-serif;max-width:720px;margin:30px auto;padding:0 20px}h1{font-size:22px}h2{font-size:17px;margin-top:22px}</style>` +
       `<h1>${esc(document.querySelector('.barra-unidad')?.textContent || '')} · Autoevaluación de cierre</h1><p>Nombre: ______________________ Grupo: ______ Fecha: ${new Date().toLocaleDateString('es-ES')}</p>${filas}` +
-      (mejora ? `<h2>Aspecto concreto de mejora</h2><p>${esc(mejora.value || '—')}</p>` : '') + '<script>print()<\/script></html>');
+      (mejora ? `<h2>Aspecto concreto de mejora</h2><p>${esc(mejora.value || '–')}</p>` : '') + '<script>print()<\/script></html>');
     w.document.close();
   }
 
@@ -545,7 +545,7 @@
             lect.push(`Respecto al inicio, el precio ${dp > 0 ? 'sube' : 'baja'} de ${fmt(e0.p)} a ${fmt(e.p)} ${u} (${dp > 0 ? '+' : ''}${fmt((100 * dp) / e0.p, 0)} %) y la cantidad ${dq > 0 ? 'aumenta' : 'disminuye'} de ${fmt(e0.q, 1)} a ${fmt(e.q, 1)}.`);
           } else lect.push('El mercado está en su equilibrio inicial. Mueve las curvas para ver qué ocurre.');
         } else {
-          ['p', 'q', 'g', 'e'].forEach((k) => { $(`[data-o="${k}"]`, el).textContent = '—'; });
+          ['p', 'q', 'g', 'e'].forEach((k) => { $(`[data-o="${k}"]`, el).textContent = '–'; });
           lect.push('Con estos valores las curvas no se cortan dentro del gráfico.');
         }
         if (tope > 0 && valido) {
@@ -687,6 +687,18 @@
       a.addEventListener('focus', () => on(true));
       a.addEventListener('blur', () => on(false));
     });
+    // las voces del curso: una al azar en cada visita
+    const voces = $('[data-voces]');
+    if (voces) {
+      const botones = $$('[data-voz]', voces);
+      const fichas = $$('[data-voz-ficha]', voces);
+      const mostrar = (i) => {
+        botones.forEach((b, k) => b.setAttribute('aria-pressed', String(k === i)));
+        fichas.forEach((f, k) => { f.hidden = k !== i; });
+      };
+      botones.forEach((b, i) => b.addEventListener('click', () => mostrar(i)));
+      mostrar(Math.floor(Math.random() * botones.length));
+    }
     // progreso guardado en este navegador
     tarjetas.forEach((el) => {
       let e = null;

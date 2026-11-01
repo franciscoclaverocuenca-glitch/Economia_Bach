@@ -8,11 +8,11 @@ titulo: Sesión 10 · ¿Crecer para siempre? Decrecimiento y ODS
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>El espejismo de crecer para siempre: explicación magistral.</td><td>2</td></tr><tr><td>00:10 – 00:25</td><td>Controversia breve: ¿crecimiento verde o decrecimiento?</td><td>3</td></tr><tr><td>00:25 – 00:40</td><td>Los ODS como marco de síntesis.</td><td>4–5</td></tr><tr><td>00:40 – 00:45</td><td>Lanzamiento oficial del reto: elección del foco de la campaña.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre: ficha de reto elegido y primer termómetro de viabilidad.</td><td>7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>El espejismo de crecer para siempre: explicación magistral.</td><td>2</td></tr><tr><td>00:10 – 00:25</td><td>Controversia breve: ¿crecimiento verde o decrecimiento?</td><td>3</td></tr><tr><td>00:25 – 00:40</td><td>Los ODS como marco de síntesis.</td><td>4–5</td></tr><tr><td>00:40 – 00:45</td><td>Lanzamiento oficial del reto: elección del foco de la campaña.</td><td>6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre. Ficha de reto elegido y primer termómetro de viabilidad.</td><td>7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El espejismo (10 min).** Retoma explícitamente el diagnóstico inicial de la sesión 1: «¿se puede crecer para siempre?». Explica los factores del crecimiento económico y sus consecuencias sobre la distribución de la renta y el medioambiente, y presenta como contrapunto crítico las teorías del **decrecimiento**.
+**1. El espejismo (10 min).** Retoma explícitamente el diagnóstico inicial de la sesión 1: “¿se puede crecer para siempre?”. Explica los factores del crecimiento económico y sus consecuencias sobre la distribución de la renta y el medioambiente, y presenta como contrapunto crítico las teorías del **decrecimiento**.
 
 **2. La controversia (15 min).** Grupos base repartidos en dos posturas: crecimiento verde frente a decrecimiento. Y una exigencia concreta: **cada grupo debe anotar el argumento más sólido de la postura contraria** antes de concluir. Esa consigna es la que impide que el debate se convierta en un intercambio de eslóganes.
 
@@ -49,7 +49,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 
 ## Para empezar
 
-En la sesión 1 respondisteis a ciegas a una pregunta del cuestionario diagnóstico: **«¿se puede crecer para siempre?»**.
+En la sesión 1 respondisteis a ciegas a una pregunta del cuestionario diagnóstico: **“¿se puede crecer para siempre?”**.
 
 Hoy tenéis nueve sesiones de economía detrás. Y toca responderla con argumentos.
 
@@ -69,7 +69,7 @@ sda3-s10-07.webp | El termómetro
 
 ## Controversia: ¿crecimiento verde o decrecimiento?
 
-<table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td>La tecnología permite <b>desacoplar</b> crecimiento e impacto ambiental: renovables, eficiencia, economía circular. Y sin crecimiento no hay recursos para financiar la transición ecológica ni para sostener el Estado del bienestar que estudiasteis ayer.</td><td>El desacoplamiento <b>no está ocurriendo a la velocidad necesaria</b>. Solo reduciendo deliberadamente producción y consumo en los países más ricos se respetan los límites ecológicos. No es empobrecerse: es reorientar qué se produce y para qué, y redistribuir mejor lo que ya hay.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td>La tecnología permite <b>desacoplar</b> crecimiento e impacto ambiental: renovables, eficiencia, economía circular. Y sin crecimiento no hay recursos para financiar la transición ecológica ni para sostener el Estado del bienestar que estudiasteis ayer.</td><td>El desacoplamiento <b>no está ocurriendo a la velocidad necesaria</b>. Solo reduciendo deliberadamente producción y consumo en los países más ricos se respetan los límites ecológicos. No es empobrecerse. Es reorientar qué se produce y para qué, y redistribuir mejor lo que ya hay.</td></tr></tbody></table>
 
 ::: aviso La consigna que hace útil este debate
 Antes de concluir, cada grupo debe **anotar por escrito el argumento más sólido de la postura contraria**. No el más fácil de rebatir: el más sólido. Es lo que separa un debate de un intercambio de eslóganes.
@@ -77,11 +77,11 @@ Antes de concluir, cada grupo debe **anotar por escrito el argumento más sólid
 
 ### Los ODS como marco de síntesis
 
-Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unidas son el marco que intenta conciliar las tres cosas a la vez: crecimiento económico, equidad social y límites ambientales.
+Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unidas son el marco que intenta conciliar las tres cosas a la vez. Crecimiento económico, equidad social y límites ambientales.
 
 <table><thead><tr><th width="58%">Y en Andalucía no es un marco abstracto</th><th width="42%">El dato</th></tr></thead><tbody><tr><td>Estrategia Andaluza de Desarrollo Sostenible 2030</td><td>Aprobada en 2018</td></tr><tr><td>Líneas de actuación</td><td>37</td></tr><tr><td>Medidas concretas</td><td>226</td></tr><tr><td>Indicadores de seguimiento</td><td>46, calculados por el <b>IECA</b></td></tr></tbody></table>
 
-Ese último dato es el que importa: hay **quien mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.
+Ese último dato es el que importa. Hay **quien mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.
 
 ## Lanzamiento del reto #GlobalizAcción
 
@@ -105,35 +105,35 @@ El resto de la clase valora vuestra idea en bruto con la escala de dedos (1 a 4)
 
 ### 1. El crecimiento económico y sus consecuencias
 
-El crecimiento económico —el aumento sostenido de la producción de un país— ha sido durante décadas el objetivo económico por excelencia. Y con razón: es lo que ha permitido financiar el Estado del bienestar, mejorar la esperanza de vida y sacar de la pobreza extrema a cientos de millones de personas.
+El crecimiento económico, el aumento sostenido de la producción de un país, ha sido durante décadas el objetivo económico por excelencia. Y con razón. Es lo que ha permitido financiar el Estado del bienestar, mejorar la esperanza de vida y sacar de la pobreza extrema a cientos de millones de personas.
 
-Pero tiene dos consecuencias que no conviene ignorar: sus frutos **no se distribuyen automáticamente** de forma equitativa, y su base material —recursos, energía, emisiones— choca con los **límites ecológicos** del planeta.
+Pero tiene dos consecuencias que no conviene ignorar: sus frutos **no se distribuyen automáticamente** de forma equitativa, y su base material (recursos, energía, emisiones) choca con los **límites ecológicos** del planeta.
 
 ### 2. Crecimiento verde y decrecimiento
 
-<table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td><b>Tesis:</b> la tecnología permite desacoplar el crecimiento del impacto ambiental.</td><td><b>Tesis:</b> ese desacoplamiento no está ocurriendo a la velocidad necesaria.</td></tr><tr><td>Renovables, eficiencia energética y economía circular hacen posible crecer con menos huella.</td><td>Solo reduciendo deliberadamente producción y consumo en los países ricos se respetan los límites ecológicos.</td></tr><tr><td>Y sin crecimiento no hay recursos para financiar la propia transición ecológica ni el Estado del bienestar.</td><td>No es empobrecerse: es reorientar qué se produce y para qué, y redistribuir mejor lo que ya existe.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td><b>Tesis:</b> la tecnología permite desacoplar el crecimiento del impacto ambiental.</td><td><b>Tesis:</b> ese desacoplamiento no está ocurriendo a la velocidad necesaria.</td></tr><tr><td>Renovables, eficiencia energética y economía circular hacen posible crecer con menos huella.</td><td>Solo reduciendo deliberadamente producción y consumo en los países ricos se respetan los límites ecológicos.</td></tr><tr><td>Y sin crecimiento no hay recursos para financiar la propia transición ecológica ni el Estado del bienestar.</td><td>No es empobrecerse. Es reorientar qué se produce y para qué, y redistribuir mejor lo que ya existe.</td></tr></tbody></table>
 
 ::: aviso Cómo se discute esto en serio
-No basta con elegir bando. Antes de concluir hay que ser capaz de formular **el argumento más sólido de la postura contraria** —no el más fácil de rebatir—. Si no puedes hacerlo, todavía no has entendido el debate.
+No basta con elegir bando. Antes de concluir hay que ser capaz de formular **el argumento más sólido de la postura contraria**, no el más fácil de rebatir. Si no puedes hacerlo, todavía no has entendido el debate.
 :::
 
 ### 3. Los ODS: el marco de síntesis
 
-Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unidas son el intento internacional más ambicioso de conciliar tres cosas que tiran en direcciones distintas: crecimiento económico, equidad social y límites ambientales.
+Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unidas son el intento internacional más ambicioso de conciliar tres cosas que tiran en direcciones distintas. Crecimiento económico, equidad social y límites ambientales.
 
 Que sea difícil no significa que no merezca intentarse. Y no son una declaración vacía: tienen despliegue concreto.
 
 ::: nota Los ODS en Andalucía
 La **Estrategia Andaluza de Desarrollo Sostenible 2030**, aprobada en 2018, despliega **37 líneas de actuación** en **226 medidas**, con **46 indicadores de seguimiento** calculados por el **Instituto de Estadística y Cartografía de Andalucía (IECA)**.
 
-El dato de los indicadores es el que importa: significa que hay quien **mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.
+El dato de los indicadores es el que importa. Significa que hay quien **mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.
 :::
 
 ### 4. Y ahora, vuestra campaña
 
 Con esta sesión se cierra el recorrido conceptual de la unidad. A partir de aquí, todo es producción: guion, infografía, propuesta ODS y Gala de lanzamiento.
 
-Vuestro reto elegido determina qué sesiones vais a releer con más atención. Y la propuesta ODS de vuestra campaña tendrá que ser tan concreta como las 226 medidas de la Estrategia Andaluza: con destinatario, con acción y con forma de saber si funciona.
+Vuestro reto elegido determina qué sesiones vais a releer con más atención. Y la propuesta ODS de vuestra campaña tendrá que ser tan concreta como las 226 medidas de la Estrategia Andaluza. Con destinatario, con acción y con forma de saber si funciona.
 
 ### Glosario de la sesión
 

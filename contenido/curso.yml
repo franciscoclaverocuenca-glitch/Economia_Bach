@@ -16,11 +16,11 @@ portada:
   titular: Doce retos para entender la *economía*
   entradilla: >-
     Cada unidad arranca con un reto sin respuesta fácil y termina con algo que
-    construyes tú: un juicio, una cumbre, una campaña, un mercado montado en el aula.
+    construyes tú, ya sea un juicio, una cumbre, una campaña, un mercado montado en el aula.
     Elige la tuya y entra.
 
 trimestres:
-  1: { nombre: Primer trimestre, sub: "Los cimientos: escasez, sistemas y el mundo" }
+  1: { nombre: Primer trimestre, sub: "Los cimientos, la escasez y el mundo" }
   2: { nombre: Segundo trimestre, sub: Cómo funcionan los mercados y el trabajo }
   3: { nombre: Tercer trimestre, sub: El dinero, los precios y lo público }
 
@@ -29,11 +29,56 @@ pie:
     parrafos:
       - >-
         Doce situaciones de aprendizaje para la materia de Economía de 1.º de Bachillerato,
-        ancladas en la realidad económica de Málaga y Andalucía.
+        ancladas en la realidad económica de Málaga y Andalucía. Cada una parte de un problema
+        que se puede ver desde la ventana del instituto y termina con algo que se presenta en público.
       - >-
-        Marco normativo: LOMLOE · Real Decreto 243/2022 · Decreto 103/2023 · Orden de 30 de mayo de 2023.
+        Puedes trabajar a tu ritmo. La web recuerda qué páginas has visto y cómo te ha ido en
+        los cuestionarios, sin enviar nada a ningún servidor.
+
+# Las voces del curso: aparecen en el pie de la portada.
+# sda es el número de la unidad en la que se trabaja a cada persona.
+voces:
+  - nombre: Elinor Ostrom
+    sda: 1
+    dato: Primera mujer en recibir el Nobel de Economía (2009). Demostró que comunidades de pescadores, regantes o pastores pueden cuidar un bien común sin privatizarlo ni ponerlo en manos del Estado.
+  - nombre: Susan Athey
+    sda: 5
+    dato: Estudia cómo se forman los precios en subastas y mercados digitales. En 2007 fue la primera mujer en recibir la medalla John Bates Clark.
+  - nombre: Joan Robinson
+    sda: 6
+    dato: Economista de Cambridge que en 1933 explicó la competencia imperfecta, el mundo real en el que pocas empresas fijan los precios. Le debemos la palabra monopsonio.
+  - nombre: Claudia Goldin
+    sda: 7
+    dato: Nobel de Economía en 2023 por reconstruir dos siglos de trabajo femenino y explicar por qué la brecha salarial persiste.
+  - nombre: Esther Duflo
+    sda: 8
+    dato: Nobel de Economía en 2019 por llevar los experimentos de campo a la lucha contra la pobreza, comprobando qué funciona de verdad y qué no.
+  - nombre: Sabina Alkire
+    sda: 8
+    dato: Creó con James Foster el Índice de Pobreza Multidimensional, que mide la pobreza por lo que falta en educación, salud y condiciones de vida, no solo por los ingresos.
+  - nombre: Marilyn Waring
+    sda: 9
+    dato: En Si las mujeres contaran (1988) denunció que la contabilidad nacional ignora el trabajo de cuidados. Gracias a ella hoy existen encuestas de empleo del tiempo.
+  - nombre: Carmen Reinhart
+    sda: 10
+    dato: Junto a Kenneth Rogoff reunió ocho siglos de crisis financieras en Esta vez es distinto. Fue economista jefe del Banco Mundial.
+  - nombre: Soledad Núñez
+    sda: 10
+    dato: Dirigió el Tesoro Público español entre 2014 y 2018, la oficina que decide cómo se endeuda el Estado.
+  - nombre: Anna Schwartz
+    sda: 11
+    dato: Escribió con Milton Friedman la Historia monetaria de Estados Unidos (1963), el libro que cambió la forma de entender la inflación y las crisis.
+  - nombre: Isabel Schnabel
+    sda: 11
+    dato: Economista alemana, miembro del Comité Ejecutivo del Banco Central Europeo desde 2020, donde se decide el precio del dinero en la zona euro.
+  - nombre: Mariana Mazzucato
+    sda: 12
+    dato: En El Estado emprendedor mostró que detrás de internet, el GPS o la pantalla táctil hubo inversión pública que asumió el riesgo.
+  - nombre: Stephanie Kelton
+    sda: 12
+    dato: En El mito del déficit plantea que un Estado con moneda propia no gasta como una familia. Es una de las voces más discutidas sobre deuda pública.
 
 # SCORM: nota mínima (0-100) para considerar superada una unidad en Moodle.
-# Déjalo vacío para que Moodle solo registre «completado» y la nota.
+# Déjalo vacío para que Moodle solo registre “completado” y la nota.
 scorm:
   nota_minima:

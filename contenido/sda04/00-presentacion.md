@@ -24,7 +24,7 @@ La unidad se coordina con **Cultura Emprendedora y Empresarial** (competencia es
 
 ¿La gente emprendedora nace o se hace? Es la pregunta con la que abre esta unidad, y no tiene una respuesta rápida. Lo que sí tiene respuesta es qué hace falta **saber** para montar un negocio y que no se hunda.
 
-Y eso es exactamente lo que vais a aprender: desde qué es una empresa y qué funciones cumple, hasta cómo se calcula si de verdad gana dinero. Al final, cada equipo habrá diseñado una empresa ficticia completa y la habrá defendido ante un jurado.
+Y eso es exactamente lo que vais a aprender. Desde qué es una empresa y qué funciones cumple, hasta cómo se calcula si de verdad gana dinero. Al final, cada equipo habrá diseñado una empresa ficticia completa y la habrá defendido ante un jurado.
 
 ### Qué vas a aprender
 
@@ -39,27 +39,27 @@ Y eso es exactamente lo que vais a aprender: desde qué es una empresa y qué fu
 Competencia específica **2** · Criterio de evaluación **2.4** · Saber básico **B1** · 11 sesiones · Coordinación propuesta con Cultura Emprendedora y Empresarial (CEE) en las sesiones 6 y 9.
 :::
 
-## El reto: «De la Idea al Beneficio»
+## El reto: “De la Idea al Beneficio”
 
-Cada equipo diseñará una **empresa ficticia completa** —desde detectar el problema hasta calcular su beneficio estimado— y la defenderá en un **pitch de 3-4 minutos ante un jurado**.
+Cada equipo diseñará una **empresa ficticia completa**, desde detectar el problema hasta calcular su beneficio estimado, y la defenderá en un **pitch de 3-4 minutos ante un jurado**.
 
 ### El producto final tiene dos piezas
 
-<table><thead><tr><th width="24%">Pieza</th><th width="48%">Qué es</th><th width="28%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. El Startup Canvas</b></td><td>Lienzo de Modelo de Negocio con seis bloques: propuesta de valor, segmento de clientes, canales, estructura de costes, fuentes de ingresos y el beneficio estimado con sus supuestos explicitados. Más un compromiso concreto de responsabilidad social.</td><td>Instrumentos R (valoración del producto) y P (portafolio)</td></tr><tr><td><b>2. El pitch «De la Idea al Beneficio»</b></td><td>Defensa de 3-4 minutos ante el jurado con cuatro bloques obligatorios —problema, solución, cifras clave y compromiso— más un turno de preguntas.</td><td>Instrumentos EO (exposición oral) y Co.Ev. (coevaluación)</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Pieza</th><th width="48%">Qué es</th><th width="28%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. El Startup Canvas</b></td><td>Lienzo de Modelo de Negocio con seis bloques: propuesta de valor, segmento de clientes, canales, estructura de costes, fuentes de ingresos y el beneficio estimado con sus supuestos explicitados. Más un compromiso concreto de responsabilidad social.</td><td>Instrumentos R (valoración del producto) y P (portafolio)</td></tr><tr><td><b>2. El pitch “De la Idea al Beneficio”</b></td><td>Defensa de 3-4 minutos ante el jurado con cuatro bloques obligatorios (problema, solución, cifras clave y compromiso) más un turno de preguntas.</td><td>Instrumentos EO (exposición oral) y Co.Ev. (coevaluación)</td></tr></tbody></table>
 
 ::: nota De la idea al beneficio: el recorrido completo
-Lo que distingue a esta unidad es que **no os quedáis en la idea**. Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay que llegar hasta el número: cuánto cuesta, cuánto se ingresa y si sale a favor o en contra. Y hay que **explicar de dónde sale cada cifra**.
+Lo que distingue a esta unidad es que **no os quedáis en la idea**. Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay que llegar hasta el número. Cuánto cuesta, cuánto se ingresa y si sale a favor o en contra. Y hay que **explicar de dónde sale cada cifra**.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido: puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -67,9 +67,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 
@@ -83,4 +83,4 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 Estas son las once sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
 
-<table><thead><tr><th width="5%">Nº</th><th width="70%">Sesión</th><th width="25%">Fase</th></tr></thead><tbody><tr><td>1</td><td>¿Nace o se hace? Diagnóstico emprendedor</td><td>Movilizar + Activar</td></tr><tr><td>2</td><td>Exploración: una idea que se hizo empresa</td><td>Explorar</td></tr><tr><td>3</td><td>La empresa y sus funciones</td><td>Estructurar</td></tr><tr><td>4</td><td>El tejido empresarial andaluz al detalle</td><td>Estructurar</td></tr><tr><td>5</td><td>El proceso productivo: eficiencia y productividad</td><td>Estructurar</td></tr><tr><td>6</td><td>Los costes de la empresa y el beneficio</td><td>Estructurar</td></tr><tr><td>7</td><td>¿Beneficio a cualquier precio? Innovación, valor añadido y RSC</td><td>Estructurar</td></tr><tr><td>8</td><td>Nace la idea: Design Thinking exprés</td><td>Aplicar</td></tr><tr><td>9</td><td>El Canvas completo: costes, ingresos y beneficio</td><td>Aplicar</td></tr><tr><td>10</td><td>Pitch final «De la Idea al Beneficio»</td><td>Evaluar</td></tr><tr><td>11</td><td>Prueba escrita de contenidos y cierre de la unidad</td><td>Evaluar</td></tr></tbody></table>
+<table><thead><tr><th width="5%">Nº</th><th width="70%">Sesión</th><th width="25%">Fase</th></tr></thead><tbody><tr><td>1</td><td>¿Nace o se hace? Diagnóstico emprendedor</td><td>Movilizar + Activar</td></tr><tr><td>2</td><td>Exploración: una idea que se hizo empresa</td><td>Explorar</td></tr><tr><td>3</td><td>La empresa y sus funciones</td><td>Estructurar</td></tr><tr><td>4</td><td>El tejido empresarial andaluz al detalle</td><td>Estructurar</td></tr><tr><td>5</td><td>El proceso productivo: eficiencia y productividad</td><td>Estructurar</td></tr><tr><td>6</td><td>Los costes de la empresa y el beneficio</td><td>Estructurar</td></tr><tr><td>7</td><td>¿Beneficio a cualquier precio? Innovación, valor añadido y RSC</td><td>Estructurar</td></tr><tr><td>8</td><td>Nace la idea: Design Thinking exprés</td><td>Aplicar</td></tr><tr><td>9</td><td>El Canvas completo: costes, ingresos y beneficio</td><td>Aplicar</td></tr><tr><td>10</td><td>Pitch final “De la Idea al Beneficio”</td><td>Evaluar</td></tr><tr><td>11</td><td>Prueba escrita de contenidos y cierre de la unidad</td><td>Evaluar</td></tr></tbody></table>

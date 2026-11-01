@@ -4,7 +4,7 @@ titulo: Sesión 9 · El Comité de Inversión y Riesgos
 
 ## Guía docente · Sesión 9 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.2 + 4.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>A4, C5</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 · Gran grupo / roles (Comité)</td><td><b>Carácter</b></td><td>Sumativa — cierre y defensa del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: control de calidad final del plan · PF: valoración del Plan Financiero Personal · EO: defensa oral de la cartera y el plan · D: turno de preguntas del Comité · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.2 + 4.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>A4, C5</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 · Gran grupo / roles (Comité)</td><td><b>Carácter</b></td><td>Sumativa, cierre y defensa del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: control de calidad final del plan · PF: valoración del Plan Financiero Personal · EO: defensa oral de la cartera y el plan · D: turno de preguntas del Comité · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
@@ -12,13 +12,13 @@ titulo: Sesión 9 · El Comité de Inversión y Riesgos
 
 ### Guion paso a paso
 
-**1. Cierre del plan (15 min).** Cada grupo retoma el plan que empezó en la sesión 8 con todo el portafolio sobre la mesa. Circula formulando las preguntas que anticipan al Comité y devuelve retroalimentación estructurada: dos cosas que funcionan y una que hay que arreglar. Reserva los últimos minutos para que repartan los turnos de la defensa y la **ensayen en voz alta**.
+**1. Cierre del plan (15 min).** Cada grupo retoma el plan que empezó en la sesión 8 con todo el portafolio sobre la mesa. Circula formulando las preguntas que anticipan al Comité y devuelve retroalimentación estructurada. Dos cosas que funcionan y una que hay que arreglar. Reserva los últimos minutos para que repartan los turnos de la defensa y la **ensayen en voz alta**.
 
 **2. Constitución del Comité (5 min).** Comité rotativo: mientras un grupo defiende, otro grupo ejerce de Comité con las preguntas preparadas. Recoge los planes (instrumento PF).
 
 **3. Defensa ante el Comité (30 min).** Cada grupo dispone de **2-3 minutos** para presentar la lógica de su cartera y su plan (instrumento EO); después, el Comité formula preguntas cruzadas sobre riesgo, diversificación, coste de la deuda y ciberseguridad (instrumento D). Recuerda la regla: **no se premia la cartera más rentable**, sino la mejor fundamentada y la más coherente con el perfil y los objetivos del personaje.
 
-**4. Coevaluación (5 min).** Cada alumno/a valora a los otros grupos con la escala de dedos y una frase de justificación (instrumento Co.Ev.). La prueba escrita individual, en la sesión 10, completa la evidencia: el producto es resistente a un uso indebido de la IA porque exige razonamiento propio, transferencia a un caso singular y defensa en directo.
+**4. Coevaluación (5 min).** Cada alumno/a valora a los otros grupos con la escala de dedos y una frase de justificación (instrumento Co.Ev.). La prueba escrita individual, en la sesión 10, completa la evidencia. El producto es resistente a un uso indebido de la IA porque exige razonamiento propio, transferencia a un caso singular y defensa en directo.
 
 ### Preguntas guía del profesorado
 
@@ -68,15 +68,15 @@ Las cinco piezas que empezasteis en la sesión 8 tienen que encajar entre sí. U
 
 ### Lista de comprobación antes de entregar
 
-<table><thead><tr><th width="6%"></th><th width="94%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Está el fondo de emergencia dimensionado en <b>meses de gastos básicos</b> y sabemos en cuántos meses se completa?</td></tr><tr><td></td><td>¿La decisión de deuda compara al menos dos opciones por <b>TAE</b>, no por TIN?</td></tr><tr><td></td><td>¿Cada porcentaje de la cartera está conectado con el <b>horizonte</b> y la <b>tolerancia al riesgo</b> del personaje?</td></tr><tr><td></td><td>¿Están los seguros y el decálogo de ciberseguridad, o se han quedado fuera por falta de tiempo?</td></tr><tr><td></td><td>¿Hay al menos un dato oficial con su <b>fuente citada</b>?</td></tr><tr><td></td><td>¿Sobrevive el plan a la pregunta «¿y si se queda sin trabajo tres meses?»</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Está el fondo de emergencia dimensionado en <b>meses de gastos básicos</b> y sabemos en cuántos meses se completa?</td></tr><tr><td></td><td>¿La decisión de deuda compara al menos dos opciones por <b>TAE</b>, no por TIN?</td></tr><tr><td></td><td>¿Cada porcentaje de la cartera está conectado con el <b>horizonte</b> y la <b>tolerancia al riesgo</b> del personaje?</td></tr><tr><td></td><td>¿Están los seguros y el decálogo de ciberseguridad, o se han quedado fuera por falta de tiempo?</td></tr><tr><td></td><td>¿Hay al menos un dato oficial con su <b>fuente citada</b>?</td></tr><tr><td></td><td>¿Sobrevive el plan a la pregunta “¿y si se queda sin trabajo tres meses?”</td></tr></tbody></table>
 
 ### Y repartid la defensa
 
-Tenéis **2-3 minutos** ante el Comité. En dos minutos no cabe todo: elegid lo que mejor demuestre que el plan encaja con la persona. Y **ensayadlo en voz alta**, no mentalmente.
+Tenéis **2-3 minutos** ante el Comité. En dos minutos no cabe todo. Elegid lo que mejor demuestre que el plan encaja con la persona. Y **ensayadlo en voz alta**, no mentalmente.
 
 ## El Comité de Inversión y Riesgos
 
-<table><thead><tr><th width="22%">Momento</th><th width="64%">Qué pasa</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>Defensa</b></td><td>Vuestro grupo presenta la lógica del plan y de la cartera: por qué encaja con vuestro personaje.</td><td>2-3 min</td></tr><tr><td><b>Preguntas</b></td><td>El Comité pregunta sobre riesgo, diversificación, coste de la deuda y ciberseguridad. Responde quien el Comité señale.</td><td>2 min</td></tr><tr><td><b>Cambio de papel</b></td><td>Cuando no defendéis, sois Comité: preparad preguntas para el grupo que presenta.</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="22%">Momento</th><th width="64%">Qué pasa</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>Defensa</b></td><td>Vuestro grupo presenta la lógica del plan y de la cartera: por qué encaja con vuestro personaje.</td><td>2-3 min</td></tr><tr><td><b>Preguntas</b></td><td>El Comité pregunta sobre riesgo, diversificación, coste de la deuda y ciberseguridad. Responde quien el Comité señale.</td><td>2 min</td></tr><tr><td><b>Cambio de papel</b></td><td>Cuando no defendéis, sois Comité. Preparad preguntas para el grupo que presenta.</td><td>–</td></tr></tbody></table>
 
 ::: nota La regla del Comité
 No gana la cartera más rentable, sino la **mejor fundamentada** y la más adecuada a la persona.

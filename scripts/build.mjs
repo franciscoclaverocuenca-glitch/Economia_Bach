@@ -19,10 +19,13 @@ const DIST = path.join(RAIZ, 'dist');
 const TMP = path.join(RAIZ, '.cache', 'scorm');
 const ASSETS = path.join(RAIZ, 'src', 'assets');
 const FUENTES = [
-  ['@fontsource/literata/files', 'literata-latin-400-normal.woff2'],
-  ['@fontsource/literata/files', 'literata-latin-400-italic.woff2'],
-  ['@fontsource/literata/files', 'literata-latin-700-normal.woff2'],
-  ['@fontsource/literata/files', 'literata-latin-700-italic.woff2'],
+  ['@fontsource/alegreya/files', 'alegreya-latin-400-normal.woff2'],
+  ['@fontsource/alegreya/files', 'alegreya-latin-400-italic.woff2'],
+  ['@fontsource/alegreya/files', 'alegreya-latin-700-normal.woff2'],
+  ['@fontsource/alegreya/files', 'alegreya-latin-800-normal.woff2'],
+  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-400-normal.woff2'],
+  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-500-normal.woff2'],
+  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-700-normal.woff2'],
 ];
 
 const errores = [];

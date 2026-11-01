@@ -8,13 +8,13 @@ titulo: Sesión 8 · La economía de mercado
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:25</td><td>Estudio dirigido del caso real de economía de mercado.</td><td>2–4</td></tr><tr><td>00:25 – 00:45</td><td>Tarea individual: ficha de 4 apartados.</td><td>5–6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre con cuestionario formativo de repaso.</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:25</td><td>Estudio dirigido del caso real de economía de mercado.</td><td>2–4</td></tr><tr><td>00:25 – 00:45</td><td>Tarea individual: ficha de 4 apartados.</td><td>5–6</td></tr><tr><td>00:45 – 00:50</td><td>Cierre con cuestionario formativo de repaso.</td><td>–</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El estudio dirigido (25 min).** Caso real de una economía predominantemente de mercado: libertad de precios, propiedad privada de los medios de producción y papel central de la oferta y la demanda.
+**1. El estudio dirigido (25 min).** Caso real de una economía predominantemente de mercado. Libertad de precios, propiedad privada de los medios de producción y papel central de la oferta y la demanda.
 
-Presenta de forma **documentada** tanto sus logros habituales —innovación, variedad, señales de precios eficientes— como sus límites conocidos —desigualdad, fallos de mercado no corregidos, ciclos económicos—. Los dos lados con el mismo rigor.
+Presenta de forma **documentada** tanto sus logros habituales (innovación, variedad, señales de precios eficientes) como sus límites conocidos (desigualdad, fallos de mercado no corregidos, ciclos económicos). Los dos lados con el mismo rigor.
 
 **2. La ficha individual (20 min).** Cuatro apartados: cómo responde el sistema a las tres preguntas básicas, un dato que ilustre su funcionamiento, una ventaja documentada y una crítica documentada. Con los apuntes del puzzle de la S6 y la explicación de hoy.
 
@@ -88,15 +88,15 @@ Porque mañana vais a rellenar **la misma ficha** para la planificación central
 
 ### 1. Qué define una economía de mercado
 
-<table><thead><tr><th width="36%">Rasgo</th><th width="64%">En qué consiste</th></tr></thead><tbody><tr><td><b>Libertad de precios</b></td><td>Los precios se forman por el juego de la oferta y la demanda. Y funcionan como señales: un precio alto avisa de que algo escasea o se desea mucho, sin que nadie tenga que anunciarlo.</td></tr><tr><td><b>Propiedad privada de los medios de producción</b></td><td>Las fábricas, la tierra y el capital pertenecen a particulares o a empresas.</td></tr><tr><td><b>Papel central de la oferta y la demanda</b></td><td>Son ellas las que responden a las tres preguntas básicas, de forma descentralizada.</td></tr></tbody></table>
+<table><thead><tr><th width="36%">Rasgo</th><th width="64%">En qué consiste</th></tr></thead><tbody><tr><td><b>Libertad de precios</b></td><td>Los precios se forman por el juego de la oferta y la demanda. Y funcionan como señales. Un precio alto avisa de que algo escasea o se desea mucho, sin que nadie tenga que anunciarlo.</td></tr><tr><td><b>Propiedad privada de los medios de producción</b></td><td>Las fábricas, la tierra y el capital pertenecen a particulares o a empresas.</td></tr><tr><td><b>Papel central de la oferta y la demanda</b></td><td>Son ellas las que responden a las tres preguntas básicas, de forma descentralizada.</td></tr></tbody></table>
 
 ### 2. Las tres preguntas, respondidas por el mercado
 
-<table><thead><tr><th width="30%">Pregunta</th><th width="70%">La respuesta del mercado</th></tr></thead><tbody><tr><td><b>¿QUÉ producir?</b></td><td>Lo que los consumidores estén dispuestos a comprar. Cada compra funciona como un voto.</td></tr><tr><td><b>¿CÓMO producir?</b></td><td>De la forma más barata posible: las empresas compiten en costes y quien produce más caro queda fuera.</td></tr><tr><td><b>¿PARA QUIÉN producir?</b></td><td>Para quien pueda pagarlo. Este es el criterio del sistema, y también el origen de su crítica principal.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Pregunta</th><th width="70%">La respuesta del mercado</th></tr></thead><tbody><tr><td><b>¿QUÉ producir?</b></td><td>Lo que los consumidores estén dispuestos a comprar. Cada compra funciona como un voto.</td></tr><tr><td><b>¿CÓMO producir?</b></td><td>De la forma más barata posible. Las empresas compiten en costes y quien produce más caro queda fuera.</td></tr><tr><td><b>¿PARA QUIÉN producir?</b></td><td>Para quien pueda pagarlo. Este es el criterio del sistema, y también el origen de su crítica principal.</td></tr></tbody></table>
 
 ### 3. Logros y límites, documentados
 
-<table><thead><tr><th width="50%">Logros habituales</th><th width="50%">Límites conocidos</th></tr></thead><tbody><tr><td><b>Innovación.</b> Competir empuja a mejorar el producto o a abaratarlo.</td><td><b>Desigualdad.</b> Repartir según capacidad de pago deja fuera a quien tiene menos, aunque lo necesite más.</td></tr><tr><td><b>Variedad.</b> Hay incentivo a atender gustos minoritarios si hay quien los pague.</td><td><b>Fallos de mercado no corregidos.</b> Los bienes públicos, los comunes y las externalidades de la sesión 7.</td></tr><tr><td><b>Señales de precios eficientes.</b> Los precios informan de la escasez relativa sin que ningún organismo tenga que calcularla.</td><td><b>Ciclos económicos.</b> Expansiones y recesiones recurrentes, con sus consecuencias sobre el empleo.</td></tr><tr><td><b>Descentralización.</b> Nadie tiene que saberlo todo: el sistema coordina millones de decisiones sin un centro.</td><td><b>Externalidades.</b> Costes que recaen sobre terceros y que nadie paga.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">Logros habituales</th><th width="50%">Límites conocidos</th></tr></thead><tbody><tr><td><b>Innovación.</b> Competir empuja a mejorar el producto o a abaratarlo.</td><td><b>Desigualdad.</b> Repartir según capacidad de pago deja fuera a quien tiene menos, aunque lo necesite más.</td></tr><tr><td><b>Variedad.</b> Hay incentivo a atender gustos minoritarios si hay quien los pague.</td><td><b>Fallos de mercado no corregidos.</b> Los bienes públicos, los comunes y las externalidades de la sesión 7.</td></tr><tr><td><b>Señales de precios eficientes.</b> Los precios informan de la escasez relativa sin que ningún organismo tenga que calcularla.</td><td><b>Ciclos económicos.</b> Expansiones y recesiones recurrentes, con sus consecuencias sobre el empleo.</td></tr><tr><td><b>Descentralización.</b> Nadie tiene que saberlo todo. El sistema coordina millones de decisiones sin un centro.</td><td><b>Externalidades.</b> Costes que recaen sobre terceros y que nadie paga.</td></tr></tbody></table>
 
 ::: aviso La nota de método
 Los dos lados se presentan **documentados**, no opinados. Lo que se os pide no es adoptar un juicio, sino disponer de material fiable con el que juzgar. Vuestra valoración personal se reserva para la sesión 10 y para la Cumbre.

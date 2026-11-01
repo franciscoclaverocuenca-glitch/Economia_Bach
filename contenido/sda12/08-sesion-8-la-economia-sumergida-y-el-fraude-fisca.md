@@ -12,18 +12,18 @@ titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 
 ### Guion paso a paso
 
-**1. Definición y medición (12 min).** Define con precisión: actividades *legales* que escapan al control fiscal. El delito no es la actividad, es ocultarla. Después el problema de la medición: si no se registra, no puede medirse directamente. Los métodos indirectos y su dispersión son un ejemplo excelente de los límites del método científico en economía (saber A6): aprovéchalo.
+**1. Definición y medición (12 min).** Define con precisión. Actividades *legales* que escapan al control fiscal. El delito no es la actividad, es ocultarla. Después el problema de la medición. Si no se registra, no puede medirse directamente. Los métodos indirectos y su dispersión son un ejemplo excelente de los límites del método científico en economía (saber A6): aprovéchalo.
 
-**2. Causas, efectos y caso andaluz (16 min).** Las causas, sin moralizar: presión fiscal percibida, trámites, estructura sectorial y aceptación social. En los efectos, el orden importa: empieza por quien trabaja sin cotizar, que es la persona más perjudicada y la que menos aparece en el discurso habitual.
+**2. Causas, efectos y caso andaluz (16 min).** Las causas, sin moralizar: presión fiscal percibida, trámites, estructura sectorial y aceptación social. En los efectos, el orden importa. Empieza por quien trabaja sin cotizar, que es la persona más perjudicada y la que menos aparece en el discurso habitual.
 
 **3. Plataformas (14 min).** Cada grupo base con un caso. En Málaga el alquiler turístico es el caso más reconocible y conviene asignarlo. La pregunta a la que hay que llegar es si se trata del mismo fenómeno con otra forma o de algo distinto que exige otras herramientas.
 
-**4. Instrumentos y cierre (8 min).** Incluye el trabajo sobre la norma social: es lento pero es lo único que sostiene el resto.
+**4. Instrumentos y cierre (8 min).** Incluye el trabajo sobre la norma social. Es lento pero es lo único que sostiene el resto.
 
 ### Preguntas guía del profesorado
 
 - Si nadie registra la economía sumergida, ¿cómo puede alguien dar una cifra?
-- ¿Quién sale peor parado de la economía sumergida: el Estado, las empresas que cumplen o quien trabaja sin contrato?
+- ¿Quién sale peor parado de la economía sumergida. El Estado, las empresas que cumplen o quien trabaja sin contrato?
 - ¿Es lo mismo no pedir factura que defraudar? ¿Dónde está la línea?
 - ¿Se parece el alquiler turístico sin declarar a la economía sumergida clásica, o es otra cosa?
 
@@ -46,7 +46,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 Hay una parte de la economía española que no aparece en ninguna estadística, que no paga impuestos y que, sin embargo, existe y es enorme.
 
-Hoy vas a ver cómo se estima algo que por definición no se registra, a quién perjudica realmente, y si la economía de plataformas —el reparto, el alquiler turístico, los microtrabajos digitales— es una versión nueva del mismo problema.
+Hoy vas a ver cómo se estima algo que por definición no se registra, a quién perjudica realmente, y si la economía de plataformas (el reparto, el alquiler turístico, los microtrabajos digitales) es una versión nueva del mismo problema.
 
 ## Diapositivas de la sesión
 
@@ -77,15 +77,15 @@ Cada grupo base recibe un caso real de la economía de plataformas. Cuatro pregu
 
 ### 1. Qué es exactamente la economía sumergida
 
-La **economía sumergida** es el conjunto de actividades económicas **legales** que escapan al control fiscal y a las estadísticas oficiales: trabajo sin declarar, ventas «en negro», facturación oculta. La palabra clave es *legales*: vender fruta o reformar un baño son actividades lícitas. El problema no es la actividad, es ocultarla.
+La **economía sumergida** es el conjunto de actividades económicas **legales** que escapan al control fiscal y a las estadísticas oficiales: trabajo sin declarar, ventas “en negro”, facturación oculta. La palabra clave es *legales*: vender fruta o reformar un baño son actividades lícitas. El problema no es la actividad, es ocultarla.
 
 No hay que confundirla con la **economía ilegal** (actividades prohibidas en sí mismas) ni con la **elusión fiscal**, que consiste en aprovechar los resquicios de la ley para pagar menos sin incumplirla formalmente.
 
 ### 2. El problema de medir lo que no se registra
 
-Aquí hay una paradoja interesante: si una actividad estuviera registrada, no sería sumergida. Por tanto **no puede medirse de forma directa**, y cualquier cifra que oigas es una estimación.
+Aquí hay una paradoja interesante. Si una actividad estuviera registrada, no sería sumergida. Por tanto **no puede medirse de forma directa**, y cualquier cifra que oigas es una estimación.
 
-Se recurre a **métodos indirectos**: comparar el consumo de electricidad con la actividad declarada, medir el uso de efectivo por encima de lo que justificaría la economía formal, o cruzar la demanda de trabajo con las afiliaciones a la Seguridad Social. Distintos métodos dan cifras distintas para el mismo país y el mismo año, y esa dispersión no es un defecto que haya que ocultar: es información sobre la incertidumbre del dato.
+Se recurre a **métodos indirectos**: comparar el consumo de electricidad con la actividad declarada, medir el uso de efectivo por encima de lo que justificaría la economía formal, o cruzar la demanda de trabajo con las afiliaciones a la Seguridad Social. Distintos métodos dan cifras distintas para el mismo país y el mismo año, y esa dispersión no es un defecto que haya que ocultar. Es información sobre la incertidumbre del dato.
 
 ::: nota Un ejemplo perfecto del saber A6
 Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en el Dictamen citéis una estimación, decid con qué método se obtuvo y qué margen tiene. Eso distingue un informe técnico de un panfleto.
@@ -95,7 +95,7 @@ Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en
 
 - **Presión fiscal percibida.** No tanto la real como la que la gente cree soportar, combinada con la sensación de que el dinero público no se gasta bien. Cuando falla la confianza, falla el cumplimiento voluntario.
 - **Exceso de trámites.** Cuanto más caro y complicado es cumplir, mayor es el incentivo a no hacerlo, sobre todo para actividades pequeñas.
-- **Estructura sectorial.** Hay sectores con mucho efectivo y mucha rotación —hostelería, construcción, servicio doméstico, agricultura de temporada— donde ocultar es materialmente más fácil. Andalucía tiene un peso alto de varios de ellos.
+- **Estructura sectorial.** Hay sectores con mucho efectivo y mucha rotación (hostelería, construcción, servicio doméstico, agricultura de temporada) donde ocultar es materialmente más fácil. Andalucía tiene un peso alto de varios de ellos.
 - **Aceptación social.** Mientras pedir factura o no pedirla se viva como algo neutro, el incentivo se mantiene. Es un problema de normas sociales, no solo de inspección.
 
 ### 4. A quién perjudica realmente
@@ -109,9 +109,9 @@ Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en
 **A la calidad de las decisiones públicas**, porque si una parte relevante de la actividad no se registra, los indicadores con los que se gobierna están sesgados.
 
 ::: aviso La otra economía invisible: Marilyn Waring
-Ya trabajasteis a Waring en las SdA 8 y 9. Aquí sirve para un paralelismo esclarecedor: además de la economía sumergida existe una **economía invisible que ni siquiera es ilegal** —el trabajo de cuidados no remunerado, realizado mayoritariamente por mujeres—, que sostiene toda la economía pero que ni las estadísticas contabilizan ni el sistema fiscal grava.
+Ya trabajasteis a Waring en las SdA 8 y 9. Aquí sirve para un paralelismo esclarecedor: además de la economía sumergida existe una **economía invisible que ni siquiera es ilegal** (el trabajo de cuidados no remunerado, realizado mayoritariamente por mujeres), que sostiene toda la economía pero que ni las estadísticas contabilizan ni el sistema fiscal grava.
 
-Las dos son invisibles para el Estado, pero por razones opuestas: una se esconde, la otra nunca se consideró digna de contarse. La comparación obliga a preguntarse qué decide contar y gravar una sociedad, y qué deja fuera.
+Las dos son invisibles para el Estado, pero por razones opuestas. Una se esconde, la otra nunca se consideró digna de contarse. La comparación obliga a preguntarse qué decide contar y gravar una sociedad, y qué deja fuera.
 :::
 
 ### 5. Qué se puede hacer

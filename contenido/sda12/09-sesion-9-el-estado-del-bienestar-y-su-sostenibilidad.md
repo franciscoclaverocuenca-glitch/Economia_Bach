@@ -8,17 +8,17 @@ titulo: 'Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, en
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Activación: ¿cuántas personas trabajarán por cada pensionista en 2050? Hipótesis individual y contraste con las proyecciones del INE.</td><td>—</td></tr><tr><td>00:10 – 00:25</td><td>Explicación con Cornell: pilares del Estado del bienestar, sistema de reparto de las pensiones y evolución de la tasa de dependencia en España y Andalucía.</td><td>—</td></tr><tr><td>00:25 – 00:45</td><td>Escenarios cooperativos: cada grupo base analiza una palanca para sostener el sistema (empleo y productividad, inmigración, impuestos y cotizaciones, edad de jubilación).</td><td>—</td></tr><tr><td>00:45 – 00:55</td><td>Debate reglado de escenarios y cierre: ¿qué palanca reparte mejor el esfuerzo entre generaciones?</td><td>—</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Activación. ¿cuántas personas trabajarán por cada pensionista en 2050? Hipótesis individual y contraste con las proyecciones del INE.</td><td>–</td></tr><tr><td>00:10 – 00:25</td><td>Explicación con Cornell. Pilares del Estado del bienestar, sistema de reparto de las pensiones y evolución de la tasa de dependencia en España y Andalucía.</td><td>–</td></tr><tr><td>00:25 – 00:45</td><td>Escenarios cooperativos: cada grupo base analiza una palanca para sostener el sistema (empleo y productividad, inmigración, impuestos y cotizaciones, edad de jubilación).</td><td>–</td></tr><tr><td>00:45 – 00:55</td><td>Debate reglado de escenarios y cierre. ¿qué palanca reparte mejor el esfuerzo entre generaciones?</td><td>–</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Activación (10 min).** Cada persona escribe su hipótesis: ¿cuántas personas trabajarán en 2050 por cada pensionista? Después proyecta las proyecciones de población del INE y del IECA. La población mayor de 65 años crece mientras la población en edad de trabajar se estanca: la **tasa de dependencia** sube. No des la cifra antes de que la estimen: la distancia entre su hipótesis y el dato es el motor de la sesión.
+**1. Activación (10 min).** Cada persona escribe su hipótesis. ¿cuántas personas trabajarán en 2050 por cada pensionista? Después proyecta las proyecciones de población del INE y del IECA. La población mayor de 65 años crece mientras la población en edad de trabajar se estanca: la **tasa de dependencia** sube. No des la cifra antes de que la estimen. La distancia entre su hipótesis y el dato es el motor de la sesión.
 
 **2. Cornell (15 min).** El Estado del bienestar ya apareció en la SdA 3 como contrato social. Aquí se mira desde la pregunta de esta unidad: **¿quién lo paga?** Sanidad, educación, pensiones y servicios sociales como pilares; el **sistema de reparto** (las cotizaciones de quienes trabajan hoy pagan las pensiones de hoy) y por qué el envejecimiento es, ante todo, un reto de financiación pública. Compara la tasa de dependencia de Andalucía y de sus provincias con la media española.
 
 **3. Escenarios cooperativos (20 min).** Cada grupo base recibe una ficha con una palanca y datos oficiales (AIReF, Seguridad Social, INE): más empleo y productividad, más inmigración regularizada, más impuestos o cotizaciones, o el retraso de la edad de jubilación. Tienen que identificar **quién soporta el coste y quién recibe el beneficio** de su palanca y estimar de forma sencilla su efecto sobre las cuentas públicas.
 
-**4. Debate reglado (10 min).** Cada grupo defiende su palanca en dos minutos y responde a una pregunta cruzada de otro grupo. Cierra conectando con el «Pacto Fiscal 2050»: la sostenibilidad del Estado del bienestar será el telón de fondo de los cuatro retos de la Comisión.
+**4. Debate reglado (10 min).** Cada grupo defiende su palanca en dos minutos y responde a una pregunta cruzada de otro grupo. Cierra conectando con el “Pacto Fiscal 2050”. La sostenibilidad del Estado del bienestar será el telón de fondo de los cuatro retos de la Comisión.
 
 ### Preguntas guía del profesorado
 
@@ -37,7 +37,7 @@ titulo: 'Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, en
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La tasa de dependencia se presenta a la vez en cifra, en gráfico de pirámide de población y en una frase-resumen («hoy hay tantas personas en edad de trabajar por cada mayor de 65; en 2050 habrá…»).</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; en el debate cada grupo elige quién defiende y quién responde a la pregunta cruzada.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Las pensiones se conectan con la vida real del alumnado: las de sus abuelos y abuelas hoy y la cotización de su propio primer empleo.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La tasa de dependencia se presenta a la vez en cifra, en gráfico de pirámide de población y en una frase-resumen (“hoy hay tantas personas en edad de trabajar por cada mayor de 65; en 2050 habrá…”).</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; en el debate cada grupo elige quién defiende y quién responde a la pregunta cruzada.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Las pensiones se conectan con la vida real del alumnado. Las de sus abuelos y abuelas hoy y la cotización de su propio primer empleo.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. En el debate, exige que cada grupo hable de pie y de frente, y proyecta por escrito la palanca que se está defendiendo y la pregunta cruzada.
@@ -57,7 +57,7 @@ El **Estado del bienestar** es el conjunto de servicios y prestaciones públicas
 
 ### El sistema de reparto
 
-Las pensiones públicas en España funcionan por **reparto**: las cotizaciones de quienes trabajan hoy pagan las pensiones de quienes se jubilaron. No hay una «hucha» con tu nombre. Por eso importa tanto cuántas personas cotizan por cada pensión.
+Las pensiones públicas en España funcionan por **reparto**: las cotizaciones de quienes trabajan hoy pagan las pensiones de quienes se jubilaron. No hay una “hucha” con tu nombre. Por eso importa tanto cuántas personas cotizan por cada pensión.
 
 ::: aviso La tasa de dependencia
 Relaciona la población mayor de 65 años con la población en edad de trabajar. Si sube, **hay menos personas en edad de trabajar por cada persona mayor**. Con un sistema de reparto, el envejecimiento es ante todo un **reto de financiación pública**.
@@ -68,7 +68,7 @@ Relaciona la población mayor de 65 años con la población en edad de trabajar.
 Busca en el IECA la tasa de dependencia de tu provincia y compárala con la media española. ¿Envejece igual el interior que la costa?
 
 ::: nota La brecha de género en las pensiones
-Las mujeres cobran, de media, pensiones contributivas más bajas. Buena parte de la explicación está en **carreras laborales interrumpidas por los cuidados** de hijos e hijas o de personas mayores: menos años cotizados y bases más bajas.
+Las mujeres cobran, de media, pensiones contributivas más bajas. Buena parte de la explicación está en **carreras laborales interrumpidas por los cuidados** de hijos e hijas o de personas mayores. Menos años cotizados y bases más bajas.
 :::
 
 ## Escenarios · Cuatro palancas para sostener el sistema
@@ -86,7 +86,7 @@ modelo: "Retrasar la edad de jubilación reduce el gasto en pensiones y aumenta 
 
 ## Cierre
 
-La sostenibilidad del Estado del bienestar será el **telón de fondo** de los cuatro retos de la Comisión «Pacto Fiscal 2050». Guarda tu ficha de escenario: es material para el Dictamen.
+La sostenibilidad del Estado del bienestar será el **telón de fondo** de los cuatro retos de la Comisión “Pacto Fiscal 2050”. Guarda tu ficha de escenario: es material para el Dictamen.
 
 ## Comprueba lo que sabes
 

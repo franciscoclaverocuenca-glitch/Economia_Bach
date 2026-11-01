@@ -18,7 +18,7 @@ Presenta los **tres retos reales** que afectan hoy a su sostenibilidad: el envej
 
 **2. El círculo de debate (30 min).** Cuatro posturas **asignadas por sorteo** a distintos grupos base. La lógica de rotación de voces es la del Fishbowl de la SdA 1, pero con cuatro posiciones fijas en lugar de una pecera central.
 
-La **regla de juego** es doble y hay que sostenerla: para intervenir, cada persona debe usar al menos un término económico de la sesión —financiación, cotización, sostenibilidad, economía sumergida— **y responder directamente al argumento anterior**, no solo exponer el propio. Sin la segunda parte, el debate se convierte en cuatro monólogos por turnos.
+La **regla de juego** es doble y hay que sostenerla: para intervenir, cada persona debe usar al menos un término económico de la sesión (financiación, cotización, sostenibilidad, economía sumergida) **y responder directamente al argumento anterior**, no solo exponer el propio. Sin la segunda parte, el debate se convierte en cuatro monólogos por turnos.
 
 **3. Cierre (5 min).** El Estado del bienestar como contrato social construido históricamente. Su evolución, sus logros y sus retrocesos son también un objeto histórico.
 
@@ -31,7 +31,7 @@ La **regla de juego** es doble y hay que sostenerla: para intervenir, cada perso
 
 ::: aviso Material que debes preparar tú
 - **Esquema de los pilares** del Estado del bienestar, proyectable.
-- **Tarjetas de datos reales** sobre los tres retos: pensiones y envejecimiento, flujos migratorios y economía sumergida. Verificados y actualizados.
+- **Tarjetas de datos reales** sobre los tres retos. Pensiones y envejecimiento, flujos migratorios y economía sumergida. Verificados y actualizados.
 - **Tarjetas de las cuatro posturas** para el sorteo.
 - **Sillas dispuestas en círculo**: prepara el aula antes de que entre el grupo.
 - Cronómetro y lista de cotejo para registrar el uso del vocabulario exigido.
@@ -74,7 +74,7 @@ sda3-s09-06.webp | Cierre
 
 ### Las cuatro posturas, asignadas por sorteo
 
-<table><thead><tr><th width="6%"></th><th width="94%">Postura</th></tr></thead><tbody><tr><td><b>1</b></td><td>El Estado del bienestar debe <b>mantenerse tal como está</b>, financiado principalmente vía impuestos y cotizaciones sociales.</td></tr><tr><td><b>2</b></td><td>El sistema de pensiones necesita <b>reformas de calado</b> —retraso de la edad de jubilación, mayor peso del ahorro privado complementario— para garantizar su sostenibilidad.</td></tr><tr><td><b>3</b></td><td>La prioridad es <b>luchar contra la economía sumergida</b> y mejorar la eficiencia del gasto, antes que recortar prestaciones o subir impuestos.</td></tr><tr><td><b>4</b></td><td>Los <b>flujos migratorios</b>, correctamente gestionados, son parte de la solución a la sostenibilidad del sistema, no solo un reto a gestionar.</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Postura</th></tr></thead><tbody><tr><td><b>1</b></td><td>El Estado del bienestar debe <b>mantenerse tal como está</b>, financiado principalmente vía impuestos y cotizaciones sociales.</td></tr><tr><td><b>2</b></td><td>El sistema de pensiones necesita <b>reformas de calado</b> (retraso de la edad de jubilación, mayor peso del ahorro privado complementario) para garantizar su sostenibilidad.</td></tr><tr><td><b>3</b></td><td>La prioridad es <b>luchar contra la economía sumergida</b> y mejorar la eficiencia del gasto, antes que recortar prestaciones o subir impuestos.</td></tr><tr><td><b>4</b></td><td>Los <b>flujos migratorios</b>, correctamente gestionados, son parte de la solución a la sostenibilidad del sistema, no solo un reto a gestionar.</td></tr></tbody></table>
 
 ::: aviso La regla de juego, y es doble
 Para intervenir hay que hacer **las dos cosas**:
@@ -106,7 +106,7 @@ Todo ello se financia a través del **sistema fiscal**: impuestos y cotizaciones
 <table><thead><tr><th width="6%"></th><th width="30%">Postura</th><th width="64%">Su argumento central</th></tr></thead><tbody><tr><td><b>1</b></td><td>Mantenerlo tal como está</td><td>El sistema funciona y es un logro social que no conviene desmontar. Lo que hace falta es garantizar su financiación.</td></tr><tr><td><b>2</b></td><td>Reformas de calado en pensiones</td><td>Sin retrasar la edad de jubilación o complementar con ahorro privado, la aritmética demográfica hace insostenible el sistema.</td></tr><tr><td><b>3</b></td><td>Combatir la economía sumergida</td><td>Antes de recortar prestaciones o subir impuestos a quien ya paga, conviene hacer aflorar lo que no se declara y gastar mejor.</td></tr><tr><td><b>4</b></td><td>Los flujos migratorios como parte de la solución</td><td>Aportan población en edad de trabajar y cotizante, que es exactamente lo que el sistema necesita para sostener las pensiones.</td></tr></tbody></table>
 
 ::: nota Las cuatro son defendibles con argumentos económicos
-Y ninguna es completa por sí sola. El objetivo del debate no es que gane una: es que entendáis **qué problema real intenta resolver cada una** y qué coste tiene su propuesta.
+Y ninguna es completa por sí sola. El objetivo del debate no es que gane una. Es que entendáis **qué problema real intenta resolver cada una** y qué coste tiene su propuesta.
 :::
 
 ### 4. Un contrato social, no una ley de la naturaleza

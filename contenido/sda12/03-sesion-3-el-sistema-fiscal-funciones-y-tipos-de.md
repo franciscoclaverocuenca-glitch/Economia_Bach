@@ -4,19 +4,19 @@ titulo: 'Sesión 3 · El sistema fiscal: funciones y tipos de impuestos'
 
 ## Guía docente · Sesión 3 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1</td><td><b>Saberes básicos</b></td><td>D2, A6</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa — evidencia de proceso (portafolio y observación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: clasificación fiscal en el portafolio · OD: trabajo cooperativo · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1</td><td><b>Saberes básicos</b></td><td>D2, A6</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia de proceso (portafolio y observación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: clasificación fiscal en el portafolio · OD: trabajo cooperativo · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación activa: las tres funciones de los impuestos y los criterios de clasificación.</td><td>1–6</td></tr><tr><td>00:20 – 00:45</td><td>«Clasificador fiscal» cooperativo (individual → grupo base) con impuestos reales.</td><td>7</td></tr><tr><td>00:45 – 00:50</td><td>Puesta en común, coevaluación e interpretación de una gráfica de progresividad.</td><td>8–9</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación activa. Las tres funciones de los impuestos y los criterios de clasificación.</td><td>1–6</td></tr><tr><td>00:20 – 00:45</td><td>“Clasificador fiscal” cooperativo (individual → grupo base) con impuestos reales.</td><td>7</td></tr><tr><td>00:45 – 00:50</td><td>Puesta en común, coevaluación e interpretación de una gráfica de progresividad.</td><td>8–9</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Las tres funciones (10 min).** Arranca conectando con la sesión 1: los impuestos son la otra cara exacta del gasto. Explica financiar, redistribuir y regular con ejemplos cotidianos. La función reguladora suele sorprender: el impuesto sobre el tabaco existe para que se fume menos, no solo para recaudar.
+**1. Las tres funciones (10 min).** Arranca conectando con la sesión 1: los impuestos son la otra cara exacta del gasto. Explica financiar, redistribuir y regular con ejemplos cotidianos. La función reguladora suele sorprender. El impuesto sobre el tabaco existe para que se fume menos, no solo para recaudar.
 
-**2. Las dos clasificaciones (10 min).** Primero directos/indirectos (qué se grava). Después, y con más tiempo, progresivos/proporcionales/regresivos (cómo afecta a la equidad). Dedica un momento explícito a por qué el IVA es regresivo pese a tener el mismo tipo para todos: es el punto que más cuesta y el que sostiene el debate de la sesión 4.
+**2. Las dos clasificaciones (10 min).** Primero directos/indirectos (qué se grava). Después, y con más tiempo, progresivos/proporcionales/regresivos (cómo afecta a la equidad). Dedica un momento explícito a por qué el IVA es regresivo pese a tener el mismo tipo para todos. Es el punto que más cuesta y el que sostiene el debate de la sesión 4.
 
-**3. Clasificador fiscal (25 min).** Reparte las tarjetas. Trabajo individual primero (7-8 min), después consenso en grupo base. Insiste en que los casos dudosos son los importantes: pide que los señalen y justifiquen en voz alta en vez de resolverlos por votación.
+**3. Clasificador fiscal (25 min).** Reparte las tarjetas. Trabajo individual primero (7-8 min), después consenso en grupo base. Insiste en que los casos dudosos son los importantes. Pide que los señalen y justifiquen en voz alta en vez de resolverlos por votación.
 
 **4. Cierre (5 min).** Escala de dedos entre grupos sobre las clasificaciones discrepantes y lectura conjunta de la gráfica de progresividad, que activa el saber A6.
 
@@ -84,13 +84,13 @@ Si una tarjeta es fácil, no te enseña nada. Marca las que os han hecho discuti
 https://www.youtube.com/embed/iCgB4mzPnvI
 ```
 
-Repaso del gasto público (Econosublime, Málaga). Actívale los subtítulos con el botón **CC**. Fuente: econosublime.com — canal incluido en la Programación Didáctica de la materia.
+Repaso del gasto público (Econosublime, Málaga). Actívale los subtítulos con el botón **CC**. Fuente: econosublime.com, canal incluido en la Programación Didáctica de la materia.
 
 ## Apuntes de la sesión
 
 ### 1. Para qué sirven los impuestos
 
-Un impuesto es un pago obligatorio y sin contraprestación directa que las personas y las empresas hacen a las administraciones públicas. «Sin contraprestación directa» significa que no compras nada concreto a cambio: pagas IRPF y no recibes un servicio determinado por ese pago. Lo que recibes es el conjunto de lo público.
+Un impuesto es un pago obligatorio y sin contraprestación directa que las personas y las empresas hacen a las administraciones públicas. “Sin contraprestación directa” significa que no compras nada concreto a cambio. Pagas IRPF y no recibes un servicio determinado por ese pago. Lo que recibes es el conjunto de lo público.
 
 Los impuestos cumplen **tres funciones**, y conviene no confundirlas:
 
@@ -113,14 +113,14 @@ Esta es la clasificación que de verdad importa para el debate político, y se r
 - **Regresivo**: quien menos tiene acaba pagando un porcentaje mayor de su renta. Es el caso de los impuestos al consumo.
 
 ::: aviso Por qué el IVA es regresivo aunque el tipo sea igual para todos
-El tipo nominal es el mismo, pero el **esfuerzo** no. Una familia que ingresa 1.500 € al mes gasta prácticamente todo lo que gana: casi el 100 % de su renta pasa por el IVA. Quien ingresa 8.000 € y gasta 4.000 solo somete a IVA la mitad de su renta; la otra mitad la ahorra o la invierte y escapa a ese impuesto.
+El tipo nominal es el mismo, pero el **esfuerzo** no. Una familia que ingresa 1.500 € al mes gasta prácticamente todo lo que gana. Casi el 100 % de su renta pasa por el IVA. Quien ingresa 8.000 € y gasta 4.000 solo somete a IVA la mitad de su renta; la otra mitad la ahorra o la invierte y escapa a ese impuesto.
 
-Resultado: el mismo porcentaje pesa mucho más sobre la renta baja. Eso es exactamente lo que significa «regresivo».
+Resultado: el mismo porcentaje pesa mucho más sobre la renta baja. Eso es exactamente lo que significa “regresivo”.
 :::
 
 ### 4. El truco de los tramos del IRPF
 
-Existe un bulo muy extendido según el cual «si subes de tramo puedes acabar cobrando menos». Es falso, y conviene entender por qué. Tu renta no paga un único porcentaje: se corta en tramos y cada tramo paga su propio tipo. Si el primer tramo paga el 19 % y el segundo el 24 %, al entrar en el segundo **solo los euros que superan el umbral** pagan el 24 %. Los anteriores siguen pagando el 19 %.
+Existe un bulo muy extendido según el cual “si subes de tramo puedes acabar cobrando menos”. Es falso, y conviene entender por qué. Tu renta no paga un único porcentaje. Se corta en tramos y cada tramo paga su propio tipo. Si el primer tramo paga el 19 % y el segundo el 24 %, al entrar en el segundo **solo los euros que superan el umbral** pagan el 24 %. Los anteriores siguen pagando el 19 %.
 
 De ahí la distinción entre **tipo marginal** (el del último tramo que alcanzas) y **tipo efectivo** (el porcentaje real que acabas pagando sobre el total de tu renta). El efectivo siempre es menor que el marginal. Ganar más siempre significa cobrar más neto.
 

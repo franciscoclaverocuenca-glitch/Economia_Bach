@@ -4,29 +4,29 @@ titulo: Sesión 5 · La demanda agregada
 
 ## Guía docente · Sesión 5 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1 (la demanda agregada y su funcionamiento)</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de cuestionario</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y plantillas de escenarios · C: cuestionario formativo de cierre · OD: registro del taller de titulares</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1 (la demanda agregada y su funcionamiento)</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y de cuestionario</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y plantillas de escenarios · C: cuestionario formativo de cierre · OD: registro del taller de titulares</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación magistral con Cornell: qué es la DA (C+I+G+XN), por qué su curva tiene pendiente negativa y qué la desplaza.</td><td>2–4</td></tr><tr><td>00:20 – 00:25</td><td>Modelado del método de tres pasos con dos ejemplos resueltos.</td><td>5</td></tr><tr><td>00:25 – 00:45</td><td>Taller gamificado «Titulares a juicio»: clasificación por grupos con justificación escrita.</td><td>6–7</td></tr><tr><td>00:45 – 00:50</td><td>Cuestionario formativo de cierre y entrega de la cuarta pieza de la maqueta.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación magistral con Cornell. Qué es la DA (C+I+G+XN), por qué su curva tiene pendiente negativa y qué la desplaza.</td><td>2–4</td></tr><tr><td>00:20 – 00:25</td><td>Modelado del método de tres pasos con dos ejemplos resueltos.</td><td>5</td></tr><tr><td>00:25 – 00:45</td><td>Taller gamificado “Titulares a juicio”: clasificación por grupos con justificación escrita.</td><td>6–7</td></tr><tr><td>00:45 – 00:50</td><td>Cuestionario formativo de cierre y entrega de la cuarta pieza de la maqueta.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. El reencuentro (20 min).** Abre recuperando explícitamente la descomposición **C + I + G + (X − M)** que dedujeron en la SdA 8 al calcular el PIB por la vía del gasto: «esa suma que usasteis para saber quién gasta qué *es*, exactamente, la demanda agregada». Eso convierte lo que parece una fórmula nueva en un reencuentro y rebaja mucho la resistencia.
+**1. El reencuentro (20 min).** Abre recuperando explícitamente la descomposición **C + I + G + (X − M)** que dedujeron en la SdA 8 al calcular el PIB por la vía del gasto: “esa suma que usasteis para saber quién gasta qué *es*, exactamente, la demanda agregada”. Eso convierte lo que parece una fórmula nueva en un reencuentro y rebaja mucho la resistencia.
 
 A partir de ahí todo es nuevo: la curva, su pendiente negativa (si baja el nivel de precios sube el poder adquisitivo y crece el gasto total, *ceteris paribus*) y la distinción crítica de la sesión: **movimiento dentro de la curva** si lo que varía es el nivel de precios, **desplazamiento de la curva entera** si varía cualquier otro factor.
 
 **2. El método de tres pasos (5 min).** Modela dos ejemplos resueltos: (I) detectar qué factor varía, (II) deducir a qué componente del gasto afecta, (III) explicar qué ocurre con la curva. Deja el método **visible en el mural** del aula: es el andamiaje permanente hasta la prueba escrita.
 
-**3. Titulares a juicio (20 min).** Contrarreloj y por puntos. Se puntúa tanto la clasificación como la **calidad de la justificación**, y se descuenta medio punto si un grupo confunde **un hecho con una previsión**. Esa penalización no es un adorno: conecta con la lectura crítica de la información económica y con el papel de las expectativas.
+**3. Titulares a juicio (20 min).** Contrarreloj y por puntos. Se puntúa tanto la clasificación como la **calidad de la justificación**, y se descuenta medio punto si un grupo confunde **un hecho con una previsión**. Esa penalización no es un adorno. Conecta con la lectura crítica de la información económica y con el papel de las expectativas.
 
-**4. Cierre (5 min).** Cuestionario formativo individual y entrega de la cuarta pieza: la palanca de demanda del panel de escenarios.
+**4. Cierre (5 min).** Cuestionario formativo individual y entrega de la cuarta pieza. La palanca de demanda del panel de escenarios.
 
 ### Preguntas guía del profesorado
 
 - ¿Qué relación hay entre la demanda agregada y el PIB por la vía del gasto de la SdA 8?
 - Si sube el nivel de precios, ¿la curva se desplaza o nos movemos dentro de ella?
-- ¿Es lo mismo un titular que dice «cayó el consumo» que uno que dice «se prevé que caiga»?
+- ¿Es lo mismo un titular que dice “cayó el consumo” que uno que dice “se prevé que caiga”?
 - ¿Qué factores desplazan la curva a la derecha? ¿Y a la izquierda?
 
 ::: aviso Material que debes preparar tú
@@ -46,7 +46,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 :::
 
 ::: aviso Nota de coordinación docente
-Sesión sin conocimiento previo relevante de la SdA 8, con una única excepción aprovechable: la descomposición C + I + G + (X − M) se dedujo allí al calcular el PIB por la vía del gasto. Conviene abrir recuperándola explícitamente, porque convierte una fórmula aparentemente nueva en un reencuentro.
+Sesión sin conocimiento previo relevante de la SdA 8, con una única excepción aprovechable. La descomposición C + I + G + (X − M) se dedujo allí al calcular el PIB por la vía del gasto. Conviene abrir recuperándola explícitamente, porque convierte una fórmula aparentemente nueva en un reencuentro.
 :::
 
 ## Para empezar
@@ -74,7 +74,7 @@ sda9-s07-08.webp | Cierre
 
 ### La distinción crítica de la sesión
 
-<table><thead><tr><th width="34%">Si lo que varía es…</th><th width="66%">Entonces…</th></tr></thead><tbody><tr><td>El <b>nivel general de precios</b></td><td>Hay un <b>movimiento dentro</b> de la curva. La curva no se mueve: nos desplazamos a lo largo de ella.</td></tr><tr><td><b>Cualquier otro factor</b>: expectativas, riqueza, tipos de interés (política monetaria), gasto público, impuestos y transferencias (política fiscal), exportaciones netas</td><td>La curva <b>entera se desplaza</b>: a la derecha si el gasto total aumenta, a la izquierda si disminuye.</td></tr></tbody></table>
+<table><thead><tr><th width="34%">Si lo que varía es…</th><th width="66%">Entonces…</th></tr></thead><tbody><tr><td>El <b>nivel general de precios</b></td><td>Hay un <b>movimiento dentro</b> de la curva. La curva no se mueve. Nos desplazamos a lo largo de ella.</td></tr><tr><td><b>Cualquier otro factor</b>: expectativas, riqueza, tipos de interés (política monetaria), gasto público, impuestos y transferencias (política fiscal), exportaciones netas</td><td>La curva <b>entera se desplaza</b>: a la derecha si el gasto total aumenta, a la izquierda si disminuye.</td></tr></tbody></table>
 
 ### El método de tres pasos
 
@@ -84,14 +84,14 @@ sda9-s07-08.webp | Cierre
 Lo vas a usar en esta sesión, en la sesión 6, en tu panel de escenarios de la maqueta y en el bloque 2 de la prueba escrita. Es el procedimiento central de la unidad.
 :::
 
-### Taller «Titulares a juicio»
+### Taller “Titulares a juicio”
 
 Vuestro grupo recibe 8-10 tarjetas con titulares económicos reales. Contrarreloj y por puntos, hay que clasificar cada uno en el tablero de tres casillas aplicando **por escrito** el método de tres pasos.
 
 <table><thead><tr><th width="40%">Titular</th><th width="18%">Factor</th><th width="18%">Componente</th><th width="24%">Efecto en la curva</th></tr></thead><tbody><tr><td>Baja el tipo de interés oficial</td><td></td><td></td><td></td></tr><tr><td>Se prevé un aumento del desempleo el año que viene</td><td></td><td></td><td></td></tr><tr><td>El Estado sube las transferencias a las familias</td><td></td><td></td><td></td></tr><tr><td>Mal año turístico: caen las visitas extranjeras</td><td></td><td></td><td></td></tr><tr><td>Sube el nivel general de precios</td><td></td><td></td><td></td></tr></tbody></table>
 
 ::: aviso Cuidado con esto: −0,5 puntos
-Se descuenta medio punto si el grupo **confunde un hecho con una previsión**. «Cayó el consumo» y «se prevé que caiga el consumo» no son lo mismo, y la diferencia importa: una previsión actúa a través de las **expectativas**, que ya sabéis que son en sí mismas una variable económica.
+Se descuenta medio punto si el grupo **confunde un hecho con una previsión**. “Cayó el consumo” y “se prevé que caiga el consumo” no son lo mismo, y la diferencia importa. Una previsión actúa a través de las **expectativas**, que ya sabéis que son en sí mismas una variable económica.
 :::
 
 Se puntúa tanto la clasificación como la **calidad de la justificación**. Una clasificación correcta sin justificar vale la mitad.
@@ -129,13 +129,13 @@ Es el procedimiento que vas a usar en esta sesión, en la 6, en tu maqueta y en 
 2. **Deducir el componente** del gasto al que afecta: C, I, G o XN.
 3. **Explicar el efecto sobre la curva**: movimiento o desplazamiento, y en qué sentido.
 
-Ejemplo resuelto: «el Banco Central Europeo baja los tipos de interés». Paso I: el factor que varía es el tipo de interés. Paso II: afecta al consumo y a la inversión, porque el crédito se abarata. Paso III: no es el nivel de precios lo que varía, así que **la curva se desplaza a la derecha**.
+Ejemplo resuelto: “el Banco Central Europeo baja los tipos de interés”. Paso I: el factor que varía es el tipo de interés. Paso II: afecta al consumo y a la inversión, porque el crédito se abarata. Paso III: no es el nivel de precios lo que varía, así que **la curva se desplaza a la derecha**.
 
 ### 5. Un hecho no es una previsión
 
-Al leer información económica hay que distinguir con cuidado entre lo que **ha ocurrido** y lo que **se prevé** que ocurra. «Cayó el consumo» y «se prevé que caiga el consumo» no son el mismo titular.
+Al leer información económica hay que distinguir con cuidado entre lo que **ha ocurrido** y lo que **se prevé** que ocurra. “Cayó el consumo” y “se prevé que caiga el consumo” no son el mismo titular.
 
-Y no es una cuestión de precisión formal: una previsión actúa a través de las **expectativas**, que como viste en la sesión 4 son en sí mismas una variable económica capaz de mover la curva antes de que el hecho previsto llegue a producirse.
+Y no es una cuestión de precisión formal. Una previsión actúa a través de las **expectativas**, que como viste en la sesión 4 son en sí mismas una variable económica capaz de mover la curva antes de que el hecho previsto llegue a producirse.
 
 ### Glosario de la sesión
 
@@ -160,9 +160,9 @@ preguntas:
 - enunciado: Una bajada de los tipos de interés desplaza la curva de demanda agregada a la derecha.
   respuesta: verdadero
   explicacion: '**Verdadero.** Abarata el crédito y estimula el consumo y la inversión.'
-- enunciado: Un titular que dice «se prevé que caiga el consumo» describe un hecho ya ocurrido.
+- enunciado: Un titular que dice “se prevé que caiga el consumo” describe un hecho ya ocurrido.
   respuesta: falso
-  explicacion: '**Falso.** «Se prevé» indica una previsión, no un hecho ocurrido.'
+  explicacion: '**Falso.** “Se prevé” indica una previsión, no un hecho ocurrido.'
 - enunciado: La curva de demanda agregada tiene pendiente negativa.
   respuesta: verdadero
   explicacion: '**Verdadero.** Cuando sube el nivel de precios, la cantidad demandada agregada disminuye.'

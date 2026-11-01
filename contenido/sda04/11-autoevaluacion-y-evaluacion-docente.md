@@ -17,7 +17,7 @@ El primer día respondiste sobre iniciativa, riesgo y creatividad sin haber calc
 id: sda04-autoevaluacion
 tipo: autoevaluacion
 titulo: Autoevaluación de cierre
-instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, «estudiar más» no vale.'
+instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, “estudiar más” no vale.'
 criterios:
 - '2.4'
 mejora: true

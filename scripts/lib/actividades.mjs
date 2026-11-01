@@ -231,7 +231,7 @@ export function renderActividad(d, ctx, md) {
           .join('') +
         (d.mejora !== false
           ? `<li class="act-item act-mejora" data-i="mejora"><label for="${d.id}-mejora" class="abierta-preg"><strong>Un aspecto concreto de mejora</strong></label>` +
-            `<p class="act-nota">Concreto: «estudiar más» no vale. Di qué vas a hacer distinto y cuándo.</p><textarea id="${d.id}-mejora" rows="3"></textarea></li>`
+            `<p class="act-nota">Concreto: “estudiar más” no vale. Di qué vas a hacer distinto y cuándo.</p><textarea id="${d.id}-mejora" rows="3"></textarea></li>`
           : '') +
         '</ol>';
       datos.criterios = rubs.map((r) => ({ c: String(r.criterio), niveles: r.niveles.map((n) => n.nivel) }));

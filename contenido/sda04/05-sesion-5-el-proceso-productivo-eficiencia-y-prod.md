@@ -4,23 +4,23 @@ titulo: 'Sesión 5 · El proceso productivo: eficiencia y productividad'
 
 ## Guía docente · Sesión 5 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas</td><td><b>Carácter</b></td><td>No evaluable — formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de interpretación · OD: observación del cálculo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas</td><td><b>Carácter</b></td><td>No evaluable, formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de interpretación · OD: observación del cálculo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>El proceso productivo y la tecnología: dos maneras distintas de producir el mismo bien.</td><td>2–3</td></tr><tr><td>00:10 – 00:35</td><td>Cálculo en parejas de producto total, medio y marginal con un caso original.</td><td>4–5</td></tr><tr><td>00:35 – 00:45</td><td>Corto plazo frente a largo plazo: qué factores son fijos y cuáles variables.</td><td>7</td></tr><tr><td>00:45 – 00:50</td><td>Puesta en común de resultados y dudas.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>El proceso productivo y la tecnología. Dos maneras distintas de producir el mismo bien.</td><td>2–3</td></tr><tr><td>00:10 – 00:35</td><td>Cálculo en parejas de producto total, medio y marginal con un caso original.</td><td>4–5</td></tr><tr><td>00:35 – 00:45</td><td>Corto plazo frente a largo plazo. Qué factores son fijos y cuáles variables.</td><td>7</td></tr><tr><td>00:45 – 00:50</td><td>Puesta en común de resultados y dudas.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Tecnología y proceso productivo (10 min).** Presenta dos formas de producir el mismo bien con distinta tecnología —envasar zumo a mano frente a con una línea semiautomática— para mostrar que **cualquier combinación de factores productivos implica ya una tecnología**, por rudimentaria que sea, y que el progreso técnico consiste en mejorarla.
+**1. Tecnología y proceso productivo (10 min).** Presenta dos formas de producir el mismo bien con distinta tecnología (envasar zumo a mano frente a con una línea semiautomática) para mostrar que **cualquier combinación de factores productivos implica ya una tecnología**, por rudimentaria que sea, y que el progreso técnico consiste en mejorarla.
 
-Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo, porque desmonta la identificación automática entre «tecnología» y «aparato moderno».
+Es una definición que suele sorprender: un embudo es tecnología. Aprovéchalo, porque desmonta la identificación automática entre “tecnología” y “aparato moderno”.
 
-**2. Producto total, medio y marginal (25 min).** En parejas, completan la tabla para una pequeña empresa ficticia y responden a dos preguntas de interpretación: ¿con cuántos trabajadores se alcanza el máximo de producto total?, ¿a partir de qué punto cada trabajador adicional aporta menos que el anterior?
+**2. Producto total, medio y marginal (25 min).** En parejas, completan la tabla para una pequeña empresa ficticia y responden a dos preguntas de interpretación. ¿con cuántos trabajadores se alcanza el máximo de producto total?, ¿a partir de qué punto cada trabajador adicional aporta menos que el anterior?
 
-**El objetivo no es memorizar la fórmula**, sino entender por qué añadir siempre más personal no aumenta la producción de forma indefinida: comparten el mismo espacio, la misma maquinaria y las mismas herramientas. Esa intuición se reutiliza directamente al estimar los costes del proyecto propio en la sesión 9.
+**El objetivo no es memorizar la fórmula**, sino entender por qué añadir siempre más personal no aumenta la producción de forma indefinida. Comparten el mismo espacio, la misma maquinaria y las mismas herramientas. Esa intuición se reutiliza directamente al estimar los costes del proyecto propio en la sesión 9.
 
-**3. Corto y largo plazo (10 min).** La distinción no es de tiempo, sino de **qué se puede cambiar**: en el corto plazo al menos un factor —normalmente el capital— es fijo; en el largo, todos pueden variar. Con ejemplos de decisiones que solo caben a largo plazo: abrir una segunda nave, cambiar de maquinaria.
+**3. Corto y largo plazo (10 min).** La distinción no es de tiempo, sino de **qué se puede cambiar**: en el corto plazo al menos un factor, normalmente el capital, es fijo; en el largo, todos pueden variar. Con ejemplos de decisiones que solo caben a largo plazo. Abrir una segunda nave, cambiar de maquinaria.
 
 **4. Puesta en común (5 min).** Resultados y dudas.
 
@@ -49,11 +49,11 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 ## Para empezar
 
-Dos formas de envasar zumo: a mano con un embudo, o con una línea semiautomática.
+Dos formas de envasar zumo. A mano con un embudo, o con una línea semiautomática.
 
-Las dos son **tecnología**. Y esa afirmación, que suena rara, es exactamente el punto de partida de hoy: cualquier forma de combinar factores productivos **ya es** una tecnología. El progreso técnico consiste en encontrar combinaciones mejores.
+Las dos son **tecnología**. Y esa afirmación, que suena rara, es exactamente el punto de partida de hoy. Cualquier forma de combinar factores productivos **ya es** una tecnología. El progreso técnico consiste en encontrar combinaciones mejores.
 
-Después vais a descubrir algo contraintuitivo: por qué contratar siempre a más gente **no** aumenta la producción sin límite.
+Después vais a descubrir algo contraintuitivo. Por qué contratar siempre a más gente **no** aumenta la producción sin límite.
 
 ## Diapositivas de la sesión
 
@@ -90,12 +90,12 @@ Esta intuición la vais a necesitar en la **sesión 9**, cuando estiméis los co
 ## Corto plazo y largo plazo
 
 ::: aviso ⏳ La diferencia no es de tiempo: es de qué puedes cambiar
-En el **corto plazo**, al menos un factor productivo es **fijo**: normalmente el capital —la nave, la maquinaria—. Solo puedes ajustar lo variable. En el **largo plazo**, **todos** los factores pueden variar.
+En el **corto plazo**, al menos un factor productivo es **fijo**: normalmente el capital (la nave, la maquinaria). Solo puedes ajustar lo variable. En el **largo plazo**, **todos** los factores pueden variar.
 :::
 
-<table><thead><tr><th width="50%">CORTO plazo</th><th width="50%">LARGO plazo</th></tr></thead><tbody><tr><td>Al menos un factor es fijo (normalmente el capital).</td><td>Todos los factores pueden variar.</td></tr><tr><td>Solo puedes ajustar horas, personal, materia prima.</td><td>Se puede abrir una segunda nave o cambiar de maquinaria.</td></tr><tr><td>«Este mes no puedo producir más: no me caben más máquinas.»</td><td>«El año que viene ampliamos.»</td></tr><tr><td>Son decisiones operativas.</td><td>Son decisiones estructurales.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">CORTO plazo</th><th width="50%">LARGO plazo</th></tr></thead><tbody><tr><td>Al menos un factor es fijo (normalmente el capital).</td><td>Todos los factores pueden variar.</td></tr><tr><td>Solo puedes ajustar horas, personal, materia prima.</td><td>Se puede abrir una segunda nave o cambiar de maquinaria.</td></tr><tr><td>“Este mes no puedo producir más: no me caben más máquinas.”</td><td>“El año que viene ampliamos.”</td></tr><tr><td>Son decisiones operativas.</td><td>Son decisiones estructurales.</td></tr></tbody></table>
 
-Fijaos en que **cuánto dura** el corto plazo depende del sector: para una peluquería puede ser un mes; para una central eléctrica, años.
+Fijaos en que **cuánto dura** el corto plazo depende del sector. Para una peluquería puede ser un mes; para una central eléctrica, años.
 
 ## Apuntes de la sesión
 
@@ -105,7 +105,7 @@ Fijaos en que **cuánto dura** el corto plazo depende del sector: para una peluq
 Cualquier **combinación de factores productivos** implica ya una tecnología, por rudimentaria que sea. Un embudo es tecnología. Y el progreso técnico consiste, simplemente, en encontrar combinaciones mejores.
 :::
 
-El ejemplo del zumo lo hace visible: envasar a mano con un embudo tiene un coste de maquinaria casi nulo y un coste de trabajo alto por unidad; una línea semiautomática invierte la relación. Ninguna de las dos es «la buena»: depende de **cuántas unidades** se vayan a producir.
+El ejemplo del zumo lo hace visible. Envasar a mano con un embudo tiene un coste de maquinaria casi nulo y un coste de trabajo alto por unidad; una línea semiautomática invierte la relación. Ninguna de las dos es “la buena”. Depende de **cuántas unidades** se vayan a producir.
 
 Esa es la primera decisión productiva de cualquier empresa, y es la que vuestro equipo tendrá que resolver implícitamente al estimar sus costes en la sesión 9.
 
@@ -113,7 +113,7 @@ Esa es la primera decisión productiva de cualquier empresa, y es la que vuestro
 
 <table><thead><tr><th width="26%">Concepto</th><th width="40%">Qué mide</th><th width="34%">Cómo se calcula</th></tr></thead><tbody><tr><td><b>Producto total (PT)</b></td><td>La producción total obtenida con una cantidad dada de factores</td><td>Es el dato de partida</td></tr><tr><td><b>Producto medio (PMe)</b></td><td>Cuánto produce de media cada unidad de factor</td><td>PT ÷ número de trabajadores</td></tr><tr><td><b>Producto marginal (PMg)</b></td><td>Cuánto añade el <b>último</b> trabajador contratado</td><td>Aumento del PT al añadir un trabajador más</td></tr></tbody></table>
 
-### 3. La idea contraintuitiva: por qué más no siempre es mejor
+### 3. La idea contraintuitiva. Por qué más no siempre es mejor
 
 Si añadís trabajadores a una empresa manteniendo fija la maquinaria y el espacio, ocurre algo sistemático:
 
@@ -122,16 +122,16 @@ Si añadís trabajadores a una empresa manteniendo fija la maquinaria y el espac
 - Y en el extremo, una persona más puede incluso **reducir** la producción total: estorba.
 
 ::: aviso La imagen que lo explica
-Doce personas en una cocina con cuatro fogones. La quinta ya no puede cocinar; la duodécima estorba. No es que trabaje peor: es que **el factor fijo está saturado**.
+Doce personas en una cocina con cuatro fogones. La quinta ya no puede cocinar; la duodécima estorba. No es que trabaje peor. Es que **el factor fijo está saturado**.
 :::
 
 Lo importante no es memorizar la fórmula del producto marginal, sino retener esta intuición: **contratar más gente no aumenta la producción de forma indefinida**. En la sesión 9 os será útil para no inflar sin criterio la plantilla de vuestro proyecto.
 
 ### 4. Corto plazo y largo plazo
 
-<table><thead><tr><th width="22%"></th><th width="39%">CORTO plazo</th><th width="39%">LARGO plazo</th></tr></thead><tbody><tr><td><b>Qué lo define</b></td><td>Al menos un factor productivo es <b>fijo</b>, normalmente el capital</td><td><b>Todos</b> los factores pueden variar</td></tr><tr><td><b>Qué se puede ajustar</b></td><td>Horas, personal, materia prima, energía</td><td>También la nave, la maquinaria, la tecnología</td></tr><tr><td><b>Tipo de decisión</b></td><td>Operativa</td><td>Estructural</td></tr><tr><td><b>Ejemplo</b></td><td>«Este mes contratamos a dos personas más para la campaña»</td><td>«El año que viene abrimos una segunda nave»</td></tr></tbody></table>
+<table><thead><tr><th width="22%"></th><th width="39%">CORTO plazo</th><th width="39%">LARGO plazo</th></tr></thead><tbody><tr><td><b>Qué lo define</b></td><td>Al menos un factor productivo es <b>fijo</b>, normalmente el capital</td><td><b>Todos</b> los factores pueden variar</td></tr><tr><td><b>Qué se puede ajustar</b></td><td>Horas, personal, materia prima, energía</td><td>También la nave, la maquinaria, la tecnología</td></tr><tr><td><b>Tipo de decisión</b></td><td>Operativa</td><td>Estructural</td></tr><tr><td><b>Ejemplo</b></td><td>“Este mes contratamos a dos personas más para la campaña”</td><td>“El año que viene abrimos una segunda nave”</td></tr></tbody></table>
 
-Y un matiz que se pregunta: la diferencia **no es de duración** sino de **qué se puede cambiar**. Cuánto dura el corto plazo depende del sector: para una peluquería puede ser un mes; para una central eléctrica, varios años.
+Y un matiz que se pregunta. La diferencia **no es de duración** sino de **qué se puede cambiar**. Cuánto dura el corto plazo depende del sector. Para una peluquería puede ser un mes; para una central eléctrica, varios años.
 
 ### Glosario de la sesión
 

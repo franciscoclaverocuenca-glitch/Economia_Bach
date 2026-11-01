@@ -8,17 +8,17 @@ titulo: Sesión 3 · El mapa de los mercados
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación magistral con Cornell: los cuatro rasgos, la competencia perfecta y la lonja de Málaga.</td><td>2–3</td></tr><tr><td>00:20 – 00:40</td><td>Matriz cooperativa de clasificación con «lápices al centro»: 8 mini-casos reales.</td><td>4–6</td></tr><tr><td>00:40 – 00:50</td><td>Puesta en común, coevaluación entre gabinetes y cierre del Cornell.</td><td>7–8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Explicación magistral con Cornell. Los cuatro rasgos, la competencia perfecta y la lonja de Málaga.</td><td>2–3</td></tr><tr><td>00:20 – 00:40</td><td>Matriz cooperativa de clasificación con “lápices al centro”: 8 mini-casos reales.</td><td>4–6</td></tr><tr><td>00:40 – 00:50</td><td>Puesta en común, coevaluación entre gabinetes y cierre del Cornell.</td><td>7–8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Los cuatro rasgos (20 min).** La explicación construye la herramienta central de la unidad: toda estructura de mercado puede describirse respondiendo a cuatro preguntas —¿cuántos venden?, ¿es el producto homogéneo o diferenciado?, ¿es fácil entrar y salir?, ¿está bien informado el comprador?—. Insiste en que es una **herramienta**, no una lista que memorizar: la van a usar en el apartado 1 de su informe y en el bloque 1 de la prueba.
+**1. Los cuatro rasgos (20 min).** La explicación construye la herramienta central de la unidad: toda estructura de mercado puede describirse respondiendo a cuatro preguntas (¿cuántos venden?, ¿es el producto homogéneo o diferenciado?, ¿es fácil entrar y salir?, ¿está bien informado el comprador?). Insiste en que es una **herramienta**, no una lista que memorizar. La van a usar en el apartado 1 de su informe y en el bloque 1 de la prueba.
 
 Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutiendo explícitamente su carácter de ideal teórico. Y la **lonja del puerto de Málaga** como aproximación cercana y visualizable: muchos pescadores, producto esencialmente homogéneo por especie y calibre, precios formados a la vista de todos.
 
-**2. La matriz con «lápices al centro» (20 min).** Ocho mini-casos reales y reconocibles. La estructura cooperativa es la clave: para cada tarjeta uno lee y propone, se debate **con los lápices en el centro de la mesa** —nadie escribe mientras se delibera— y solo cuando hay acuerdo se recogen los lápices y todos completan su fila. Garantiza igualdad de participación e interdependencia positiva, y evita que alguien copie sin entender.
+**2. La matriz con “lápices al centro” (20 min).** Ocho mini-casos reales y reconocibles. La estructura cooperativa es la clave: para cada tarjeta uno lee y propone, se debate **con los lápices en el centro de la mesa**, nadie escribe mientras se delibera, y solo cuando hay acuerdo se recogen los lápices y todos completan su fila. Garantiza igualdad de participación e interdependencia positiva, y evita que alguien copie sin entender.
 
-**3. Puesta en común (10 min).** Dos gabinetes voluntarios defienden su clasificación de los casos más discutidos —habitualmente el aceite a granel y el agua embotellada— y el resto coevalúa la calidad de la **justificación**. Cierra con la pregunta-resumen individual del Cornell.
+**3. Puesta en común (10 min).** Dos gabinetes voluntarios defienden su clasificación de los casos más discutidos, habitualmente el aceite a granel y el agua embotellada, y el resto coevalúa la calidad de la **justificación**. Cierra con la pregunta-resumen individual del Cornell.
 
 ### Preguntas guía del profesorado
 
@@ -29,23 +29,23 @@ Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutie
 
 ::: aviso Material que debes preparar tú
 - **Plantilla Cornell**, una por alumno/a.
-- **Matriz de clasificación** (filas: 8 mini-casos; columnas: los cuatro rasgos + estructura resultante), una por gabinete.
+- **Matriz de clasificación** (filas: 8 mini-casos; columnas. Los cuatro rasgos + estructura resultante), una por gabinete.
 - **8 tarjetas de mini-casos**: la lonja de pescado, el mercado del aceite de oliva a granel, el sistema operativo de los móviles, las compañías eléctricas, la telefonía móvil, las cafeterías del centro, el agua embotellada de marca y el transporte ferroviario de viajeros antes de la liberalización.
 - **Presentación de apoyo** con imágenes de la subasta de la lonja del puerto de Málaga, si es posible.
-- Recuerda la regla de «lápices al centro»: hay que enunciarla antes de empezar para que funcione.
+- Recuerda la regla de “lápices al centro”. Hay que enunciarla antes de empezar para que funcione.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro rasgos funcionan como andamiaje procedimental explícito: convierten una tarea abierta («clasifica este mercado») en cuatro preguntas cerradas y verificables que se repiten en los ocho casos.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura «lápices al centro» garantiza igualdad de participación: nadie puede avanzar por escrito mientras el grupo delibera, lo que impide que quien escribe más rápido monopolice la tarea.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro rasgos funcionan como andamiaje procedimental explícito. Convierten una tarea abierta (“clasifica este mercado”) en cuatro preguntas cerradas y verificables que se repiten en los ocho casos.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura “lápices al centro” garantiza igualdad de participación. Nadie puede avanzar por escrito mientras el grupo delibera, lo que impide que quien escribe más rápido monopolice la tarea.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
-La fase de «lápices al centro» genera deliberación simultánea en todos los gabinetes. Sitúa a este alumno/a en la zona más alejada del centro del aula, entrega las ocho tarjetas también por escrito y acuerda con el gabinete la norma de un solo turno de palabra y de frente.
+La fase de “lápices al centro” genera deliberación simultánea en todos los gabinetes. Sitúa a este alumno/a en la zona más alejada del centro del aula, entrega las ocho tarjetas también por escrito y acuerda con el gabinete la norma de un solo turno de palabra y de frente.
 :::
 
 ## Para empezar
 
-Hoy construimos la herramienta central de la unidad: un mapa que permite situar **cualquier** mercado.
+Hoy construimos la herramienta central de la unidad. Un mapa que permite situar **cualquier** mercado.
 
 Y son solo cuatro preguntas. Cuatro. Con ellas vas a poder diagnosticar el caso de tu gabinete, clasificar mercados que no has visto nunca y resolver el primer bloque de la prueba escrita.
 
@@ -70,7 +70,7 @@ sda6-s03-08.webp | Cierre del Cornell
 
 ### La competencia perfecta como referencia
 
-Sus cuatro supuestos: muchos oferentes y demandantes, todos **precio-aceptantes**; producto **homogéneo**; **libre entrada** y salida; e **información completa**. Ninguno de ellos puede, por sí solo, mover el precio.
+Sus cuatro supuestos. Muchos oferentes y demandantes, todos **precio-aceptantes**; producto **homogéneo**; **libre entrada** y salida; e **información completa**. Ninguno de ellos puede, por sí solo, mover el precio.
 
 Es un **ideal teórico**: pocos mercados reales lo cumplen del todo. Pero sirve como vara de medir. Y la subasta de la **lonja del puerto de Málaga** es lo más parecido que tenéis a mano: muchos pescadores, un producto esencialmente homogéneo por especie y calibre, y precios formados a la vista de todos.
 
@@ -78,8 +78,8 @@ Es un **ideal teórico**: pocos mercados reales lo cumplen del todo. Pero sirve 
 
 <table><thead><tr><th width="30%">Mini-caso</th><th width="16%">¿Cuántos venden?</th><th width="14%">¿Homogéneo?</th><th width="13%">¿Barreras?</th><th width="13%">¿Información?</th><th width="14%">Estructura</th></tr></thead><tbody><tr><td>1 · La lonja de pescado</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2 · El aceite de oliva a granel</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 · El sistema operativo de los móviles</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4 · Las compañías eléctricas</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5 · La telefonía móvil</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6 · Las cafeterías del centro</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7 · El agua embotellada de marca</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 · El tren de viajeros antes de la liberalización</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-::: aviso La regla de «lápices al centro»
-Para cada tarjeta: uno lee y propone, se debate **con los lápices en el centro de la mesa** —nadie escribe mientras se delibera— y solo cuando hay acuerdo se recogen los lápices y **todos** completan su fila. Si alguien está escribiendo, es que ha dejado de escuchar.
+::: aviso La regla de “lápices al centro”
+Para cada tarjeta: uno lee y propone, se debate **con los lápices en el centro de la mesa**, nadie escribe mientras se delibera, y solo cuando hay acuerdo se recogen los lápices y **todos** completan su fila. Si alguien está escribiendo, es que ha dejado de escuchar.
 :::
 
 ::: nota Esta matriz no es un ejercicio suelto
@@ -92,7 +92,7 @@ Se archiva en el portafolio y es **la herramienta de diagnóstico del apartado 1
 
 No hace falta memorizar una lista de estructuras de mercado. Basta con saber responder cuatro preguntas, y la estructura sale sola:
 
-<table><thead><tr><th width="30%">La pregunta</th><th width="70%">Qué determina</th></tr></thead><tbody><tr><td><b>¿Cuántos venden?</b></td><td>Es el rasgo más visible. Uno solo (monopolio), unos pocos (oligopolio) o muchísimos (competencia perfecta o monopolística).</td></tr><tr><td><b>¿El producto es homogéneo o diferenciado?</b></td><td>Si da igual a quién comprar, ningún vendedor puede cobrar más. Si cada uno ofrece algo distinto —real o percibido—, aparece un pequeño poder de mercado.</td></tr><tr><td><b>¿Es fácil entrar y salir?</b></td><td>Las <b>barreras de entrada</b> son lo que permite que un poder de mercado se sostenga. Sin barreras, los beneficios extraordinarios atraen competidores y se evaporan.</td></tr><tr><td><b>¿Está bien informado el comprador?</b></td><td>Si no lo está, el mercado puede funcionar mal aunque haya muchísimos vendedores. Es el fallo que estudiaréis en la sesión 6.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">La pregunta</th><th width="70%">Qué determina</th></tr></thead><tbody><tr><td><b>¿Cuántos venden?</b></td><td>Es el rasgo más visible. Uno solo (monopolio), unos pocos (oligopolio) o muchísimos (competencia perfecta o monopolística).</td></tr><tr><td><b>¿El producto es homogéneo o diferenciado?</b></td><td>Si da igual a quién comprar, ningún vendedor puede cobrar más. Si cada uno ofrece algo distinto, real o percibido, aparece un pequeño poder de mercado.</td></tr><tr><td><b>¿Es fácil entrar y salir?</b></td><td>Las <b>barreras de entrada</b> son lo que permite que un poder de mercado se sostenga. Sin barreras, los beneficios extraordinarios atraen competidores y se evaporan.</td></tr><tr><td><b>¿Está bien informado el comprador?</b></td><td>Si no lo está, el mercado puede funcionar mal aunque haya muchísimos vendedores. Es el fallo que estudiaréis en la sesión 6.</td></tr></tbody></table>
 
 ### 2. La competencia perfecta: el modelo de referencia
 

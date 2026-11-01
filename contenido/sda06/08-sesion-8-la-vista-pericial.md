@@ -4,19 +4,19 @@ titulo: Sesión 8 · La vista pericial
 
 ## Guía docente · Sesión 8 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 + 2.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo en semicírculo · Gabinetes</td><td><b>Carácter</b></td><td>Sumativa — producto final (informe + ratificación)</td></tr><tr><td><b>Instrumentos</b></td><td>EO: ratificación oral · D: turno de preguntas cruzadas · R: valoración del informe con la rúbrica general · Co.Ev.: escala de dedos razonada entre gabinetes</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 + 2.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo en semicírculo · Gabinetes</td><td><b>Carácter</b></td><td>Sumativa, producto final (informe + ratificación)</td></tr><tr><td><b>Instrumentos</b></td><td>EO: ratificación oral · D: turno de preguntas cruzadas · R: valoración del informe con la rúbrica general · Co.Ev.: escala de dedos razonada entre gabinetes</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Apertura de la vista: entrega formal de los informes y reglas de la Comisión.</td><td>2</td></tr><tr><td>00:05 – 00:45</td><td>Ratificaciones: unos 5 minutos por gabinete (3 de exposición + 2 de preguntas cruzadas).</td><td>3–5</td></tr><tr><td>00:45 – 00:50</td><td>Coevaluación final razonada y cierre: el mapa común de los fallos de mercado.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Apertura de la vista. Entrega formal de los informes y reglas de la Comisión.</td><td>2</td></tr><tr><td>00:05 – 00:45</td><td>Ratificaciones. Unos 5 minutos por gabinete (3 de exposición + 2 de preguntas cruzadas).</td><td>3–5</td></tr><tr><td>00:45 – 00:50</td><td>Coevaluación final razonada y cierre. El mapa común de los fallos de mercado.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Apertura (5 min).** Dispón el aula en **semicírculo** como Comisión de Competencia. Cada gabinete entrega su informe (instrumento R). Recuerda las tres reglas: la Portavocía expone pero **cualquier miembro puede ser requerido** en el turno de preguntas —responsabilidad individual dentro del trabajo cooperativo—; las preguntas cruzadas deben formularse **con un término técnico** de la unidad; y el tono es el de peritos que buscan la verdad del caso, no el de partes que litigan.
+**1. Apertura (5 min).** Dispón el aula en **semicírculo** como Comisión de Competencia. Cada gabinete entrega su informe (instrumento R). Recuerda las tres reglas: la Portavocía expone pero **cualquier miembro puede ser requerido** en el turno de preguntas, responsabilidad individual dentro del trabajo cooperativo; las preguntas cruzadas deben formularse **con un término técnico** de la unidad; y el tono es el de peritos que buscan la verdad del caso, no el de partes que litigan.
 
-**2. Las ratificaciones (40 min).** Unos 3 minutos para ratificar lo esencial —estructura o fallo identificado, dato oficial clave, resultado del coste-beneficio y recomendación— y 2 de preguntas cruzadas de los demás gabinetes y del docente. **Cronómetro visible.**
+**2. Las ratificaciones (40 min).** Unos 3 minutos para ratificar lo esencial (estructura o fallo identificado, dato oficial clave, resultado del coste-beneficio y recomendación) y 2 de preguntas cruzadas de los demás gabinetes y del docente. **Cronómetro visible.**
 
-Señala en voz alta algo que no es casual: el conjunto de las seis ratificaciones compone **deliberadamente el mapa completo de la unidad** —oligopolio y colusión, poder de compra, monopolio y liberalización, externalidades e información asimétrica—, de modo que escuchar a los demás gabinetes es también repasar de cara a la prueba escrita.
+Señala en voz alta algo que no es casual: el conjunto de las seis ratificaciones compone **deliberadamente el mapa completo de la unidad** (oligopolio y colusión, poder de compra, monopolio y liberalización, externalidades e información asimétrica), de modo que escuchar a los demás gabinetes es también repasar de cara a la prueba escrita.
 
 Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y R (el informe con la rúbrica general).
 
@@ -39,7 +39,7 @@ Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La ratificación es breve (3 minutos) y se apoya en un informe ya redactado, lo que reduce la carga de la exposición oral; y el turno de preguntas puede responderse entre varios miembros del gabinete.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas se conocen de antemano y el registro es deliberativo y no adversarial: se busca la verdad del caso, no derrotar a nadie. Solo las preguntas cruzadas son imprevisibles, y se han anticipado en la sesión 7.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La ratificación es breve (3 minutos) y se apoya en un informe ya redactado, lo que reduce la carga de la exposición oral; y el turno de preguntas puede responderse entre varios miembros del gabinete.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas se conocen de antemano y el registro es deliberativo y no adversarial. Se busca la verdad del caso, no derrotar a nadie. Solo las preguntas cruzadas son imprevisibles, y se han anticipado en la sesión 7.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sesión con turnos orales cruzados en semicírculo. Sitúa a este alumno/a en un extremo del semicírculo con visión frontal del conjunto, exige que quien pregunta se identifique y hable de frente y de uno en uno, y facilita **por escrito** los informes de los demás gabinetes antes de la sesión para que pueda preparar sus preguntas.
@@ -49,7 +49,7 @@ Sesión con turnos orales cruzados en semicírculo. Sitúa a este alumno/a en un
 
 Hoy comparecéis. El aula se convierte en **Comisión de Competencia**, y vuestro gabinete ratifica su informe ante el resto de peritos.
 
-Tres minutos para exponer lo esencial y dos de preguntas cruzadas. Y recordad la regla: la Portavocía expone, pero **cualquier miembro puede ser requerido**.
+Tres minutos para exponer lo esencial y dos de preguntas cruzadas. Y recordad la regla. La Portavocía expone, pero **cualquier miembro puede ser requerido**.
 
 El tono es el de peritos que buscan la verdad del caso, **no el de partes que litigan**.
 
@@ -76,7 +76,7 @@ sda6-s08-06.webp | Cierre
 
 ### Y las seis ratificaciones componen el mapa de la unidad
 
-<table><thead><tr><th width="40%">Caso</th><th width="60%">Qué ilustra</th></tr></thead><tbody><tr><td>Cártel de coches · mercado eléctrico</td><td>Oligopolio y colusión</td></tr><tr><td>Cártel lácteo</td><td>Poder de compra: el monopsonio de Joan Robinson</td></tr><tr><td>El AVE</td><td>Monopolio, barreras de entrada y liberalización</td></tr><tr><td>Vivienda turística en Málaga</td><td>Externalidades negativas</td></tr><tr><td>«Los cacharros» de Akerlof</td><td>Información asimétrica y selección adversa</td></tr></tbody></table>
+<table><thead><tr><th width="40%">Caso</th><th width="60%">Qué ilustra</th></tr></thead><tbody><tr><td>Cártel de coches · mercado eléctrico</td><td>Oligopolio y colusión</td></tr><tr><td>Cártel lácteo</td><td>Poder de compra: el monopsonio de Joan Robinson</td></tr><tr><td>El AVE</td><td>Monopolio, barreras de entrada y liberalización</td></tr><tr><td>Vivienda turística en Málaga</td><td>Externalidades negativas</td></tr><tr><td>“Los cacharros” de Akerlof</td><td>Información asimétrica y selección adversa</td></tr></tbody></table>
 
 ::: nota Escuchar a los demás es repasar
 No es casualidad: el conjunto de las seis ratificaciones es, deliberadamente, el **temario completo de la prueba escrita** de mañana. Tomad notas.

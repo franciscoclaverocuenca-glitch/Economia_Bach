@@ -8,21 +8,21 @@ titulo: 'Sesión 2 · Exploración: el mapa de precios de Málaga'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:08</td><td>Presentación del encargo y reparto de distritos. La regla de trazabilidad de fuentes.</td><td>2–3</td></tr><tr><td>00:08 – 00:25</td><td>Investigación por parejas: cuatro datos del distrito, en dos fuentes distintas.</td><td>4–5</td></tr><tr><td>00:25 – 00:45</td><td>Construcción del mapa colectivo y lectura en gran grupo.</td><td>6–7</td></tr><tr><td>00:45 – 00:50</td><td>Conclusión personal y pregunta pendiente, con el mapa aún proyectado.</td><td>8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:08</td><td>Presentación del encargo y reparto de distritos. La regla de trazabilidad de fuentes.</td><td>2–3</td></tr><tr><td>00:08 – 00:25</td><td>Investigación por parejas. Cuatro datos del distrito, en dos fuentes distintas.</td><td>4–5</td></tr><tr><td>00:25 – 00:45</td><td>Construcción del mapa colectivo y lectura en gran grupo.</td><td>6–7</td></tr><tr><td>00:45 – 00:50</td><td>Conclusión personal y pregunta pendiente, con el mapa aún proyectado.</td><td>8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. El encargo (8 min).** Cada pareja recibe un **distrito de Málaga** y tiene que averiguar cuatro datos: precio medio del alquiler, precio medio de compra por metro cuadrado, número de anuncios disponibles y superficie media ofertada.
 
-Enuncia la **regla de trazabilidad**, que se va a exigir en todos los productos posteriores de la unidad: **cada dato se busca en dos fuentes distintas** y se anota siempre con su **fuente, su fecha y su tamaño de muestra**. Si las dos fuentes discrepan, no se escoge al azar: se decide y **se justifica por escrito** cuál se toma.
+Enuncia la **regla de trazabilidad**, que se va a exigir en todos los productos posteriores de la unidad: **cada dato se busca en dos fuentes distintas** y se anota siempre con su **fuente, su fecha y su tamaño de muestra**. Si las dos fuentes discrepan, no se escoge al azar. Se decide y **se justifica por escrito** cuál se toma.
 
 Esa regla es el contenido real de la sesión. Los precios se olvidan; el hábito de preguntar de dónde sale un dato, no.
 
-**2. La investigación (17 min).** Es la fase observable y donde se aplica la lista de cotejo. Circula con ella: la pareja reparte el trabajo en lugar de que busque uno solo; anota fuente, fecha y muestra **sin que haya que recordárselo**; y ante una discrepancia decide y justifica.
+**2. La investigación (17 min).** Es la fase observable y donde se aplica la lista de cotejo. Circula con ella. La pareja reparte el trabajo en lugar de que busque uno solo; anota fuente, fecha y muestra **sin que haya que recordárselo**; y ante una discrepancia decide y justifica.
 
-El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas parejas**, ya avanzada la fase, cuando las discrepancias han aparecido. Y anota cualitativamente las dos o tres parejas donde la discrepancia generó discusión, con la decisión que tomaron: ese material es lo que después sostiene un Notable frente a un Bien.
+El tercer ítem es el que discrimina de verdad. Obsérvalo en las **últimas parejas**, ya avanzada la fase, cuando las discrepancias han aparecido. Y anota cualitativamente las dos o tres parejas donde la discrepancia generó discusión, con la decisión que tomaron. Ese material es lo que después sostiene un Notable frente a un Bien.
 
-**3. El mapa colectivo (20 min).** Cada pareja vuelca su dato en un mapa de la ciudad proyectado o en la pizarra. Cuando están todos, la lectura en gran grupo con tres preguntas: «¿dónde están los extremos?», «¿coincide el distrito más caro de alquiler con el más caro de compra?», «¿qué distritos tienen más anuncios y qué puede significar eso?».
+**3. El mapa colectivo (20 min).** Cada pareja vuelca su dato en un mapa de la ciudad proyectado o en la pizarra. Cuando están todos, la lectura en gran grupo con tres preguntas: “¿dónde están los extremos?”, “¿coincide el distrito más caro de alquiler con el más caro de compra?”, “¿qué distritos tienen más anuncios y qué puede significar eso?”.
 
 **4. El cierre (5 min).** Con el mapa **aún proyectado**, cada estudiante redacta su conclusión personal y su pregunta pendiente. **Se recogen las fichas al salir y se sellan o se fotografían**: sellarlas evita que se completen después. Se devuelven en la sesión 3 para incorporarlas físicamente al portafolio.
 
@@ -56,7 +56,7 @@ Hoy no os vamos a contar cuánto cuesta vivir en Málaga. Lo vais a averiguar vo
 
 Y con una regla que va a acompañaros el resto de la unidad: **ningún dato vale sin su fuente**. Cada cifra se busca en **dos** sitios distintos y se anota con su fecha y sobre cuántos anuncios está calculada.
 
-Cuando las dos fuentes no coincidan —y no van a coincidir— tendréis que decidir cuál os creéis y explicar por qué.
+Cuando las dos fuentes no coincidan, y no van a coincidir, tendréis que decidir cuál os creéis y explicar por qué.
 
 ## Diapositivas de la sesión
 
@@ -125,7 +125,7 @@ Esta regla se va a exigir en **todos** los productos posteriores de la unidad, i
 
 Porque no coinciden. Y esa discrepancia no es un fallo: es información.
 
-Dos portales inmobiliarios pueden dar precios distintos para el mismo distrito porque miden cosas distintas —uno el precio pedido y otro el precio cerrado—, porque su muestra es distinta o porque la fecha no es la misma. Quien solo consulta una fuente **no sabe que existe esa diferencia**.
+Dos portales inmobiliarios pueden dar precios distintos para el mismo distrito porque miden cosas distintas, uno el precio pedido y otro el precio cerrado, porque su muestra es distinta o porque la fecha no es la misma. Quien solo consulta una fuente **no sabe que existe esa diferencia**.
 
 Lo que se os pide no es acertar, sino **decidir con criterio y poder justificarlo**.
 

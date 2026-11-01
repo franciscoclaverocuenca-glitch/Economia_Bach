@@ -1,20 +1,20 @@
 ---
-titulo: Sesión 1 · «El ladrón invisible»
+titulo: Sesión 1 · “El ladrón invisible”
 ---
 
 ## Guía docente · Sesión 1 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 (con introducción a 4.2)</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa — primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante la indagación · D: debate por parejas sobre las causas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 (con introducción a 4.2)</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante la indagación · D: debate por parejas sobre las causas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Reparto de la cesta de la compra 2021-2023 y cálculo por parejas de cuánto ha subido cada producto.</td><td>1–4</td></tr><tr><td>00:10 – 00:30</td><td>Indagación estructurada: contraste de titulares y distinción entre «sube un precio» y «suben los precios».</td><td>5–6</td></tr><tr><td>00:30 – 00:40</td><td>Presentación del reto final: la rueda de prensa del BCE.</td><td>7–8</td></tr><tr><td>00:40 – 00:50</td><td>Diagnóstico de ideas previas y metáfora del «ladrón invisible».</td><td>9–10</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Reparto de la cesta de la compra 2021-2023 y cálculo por parejas de cuánto ha subido cada producto.</td><td>1–4</td></tr><tr><td>00:10 – 00:30</td><td>Indagación estructurada. Contraste de titulares y distinción entre “sube un precio” y “suben los precios”.</td><td>5–6</td></tr><tr><td>00:30 – 00:40</td><td>Presentación del reto final: la rueda de prensa del BCE.</td><td>7–8</td></tr><tr><td>00:40 – 00:50</td><td>Diagnóstico de ideas previas y metáfora del “ladrón invisible”.</td><td>9–10</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. La cesta malagueña (10 min).** Reparte la tabla y deja que calculen sin explicar nada todavía. La consigna importante no es el cálculo, es la segunda pregunta: si en 2021 teníais 50 € para la compra, ¿podéis comprar lo mismo hoy? La idea que tiene que emerger de ellos —no de ti— es que el dinero es el mismo pero compra menos. Anótala en la pizarra con sus propias palabras.
+**1. La cesta malagueña (10 min).** Reparte la tabla y deja que calculen sin explicar nada todavía. La consigna importante no es el cálculo, es la segunda pregunta. Si en 2021 teníais 50 € para la compra, ¿podéis comprar lo mismo hoy? La idea que tiene que emerger de ellos, no de ti, es que el dinero es el mismo pero compra menos. Anótala en la pizarra con sus propias palabras.
 
-**2. Los cuatro titulares (20 min).** Proyecta los titulares y pide que los clasifiquen por parejas: causa, consecuencia o respuesta de las autoridades. La clasificación es un medio; el fin es llegar a la distinción fundamental de la unidad: que suba el precio de un producto concreto (una sequía encarece el aceite) **no es inflación**. La inflación es la subida generalizada y sostenida del nivel medio de precios. Esta distinción se queda como primera entrada del portafolio y conviene volver sobre ella varias veces durante el curso.
+**2. Los cuatro titulares (20 min).** Proyecta los titulares y pide que los clasifiquen por parejas. Causa, consecuencia o respuesta de las autoridades. La clasificación es un medio; el fin es llegar a la distinción fundamental de la unidad. Que suba el precio de un producto concreto (una sequía encarece el aceite) **no es inflación**. La inflación es la subida generalizada y sostenida del nivel medio de precios. Esta distinción se queda como primera entrada del portafolio y conviene volver sobre ella varias veces durante el curso.
 
 **3. El reto (10 min).** Presenta la rueda de prensa del BCE. Insiste en que el escenario es real y la decisión está abierta: eso cambia la implicación del grupo. Ver la meta desde el primer día da sentido a cada sesión intermedia.
 
@@ -36,7 +36,7 @@ titulo: Sesión 1 · «El ladrón invisible»
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la cesta de la compra que cada familia del alumnado ha vivido: un contexto local, cercano y auténtico que no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas dentro del grupo base permite participar sin exponerse ante el gran grupo, y el diagnóstico final es anónimo y escrito.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la cesta de la compra que cada familia del alumnado ha vivido. Un contexto local, cercano y auténtico que no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas dentro del grupo base permite participar sin exponerse ante el gran grupo, y el diagnóstico final es anónimo y escrito.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
@@ -46,7 +46,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 Antes de leer nada, responde sin buscarlo en ningún sitio:
 
-«Si en 2021 tenías 50 € para la compra, ¿puedes comprar lo mismo hoy con esos 50 €?»
+“Si en 2021 tenías 50 € para la compra, ¿puedes comprar lo mismo hoy con esos 50 €?”
 
 Guarda tu respuesta. Al final de la unidad volverás a leerla.
 
@@ -71,7 +71,7 @@ sda11-s01-10.webp | La pregunta abierta
 
 Recibís una tabla con el precio de cinco productos cotidianos en 2021 y en 2023. Dos tareas:
 
-<table><thead><tr><th width="6%"></th><th width="94%">Tarea</th></tr></thead><tbody><tr><td>1</td><td>Calculad en <b>porcentaje</b> cuánto ha subido cada producto. Fórmula: (precio nuevo − precio viejo) ÷ precio viejo × 100.</td></tr><tr><td>2</td><td>Sumad el coste total de la cesta en cada año y responded: si en 2021 teníais 50 € para la compra, ¿podéis comprar lo mismo con esos 50 € hoy? ¿Qué le ha pasado al valor de vuestro dinero?</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Tarea</th></tr></thead><tbody><tr><td>1</td><td>Calculad en <b>porcentaje</b> cuánto ha subido cada producto. Fórmula: (precio nuevo − precio viejo) ÷ precio viejo × 100.</td></tr><tr><td>2</td><td>Sumad el coste total de la cesta en cada año y responded. Si en 2021 teníais 50 € para la compra, ¿podéis comprar lo mismo con esos 50 € hoy? ¿Qué le ha pasado al valor de vuestro dinero?</td></tr></tbody></table>
 
 <table><thead><tr><th width="37%">Producto</th><th width="21%">Precio 2021</th><th width="21%">Precio 2023</th><th width="21%">Subida %</th></tr></thead><tbody><tr><td>Barra de pan</td><td></td><td></td><td></td></tr><tr><td>Litro de leche</td><td></td><td></td><td></td></tr><tr><td>Botella de aceite de oliva</td><td></td><td></td><td></td></tr><tr><td>Litro de gasolina</td><td></td><td></td><td></td></tr><tr><td>Alquiler medio de un piso en Málaga</td><td></td><td></td><td></td></tr><tr><td><b>TOTAL DE LA CESTA</b></td><td></td><td></td><td></td></tr></tbody></table>
 
@@ -101,14 +101,14 @@ Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluac
 1. Se reparten en papel y quedan disponibles de forma permanente en este material.
 2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
 3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio: se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
+4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
 :::
 
 ### Cómo se lee una rúbrica
 
 Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
 
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato: hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
+Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
 
 ::: idea Lo que separa un nivel del siguiente
 Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
@@ -116,9 +116,9 @@ Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a 
 
 ### Los instrumentos de evaluación
 
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas —test, verdadero/falso o respuesta breve—, en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado —controversia, fishbowl, careo— con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
+<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
 
-Ningún instrumento tiene rúbrica propia: todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
+Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
 
 Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
 
@@ -151,15 +151,15 @@ La **inflación** es el aumento **generalizado** y **sostenido** del nivel medio
 - **Generalizado** significa que suben muchos bienes y servicios a la vez, no uno solo. Si una sequía encarece el aceite de oliva pero el resto de precios no se mueve, eso no es inflación: es un cambio de *precio relativo*. El aceite se ha encarecido *respecto de las demás cosas*.
 - **Sostenido** significa mantenido en el tiempo, no un repunte de un mes que después se corrige.
 
-Esta distinción parece técnica y no lo es: buena parte de las conversaciones confusas sobre precios que oirás nacen de mezclar las dos cosas.
+Esta distinción parece técnica y no lo es. Buena parte de las conversaciones confusas sobre precios que oirás nacen de mezclar las dos cosas.
 
 ::: aviso El error más común
-«Ha subido el pan, o sea que hay inflación». No necesariamente. La pregunta correcta es: **¿ha subido el pan más que las demás cosas, o han subido todas a la vez?** Solo lo segundo es inflación.
+“Ha subido el pan, o sea que hay inflación”. No necesariamente. La pregunta correcta es: **¿ha subido el pan más que las demás cosas, o han subido todas a la vez?** Solo lo segundo es inflación.
 :::
 
 ### 3. Tres cosas que van a aparecer en los titulares
 
-<table><thead><tr><th width="26%">Concepto</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>Nivel de precios</b></td><td>El precio medio del conjunto de bienes y servicios de una economía, no el de un producto.</td></tr><tr><td><b>Poder adquisitivo</b></td><td>La cantidad de bienes y servicios que se pueden comprar con una cantidad dada de dinero.</td></tr><tr><td><b>Deflación</b></td><td>El fenómeno opuesto: caída generalizada y sostenida de los precios. Lo verás en la sesión 4, y no es tan buena noticia como parece.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Concepto</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>Nivel de precios</b></td><td>El precio medio del conjunto de bienes y servicios de una economía, no el de un producto.</td></tr><tr><td><b>Poder adquisitivo</b></td><td>La cantidad de bienes y servicios que se pueden comprar con una cantidad dada de dinero.</td></tr><tr><td><b>Deflación</b></td><td>El fenómeno opuesto. Caída generalizada y sostenida de los precios. Lo verás en la sesión 4, y no es tan buena noticia como parece.</td></tr></tbody></table>
 
 ### 4. Y una pregunta abierta
 

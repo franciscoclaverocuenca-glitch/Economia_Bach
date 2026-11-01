@@ -4,23 +4,23 @@ titulo: Sesión 7 · El laboratorio pericial
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 + 2.3 (formativa)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gabinete de 4</td><td><b>Carácter</b></td><td>Formativa — laboratorio de preparación del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro del trabajo cooperativo y control de calidad del borrador</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 + 2.3 (formativa)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gabinete de 4</td><td><b>Carácter</b></td><td>Formativa, laboratorio de preparación del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro del trabajo cooperativo y control de calidad del borrador</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Enfoque e instrucciones: guion pericial de 5 apartados y criterios de la rúbrica.</td><td>2–3</td></tr><tr><td>00:05 – 00:45</td><td>Trabajo en gabinetes: análisis del caso, búsqueda y cita del dato oficial, redacción y reparto de la ratificación.</td><td>2–5</td></tr><tr><td>00:45 – 00:50</td><td>Control de calidad docente: semáforo de progreso por apartados y tareas pendientes.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:05</td><td>Enfoque e instrucciones. Guion pericial de 5 apartados y criterios de la rúbrica.</td><td>2–3</td></tr><tr><td>00:05 – 00:45</td><td>Trabajo en gabinetes: análisis del caso, búsqueda y cita del dato oficial, redacción y reparto de la ratificación.</td><td>2–5</td></tr><tr><td>00:45 – 00:50</td><td>Control de calidad docente. Semáforo de progreso por apartados y tareas pendientes.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
 **1. Enfoque (5 min).** Reparte el guion pericial definitivo y proyecta la rúbrica de los criterios 2.1 y 2.3, explicitando qué se valorará en el informe y qué en la ratificación. Recuerda la **regla documental**: al menos un dato oficial verificable, citado con su fuente.
 
-**2. El laboratorio (40 min).** Cada gabinete trabaja con las herramientas que ha ido fabricando: la matriz de la sesión 3 para el diagnóstico (apartado 1), los conceptos de las sesiones 4 a 6 para causas y consecuencias (apartados 2 y 3) y la plantilla de coste-beneficio de la sesión 6 para comparar dos soluciones (apartado 4). No hay que inventar nada: hay que aplicar.
+**2. El laboratorio (40 min).** Cada gabinete trabaja con las herramientas que ha ido fabricando. La matriz de la sesión 3 para el diagnóstico (apartado 1), los conceptos de las sesiones 4 a 6 para causas y consecuencias (apartados 2 y 3) y la plantilla de coste-beneficio de la sesión 6 para comparar dos soluciones (apartado 4). No hay que inventar nada: hay que aplicar.
 
 Los subroles ordenan el trabajo. Insiste en el **criterio de fiabilidad de fuentes**: resolución o nota de prensa oficial (CNMC, ACREA) por delante del titular periodístico; estadística oficial (IECA, INE) por delante del dato sin fuente.
 
-**Sobre la IA**, si sale el tema: el peso sumativo de esta unidad recae en la ratificación presencial con preguntas cruzadas y en la prueba escrita. Un eventual uso indebido en la redacción no puede sustituir la comprensión que ambas situaciones presenciales exigen demostrar. Conviene decirlo con naturalidad, no como amenaza.
+**Sobre la IA**, si sale el tema. El peso sumativo de esta unidad recae en la ratificación presencial con preguntas cruzadas y en la prueba escrita. Un eventual uso indebido en la redacción no puede sustituir la comprensión que ambas situaciones presenciales exigen demostrar. Conviene decirlo con naturalidad, no como amenaza.
 
-**3. Control de calidad (5 min).** Revisa con cada gabinete un **semáforo por apartados** —verde, ámbar, rojo— y anota las tareas de remate para casa. Es formativo: todavía hay margen.
+**3. Control de calidad (5 min).** Revisa con cada gabinete un **semáforo por apartados** (verde, ámbar, rojo) y anota las tareas de remate para casa. Es formativo: todavía hay margen.
 
 ### Preguntas guía del profesorado
 
@@ -32,7 +32,7 @@ Los subroles ordenan el trabajo. Insiste en el **criterio de fiabilidad de fuent
 ::: aviso Material que debes preparar tú
 - **Guion pericial de 5 apartados**, impreso, uno por gabinete.
 - **Rúbrica de los criterios 2.1 y 2.3** proyectada durante toda la sesión.
-- **La matriz de estructuras de la sesión 3** y la **plantilla de coste-beneficio de la sesión 6** sobre la mesa: son las herramientas de trabajo, no material de archivo.
+- **La matriz de estructuras de la sesión 3** y la **plantilla de coste-beneficio de la sesión 6** sobre la mesa. Son las herramientas de trabajo, no material de archivo.
 - **Dispositivos con acceso a fuentes oficiales**: CNMC, ACREA, IECA e INE. Comprueba que los enlaces a las notas de prensa citadas siguen accesibles.
 - **Semáforo de progreso** por apartados para el control de calidad.
 - Portafolios del alumnado con el material acumulado de las seis sesiones anteriores.
@@ -74,8 +74,8 @@ sda6-s07-06.webp | Control de calidad
 ::: aviso Al menos un dato oficial verificable, citado con su fuente
 Y con un criterio de fiabilidad explícito:
 
-- Resolución o nota de prensa oficial ( **CNMC**, **ACREA**) **por delante** del titular periodístico.
-- Estadística oficial ( **IECA**, **INE**) **por delante** del dato sin fuente.
+- Resolución o nota de prensa oficial (**CNMC**, **ACREA**) **por delante** del titular periodístico.
+- Estadística oficial (**IECA**, **INE**) **por delante** del dato sin fuente.
 :::
 
 ### Los subroles ordenan el trabajo
@@ -83,7 +83,7 @@ Y con un criterio de fiabilidad explícito:
 <table><thead><tr><th width="24%">Subrol</th><th width="76%">Qué hace hoy</th></tr></thead><tbody><tr><td><b>Documentación</b></td><td>Localiza y verifica el dato oficial. Responde de que cada cifra tenga su fuente citada.</td></tr><tr><td><b>Redacción</b></td><td>Integra el material en un texto coherente. El informe tiene que leerse como un documento, no como cinco fragmentos pegados.</td></tr><tr><td><b>Coordinación</b></td><td>Controla tiempos y guion. Se asegura de que ningún apartado se queda a medias.</td></tr><tr><td><b>Portavocía</b></td><td>Prepara la ratificación de 3 minutos y <b>anticipa</b> las posibles preguntas cruzadas.</td></tr></tbody></table>
 
 ::: nota Sobre el uso de herramientas de IA
-El peso sumativo de esta unidad recae en la **ratificación presencial con preguntas cruzadas** y en la **prueba escrita**. Un eventual uso indebido en la redacción no puede sustituir la comprensión que ambas situaciones presenciales exigen demostrar: el informe se defiende en directo, y cualquier miembro puede ser requerido.
+El peso sumativo de esta unidad recae en la **ratificación presencial con preguntas cruzadas** y en la **prueba escrita**. Un eventual uso indebido en la redacción no puede sustituir la comprensión que ambas situaciones presenciales exigen demostrar. El informe se defiende en directo, y cualquier miembro puede ser requerido.
 :::
 
 ### Semáforo de control de calidad

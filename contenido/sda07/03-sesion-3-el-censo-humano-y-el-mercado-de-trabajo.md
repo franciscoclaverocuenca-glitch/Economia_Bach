@@ -4,25 +4,25 @@ titulo: Sesión 3 · El censo humano y el mercado de trabajo
 
 ## Guía docente · Sesión 3 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4 → Parejas</td><td><b>Carácter</b></td><td>Formativa — evidencia de portafolio y de coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, ficha de tasas y gráfico resuelto · OD: observación durante el juego y el taller · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4 → Parejas</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y de coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, ficha de tasas y gráfico resuelto · OD: observación durante el juego y el taller · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Explicación magistral condensada: la clasificación de la población a efectos laborales. Cornell.</td><td>2–3</td></tr><tr><td>00:10 – 00:22</td><td>Juego «El censo humano»: clasificación física de 16 personajes y resolución de los cuatro casos frontera.</td><td>4–5</td></tr><tr><td>00:22 – 00:30</td><td>Cálculo de las tasas del «país-aula» por grupos y puesta en común con coevaluación.</td><td>6–7</td></tr><tr><td>00:30 – 00:38</td><td>El mercado de trabajo: oferta, demanda, salario de equilibrio y condiciones especiales.</td><td>8–9</td></tr><tr><td>00:38 – 00:48</td><td>Taller gráfico por parejas: el efecto de un salario mínimo.</td><td>10</td></tr><tr><td>00:48 – 00:55</td><td>Cierre: confirmación del sector de cada grupo y datos de género de la EPA.</td><td>10</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Explicación magistral condensada. La clasificación de la población a efectos laborales. Cornell.</td><td>2–3</td></tr><tr><td>00:10 – 00:22</td><td>Juego “El censo humano”. Clasificación física de 16 personajes y resolución de los cuatro casos frontera.</td><td>4–5</td></tr><tr><td>00:22 – 00:30</td><td>Cálculo de las tasas del “país-aula” por grupos y puesta en común con coevaluación.</td><td>6–7</td></tr><tr><td>00:30 – 00:38</td><td>El mercado de trabajo: oferta, demanda, salario de equilibrio y condiciones especiales.</td><td>8–9</td></tr><tr><td>00:38 – 00:48</td><td>Taller gráfico por parejas: el efecto de un salario mínimo.</td><td>10</td></tr><tr><td>00:48 – 00:55</td><td>Cierre. Confirmación del sector de cada grupo y datos de género de la EPA.</td><td>10</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. La clasificación (10 min).** Explicación condensada con Cornell. Lo esencial son los **tres requisitos simultáneos** del paro estadístico: no tener empleo, buscarlo activamente y estar disponible. Repítelos: toda la sesión depende de que queden fijados.
+**1. La clasificación (10 min).** Explicación condensada con Cornell. Lo esencial son los **tres requisitos simultáneos** del paro estadístico. No tener empleo, buscarlo activamente y estar disponible. Repítelos: toda la sesión depende de que queden fijados.
 
-**2. El censo humano (12 min).** El aula se convierte en cuatro zonas y cada persona se sitúa físicamente donde le corresponde según su tarjeta. Las 16 tarjetas incluyen deliberadamente los **cuatro casos frontera**. Cuando haya desacuerdo, no lo resuelvas por votación ni por autoridad: vuelve a los tres requisitos y que lo deduzcan.
+**2. El censo humano (12 min).** El aula se convierte en cuatro zonas y cada persona se sitúa físicamente donde le corresponde según su tarjeta. Las 16 tarjetas incluyen deliberadamente los **cuatro casos frontera**. Cuando haya desacuerdo, no lo resuelvas por votación ni por autoridad. Vuelve a los tres requisitos y que lo deduzcan.
 
 Los casos **C** (subempleo) y **D** (sin contrato) son la semilla explícita de la sesión 4: señálalo en voz alta cuando salgan.
 
-**3. Las tasas (8 min).** Con el aula ya clasificada, cada grupo cuenta efectivos y calcula las tres tasas. La trampa que hay que hacer emerger es el **denominador de la tasa de paro**: se calcula sobre los activos, no sobre la población total, y por eso puede bajar «por el motivo malo». Es una de las ideas más valiosas de la unidad y se pregunta en el bloque 1 de la prueba.
+**3. Las tasas (8 min).** Con el aula ya clasificada, cada grupo cuenta efectivos y calcula las tres tasas. La trampa que hay que hacer emerger es el **denominador de la tasa de paro**: se calcula sobre los activos, no sobre la población total, y por eso puede bajar “por el motivo malo”. Es una de las ideas más valiosas de la unidad y se pregunta en el bloque 1 de la prueba.
 
-**4. El mercado de trabajo (8 min).** Arranca con la pregunta provocadora: «si el trabajo se compra y se vende, ¿quién es aquí el vendedor y quién el comprador?». La inversión de papeles respecto a un mercado de bienes sorprende y fija el concepto. El modelo ya lo conocen de la SdA 5: aprovéchalo y condensa.
+**4. El mercado de trabajo (8 min).** Arranca con la pregunta provocadora. “si el trabajo se compra y se vende, ¿quién es aquí el vendedor y quién el comprador?”. La inversión de papeles respecto a un mercado de bienes sorprende y fija el concepto. El modelo ya lo conocen de la SdA 5: aprovéchalo y condensa.
 
-**5. El taller gráfico (10 min).** Sobre un mercado ficticio, representar las curvas, identificar el equilibrio y analizar el efecto de un salario mínimo por encima de él. **No cierres el debate del SMI**: la conclusión pedagógica es otra, y es el puente a la sesión 4 — el modelo predice direcciones, los datos miden magnitudes.
+**5. El taller gráfico (10 min).** Sobre un mercado ficticio, representar las curvas, identificar el equilibrio y analizar el efecto de un salario mínimo por encima de él. **No cierres el debate del SMI**: la conclusión pedagógica es otra, y es el puente a la sesión 4, el modelo predice direcciones, los datos miden magnitudes.
 
 **6. Cierre (7 min).** Cada grupo confirma su sector en el tablón. Y proyecta los dos datos de género de la última EPA junto a la pregunta abierta de la sesión 1.
 
@@ -35,16 +35,16 @@ Los casos **C** (subempleo) y **D** (sin contrato) son la semilla explícita de 
 
 ::: aviso Material que debes preparar tú
 - **16 tarjetas de personaje** con edad, situación y comportamiento de búsqueda, incluyendo obligatoriamente los cuatro casos frontera (desánimo, estudiante que busca, subempleo y trabajo sin contrato).
-- **Cuatro carteles de zona** para el aula: Ocupados, Parados, Inactivos y Menores de 16. Y espacio despejado: la actividad no se puede hacer sentados.
+- **Cuatro carteles de zona** para el aula: Ocupados, Parados, Inactivos y Menores de 16. Y espacio despejado. La actividad no se puede hacer sentados.
 - **Plantilla Cornell**, calculadoras y ficha de cálculo de las tres tasas.
 - **Plantilla de gráficos de oferta y demanda de trabajo** con tabla de datos de un mercado ficticio, una por pareja.
-- **Dos datos de la última EPA** para el cierre de género: tasa de actividad por sexo y parcialidad involuntaria. Actualízalos.
+- **Dos datos de la última EPA** para el cierre de género. Tasa de actividad por sexo y parcialidad involuntaria. Actualízalos.
 - **Tablón de la unidad** para registrar el sector confirmado de cada grupo.
 :::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El censo humano es una actividad manipulativa y con movimiento físico: permite acceder a una clasificación abstracta situándose en el espacio, sin depender de la comprensión verbal previa.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Las tres tasas se presentan como fórmula, como enunciado verbal y como recuento físico de personas en el aula, de modo que el denominador de cada una pueda comprobarse contando.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El censo humano es una actividad manipulativa y con movimiento físico. Permite acceder a una clasificación abstracta situándose en el espacio, sin depender de la comprensión verbal previa.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Las tres tasas se presentan como fórmula, como enunciado verbal y como recuento físico de personas en el aula, de modo que el denominador de cada una pueda comprobarse contando.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 El censo humano implica movimiento por el aula y varias conversaciones simultáneas. Entrega a este alumno/a su tarjeta por escrito con antelación, exige que las justificaciones se digan de una en una y de frente, y proyecta los cuatro nombres de zona además de anunciarlos. En el taller gráfico, asegúrate de que su pareja habla mirándole.
@@ -58,7 +58,7 @@ Sesión **fusionada** de las antiguas S3 y S4. Lo que se comprimió es esto: el 
 
 Ayer quedaron tres preguntas sin responder en la pizarra. Hoy vas a poder responder dos de ellas con precisión.
 
-Y no vas a hacerlo sentado: el aula entera se va a convertir en un país en miniatura, y tú vas a ser uno de sus habitantes. Trae la tarjeta que te toque y prepárate para discutir dónde te corresponde estar.
+Y no vas a hacerlo sentado. El aula entera se va a convertir en un país en miniatura, y tú vas a ser uno de sus habitantes. Trae la tarjeta que te toque y prepárate para discutir dónde te corresponde estar.
 
 ## Diapositivas de la sesión
 
@@ -89,14 +89,14 @@ Si falla cualquiera de las tres, esa persona **no es parada** para la estadísti
 
 ### Los cuatro casos frontera
 
-<table><thead><tr><th width="18%">Tarjeta</th><th width="40%">El caso</th><th width="42%">La respuesta y por qué</th></tr></thead><tbody><tr><td><b>A · Desánimo</b></td><td>Tienes 52 años, perdiste tu empleo hace 3 años y has dejado de buscar porque crees que no te contratarán</td><td><b>INACTIVO.</b> Sin búsqueda activa no hay paro estadístico. Es el «efecto desánimo»</td></tr><tr><td><b>B · Estudiante que busca</b></td><td>Tienes 19 años, estudias un grado y buscas activamente un trabajo de fin de semana</td><td><b>ACTIVO y PARADO.</b> Estudiar no excluye de la actividad si hay búsqueda</td></tr><tr><td><b>C · Subempleo</b></td><td>Trabajas 8 horas semanales repartiendo pedidos y querrías jornada completa</td><td><b>OCUPADO.</b> Una hora de trabajo en la semana de referencia basta para la EPA</td></tr><tr><td><b>D · Sin contrato</b></td><td>Cobras sin contrato por cuidar niños 20 horas semanales y no buscas otra cosa</td><td><b>OCUPADA</b> para la EPA, pero invisible para el paro registrado</td></tr></tbody></table>
+<table><thead><tr><th width="18%">Tarjeta</th><th width="40%">El caso</th><th width="42%">La respuesta y por qué</th></tr></thead><tbody><tr><td><b>A · Desánimo</b></td><td>Tienes 52 años, perdiste tu empleo hace 3 años y has dejado de buscar porque crees que no te contratarán</td><td><b>INACTIVO.</b> Sin búsqueda activa no hay paro estadístico. Es el “efecto desánimo”</td></tr><tr><td><b>B · Estudiante que busca</b></td><td>Tienes 19 años, estudias un grado y buscas activamente un trabajo de fin de semana</td><td><b>ACTIVO y PARADO.</b> Estudiar no excluye de la actividad si hay búsqueda</td></tr><tr><td><b>C · Subempleo</b></td><td>Trabajas 8 horas semanales repartiendo pedidos y querrías jornada completa</td><td><b>OCUPADO.</b> Una hora de trabajo en la semana de referencia basta para la EPA</td></tr><tr><td><b>D · Sin contrato</b></td><td>Cobras sin contrato por cuidar niños 20 horas semanales y no buscas otra cosa</td><td><b>OCUPADA</b> para la EPA, pero invisible para el paro registrado</td></tr></tbody></table>
 
 ### Las tasas de nuestro país-aula
 
 <table><thead><tr><th width="26%">Tasa</th><th width="48%">Fórmula</th><th width="26%">Nuestro resultado</th></tr></thead><tbody><tr><td>Tasa de <b>actividad</b></td><td>activos ÷ población de 16 y más × 100</td><td></td></tr><tr><td>Tasa de <b>empleo</b></td><td>ocupados ÷ población de 16 y más × 100</td><td></td></tr><tr><td>Tasa de <b>paro</b></td><td>parados ÷ <b>ACTIVOS</b> × 100</td><td></td></tr></tbody></table>
 
 ::: nota La trampa más importante de la unidad
-La tasa de paro se calcula sobre los **activos**, no sobre toda la población. Por eso puede bajar «por el motivo malo»: si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador, pero también el denominador… y la tasa mejora sin que nadie haya encontrado empleo.
+La tasa de paro se calcula sobre los **activos**, no sobre toda la población. Por eso puede bajar “por el motivo malo”. Si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador, pero también el denominador… y la tasa mejora sin que nadie haya encontrado empleo.
 :::
 
 ## Practica · Ocupado, parado o inactivo
@@ -150,7 +150,7 @@ Confirmad el **sector** de vuestro podcast en el tablón de la unidad. Y anotad 
 
 ### 1. La clasificación de la población a efectos laborales
 
-<table><thead><tr><th width="30%">Categoría</th><th width="70%">Quiénes son</th></tr></thead><tbody><tr><td><b>Población total</b></td><td>Todos los habitantes</td></tr><tr><td><b>Población en edad de trabajar</b></td><td>16 años y más</td></tr><tr><td><b>Población ACTIVA</b></td><td>Ocupados + parados: quienes están en el mercado de trabajo</td></tr><tr><td><b>Población INACTIVA</b></td><td>Estudiantes, jubilados, personas dedicadas a labores del hogar, incapacitados, rentistas</td></tr><tr><td><b>Ocupados</b></td><td>Quienes tienen empleo. Basta una hora de trabajo en la semana de referencia</td></tr><tr><td><b>Parados</b></td><td>Sin empleo, buscándolo activamente y disponibles para trabajar</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Categoría</th><th width="70%">Quiénes son</th></tr></thead><tbody><tr><td><b>Población total</b></td><td>Todos los habitantes</td></tr><tr><td><b>Población en edad de trabajar</b></td><td>16 años y más</td></tr><tr><td><b>Población ACTIVA</b></td><td>Ocupados + parados. Quienes están en el mercado de trabajo</td></tr><tr><td><b>Población INACTIVA</b></td><td>Estudiantes, jubilados, personas dedicadas a labores del hogar, incapacitados, rentistas</td></tr><tr><td><b>Ocupados</b></td><td>Quienes tienen empleo. Basta una hora de trabajo en la semana de referencia</td></tr><tr><td><b>Parados</b></td><td>Sin empleo, buscándolo activamente y disponibles para trabajar</td></tr></tbody></table>
 
 ::: aviso Los tres requisitos del paro, y tienen que darse a la vez
 (1) No tener empleo. (2) Buscarlo **activamente**. (3) Estar **disponible**. Si falla cualquiera de los tres, esa persona no cuenta como parada.
@@ -170,13 +170,13 @@ Confirmad el **sector** de vuestro podcast en el tablón de la unidad. Y anotad 
 
 <table><thead><tr><th width="16%">Tasa</th><th width="40%">Fórmula</th><th width="44%">Qué mide</th></tr></thead><tbody><tr><td><b>Actividad</b></td><td>activos ÷ población de 16 y más × 100</td><td>Qué proporción de la población en edad de trabajar está en el mercado</td></tr><tr><td><b>Empleo</b></td><td>ocupados ÷ población de 16 y más × 100</td><td>Qué proporción tiene efectivamente empleo</td></tr><tr><td><b>Paro</b></td><td>parados ÷ <b>activos</b> × 100</td><td>Qué proporción de quienes buscan no encuentra</td></tr></tbody></table>
 
-::: nota La tasa de paro puede bajar «por el motivo malo»
-Si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador (hay menos parados) pero también el denominador (hay menos activos), y la tasa **mejora sin que nadie haya encontrado empleo**. Por eso conviene mirar siempre la tasa de paro junto a la de actividad: si la primera baja mientras la segunda también, sospecha.
+::: nota La tasa de paro puede bajar “por el motivo malo”
+Si los parados desanimados dejan de buscar, salen de los activos. Baja el numerador (hay menos parados) pero también el denominador (hay menos activos), y la tasa **mejora sin que nadie haya encontrado empleo**. Por eso conviene mirar siempre la tasa de paro junto a la de actividad. Si la primera baja mientras la segunda también, sospecha.
 :::
 
 ### 4. El mercado de trabajo
 
-El trabajo se compra y se vende, pero con los papeles invertidos respecto a un mercado de bienes: aquí **las familias son las vendedoras** (ofrecen trabajo) y **las empresas las compradoras** (lo demandan). El precio se llama **salario** y tiende al equilibrio, igual que en cualquier mercado.
+El trabajo se compra y se vende, pero con los papeles invertidos respecto a un mercado de bienes. Aquí **las familias son las vendedoras** (ofrecen trabajo) y **las empresas las compradoras** (lo demandan). El precio se llama **salario** y tiende al equilibrio, igual que en cualquier mercado.
 
 Pero el mercado de trabajo tiene cuatro condiciones especiales que ningún mercado de bienes tiene:
 
@@ -185,7 +185,7 @@ Pero el mercado de trabajo tiene cuatro condiciones especiales que ningún merca
 - **Los convenios colectivos** negocian condiciones por sectores enteros, no trabajador a trabajador.
 - **Hay agentes colectivos**: sindicatos y organizaciones empresariales actúan en nombre de muchas personas a la vez.
 
-### 5. El salario mínimo: qué dice el modelo y qué dicen los datos
+### 5. El salario mínimo. Qué dice el modelo y qué dicen los datos
 
 Si se fija un salario mínimo **por encima** del de equilibrio, el modelo gráfico predice un **exceso de oferta de trabajo**: más gente dispuesta a trabajar a ese salario de la que las empresas quieren contratar.
 
@@ -195,7 +195,7 @@ La conclusión que hay que llevarse no es una postura sobre el SMI. Es esta: **e
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Población activa</b></td><td>Ocupados más parados: quienes participan en el mercado de trabajo.</td></tr><tr><td><b>Población inactiva</b></td><td>Personas en edad de trabajar que no trabajan ni buscan empleo.</td></tr><tr><td><b>Efecto desánimo</b></td><td>Abandono de la búsqueda de empleo, que hace pasar de parado a inactivo.</td></tr><tr><td><b>Tasa de actividad</b></td><td>Activos sobre población de 16 y más años.</td></tr><tr><td><b>Tasa de paro</b></td><td>Parados sobre activos. Nunca sobre la población total.</td></tr><tr><td><b>Salario mínimo interprofesional</b></td><td>Retribución mínima legal fijada por el Gobierno.</td></tr><tr><td><b>Convenio colectivo</b></td><td>Acuerdo que fija condiciones laborales para un sector o empresa.</td></tr></tbody></table>
+<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Población activa</b></td><td>Ocupados más parados. Quienes participan en el mercado de trabajo.</td></tr><tr><td><b>Población inactiva</b></td><td>Personas en edad de trabajar que no trabajan ni buscan empleo.</td></tr><tr><td><b>Efecto desánimo</b></td><td>Abandono de la búsqueda de empleo, que hace pasar de parado a inactivo.</td></tr><tr><td><b>Tasa de actividad</b></td><td>Activos sobre población de 16 y más años.</td></tr><tr><td><b>Tasa de paro</b></td><td>Parados sobre activos. Nunca sobre la población total.</td></tr><tr><td><b>Salario mínimo interprofesional</b></td><td>Retribución mínima legal fijada por el Gobierno.</td></tr><tr><td><b>Convenio colectivo</b></td><td>Acuerdo que fija condiciones laborales para un sector o empresa.</td></tr></tbody></table>
 
 ## Comprueba lo que sabes
 

@@ -4,21 +4,21 @@ titulo: Sesión 4 · El tejido empresarial andaluz al detalle
 
 ## Guía docente · Sesión 4 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4</td><td><b>Carácter</b></td><td>No evaluable — formativa (cuestionario breve de repaso)</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve individual de repaso · OD: observación del trabajo en equipo · Co.Ev.: escala de dedos entre equipos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4</td><td><b>Carácter</b></td><td>No evaluable, formativa (cuestionario breve de repaso)</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve individual de repaso · OD: observación del trabajo en equipo · Co.Ev.: escala de dedos entre equipos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Los objetivos de la empresa: cuantitativos y cualitativos, con ejemplos.</td><td>2</td></tr><tr><td>00:15 – 00:35</td><td>Clasificación por equipos de tarjetas de empresas reales + intercambio y coevaluación.</td><td>3–4</td></tr><tr><td>00:35 – 00:45</td><td>Cuestionario breve individual de repaso (tipo test / V-F).</td><td>4</td></tr><tr><td>00:45 – 00:50</td><td>Cierre transversal: dato de género y titularidad empresarial + pregunta abierta.</td><td>5–6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:15</td><td>Los objetivos de la empresa: cuantitativos y cualitativos, con ejemplos.</td><td>2</td></tr><tr><td>00:15 – 00:35</td><td>Clasificación por equipos de tarjetas de empresas reales + intercambio y coevaluación.</td><td>3–4</td></tr><tr><td>00:35 – 00:45</td><td>Cuestionario breve individual de repaso (tipo test / V-F).</td><td>4</td></tr><tr><td>00:45 – 00:50</td><td>Cierre transversal. Dato de género y titularidad empresarial + pregunta abierta.</td><td>5–6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Los objetivos (15 min).** Distingue los **cuantitativos** —medibles con números: facturación, cuota de mercado, número de clientes— de los **cualitativos** —reputación, satisfacción del equipo, impacto social—, con ejemplos reales de empresas que declaran ambos tipos.
+**1. Los objetivos (15 min).** Distingue los **cuantitativos** (medibles con números: facturación, cuota de mercado, número de clientes) de los **cualitativos** (reputación, satisfacción del equipo, impacto social), con ejemplos reales de empresas que declaran ambos tipos.
 
-Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real: la reputación de una empresa no aparece en su balance y sin embargo determina buena parte de sus ventas.
+Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real. La reputación de una empresa no aparece en su balance y sin embargo determina buena parte de sus ventas.
 
 **2. La clasificación (20 min).** Cada equipo recibe un lote de tarjetas con empresas reales andaluzas y malagueñas y las clasifica según **cuatro criterios**: tamaño, sector, forma jurídica y ámbito. Después intercambian con otro equipo y coevalúan con escala de dedos.
 
-**Regla que hay que enunciar en voz alta**: cualquier discrepancia se justifica con **datos**, no con opiniones. «A mí me parece» no vale.
+**Regla que hay que enunciar en voz alta**: cualquier discrepancia se justifica con **datos**, no con opiniones. “A mí me parece” no vale.
 
 **3. El cuestionario (10 min).** Individual, corto, formativo, y sirve de registro para el instrumento C.
 
@@ -41,7 +41,7 @@ Conviene subrayar que la dificultad de medir un objetivo no lo hace menos real: 
 
 ### Atención a la diversidad (DUA) en esta sesión
 
-<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro criterios de clasificación funcionan como andamiaje procedimental: convierten una tarea abierta («clasifica estas empresas») en cuatro preguntas cerradas y verificables que se repiten en todas las tarjetas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La coevaluación entre equipos con la regla de justificar con datos y no con opiniones entrena la argumentación basada en evidencia y despersonaliza la discrepancia.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro criterios de clasificación funcionan como andamiaje procedimental. Convierten una tarea abierta (“clasifica estas empresas”) en cuatro preguntas cerradas y verificables que se repiten en todas las tarjetas.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La coevaluación entre equipos con la regla de justificar con datos y no con opiniones entrena la argumentación basada en evidencia y despersonaliza la discrepancia.</td></tr></tbody></table>
 
 ::: nota Alumnado con condición auditiva
 La fase de clasificación e intercambio genera conversación simultánea de todos los equipos. Sitúa a este equipo en la zona más alejada, entrega las tarjetas **impresas** y acuerda una norma de un solo turno de palabra. En la coevaluación, exige que las discrepancias se expongan de una en una y de frente.
@@ -51,7 +51,7 @@ La fase de clasificación e intercambio genera conversación simultánea de todo
 
 Ya sabéis qué hace una empresa. Hoy toca aprender a **situarla**: cuatro preguntas que permiten clasificar cualquier empresa del mundo.
 
-Y vais a aplicarlas a empresas reales de aquí, de Andalucía y de Málaga. Con una advertencia: cuando coevaluéis a otro equipo, las discrepancias se justifican **con datos**. «A mí me parece» no vale.
+Y vais a aplicarlas a empresas reales de aquí, de Andalucía y de Málaga. Con una advertencia. Cuando coevaluéis a otro equipo, las discrepancias se justifican **con datos**. “A mí me parece” no vale.
 
 ## Diapositivas de la sesión
 
@@ -92,7 +92,7 @@ Los datos disponibles sobre emprendimiento en España muestran una **brecha pers
 El porcentaje concreto hay que consultarlo en la fuente actualizada. Lo que no cambia año a año es la pregunta que viene después.
 :::
 
-«¿Por qué creéis que sigue existiendo esa diferencia? ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?»
+“¿Por qué creéis que sigue existiendo esa diferencia? ¿Qué tendría que cambiar para que no importara el género de quien monta un negocio?”
 
 Se anota como **pregunta abierta**. No la respondemos hoy.
 
@@ -127,7 +127,7 @@ Está dominado por **microempresas y pequeñas empresas**, con fuerte peso del s
 ::: aviso La brecha de género en el emprendimiento
 Los datos disponibles muestran una brecha persistente entre hombres y mujeres tanto en la **titularidad de empresas** como en el **acceso a la financiación**. El porcentaje exacto conviene consultarlo en la fuente actualizada.
 
-La pregunta que queda abierta es doble: **¿por qué sigue existiendo esa diferencia?** Y **¿qué tendría que cambiar para que no importara el género de quien monta un negocio?** No la respondemos aquí: se recupera en la sesión 8, al repartir los roles dentro de cada equipo.
+La pregunta que queda abierta es doble: **¿por qué sigue existiendo esa diferencia?** Y **¿qué tendría que cambiar para que no importara el género de quien monta un negocio?** No la respondemos aquí. Se recupera en la sesión 8, al repartir los roles dentro de cada equipo.
 :::
 
 ### Glosario de la sesión

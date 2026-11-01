@@ -21,7 +21,7 @@ La diferencia entre las dos columnas es, exactamente, lo que has aprendido.
 id: sda03-autoevaluacion
 tipo: autoevaluacion
 titulo: Autoevaluación de cierre
-instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, «estudiar más» no vale.'
+instrucciones: 'Sitúate en un nivel de cada rúbrica y justifícalo con una **evidencia concreta** de tu propio trabajo. Termina con un aspecto de mejora: concreto, “estudiar más” no vale.'
 criterios:
 - '1.1'
 - '5.1'

@@ -4,11 +4,11 @@ titulo: Sesión 3 · La empresa y sus funciones
 
 ## Guía docente · Sesión 3 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable — formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de comprensión · OD: observación del trabajo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.4</td><td><b>Saberes básicos</b></td><td>B1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>No evaluable, formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario breve de comprensión · OD: observación del trabajo por parejas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>División del trabajo y especialización: el experimento del bocadillo → productividad.</td><td>2</td></tr><tr><td>00:10 – 00:20</td><td>Los sectores económicos y clasificación rápida de empresas reales.</td><td>3</td></tr><tr><td>00:20 – 00:40</td><td>La empresa: elementos patrimoniales y cuatro funciones, en parejas con casos reales.</td><td>4–5</td></tr><tr><td>00:40 – 00:50</td><td>Puesta en común y contraste con la lista de ideas previas de S1.</td><td>6</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>División del trabajo y especialización: el experimento del bocadillo → productividad.</td><td>2</td></tr><tr><td>00:10 – 00:20</td><td>Los sectores económicos y clasificación rápida de empresas reales.</td><td>3</td></tr><tr><td>00:20 – 00:40</td><td>La empresa. Elementos patrimoniales y cuatro funciones, en parejas con casos reales.</td><td>4–5</td></tr><tr><td>00:40 – 00:50</td><td>Puesta en común y contraste con la lista de ideas previas de S1.</td><td>6</td></tr></tbody></table>
 
 ### Guion paso a paso
 
@@ -20,9 +20,9 @@ De ahí salen la **división del trabajo** y la **especialización**, y su efect
 
 **3. Elementos y funciones (20 min).** En parejas, análisis de 2-3 casos reales de empresas malagueñas o andaluzas de distinto tamaño y sector. Para cada una: elementos patrimoniales, función productiva, comercial, de riesgo y social.
 
-La **función de riesgo** es la que menos se intuye y la que más conviene subrayar: la empresa paga los factores **antes** de vender, sin saber todavía si venderá.
+La **función de riesgo** es la que menos se intuye y la que más conviene subrayar. La empresa paga los factores **antes** de vender, sin saber todavía si venderá.
 
-**4. El contraste (10 min).** Recupera la **fotografía de la lluvia de ideas de la S1** y contrástala en gran grupo: qué intuiciones eran acertadas, cuáles había que matizar y qué vocabulario técnico nuevo ha aparecido. Es uno de los mejores momentos de la unidad y no conviene recortarlo.
+**4. El contraste (10 min).** Recupera la **fotografía de la lluvia de ideas de la S1** y contrástala en gran grupo. Qué intuiciones eran acertadas, cuáles había que matizar y qué vocabulario técnico nuevo ha aparecido. Es uno de los mejores momentos de la unidad y no conviene recortarlo.
 
 ### Preguntas guía del profesorado
 
@@ -51,7 +51,7 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 
 Hay que preparar **20 bocadillos** para un evento del instituto.
 
-Opción A: una persona los hace todos, uno detrás de otro. Opción B: cuatro personas se reparten las tareas —cortar, untar, rellenar, envolver— y trabajan en cadena.
+Opción A: una persona los hace todos, uno detrás de otro. Opción B: cuatro personas se reparten las tareas (cortar, untar, rellenar, envolver) y trabajan en cadena.
 
 ¿Cuál termina antes? Y sobre todo: **¿por qué exactamente?** De ahí sale buena parte de cómo funciona la economía moderna.
 
@@ -74,7 +74,7 @@ Antes de las funciones, lo tangible. **¿Qué tiene** una empresa? Local, maquin
 
 ### Y después: qué hace
 
-<table><thead><tr><th width="20%">Función</th><th width="50%">En qué consiste</th><th width="30%">La pregunta que responde</th></tr></thead><tbody><tr><td><b>PRODUCTIVA</b></td><td>Combina los factores productivos para crear valor: alguien transforma harina, agua y trabajo en pan.</td><td>¿Cómo crea valor?</td></tr><tr><td><b>COMERCIAL</b></td><td>Hace llegar el producto a quien lo va a comprar: tienda, reparto, web.</td><td>¿Cómo llega al cliente?</td></tr><tr><td><b>DE RIESGO</b></td><td>Paga los factores <b>antes</b> de vender. Compra la materia prima, paga el alquiler y los salarios sin saber todavía si venderá.</td><td>¿Qué arriesga antes de vender?</td></tr><tr><td><b>SOCIAL</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad.</td><td>¿Qué aporta a su entorno?</td></tr></tbody></table>
+<table><thead><tr><th width="20%">Función</th><th width="50%">En qué consiste</th><th width="30%">La pregunta que responde</th></tr></thead><tbody><tr><td><b>PRODUCTIVA</b></td><td>Combina los factores productivos para crear valor. Alguien transforma harina, agua y trabajo en pan.</td><td>¿Cómo crea valor?</td></tr><tr><td><b>COMERCIAL</b></td><td>Hace llegar el producto a quien lo va a comprar: tienda, reparto, web.</td><td>¿Cómo llega al cliente?</td></tr><tr><td><b>DE RIESGO</b></td><td>Paga los factores <b>antes</b> de vender. Compra la materia prima, paga el alquiler y los salarios sin saber todavía si venderá.</td><td>¿Qué arriesga antes de vender?</td></tr><tr><td><b>SOCIAL</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad.</td><td>¿Qué aporta a su entorno?</td></tr></tbody></table>
 
 ::: nota La función que más se olvida
 La **de riesgo**. Cuando se habla de empresas casi siempre se menciona el beneficio, pero rara vez que ese beneficio es la contrapartida de haber comprometido recursos **sin garantía** de recuperarlos. Sin riesgo asumido, no hay empresa.
@@ -100,7 +100,7 @@ Contrastar lo que sabías con lo que sabes ahora es la forma más rápida de dar
 
 El experimento del bocadillo tiene una explicación precisa: cuando cada persona repite **una sola** tarea, gana destreza en ella, no pierde tiempo cambiando de herramienta y puede perfeccionar su parte del proceso. A eso se le llama **especialización**, y es consecuencia de la **división del trabajo**.
 
-El resultado es un aumento de la **productividad**: se produce más con los mismos recursos. Y es una de las ideas que explican por qué existen las empresas: coordinan trabajo especializado que una persona sola no podría hacer igual de bien.
+El resultado es un aumento de la **productividad**: se produce más con los mismos recursos. Y es una de las ideas que explican por qué existen las empresas. Coordinan trabajo especializado que una persona sola no podría hacer igual de bien.
 
 ### 2. Los sectores económicos
 
@@ -118,7 +118,7 @@ Son todos los bienes y derechos con los que cuenta para desarrollar su actividad
 
 ### 4. Qué hace una empresa: las cuatro funciones
 
-<table><thead><tr><th width="20%">Función</th><th width="80%">En qué consiste</th></tr></thead><tbody><tr><td><b>Productiva</b></td><td>Combina los factores productivos —trabajo, capital, recursos— para crear un bien o un servicio que antes no existía en esa forma. Es la función que genera <b>valor añadido</b>.</td></tr><tr><td><b>Comercial</b></td><td>Hace llegar ese producto a quien lo va a comprar: distribución, venta, atención al cliente. Sin ella, la función productiva no sirve de nada.</td></tr><tr><td><b>De riesgo</b></td><td>La empresa paga los factores <b>antes</b> de vender: compra materia prima, paga alquiler y salarios sin saber todavía si venderá y a qué precio.</td></tr><tr><td><b>Social</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad económica en el territorio.</td></tr></tbody></table>
+<table><thead><tr><th width="20%">Función</th><th width="80%">En qué consiste</th></tr></thead><tbody><tr><td><b>Productiva</b></td><td>Combina los factores productivos (trabajo, capital, recursos) para crear un bien o un servicio que antes no existía en esa forma. Es la función que genera <b>valor añadido</b>.</td></tr><tr><td><b>Comercial</b></td><td>Hace llegar ese producto a quien lo va a comprar: distribución, venta, atención al cliente. Sin ella, la función productiva no sirve de nada.</td></tr><tr><td><b>De riesgo</b></td><td>La empresa paga los factores <b>antes</b> de vender: compra materia prima, paga alquiler y salarios sin saber todavía si venderá y a qué precio.</td></tr><tr><td><b>Social</b></td><td>Lo que aporta al entorno además del producto: empleo, formación, impuestos, actividad económica en el territorio.</td></tr></tbody></table>
 
 ::: nota La función de riesgo, en detalle
 Es la que menos se intuye y la que más explica. Cuando se habla de empresas casi siempre se menciona el beneficio, pero rara vez que ese beneficio es la **contrapartida** de haber comprometido recursos sin garantía de recuperarlos.

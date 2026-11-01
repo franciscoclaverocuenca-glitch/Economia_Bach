@@ -8,11 +8,11 @@ titulo: 'Sesión 6 · Los sistemas económicos: Puzzle de expertos'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Fase 1 — Grupos de expertos: estudio de la ficha del sistema asignado.</td><td>2–3</td></tr><tr><td>00:20 – 00:40</td><td>Fase 2 — Vuelta al grupo base y enseñanza cruzada.</td><td>4</td></tr><tr><td>00:40 – 00:50</td><td>Fase 3 — Puesta en común y coevaluación.</td><td>5–7</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Fase 1, Grupos de expertos. Estudio de la ficha del sistema asignado.</td><td>2–3</td></tr><tr><td>00:20 – 00:40</td><td>Fase 2, Vuelta al grupo base y enseñanza cruzada.</td><td>4</td></tr><tr><td>00:40 – 00:50</td><td>Fase 3, Puesta en común y coevaluación.</td><td>5–7</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Grupos de expertos (20 min).** El alumnado se reagrupa temporalmente por sistema asignado —todos los expertos en mercado juntos, todos los de planificación juntos, etc.— y estudia su ficha.
+**1. Grupos de expertos (20 min).** El alumnado se reagrupa temporalmente por sistema asignado (todos los expertos en mercado juntos, todos los de planificación juntos, etc.) y estudia su ficha.
 
 Las tres fichas siguen **siempre la misma estructura**: definición, quién responde a las tres preguntas básicas y cómo, un ejemplo histórico o actual, una ventaja documentada y un límite documentado. Esa simetría es lo que hace posible la comparación posterior.
 
@@ -24,13 +24,13 @@ En la ficha del sistema de mercado se incluye a **Joan Robinson**, economista de
 
 ### Preguntas guía del profesorado
 
-- ¿Quién responde a la pregunta «¿para quién producir?» en tu sistema, y con qué criterio?
+- ¿Quién responde a la pregunta “¿para quién producir?” en tu sistema, y con qué criterio?
 - ¿Cuál es el límite documentado de tu sistema? No el que te parezca: el que está en tu ficha.
 - ¿En qué se parecen los tres sistemas? Porque también se parecen en algo.
 - Si tú no lo explicas, ¿quién se lo va a contar a tu grupo?
 
 ::: aviso Material que debes preparar tú
-- **3 fichas de experto** —mercado, planificación central y mixta— con estructura idéntica: definición, quién responde a las tres preguntas básicas y cómo, un ejemplo histórico o actual, una ventaja documentada y un límite documentado.
+- **3 fichas de experto** (mercado, planificación central y mixta) con estructura idéntica: definición, quién responde a las tres preguntas básicas y cómo, un ejemplo histórico o actual, una ventaja documentada y un límite documentado.
 - **Plantilla de tabla comparativa** de los tres sistemas, una por grupo base.
 - **El apartado sobre Joan Robinson** incluido en la ficha del sistema de mercado.
 - Espacio que permita **dos reagrupamientos**: primero por sistema, después vuelta al grupo base.
@@ -69,10 +69,10 @@ sda2-s06-07.webp | Lo que viene
 
 ### La estructura de las tres fichas
 
-<table><thead><tr><th width="6%"></th><th width="94%">Apartado</th></tr></thead><tbody><tr><td><b>1</b></td><td>Definición del sistema</td></tr><tr><td><b>2</b></td><td>Quién responde a las tres preguntas económicas básicas —qué, cómo y para quién— y <b>cómo</b> lo hace</td></tr><tr><td><b>3</b></td><td>Un ejemplo histórico o actual</td></tr><tr><td><b>4</b></td><td>Una ventaja <b>documentada</b></td></tr><tr><td><b>5</b></td><td>Un límite <b>documentado</b></td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Apartado</th></tr></thead><tbody><tr><td><b>1</b></td><td>Definición del sistema</td></tr><tr><td><b>2</b></td><td>Quién responde a las tres preguntas económicas básicas (qué, cómo y para quién) y <b>cómo</b> lo hace</td></tr><tr><td><b>3</b></td><td>Un ejemplo histórico o actual</td></tr><tr><td><b>4</b></td><td>Una ventaja <b>documentada</b></td></tr><tr><td><b>5</b></td><td>Un límite <b>documentado</b></td></tr></tbody></table>
 
 ::: aviso Misma estructura, comparación posible
-Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad: comparar exige haber medido con la misma vara. Y «documentada» significa que no vale la opinión: vale lo que está en la ficha.
+Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad. Comparar exige haber medido con la misma vara. Y “documentada” significa que no vale la opinión. Vale lo que está en la ficha.
 :::
 
 ### La tabla comparativa que tenéis que completar entre los tres
@@ -80,7 +80,7 @@ Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad: compa
 <table><thead><tr><th width="28%"></th><th width="24%">Mercado</th><th width="24%">Planificación central</th><th width="24%">Mixta</th></tr></thead><tbody><tr><td><b>¿QUÉ se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿CÓMO se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿PARA QUIÉN se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>Una ventaja</b></td><td></td><td></td><td></td></tr><tr><td><b>Un límite</b></td><td></td><td></td><td></td></tr></tbody></table>
 
 ::: nota Son las tres preguntas de la sesión 1
-Aquellas mismas que formulasteis después de repartir las doce fichas. Ahora con tres respuestas distintas y con nombre técnico. Guardad bien esta tabla: es el esqueleto de toda la unidad y la base del dossier de la Cumbre.
+Aquellas mismas que formulasteis después de repartir las doce fichas. Ahora con tres respuestas distintas y con nombre técnico. Guardad bien esta tabla. Es el esqueleto de toda la unidad y la base del dossier de la Cumbre.
 :::
 
 ## Apuntes de la sesión
@@ -93,11 +93,11 @@ Son las tres grandes respuestas históricas a las mismas tres preguntas: qué, c
 
 ### 2. Ventajas y límites documentados
 
-<table><thead><tr><th width="22%">Sistema</th><th width="39%">Una ventaja</th><th width="39%">Un límite</th></tr></thead><tbody><tr><td><b>Mercado</b></td><td>Innovación y variedad: competir empuja a mejorar. Y los precios funcionan como señales sin que nadie tenga que calcularlas.</td><td>Desigualdad: repartir según capacidad de pago deja gente fuera. Y no corrige por sí solo los fallos de mercado.</td></tr><tr><td><b>Planificación central</b></td><td>Permite priorizar objetivos colectivos a largo plazo sin depender de la rentabilidad inmediata.</td><td>Escasez crónica de bienes de consumo y enorme dificultad para fijar precios sin mercado.</td></tr><tr><td><b>Mixta</b></td><td>Combina la eficiencia asignativa del mercado con la corrección pública de sus fallos.</td><td>Requiere decidir permanentemente dónde está la frontera, y eso es un debate político continuo.</td></tr></tbody></table>
+<table><thead><tr><th width="22%">Sistema</th><th width="39%">Una ventaja</th><th width="39%">Un límite</th></tr></thead><tbody><tr><td><b>Mercado</b></td><td>Innovación y variedad: competir empuja a mejorar. Y los precios funcionan como señales sin que nadie tenga que calcularlas.</td><td>Desigualdad. Repartir según capacidad de pago deja gente fuera. Y no corrige por sí solo los fallos de mercado.</td></tr><tr><td><b>Planificación central</b></td><td>Permite priorizar objetivos colectivos a largo plazo sin depender de la rentabilidad inmediata.</td><td>Escasez crónica de bienes de consumo y enorme dificultad para fijar precios sin mercado.</td></tr><tr><td><b>Mixta</b></td><td>Combina la eficiencia asignativa del mercado con la corrección pública de sus fallos.</td><td>Requiere decidir permanentemente dónde está la frontera, y eso es un debate político continuo.</td></tr></tbody></table>
 
 ### 3. Y también se parecen en algo
 
-Los tres tienen que responder a las **mismas tres preguntas**. Los tres se enfrentan al mismo problema de fondo: recursos limitados y necesidades que no lo son. Y ninguno de los tres puede escapar del **coste de oportunidad** que dibujasteis ayer en la FPP.
+Los tres tienen que responder a las **mismas tres preguntas**. Los tres se enfrentan al mismo problema de fondo. Recursos limitados y necesidades que no lo son. Y ninguno de los tres puede escapar del **coste de oportunidad** que dibujasteis ayer en la FPP.
 
 Lo que cambia es el **mecanismo** de decisión, no el problema.
 
@@ -106,7 +106,7 @@ Lo que cambia es el **mecanismo** de decisión, no el problema.
 ::: nota El pensamiento económico no ha sido un relato exclusivamente masculino
 **Joan Robinson** fue una de las grandes economistas del siglo XX. Trabajó en la Universidad de **Cambridge** y abrió el campo de la **competencia imperfecta**: ese territorio intermedio entre el monopolio y la competencia perfecta donde vive la mayoría de los mercados reales.
 
-Fue además una **analista comparada** de economías de mercado y planificadas, con conocimiento de primera mano de ambas. Aparece en la ficha del sistema de mercado por una razón concreta: conviene saber desde el principio que la historia del pensamiento económico no la escribieron solo hombres.
+Fue además una **analista comparada** de economías de mercado y planificadas, con conocimiento de primera mano de ambas. Aparece en la ficha del sistema de mercado por una razón concreta. Conviene saber desde el principio que la historia del pensamiento económico no la escribieron solo hombres.
 :::
 
 ### Glosario de la sesión
@@ -130,7 +130,7 @@ preguntas:
   explicacion: '**Verdadero.** Y no es casualidad: comparar exige haber medido con la misma vara.'
 - enunciado: En la economía de mercado, el criterio de reparto es la capacidad de pago.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es su respuesta a la pregunta «¿para quién?», y también su crítica principal.'
+  explicacion: '**Verdadero.** Es su respuesta a la pregunta “¿para quién?”, y también su crítica principal.'
 - enunciado: Los tres sistemas responden a preguntas económicas distintas.
   respuesta: falso
   explicacion: '**Falso.** Responden a las **mismas** tres preguntas. Lo que cambia es el mecanismo de decisión, no el problema.'

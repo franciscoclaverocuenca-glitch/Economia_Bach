@@ -8,13 +8,13 @@ titulo: 'Sesión 7 · El gran debate: ¿austeridad o estímulo?'
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Presentación de la moción y del caso comparado España 2010-2013 / 2020-2021.</td><td>1–3</td></tr><tr><td>00:10 – 00:20</td><td>Preparación por equipos con el dossier de datos.</td><td>4–6</td></tr><tr><td>00:20 – 00:42</td><td>Debate formato Oxford: apertura, réplica y turno abierto del público.</td><td>4</td></tr><tr><td>00:42 – 00:50</td><td>Votación razonada del público y síntesis.</td><td>7–8</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:10</td><td>Presentación de la moción y del caso comparado España 2010-2013 / 2020-2021.</td><td>1–3</td></tr><tr><td>00:10 – 00:20</td><td>Preparación por equipos con el dossier de datos.</td><td>4–6</td></tr><tr><td>00:20 – 00:42</td><td>Debate formato Oxford. Apertura, réplica y turno abierto del público.</td><td>4</td></tr><tr><td>00:42 – 00:50</td><td>Votación razonada del público y síntesis.</td><td>7–8</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. La moción y el caso (10 min).** Enuncia la moción y presenta los dos episodios reales. Insiste desde el principio en que el debate se apoya en datos del dossier, no en simpatías políticas: es lo que distingue esta sesión de una tertulia.
+**1. La moción y el caso (10 min).** Enuncia la moción y presenta los dos episodios reales. Insiste desde el principio en que el debate se apoya en datos del dossier, no en simpatías políticas. Es lo que distingue esta sesión de una tertulia.
 
-**2. Preparación (10 min).** Asigna los equipos **sin** preguntar preferencias. Cada equipo prepara dos argumentos de apertura y anticipa dos del contrario. El grupo de público prepara preguntas: su papel no es pasivo y así se lo debes decir.
+**2. Preparación (10 min).** Asigna los equipos **sin** preguntar preferencias. Cada equipo prepara dos argumentos de apertura y anticipa dos del contrario. El grupo de público prepara preguntas. Su papel no es pasivo y así se lo debes decir.
 
 **3. El debate (22 min).** Turnos tasados con cronómetro visible: apertura 3 min por equipo, réplica 2 min, turno abierto del público con preguntas de 30 segundos. En la réplica *solo* se puede responder a lo dicho, no introducir tesis nuevas; hacer respetar esa regla es lo que convierte el ejercicio en un debate y no en dos monólogos.
 
@@ -46,7 +46,7 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 
 Hoy no hay explicación. Hay un debate, y es sobre el dilema más importante de toda la política fiscal.
 
-«Ante una recesión, la prioridad de la política fiscal debe ser reducir el déficit»
+“Ante una recesión, la prioridad de la política fiscal debe ser reducir el déficit”
 
 Tu postura te la asignamos nosotros. Tu obligación es que **cada cosa que digas se apoye en un dato del dossier**.
 
@@ -67,10 +67,10 @@ sda12-s07-08.webp | Síntesis
 
 ### Reglas del formato
 
-<table><thead><tr><th width="16%">Turno</th><th width="16%">Quién</th><th width="12%">Tiempo</th><th width="56%">Regla</th></tr></thead><tbody><tr><td>Apertura</td><td>Cada equipo</td><td>3 min</td><td>Se plantea la tesis y los dos argumentos principales. Sin interrupciones.</td></tr><tr><td>Réplica</td><td>Cada equipo</td><td>2 min</td><td><b>Solo</b> se puede responder a lo dicho por el contrario. Nada de tesis nuevas.</td></tr><tr><td>Turno abierto</td><td>El público</td><td>8 min</td><td>Preguntas de 30 segundos dirigidas a un equipo concreto.</td></tr><tr><td>Votación</td><td>El público</td><td>5 min</td><td>Voto razonado: hay que explicar en una frase qué argumento os decidió.</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Turno</th><th width="16%">Quién</th><th width="12%">Tiempo</th><th width="56%">Regla</th></tr></thead><tbody><tr><td>Apertura</td><td>Cada equipo</td><td>3 min</td><td>Se plantea la tesis y los dos argumentos principales. Sin interrupciones.</td></tr><tr><td>Réplica</td><td>Cada equipo</td><td>2 min</td><td><b>Solo</b> se puede responder a lo dicho por el contrario. Nada de tesis nuevas.</td></tr><tr><td>Turno abierto</td><td>El público</td><td>8 min</td><td>Preguntas de 30 segundos dirigidas a un equipo concreto.</td></tr><tr><td>Votación</td><td>El público</td><td>5 min</td><td>Voto razonado. Hay que explicar en una frase qué argumento os decidió.</td></tr></tbody></table>
 
 ::: aviso Regla de oro
-Toda intervención cita un dato del dossier. Sin dato, no cuenta y se corta. Esto no es una tertulia: es un ejercicio de argumentación con evidencia.
+Toda intervención cita un dato del dossier. Sin dato, no cuenta y se corta. Esto no es una tertulia. Es un ejercicio de argumentación con evidencia.
 :::
 
 ### El caso comparado: dos crisis, dos respuestas
@@ -79,8 +79,8 @@ Toda intervención cita un dato del dossier. Sin dato, no cuenta y se corta. Est
 
 ### Los dos argumentarios
 
-<table><thead><tr><th width="50%">Proposición: reducir el déficit</th><th width="50%">Oposición: sostener la actividad</th></tr></thead><tbody><tr><td>La confianza de los mercados condiciona todo lo demás: sin financiación, no hay gasto posible.</td><td>Recortar en plena recesión agrava la caída: si el sector privado se retrae y el Estado también, no queda nadie sosteniendo la demanda.</td></tr><tr><td>Un déficit sostenido acaba pagándose con intereses, el gasto menos útil de todos.</td><td>El paro de larga duración deja cicatrices permanentes: cualificación y empleabilidad que no se recuperan.</td></tr><tr><td>El margen fiscal es un seguro para la próxima crisis.</td><td>Con la economía cayendo, el propio ratio deuda/PIB puede empeorar: el denominador se hunde más rápido.</td></tr><tr><td>Hay un argumento de equidad intergeneracional: la carga la paga quien aún no vota.</td><td>Hay gasto que es inversión: no es lo mismo recortar subvenciones que investigación o transición energética.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">Proposición: reducir el déficit</th><th width="50%">Oposición: sostener la actividad</th></tr></thead><tbody><tr><td>La confianza de los mercados condiciona todo lo demás: sin financiación, no hay gasto posible.</td><td>Recortar en plena recesión agrava la caída. Si el sector privado se retrae y el Estado también, no queda nadie sosteniendo la demanda.</td></tr><tr><td>Un déficit sostenido acaba pagándose con intereses, el gasto menos útil de todos.</td><td>El paro de larga duración deja cicatrices permanentes. Cualificación y empleabilidad que no se recuperan.</td></tr><tr><td>El margen fiscal es un seguro para la próxima crisis.</td><td>Con la economía cayendo, el propio ratio deuda/PIB puede empeorar: el denominador se hunde más rápido.</td></tr><tr><td>Hay un argumento de equidad intergeneracional. La carga la paga quien aún no vota.</td><td>Hay gasto que es inversión. No es lo mismo recortar subvenciones que investigación o transición energética.</td></tr></tbody></table>
 
 ## Cierre
 
-Escribe en tu portafolio tu postura razonada final, citando **dos datos** del dossier y reconociendo el argumento más sólido del bando contrario. Ese reconocimiento puntúa: en un debate riguroso, admitir la fuerza del argumento ajeno es señal de haberlo entendido.
+Escribe en tu portafolio tu postura razonada final, citando **dos datos** del dossier y reconociendo el argumento más sólido del bando contrario. Ese reconocimiento puntúa. En un debate riguroso, admitir la fuerza del argumento ajeno es señal de haberlo entendido.

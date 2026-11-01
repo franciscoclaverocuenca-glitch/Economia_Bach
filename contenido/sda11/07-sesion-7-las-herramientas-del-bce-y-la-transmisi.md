@@ -4,19 +4,19 @@ titulo: Sesión 7 · Las herramientas del BCE y la transmisión
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
-<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa — ensayo previo de la decisión del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: razonamiento del equipo · P: esquema del mecanismo de transmisión en el portafolio</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
+<table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa, ensayo previo de la decisión del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: razonamiento del equipo · P: esquema del mecanismo de transmisión en el portafolio</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
 
-<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Los instrumentos de la política monetaria: tipos de interés y otras herramientas.</td><td>2</td></tr><tr><td>00:20 – 00:35</td><td>Política expansiva frente a restrictiva y el mecanismo de transmisión.</td><td>3–6</td></tr><tr><td>00:35 – 00:55</td><td>Ensayo cooperativo: primera decisión del Consejo de Gobierno sobre un mini-escenario.</td><td>7–9</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Tiempo</th><th width="68%">Actividad</th><th width="16%">Diapositivas</th></tr></thead><tbody><tr><td>00:00 – 00:20</td><td>Los instrumentos de la política monetaria: tipos de interés y otras herramientas.</td><td>2</td></tr><tr><td>00:20 – 00:35</td><td>Política expansiva frente a restrictiva y el mecanismo de transmisión.</td><td>3–6</td></tr><tr><td>00:35 – 00:55</td><td>Ensayo cooperativo. Primera decisión del Consejo de Gobierno sobre un mini-escenario.</td><td>7–9</td></tr></tbody></table>
 
 ### Guion paso a paso
 
-**1. Los instrumentos (20 min).** Tipos oficiales, operaciones de mercado abierto y coeficiente de reservas. El grueso del tiempo va al primero: es la palanca que van a mover en su comunicado y la única que aparece en los titulares.
+**1. Los instrumentos (20 min).** Tipos oficiales, operaciones de mercado abierto y coeficiente de reservas. El grueso del tiempo va al primero. Es la palanca que van a mover en su comunicado y la única que aparece en los titulares.
 
-**2. Transmisión (15 min).** Dibuja el mecanismo con flechas y recórrelo en voz alta dos veces: tipo oficial → interés de hipotecas y créditos → menos préstamos y menos gasto → cae la demanda → los precios dejan de subir tanto. Y añade inmediatamente el matiz de los **retardos**: nada de esto es inmediato, tarda meses o más de un año. Ese matiz es lo que distingue un comunicado sólido de uno ingenuo.
+**2. Transmisión (15 min).** Dibuja el mecanismo con flechas y recórrelo en voz alta dos veces. Tipo oficial → interés de hipotecas y créditos → menos préstamos y menos gasto → cae la demanda → los precios dejan de subir tanto. Y añade inmediatamente el matiz de los **retardos**: nada de esto es inmediato, tarda meses o más de un año. Ese matiz es lo que distingue un comunicado sólido de uno ingenuo.
 
-**3. El ensayo (20 min).** Mini-escenario sencillo, 10 minutos de decisión con roles ya asignados, y dos frases de justificación. Circula dando feedback: el objetivo es que la decisión definitiva de las sesiones 8-9 parta de una base sólida, no que acierten hoy.
+**3. El ensayo (20 min).** Mini-escenario sencillo, 10 minutos de decisión con roles ya asignados, y dos frases de justificación. Circula dando feedback. El objetivo es que la decisión definitiva de las sesiones 8-9 parta de una base sólida, no que acierten hoy.
 
 Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagnosticar, no explicar el mecanismo, ignorar los efectos secundarios y prometer resultados inmediatos. Es un anticipo explícito de la rúbrica.
 
@@ -30,7 +30,7 @@ Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagn
 ::: aviso Material que debes preparar tú
 - **Tarjetas de los instrumentos de política monetaria** para el trabajo en grupo.
 - **Diagrama del mecanismo de transmisión** proyectable, con las flechas paso a paso.
-- **Mini-escenarios de práctica**, uno por grupo base. Ejemplo: «la inflación está en el 7 % y subiendo, la economía crece con fuerza y el paro es bajo».
+- **Mini-escenarios de práctica**, uno por grupo base. Ejemplo: “la inflación está en el 7 % y subiendo, la economía crece con fuerza y el paro es bajo”.
 - **Dato del euríbor a 12 meses** actualizado. En julio de 2026 su media provisional rondaba el 2,8 %, por encima del tipo oficial: el mercado descuenta subidas.
 - Tarjetas de rol (Coordinador/a, Analista de datos, Redactor/a, Portavoz) si no se han repartido ya.
 :::
@@ -72,7 +72,7 @@ Antes de decidir nada, hay que entender el camino. Memorizadlo, porque es la col
 <table><thead><tr><th width="6%"></th><th width="94%">Paso</th></tr></thead><tbody><tr><td>1</td><td>El BCE <b>sube</b> el tipo de interés oficial.</td></tr><tr><td>2</td><td>Los bancos comerciales <b>suben</b> el interés de hipotecas, préstamos y créditos al consumo.</td></tr><tr><td>3</td><td>Familias y empresas piden <b>menos</b> préstamos y gastan e invierten menos.</td></tr><tr><td>4</td><td><b>Cae</b> la demanda de bienes y servicios en toda la economía.</td></tr><tr><td>5</td><td>Los precios <b>dejan de subir tanto</b>: la inflación se modera.</td></tr></tbody></table>
 
 ::: aviso ⏳ Y ahora la complicación
-Nada de esto es inmediato. La transmisión tarda **meses, a veces más de un año**. Por eso el BCE decide mirando **proyecciones** y no el dato de esta mañana. Y por eso puede equivocarse en las dos direcciones: actuar tarde deja que la inflación se enquiste; actuar demasiado deprisa puede provocar una recesión innecesaria.
+Nada de esto es inmediato. La transmisión tarda **meses, a veces más de un año**. Por eso el BCE decide mirando **proyecciones** y no el dato de esta mañana. Y por eso puede equivocarse en las dos direcciones. Actuar tarde deja que la inflación se enquiste; actuar demasiado deprisa puede provocar una recesión innecesaria.
 :::
 
 ### Vuestro mini-escenario
@@ -84,7 +84,7 @@ Tenéis **10 minutos** y los roles ya asignados. Decidid:
 
 ### Los cuatro errores que más se repiten
 
-<table><thead><tr><th width="30%">Error</th><th width="70%">Cómo evitarlo</th></tr></thead><tbody><tr><td><b>Decidir sin diagnosticar</b></td><td>Antes de decir qué hacéis, decid cuál es el problema: ¿la inflación se aleja del 2 %? ¿Por arriba o por abajo? ¿Qué causa predomina?</td></tr><tr><td><b>No explicar el mecanismo</b></td><td>«Subimos los tipos para bajar la inflación» no es una explicación. Recorred el camino completo.</td></tr><tr><td><b>Ignorar los efectos secundarios</b></td><td>Toda decisión tiene un coste. Si no lo mencionáis vosotros, os lo preguntará la prensa.</td></tr><tr><td><b>Prometer resultados inmediatos</b></td><td>La transmisión tarda meses. Un comunicado que lo ignora se cae en la primera pregunta.</td></tr></tbody></table>
+<table><thead><tr><th width="30%">Error</th><th width="70%">Cómo evitarlo</th></tr></thead><tbody><tr><td><b>Decidir sin diagnosticar</b></td><td>Antes de decir qué hacéis, decid cuál es el problema. ¿la inflación se aleja del 2 %? ¿Por arriba o por abajo? ¿Qué causa predomina?</td></tr><tr><td><b>No explicar el mecanismo</b></td><td>“Subimos los tipos para bajar la inflación” no es una explicación. Recorred el camino completo.</td></tr><tr><td><b>Ignorar los efectos secundarios</b></td><td>Toda decisión tiene un coste. Si no lo mencionáis vosotros, os lo preguntará la prensa.</td></tr><tr><td><b>Prometer resultados inmediatos</b></td><td>La transmisión tarda meses. Un comunicado que lo ignora se cae en la primera pregunta.</td></tr></tbody></table>
 
 ## Practica · Ordena la cadena de transmisión
 
@@ -126,8 +126,8 @@ Y funciona igual en sentido contrario cuando el BCE baja los tipos.
 
 ::: aviso ⏳ Los retardos: la complicación esencial
 - La transmisión tarda **meses, a veces más de un año**. Una subida aprobada hoy empieza a notarse en los precios mucho después.
-- Por eso el BCE mira **proyecciones**, no solo el dato de hoy: sus decisiones se basan en dónde estará la inflación dentro de uno o dos años.
-- Y por eso puede equivocarse en las dos direcciones: actuar tarde deja que la inflación se enquiste; actuar demasiado deprisa puede provocar una recesión innecesaria.
+- Por eso el BCE mira **proyecciones**, no solo el dato de hoy. Sus decisiones se basan en dónde estará la inflación dentro de uno o dos años.
+- Y por eso puede equivocarse en las dos direcciones. Actuar tarde deja que la inflación se enquiste; actuar demasiado deprisa puede provocar una recesión innecesaria.
 - **Vuestro comunicado tiene que reconocer esto.** Un comunicado que promete efectos inmediatos delata que no se ha entendido el mecanismo.
 :::
 
