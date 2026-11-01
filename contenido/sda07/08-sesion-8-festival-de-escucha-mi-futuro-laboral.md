@@ -2,7 +2,20 @@
 titulo: Sesión 8 · Festival de escucha “Mi futuro laboral”
 ---
 
+Hoy el aula es un festival de escucha. Todos emiten y todos evalúan.
+
+Cada equipo tiene una franja tasada: **1 minuto** de presentación, **3-4 minutos** de fragmentos y **2-3 minutos** de careo.
+
+Y el careo es la parte más exigente. Tendréis que defender **en directo** de dónde sale cada dato.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda07-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda07-s08-registro-festival.pdf | Registro del Festival | Solo docente, franja, careo y menciones
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo / equipos</td><td><b>Carácter</b></td><td>Sumativa, presentación y defensa del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>EO: presentación y locución · R: valoración del podcast/informe con la rúbrica general · D: careo de preguntas entre equipos · Co.Ev.: coevaluación razonada</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,15 +44,6 @@ Registra en paralelo EO (presentación y locución), R (valoración del producto
 - ¿Cómo sabéis que ese es el tipo de paro predominante en vuestro sector?
 - ¿Habéis usado la brecha bruta o la ajustada en ese análisis?
 
-::: aviso Material que debes preparar tú
-- **Episodios o informes entregados** por cada equipo, previamente subidos o disponibles.
-- **Equipo de audio** con volumen suficiente y proyector para la versión informe.
-- **Rúbrica de los criterios 3.1 y 3.3** visible para todo el mundo durante la sesión.
-- **Fichas de coevaluación** y **tarjetas de rol de escucha activa**: verificadores de datos, analistas de propuestas y cronistas.
-- **Cronómetro visible**: las franjas son tasadas y sin cronómetro se desbordan.
-- **Hoja de registro simultáneo** de los cuatro instrumentos (EO, R, D, Co.Ev.).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La franja se reparte entre los miembros del equipo y la emisión de fragmentos permite que parte de la intervención sea grabada previamente, lo que reduce la carga de la exposición en directo sin rebajar la exigencia.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas del careo se conocen de antemano y las preguntas obligatorias están anticipadas desde la sesión 7: solo el careo abierto es imprevisible.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Las tres menciones no numéricas reconocen públicamente distintos tipos de mérito (datos, entrevista, viabilidad de la propuesta) sin introducir competición en la calificación.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -48,23 +52,15 @@ Registra en paralelo EO (presentación y locución), R (valoración del producto
 Sesión con escucha de audio y careo oral. La de mayor riesgo acústico de la unidad. Sitúa a este alumno/a cerca del altavoz y de frente a quien interviene, y facilita **por escrito** la transcripción de los fragmentos emitidos, cada equipo puede entregarla junto al episodio. Exige que las preguntas del careo se formulen de pie, de una en una y de frente.
 :::
 
-## Para empezar
-
-Hoy el aula es un festival de escucha. Todos emiten y todos evalúan.
-
-Cada equipo tiene una franja tasada: **1 minuto** de presentación, **3-4 minutos** de fragmentos y **2-3 minutos** de careo.
-
-Y el careo es la parte que de verdad se evalúa. Tendréis que defender **en directo** de dónde sale cada dato. Se valora lo que sabéis sostener, no solo lo que habéis entregado.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda7-s08-01.webp | Portada
-sda7-s08-02.webp | La franja de cada equipo
-sda7-s08-03.webp | Los roles de escucha
-sda7-s08-04.webp | La regla del careo
-sda7-s08-05.webp | Qué se evalúa
-sda7-s08-06.webp | El cierre
+sda7-s08-01.webp | Festival de escucha
+sda7-s08-02.webp | Cada equipo
+sda7-s08-03.webp | Tres roles
+sda7-s08-04.webp | Dos preguntas obligatorias
+sda7-s08-05.webp | Valorad a los demás
+sda7-s08-06.webp | Mejor uso de datos, mejor entrevista, propuesta más viable
 ```
 
 ## Cómo funciona el Festival
@@ -80,17 +76,17 @@ sda7-s08-06.webp | El cierre
 ::: aviso La regla del careo
 Al menos **una pregunta a los datos**: “¿de qué fecha es esa tasa y de qué fuente sale?”. Y **una pregunta a las propuestas**: “¿quién pagaría eso y en qué dato se notaría?”.
 
-Y recordad: **preguntar bien también puntúa**. El careo se registra como instrumento D, tanto por las respuestas como por las preguntas.
+Y recordad: **preguntar bien es tan importante como responder bien**.
 :::
 
-### Qué se evalúa
+### La hoja de escucha
 
-<table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · presentación y locución</td><td>Claridad, uso del tiempo y capacidad de sostener el hilo del episodio.</td></tr><tr><td><b>R</b> · el podcast o informe</td><td>El producto entregado, con los descriptores de la rúbrica general de los criterios 3.1 y 3.3.</td></tr><tr><td><b>D</b> · el careo</td><td>La calidad de vuestras preguntas y de vuestras respuestas.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Vuestra valoración razonada de los demás equipos, con un descriptor concreto de la rúbrica.</td></tr></tbody></table>
+Cada persona tiene una hoja para su rol y para valorar a los demás equipos. En cada valoración, nombrad **un acierto concreto** y **una mejora concreta**, apoyados en la rúbrica.
 
-::: nota Por qué el careo es la salvaguarda de autoría
-Defender en directo la procedencia de un dato no se puede delegar. Es la principal protección frente a un uso indebido de la IA, y por eso pesa tanto en esta sesión.
-:::
+```descargas
+sda07-s08-hoja-escucha.pdf | Hoja de escucha y coevaluación | Una fila por equipo, con preguntas del careo
+```
 
 ## Cierre
 
-La audiencia otorga tres menciones: **mejor uso de datos**, **mejor entrevista** y **propuesta más viable**. Y los episodios quedan publicados en Moodle Centros como material de repaso y memoria colectiva de la unidad.
+La audiencia otorga tres menciones: **mejor uso de datos**, **mejor entrevista** y **propuesta más viable**. Los episodios se publican en Moodle Centros: sirven de repaso para la prueba escrita y de memoria colectiva de la unidad.

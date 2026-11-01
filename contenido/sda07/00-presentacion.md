@@ -2,18 +2,18 @@
 titulo: SdA 7 · ¿Qué trabajo me espera?
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 7 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE3. Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta, comprendiendo sus interacciones y reconociendo, con sentido crítico, los beneficios y costes que genera, para explicar cómo se produce el desarrollo económico y su relación con el bienestar de la sociedad.</td></tr><tr><td><b>Criterio 3.1</b></td><td>Conocer cómo se produce el desarrollo económico y el bienestar social, valorando con sentido crítico y analítico cómo se evalúa, mediante macromagnitudes y otros indicadores, el papel de los distintos agentes económicos.</td></tr><tr><td><b>Criterio 3.3</b></td><td>Valorar la importancia de la recopilación sistemática de datos estadísticos y su correcta interpretación para comprender la realidad económica y evaluar las consecuencias de las intervenciones de los agentes.</td></tr><tr><td><b>Saberes básicos</b></td><td><b>C3</b> Economía laboral. Clasificación de la población a efectos laborales y tasas. El funcionamiento y las tendencias de los mercados de trabajo. Tasas y fuentes estadísticas para medir el paro. Tipos de desempleo. Causas, efectos y medidas correctoras. Las diferencias salariales y la brecha salarial.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM4 · CPSAA4 · CPSAA5 · CC3 · CC4 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>8. Trabajo decente y crecimiento económico (también 5 y 10 de forma secundaria)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Emprendimiento y orientación laboral (S1, S2, S6, S7, S8 y S9)</td></tr><tr><td><b>Referente</b></td><td>Claudia Goldin, Nobel de Economía 2023 (brecha salarial de género)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Antropología y Sociología, competencia AYSO 1, criterio AYSO 1.4, saber AYSO.1.A.3 (sesiones 6 y 7). Codocencia con Formación y Orientación Laboral en la sesión 2. Pendiente de confirmar oferta y matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>9 (segundo trimestre)</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Antes de impartir: lo que caduca cada curso
-Esta unidad se apoya casi por completo en datos vivos. Revisa y actualiza antes de empezar: las **cuatro noticias de la sesión 1** (conviene seleccionar enlaces nuevos al inicio de cada curso), los datos de la **EPA** y del **paro registrado**, el dato de brecha salarial de la **Encuesta de Estructura Salarial del INE**, y los sectores que más contratan en la provincia según el **Observatorio Argos**.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b><b>OD</b> Observación directa</b></td><td>3.1 · 3.3</td><td>S1 controversia · S3 censo humano · S4 laboratorio · S5 rotación · S6 debate y consultora · S7 estudio de grabación</td></tr><tr><td><b><b>D</b> Debate</b></td><td>3.1 · 3.3</td><td>S1 controversia · S6 debate de bancadas · S8 careo</td></tr><tr><td><b><b>C</b> Cuestionario</b></td><td>3.1 · 3.3</td><td>S2 tras el taller de nómina · S4 detector de titulares</td></tr><tr><td><b><b>P</b> Portafolio</b></td><td>3.1 · 3.3</td><td>S3 tasas y gráfico · S4 ficha-ruta · S5 diagnóstico de casos · S6 consultora</td></tr><tr><td><b><b>PF</b> Producto final</b></td><td>3.1 · 3.3</td><td>S8 podcast o informe «Mi futuro laboral»</td></tr><tr><td><b><b>EO</b> Exposición oral</b></td><td>3.1 · 3.3</td><td>S8 presentación del episodio</td></tr><tr><td><b><b>PE</b> Prueba escrita</b></td><td>3.1 · 3.3</td><td>S9</td></tr><tr><td><b><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</b></td><td>formativas</td><td>Co.Ev. en S3, S5, S6 y S8 · Auto.Ev. en S9</td></tr></tbody></table>
 
-La sesión 4 es un laboratorio de navegación en vivo: comprueba que las rutas de la ficha siguen siendo válidas en INEbase, en la web del SEPE y en Argos, porque los portales cambian de estructura con cierta frecuencia.
+::: aviso Datos que hay que actualizar
+Tasas de la EPA (INE), paro registrado (SEPE), Observatorio Argos, Encuesta de Estructura Salarial y salario mínimo interprofesional cambian cada trimestre o cada año. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -31,45 +31,25 @@ Esas cuatro noticias son reales y hablan del mercado de trabajo en el que vas a 
 - Qué es la brecha salarial, en qué se descompone y qué distingue la brecha bruta de la ajustada.
 - Y qué políticas de empleo existen, quién las paga y cómo se mide si funcionan.
 
-::: idea Elementos curriculares
-Competencia específica **3** · Criterios de evaluación **3.1** y **3.3** · Saber básico **C3** · 9 sesiones · Coordinación propuesta con Antropología y Sociología en las sesiones 4, 6 y 7.
-:::
+## El reto: el podcast «Mi futuro laboral» y el Festival de escucha
 
-## El reto. El podcast “Mi futuro laboral” y el Festival de escucha
+Cada grupo producirá un **episodio de podcast**, o un informe escrito equivalente, sobre el mercado de trabajo del sector profesional que elija, y lo presentará en un **Festival de escucha** ante el resto de la clase.
 
-Cada grupo producirá un **episodio de podcast**, o un informe escrito equivalente, sobre el mercado de trabajo del sector profesional que elija, y lo defenderá en un **Festival de escucha** ante el resto de la clase.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas inseparables
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El episodio</b></td><td>Cinco bloques: radiografía del sector con tres datos oficiales (INE, SEPE y Observatorio Argos), los tipos de paro del sector, la brecha salarial, tres propuestas de empleo con quién las paga y cómo se mediría su efecto, y una entrevista a una persona real del sector.</td></tr><tr><td><b>2. El Festival</b></td><td>Un minuto de presentación, tres o cuatro de fragmentos del episodio y un careo de preguntas con los demás equipos.</td></tr></tbody></table>
 
-<table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Podcast o informe “Mi futuro laboral”</b></td><td>Episodio con cinco bloques obligatorios: radiografía del sector con tres datos oficiales citados (INE, SEPE y Observatorio Argos), diagnóstico de los tipos de paro, análisis de la brecha salarial, tres propuestas de empleo con agente pagador y efecto medible, y una entrevista real a una persona del sector.</td><td>Instrumento R (valoración del producto), con la rúbrica general de los criterios</td></tr><tr><td><b>2. Festival de escucha</b></td><td>Presentación de 1 minuto, emisión de 3-4 minutos de fragmentos seleccionados y careo de preguntas con el resto de equipos, que escuchan con roles asignados de verificadores, analistas y cronistas.</td><td>Instrumentos EO (exposición oral), D (careo) y Co.Ev. (coevaluación)</td></tr></tbody></table>
-
-::: nota Por qué esto no lo puede hacer una IA por ti
-En el careo del Festival tendréis que **defender en directo de dónde sale cada dato**: fuente, operación estadística, periodo y fecha de consulta. Y responder a preguntas que no habréis ensayado. Se evalúa lo que el equipo sabe sostener, no solo lo que ha entregado. La pauta de la sesión 7 es explícita: la IA puede transcribir la entrevista o pulir vuestra redacción, pero no puede inventar datos, testimonios ni citas.
+::: nota De dónde sale cada dato
+En el careo tendréis que **defender en directo de dónde sale cada dato**: fuente, operación estadística, periodo y fecha de consulta. La IA puede ayudaros a transcribir la entrevista o pulir la redacción, pero no puede inventar datos, testimonios ni citas.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda07-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 3.1
@@ -81,6 +61,14 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 9 sesiones {.plegado}
 
-Estas son las nueve sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="60%">Sesión</th><th width="20%">Fase</th><th width="15%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>Motivación: cuatro noticias y una controversia estructurada</td><td>Movilizar + Activar</td><td>3.1</td></tr><tr><td>2</td><td>Exploración. La voz de la orientación laboral (Andalucía Orienta)</td><td>Explorar</td><td>3.1</td></tr><tr><td>3</td><td>El censo humano y el mercado de trabajo</td><td>Estructurar</td><td>3.1 · 3.3</td></tr><tr><td>4</td><td>El detector de titulares: EPA frente a paro registrado</td><td>Estructurar</td><td>3.3 · 3.1</td></tr><tr><td>5</td><td>Las cuatro caras del paro</td><td>Estructurar</td><td>3.1 · 3.3</td></tr><tr><td>6</td><td>La brecha y la consultora de empleo</td><td>Estructurar</td><td>3.1 · 3.3</td></tr><tr><td>7</td><td>Estudio de grabación: producción del podcast</td><td>Aplicar</td><td>3.1 · 3.3</td></tr><tr><td>8</td><td>Festival de escucha “Mi futuro laboral”</td><td>Evaluar</td><td>3.1 · 3.3</td></tr><tr><td>9</td><td>Prueba escrita y reflexión final</td><td>Evaluar</td><td>3.1 · 3.3</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>Cuatro noticias.</b> Una controversia: ¿el mercado de trabajo que te espera es una amenaza o una oportunidad?</td></tr>
+<tr><td><b>2</b></td><td><b>Tu primera nómina.</b> Un taller para entender una nómina y comparar contratos.</td></tr>
+<tr><td><b>3</b></td><td><b>El censo humano.</b> Quién está ocupado, parado o inactivo, cómo se calculan las tasas y qué pasa con un salario mínimo.</td></tr>
+<tr><td><b>4</b></td><td><b>El detector de titulares.</b> Por qué la EPA y el paro registrado dan cifras distintas.</td></tr>
+<tr><td><b>5</b></td><td><b>Las cuatro caras del paro.</b> Friccional, estacional, estructural y cíclico, con datos de sectores reales.</td></tr>
+<tr><td><b>6</b></td><td><b>La brecha.</b> La diferencia salarial entre mujeres y hombres, un debate y una consultora de empleo.</td></tr>
+<tr><td><b>7</b></td><td><b>Estudio de grabación.</b> Guion, entrevista y verificación de datos del episodio.</td></tr>
+<tr><td><b>8</b></td><td><b>Festival de escucha.</b> Todos presentan y todos escuchan.</td></tr>
+<tr><td><b>9</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

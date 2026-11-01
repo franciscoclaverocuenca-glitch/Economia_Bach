@@ -2,7 +2,18 @@
 titulo: 'Sesión 7 · Estudio de grabación: producción del podcast'
 ---
 
+Hoy se junta todo. Los datos de la sesión 4, el diagnóstico de la 5 y las propuestas de la 6 se convierten en el guion de vuestro episodio.
+
+Y hay una pieza que aún no tenéis. La **entrevista** a una persona real del sector. Hoy la diseñáis, siguiendo las mismas reglas que usa la investigación social de verdad.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda07-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda07-s07-seguimiento-produccion.pdf | Seguimiento de la producción por equipo | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3 (preparación; no se califica de forma sumativa)</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base heterogéneos de 4</td><td><b>Carácter</b></td><td>Formativa, taller de trabajo cooperativo, no calificable</td></tr><tr><td><b>Instrumentos</b></td><td>OD: seguimiento formativo del proceso de producción y del control de calidad de datos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,15 +38,6 @@ titulo: 'Sesión 7 · Estudio de grabación: producción del podcast'
 - ¿Quién pagaría esa propuesta y en qué cifra concreta se notaría si funciona?
 - ¿Habéis pedido consentimiento para grabar o citar a la persona entrevistada?
 
-::: aviso Material que debes preparar tú
-- **Plantilla de guion por bloques** con la estructura mínima obligatoria, una por grupo.
-- **Plantilla de entrevista semiestructurada** con las tres reglas de la investigación social.
-- **La ficha de datos de la sesión 4** y el **lienzo de propuestas de la sesión 6** sobre la mesa. Son las herramientas de trabajo, no material de archivo.
-- **Dispositivos de grabación** o acceso a los del centro. Si la versión es informe escrito, procesador de textos.
-- **Lista de cotejo** del control de calidad, impresa, una por grupo.
-- Aviso previo al alumnado sobre la **gestión de la entrevista**: es la parte del producto que más antelación requiere.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La estructura de cinco bloques del guion, el reparto de roles de producción y el plan de tareas con plazos y responsables funcionan como andamiaje explícito de planificación antes de la evaluación sumativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El producto admite dos formatos equivalentes, podcast en audio o informe escrito, y la entrevista puede ser síncrona o asíncrona, lo que permite a cada grupo elegir el medio en el que mejor se desenvuelve sin rebajar la exigencia.</td></tr></tbody></table>
@@ -48,21 +50,17 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gru
 La conexión con **Antropología y Sociología** (competencia específica 1, criterio 1.4; saber AYSO.1.A.3: la entrevista como técnica de recogida de datos) es una propuesta pendiente de confirmación.
 :::
 
-## Para empezar
-
-Hoy se junta todo. Los datos de la sesión 4, el diagnóstico de la 5 y las propuestas de la 6 se convierten en el guion de vuestro episodio.
-
-Y hay una pieza que aún no tenéis. La **entrevista** a una persona real del sector. Hoy la diseñáis, siguiendo las mismas reglas que usa la investigación social de verdad.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda7-s07-01.webp | Portada
+sda7-s07-01.webp | Estudio de grabación
 sda7-s07-02.webp | Los cuatro roles
-sda7-s07-03.webp | La entrevista
-sda7-s07-04.webp | La estructura del guion
-sda7-s07-05.webp | IA responsable
-sda7-s07-06.webp | Control de calidad
+sda7-s07-03.webp | Tres reglas de la investigación social
+sda7-s07-04.webp | Así no, así sí
+sda7-s07-05.webp | Cinco bloques
+sda7-s07-06.webp | Qué sí y qué no
+sda7-s07-07.webp | Antes de cerrar
+sda7-s07-08.webp | Grabad fuera del aula; defended en directo
 ```
 
 ## Diseño de la entrevista semiestructurada
@@ -77,7 +75,34 @@ Se admite hacer la entrevista **asíncrona**, por audio o por escrito, y citarla
 
 ### Vuestras preguntas
 
-<table><thead><tr><th width="6%"></th><th width="64%">Pregunta para la persona entrevistada</th><th width="30%">¿Abierta? ¿No induce?</th></tr></thead><tbody><tr><td>1</td><td></td><td></td></tr><tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr><tr><td>5</td><td></td><td></td></tr></tbody></table>
+Escribid cinco preguntas y comprobad cada una con las tres reglas. Preparad también el texto con el que pediréis el consentimiento.
+
+```descargas
+sda07-s07-guion-entrevista.pdf | Guion de la entrevista | Cinco preguntas, comprobación y modelo de consentimiento
+```
+
+```actividad
+id: sda07-s07-preguntas
+tipo: clasificar
+instrucciones: ¿Qué preguntas sirven para una entrevista de investigación y cuáles hay que reescribir?
+categorias:
+  - nombre: Sirve tal cual
+    elementos:
+      - texto: ¿Cómo fue su primer empleo en este sector?
+        explicacion: Es abierta y no sugiere ninguna respuesta.
+      - texto: ¿Qué cambios ha visto en su sector en los últimos cinco años?
+        explicacion: Abierta y neutral. Deja hablar a la persona entrevistada.
+      - texto: ¿Qué le diría a alguien de 17 años que quiere trabajar en esto?
+        explicacion: Abierta. Pide experiencia, no una opinión prefabricada.
+  - nombre: Hay que reescribirla
+    elementos:
+      - texto: ¿Le gusta su trabajo?
+        explicacion: Se responde con sí o no. Mejor, ¿qué es lo que más y lo que menos le gusta de su trabajo?
+      - texto: ¿No cree que en hostelería se cobra muy poco?
+        explicacion: Induce la respuesta. Mejor, ¿cómo describiría los salarios de su sector?
+      - texto: ¿Verdad que la inteligencia artificial va a destruir muchos empleos?
+        explicacion: Contiene ya la conclusión. Mejor, ¿cómo está afectando la tecnología a su trabajo?
+```
 
 ## El guion por bloques y la verificación de datos
 
@@ -92,13 +117,50 @@ Se admite hacer la entrevista **asíncrona**, por audio o por escrito, y citarla
 ::: aviso Pauta explícita sobre el uso de IA
 La IA **puede** ayudaros a transcribir la entrevista o a pulir la redacción de vuestro propio guion.
 
-La IA **no puede** inventar datos, testimonios ni citas. Y en el careo del Festival tendréis que defender en directo de dónde sale cada dato. Se evalúa lo que sabéis sostener, no solo lo que habéis entregado.
+La IA **no puede** inventar datos, testimonios ni citas. Si la usáis, decidlo. Y en el careo del Festival tendréis que defender en directo de dónde sale cada dato: lo que no entendáis se notará en la primera pregunta.
 :::
 
 ### Lista de cotejo antes de cerrar
 
-<table><thead><tr><th width="7%"></th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Cada dato del guion lleva su citación completa: fuente, operación, periodo y fecha de consulta?</td></tr><tr><td></td><td>¿Está analizada la brecha usando la distinción bruta / ajustada?</td></tr><tr><td></td><td>¿Las tres propuestas tienen agente pagador identificado y efecto medible?</td></tr><tr><td></td><td>¿La entrevista está diseñada, con preguntas abiertas y consentimiento previsto?</td></tr><tr><td></td><td>¿Está cerrado el plan de producción con tareas, plazos y responsables?</td></tr></tbody></table>
+- ¿Cada dato del guion lleva su citación completa: fuente, operación, periodo y fecha de consulta?
+- ¿Está analizada la brecha usando la distinción bruta / ajustada?
+- ¿Las tres propuestas tienen agente pagador identificado y efecto medible?
+- ¿La entrevista está diseñada, con preguntas abiertas y consentimiento previsto?
+- ¿Está cerrado el plan de producción con tareas, plazos y responsables?
+
+```descargas
+sda07-s07-guion-episodio.pdf | Plantilla del guion del episodio | Los cinco bloques, los datos citados y el plan de producción
+```
 
 ## Cierre
 
 Cerrad vuestro **plan de producción**: tareas, plazos y responsables. La grabación o redacción final se completa fuera del aula, antes del Festival.
+
+## Apuntes de la sesión
+
+### 1. La entrevista semiestructurada
+
+Es una técnica de las ciencias sociales que combina un **guion de preguntas fijas** con libertad para repreguntar. Permite comparar respuestas y, a la vez, descubrir lo que no se esperaba. Sus reglas son tres: preguntas abiertas, sin inducir la respuesta y con consentimiento explícito previo.
+
+### 2. Cómo se verifica un dato
+
+- **Ir a la fuente original.** Si una noticia dice que el paro ha bajado, buscad la nota del INE o del SEPE que lo publica.
+- **Comprobar el periodo.** Un dato del segundo trimestre no sirve para hablar de octubre.
+- **Cruzar dos fuentes** cuando sea posible. Si no coinciden, explicad por qué, como en la sesión 4.
+- **Anotar la fecha de consulta.** Los datos se revisan y se actualizan.
+
+### 3. Un guion con hilo
+
+Un buen episodio no es una suma de bloques. Cada bloque responde a una pregunta que deja planteada el anterior: los datos muestran un problema, el diagnóstico lo explica, la brecha lo matiza, las propuestas lo atacan y la entrevista le pone voz.
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Entrevista semiestructurada</b></td><td>Entrevista con un guion de preguntas fijas y libertad para repreguntar.</td></tr>
+<tr><td><b>Pregunta abierta</b></td><td>La que no se responde con sí o no y pide a la persona que explique.</td></tr>
+<tr><td><b>Pregunta inductora</b></td><td>La que contiene ya la respuesta que se espera.</td></tr>
+<tr><td><b>Consentimiento informado</b></td><td>Permiso explícito de la persona entrevistada para grabarla o citarla, pedido antes y sabiendo para qué se usará.</td></tr>
+<tr><td><b>Verificación cruzada</b></td><td>Comprobación de un dato en una segunda fuente independiente.</td></tr>
+<tr><td><b>Fuente primaria</b></td><td>La que produce el dato, como el INE o el SEPE, frente a la noticia que lo cuenta.</td></tr>
+<tr><td><b>Plan de producción</b></td><td>Reparto de tareas, plazos y responsables hasta la entrega.</td></tr>
+</tbody></table>

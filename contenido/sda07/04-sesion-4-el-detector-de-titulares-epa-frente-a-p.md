@@ -2,7 +2,22 @@
 titulo: 'Sesión 4 · El detector de titulares: EPA frente a paro registrado'
 ---
 
+Dos titulares del mismo mes. Dos cifras de paro distintas.
+
+“¿Alguien miente?”
+
+No. Nadie miente. Miden cosas distintas con instrumentos distintos, y entender esa diferencia es lo que separa leer una noticia económica de repetirla.
+
+Al final de la sesión vais a salir con los **tres datos oficiales** de vuestro sector, citados con rigor. Son la despensa de vuestro podcast.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda07-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda07-s04-ruta-fuentes.pdf | Ruta de las tres fuentes, resuelta | Solo docente, con los enlaces y los datos de referencia
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.3 (núcleo) + 3.1</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia central de portafolio</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de datos completada y citada · C: cuestionario formativo de cierre · OD: observación de la búsqueda guiada</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -31,14 +46,6 @@ Recupera explícitamente los casos frontera **C** y **D** del censo humano de ay
 - ¿Por qué la EPA capta a quien trabaja sin contrato y el paro registrado no?
 - ¿De qué fecha es ese dato y de qué operación estadística sale?
 
-::: aviso Material que debes preparar tú
-- **Dos titulares reales** referidos al mismo periodo con cifras de paro diferentes. Uno construido sobre la EPA y otro sobre el paro registrado.
-- **Aula TIC o dispositivos móviles** suficientes para trabajar por parejas.
-- **Ficha-ruta de navegación** paso a paso por INEbase, la web del SEPE y el Observatorio Argos. **Comprueba las rutas antes de la sesión**: los portales cambian de estructura.
-- **Plantilla de citación** con los cuatro elementos obligatorios: fuente, operación estadística, periodo de referencia y fecha de consulta.
-- Cuestionario formativo de cierre montado en Kahoot o Google Forms.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha-ruta descompone la navegación por tres portales oficiales en pasos numerados y verificables, lo que convierte una tarea abierta y potencialmente frustrante en una secuencia manejable.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La diferencia entre encuesta y registro se presenta primero como un enigma concreto (dos titulares contradictorios) y solo después se formaliza, de modo que la explicación llegue cuando ya existe una pregunta que responder.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,28 +54,18 @@ Recupera explícitamente los casos frontera **C** y **D** del censo humano de ay
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Dos titulares del mismo mes. Dos cifras de paro distintas.
-
-“¿Alguien miente?”
-
-No. Nadie miente. Miden cosas distintas con instrumentos distintos, y entender esa diferencia es lo que separa leer una noticia económica de repetirla.
-
-Al final de la sesión vais a salir con los **tres datos oficiales** de vuestro sector, citados con rigor. Son la despensa de vuestro podcast.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda7-s04-01.webp | Portada
-sda7-s04-02.webp | El misterio
-sda7-s04-03.webp | Dos instrumentos
-sda7-s04-04.webp | La tercera fuente
-sda7-s04-05.webp | La ficha-ruta
-sda7-s04-06.webp | Cómo se cita un dato
-sda7-s04-07.webp | La pregunta del criterio
-sda7-s04-08.webp | Interdisciplinariedad
-sda7-s04-09.webp | Cierre
+sda7-s04-01.webp | El detector de titulares
+sda7-s04-02.webp | Dos cifras del mismo periodo
+sda7-s04-03.webp | Dos maneras de medir
+sda7-s04-04.webp | Observatorio Argos
+sda7-s04-05.webp | Tres datos de vuestro sector
+sda7-s04-06.webp | Cuatro elementos, siempre
+sda7-s04-07.webp | Según para qué
+sda7-s04-08.webp | Encuesta y registro
+sda7-s04-09.webp | Un dato sin sus cuatro elementos no vale como argumento
 ```
 
 ## Búsqueda guiada · las tres fuentes
@@ -83,11 +80,19 @@ El **Observatorio Argos** del Servicio Andaluz de Empleo es el sistema andaluz d
 
 ### Vuestra ficha de datos
 
-<table><thead><tr><th width="42%">Dato que hay que localizar</th><th width="24%">Fuente</th><th width="34%">Vuestro resultado</th></tr></thead><tbody><tr><td>Tasa de paro andaluza y española más recientes</td><td>INEbase · EPA</td><td></td></tr><tr><td>Paro registrado del último mes en la provincia de Málaga</td><td>SEPE</td><td></td></tr><tr><td>Un dato de contratación de vuestro sector</td><td>Observatorio Argos</td><td></td></tr></tbody></table>
+Tres datos, tres fuentes. La ficha-ruta os dice dónde buscar cada uno y cómo anotar su citación completa.
+
+```descargas
+sda07-s04-ficha-datos.pdf | Ficha-ruta de datos | Los tres datos de vuestro sector con su citación
+```
+
+::: ejemplo El misterio, con los datos reales
+En el tercer trimestre de 2026, la EPA contó **22.852.600 ocupados** y **25.443.800 activos** en España, así que había unos **2.591.200 parados** y una tasa de paro del 10,18 %. Pero el paro registrado en las oficinas del SEPE a final de septiembre de 2026 fue de **2.379.505 personas**. Más de 200.000 de diferencia en el mismo periodo. Nadie miente.
+:::
 
 ### La regla de citación: cuatro elementos, siempre
 
-<table><thead><tr><th width="32%">Elemento</th><th width="68%">Ejemplo</th></tr></thead><tbody><tr><td><b>Fuente</b></td><td>Instituto Nacional de Estadística (INE)</td></tr><tr><td><b>Operación estadística</b></td><td>Encuesta de Población Activa (EPA)</td></tr><tr><td><b>Periodo de referencia</b></td><td>Cuarto trimestre de 2025</td></tr><tr><td><b>Fecha de consulta</b></td><td>Consultado el 12 de febrero de 2026</td></tr></tbody></table>
+<table><thead><tr><th width="32%">Elemento</th><th width="68%">Ejemplo</th></tr></thead><tbody><tr><td><b>Fuente</b></td><td>Instituto Nacional de Estadística (INE)</td></tr><tr><td><b>Operación estadística</b></td><td>Encuesta de Población Activa (EPA)</td></tr><tr><td><b>Periodo de referencia</b></td><td>Tercer trimestre de 2026</td></tr><tr><td><b>Fecha de consulta</b></td><td>Consultado el 1 de noviembre de 2026</td></tr></tbody></table>
 
 ::: aviso Sin los cuatro, el dato no vale
 Y en el careo del Festival os van a preguntar exactamente por ellos. “¿de qué fecha es esa tasa y de qué fuente sale?”. Esta ficha es la despensa de datos de vuestro podcast: cuidadla.
@@ -121,6 +126,10 @@ El **paro registrado** lo publica el SEPE cada mes y cuenta a las personas **ins
 La EPA mide **la situación real** declarada en una encuesta. El paro registrado mide **las inscripciones administrativas**. Las dos son correctas y ninguna sustituye a la otra: sirven para propósitos distintos.
 :::
 
+<table><thead><tr><th width="40%">Dato</th><th width="30%">EPA (INE)</th><th width="30%">Paro registrado (SEPE)</th></tr></thead><tbody><tr><td>Periodo</td><td>Tercer trimestre de 2026</td><td>Septiembre de 2026</td></tr><tr><td>Personas en paro en España</td><td>Unas 2.591.200</td><td>2.379.505</td></tr><tr><td>Qué cuenta</td><td>Quien declara en la encuesta que no trabaja, busca y está disponible</td><td>Quien está inscrito como demandante en una oficina pública</td></tr></tbody></table>
+
+La cifra de la EPA sale de restar ocupados (22.852.600) a activos (25.443.800). En la provincia de Málaga, el paro registrado de agosto de 2026 fue de 97.095 personas.
+
 ### 4. El Observatorio Argos
 
 El **Observatorio Argos** es el sistema de prospección del mercado de trabajo del Servicio Andaluz de Empleo. Permite descender al detalle provincial y municipal andaluz y consultar qué perfiles se están contratando más. Es la fuente autonómica que localiza cualquier análisis en Málaga.
@@ -132,7 +141,7 @@ El **Observatorio Argos** es el sistema de prospección del mercado de trabajo d
 ### 6. Cómo se cita un dato
 
 ::: aviso Cuatro elementos, siempre
-**Fuente** (Instituto Nacional de Estadística) · **operación estadística** (Encuesta de Población Activa) · **periodo de referencia** (cuarto trimestre de 2025) · **fecha de consulta** (consultado el 12 de febrero de 2026).
+**Fuente** (Instituto Nacional de Estadística) · **operación estadística** (Encuesta de Población Activa) · **periodo de referencia** (tercer trimestre de 2026) · **fecha de consulta** (consultado el 1 de noviembre de 2026).
 
 Un dato sin estos cuatro elementos no es verificable, y lo que no es verificable no sirve como argumento.
 :::
@@ -143,7 +152,24 @@ La encuesta muestral y el registro administrativo son **dos técnicas de recogid
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>EPA</b></td><td>Encuesta de Población Activa. Encuesta trimestral del INE sobre la situación laboral real de los hogares.</td></tr><tr><td><b>Paro registrado</b></td><td>Recuento administrativo mensual del SEPE de las personas inscritas como demandantes de empleo.</td></tr><tr><td><b>Observatorio Argos</b></td><td>Sistema de prospección del mercado de trabajo del Servicio Andaluz de Empleo.</td></tr><tr><td><b>Encuesta muestral</b></td><td>Técnica que infiere el comportamiento del conjunto a partir de una muestra representativa.</td></tr><tr><td><b>Registro administrativo</b></td><td>Recuento de los casos efectivamente registrados en un procedimiento oficial.</td></tr><tr><td><b>Citación de un dato</b></td><td>Indicación de fuente, operación, periodo y fecha de consulta que hace verificable una cifra.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>EPA</b></td><td>Encuesta de Población Activa. Encuesta trimestral del INE sobre la situación laboral real de unos 65.000 hogares.</td></tr>
+<tr><td><b>INE</b></td><td>Instituto Nacional de Estadística. Organismo público que elabora las estadísticas oficiales de España.</td></tr>
+<tr><td><b>Paro registrado</b></td><td>Recuento administrativo mensual del SEPE de las personas inscritas como demandantes de empleo.</td></tr>
+<tr><td><b>SEPE</b></td><td>Servicio Público de Empleo Estatal. Gestiona las prestaciones por desempleo y publica el paro registrado.</td></tr>
+<tr><td><b>Observatorio Argos</b></td><td>Sistema de prospección del mercado de trabajo del Servicio Andaluz de Empleo, con datos provinciales y municipales.</td></tr>
+<tr><td><b>Encuesta muestral</b></td><td>Técnica que infiere el comportamiento del conjunto a partir de una muestra representativa.</td></tr>
+<tr><td><b>Registro administrativo</b></td><td>Recuento de los casos efectivamente registrados en un procedimiento oficial.</td></tr>
+<tr><td><b>Periodo de referencia</b></td><td>Momento al que se refiere un dato, que no coincide con la fecha en que se publica.</td></tr>
+<tr><td><b>Citación de un dato</b></td><td>Indicación de fuente, operación, periodo y fecha de consulta que hace verificable una cifra.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=BYB7rCMBDcQ | La medición del desempleo | Econosublime · 6:26
+https://www.youtube.com/watch?v=5LOXjS1Q3S0 | Los problemas de medir el desempleo | Econosublime · 4:53
+```
 
 ## Comprueba lo que sabes
 

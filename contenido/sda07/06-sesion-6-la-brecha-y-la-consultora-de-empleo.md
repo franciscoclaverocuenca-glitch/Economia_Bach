@@ -2,7 +2,20 @@
 titulo: Sesión 6 · La brecha y la consultora de empleo
 ---
 
+En la sesión 1 quedó una pregunta abierta en tus apuntes:
+
+“¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?”
+
+Hoy la respondemos. Y la respuesta exige distinguir dos cifras que casi nunca se distinguen en los titulares. La **brecha bruta** y la **brecha ajustada**.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda07-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda07-s06-registro-debate.pdf | Registro de las bancadas | Solo docente, dato y concepto por intervención
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → dos bancadas de debate → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia de debate, portafolio y coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>D: calidad argumentativa en el debate de bancadas · OD: uso de datos y diseño de propuestas · P: argumentario y lienzo · Co.Ev.: coevaluación de las propuestas</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -31,15 +44,6 @@ Después descompón la brecha en sus cuatro componentes: segregación horizontal
 - ¿Corregir la brecha es solo una cuestión de justicia, o también de eficiencia?
 - ¿Quién pagaría vuestra propuesta y en qué dato concreto se notaría si funciona?
 
-::: aviso Material que debes preparar tú
-- **Datos de la última Encuesta de Estructura Salarial del INE** con la brecha bruta y, si está disponible, la ajustada. **Actualízalos cada curso.**
-- **Datos de la EPA** sobre parcialidad involuntaria por sexo.
-- **Tarjetas de rol** para las dos bancadas y para los observadores rotativos.
-- **Fichas de políticas de empleo reales**, activas y pasivas, con ejemplos andaluces (la red Andalucía Orienta conocida en la sesión 2, incentivos a la contratación, formación profesional para el empleo).
-- **Lienzo de propuestas** guiado con los cuatro requisitos, uno por grupo base.
-- La ficha de datos de la sesión 4 sobre la mesa: las propuestas deben apoyarse en ella.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El debate de bancadas incorpora el rol de <b>observador</b> con tarea propia, registrar qué argumentos usan datos y cuáles solo opiniones, lo que ofrece una vía de participación evaluable que no exige intervención oral.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La regla de aportar un dato y un concepto para intervenir desplaza el debate del terreno de la opinión personal al del argumento verificable, lo que rebaja la carga emocional de un tema sensible.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -56,27 +60,19 @@ Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la sig
 La conexión con **Antropología y Sociología** (competencia específica 1, criterio 1.4; saber AYSO.1.A.3) es una propuesta pendiente de confirmación.
 :::
 
-## Para empezar
-
-En la sesión 1 quedó una pregunta abierta en tu Cornell:
-
-“¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?”
-
-Hoy la respondemos. Y la respuesta exige distinguir dos cifras que casi nunca se distinguen en los titulares. La **brecha bruta** y la **brecha ajustada**.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda7-s06-01.webp | Portada
-sda7-s06-02.webp | Por qué difieren los salarios
+sda7-s06-01.webp | La brecha y la consultora de empleo
+sda7-s06-02.webp | La brecha salarial en España
 sda7-s06-03.webp | Bruta y ajustada
-sda7-s06-04.webp | Los cuatro componentes
-sda7-s06-05.webp | Referente: Claudia Goldin
-sda7-s06-06.webp | El debate de bancadas
-sda7-s06-07.webp | Efectos del desempleo
-sda7-s06-08.webp | Las políticas de empleo
-sda7-s06-09.webp | La consultora
-sda7-s06-10.webp | Cierre
+sda7-s06-04.webp | Cuatro componentes
+sda7-s06-05.webp | Claudia Goldin
+sda7-s06-06.webp | ¿Equidad, eficiencia o ambos?
+sda7-s06-07.webp | Tres planos
+sda7-s06-08.webp | Pasivas y activas
+sda7-s06-09.webp | Cuatro requisitos por propuesta
+sda7-s06-10.webp | Respóndela ahora, con la distinción bruta / ajustada
 ```
 
 ## Debate de bancadas · ¿equidad, eficiencia o ambos?
@@ -84,6 +80,10 @@ sda7-s06-10.webp | Cierre
 ### Primero, la precisión. Dos cifras que no significan lo mismo
 
 <table><thead><tr><th width="50%">Brecha BRUTA</th><th width="50%">Brecha AJUSTADA</th></tr></thead><tbody><tr><td>Diferencia entre el salario medio de los hombres y el de las mujeres.</td><td>La que persiste comparando <b>puestos equivalentes</b>.</td></tr><tr><td>Compara el conjunto, sin distinguir puestos, jornadas ni sectores.</td><td>Descuenta el efecto del sector, la jornada, la experiencia y el puesto.</td></tr><tr><td>Es la cifra grande de los titulares.</td><td>Es una cifra menor, pero mucho más incómoda.</td></tr><tr><td>Mezcla causas legítimas con discriminación.</td><td>Lo que queda ya no se explica por diferencias de trabajo.</td></tr></tbody></table>
+
+::: ejemplo El dato más reciente
+Según la Encuesta de Estructura Salarial de 2024, publicada por el INE en junio de 2026, la brecha bruta en el salario medio anual fue del **16,1 %**. El salario medio anual de las mujeres fue de 26.904,90 €. En 2022 la brecha era del 17,09 %, y en 2023 había seguido bajando. 2024 es **el primer año en once en que la brecha sube**.
+:::
 
 ### En qué se descompone la brecha
 
@@ -100,7 +100,15 @@ Buena parte de la brecha **no nace al firmar el contrato, sino años después**.
 <table><thead><tr><th width="50%">BANCADA 1 · equidad</th><th width="50%">BANCADA 2 · eficiencia</th></tr></thead><tbody><tr><td>La brecha es una injusticia que exige corrección pública: registro salarial, planes de igualdad, permisos de cuidado iguales e intransferibles. Es una cuestión de derechos.</td><td>El mercado desperdicia talento cuando no lo promociona. Corregirla beneficia a la economía entera, no solo a las mujeres. El argumento económico convence a quien no convence el moral.</td></tr></tbody></table>
 
 ::: aviso Regla innegociable para intervenir
-Hay que aportar **un dato** (de los proyectados o de vuestra ficha de la sesión 4) y **un concepto** de la sesión: segregación, brecha ajustada, penalización por cuidados. Los observadores registran qué intervenciones usan datos y cuáles solo opiniones.
+Hay que aportar **un dato** (de los proyectados o de vuestra ficha de la sesión 4) y **un concepto** de la sesión: segregación, brecha ajustada, penalización por cuidados. Los observadores anotan qué intervenciones usan datos y cuáles solo opiniones.
+:::
+
+```descargas
+sda07-s06-argumentario.pdf | Hoja del argumentario | Datos, conceptos y réplicas para tu bancada
+```
+
+::: nota Recordad
+Cambiar de opinión con un buen dato no es perder el debate.
 :::
 
 ## Taller “Consultora de empleo”
@@ -118,10 +126,20 @@ Vuestro grupo es una **consultora** contratada para mejorar la empleabilidad juv
 <table><thead><tr><th width="6%"></th><th width="94%">Requisito</th></tr></thead><tbody><tr><td>1</td><td>Responder a un problema <b>diagnosticado con un dato concreto</b> de vuestra ficha de la sesión 4.</td></tr><tr><td>2</td><td>Ser verosímil y estar <b>localizada</b> en Málaga o Andalucía.</td></tr><tr><td>3</td><td>Identificar <b>quién la pagaría y quién la ejecutaría</b>: Estado, Junta, ayuntamientos, empresas, o en colaboración.</td></tr><tr><td>4</td><td>Anticipar un <b>efecto medible</b>.</td></tr></tbody></table>
 
 ::: nota El requisito 4 es el que más se olvida
-Y es la costura con el criterio 3.3: **toda intervención debe poder evaluarse con datos**. Si no sabéis en qué cifra se notaría que vuestra propuesta funciona, la propuesta no está terminada. Y en el careo del Festival os lo van a preguntar.
+**Toda intervención debe poder evaluarse con datos.** Si no sabéis en qué cifra se notaría que vuestra propuesta funciona, la propuesta no está terminada. Y en el careo del Festival os lo van a preguntar.
 :::
 
+```descargas
+sda07-s06-lienzo-consultora.pdf | Lienzo de la consultora | Las tres propuestas con sus cuatro requisitos
+```
+
 La **tercera propuesta** que exige el producto final se esboza hoy como tarea y se cierra al arrancar la sesión 7.
+
+## Cierre
+
+Responde por escrito, en 4 o 5 líneas, a la **pregunta abierta de la sesión 1**: “¿Por qué, con la misma formación, las nóminas medias siguen sin coincidir?”. Es obligatorio usar la distinción **brecha bruta / brecha ajustada**.
+
+Guarda el argumentario en tu portafolio junto con el lienzo de las dos propuestas. Y esboza la **tercera propuesta**: la cerraréis al arrancar la sesión 7.
 
 ## Apuntes de la sesión
 
@@ -130,6 +148,8 @@ La **tercera propuesta** que exige el producto final se esboza hoy como tarea y 
 Los salarios difieren **legítimamente** por muchas razones: cualificación, experiencia, productividad, sector, tamaño de la empresa o peligrosidad del puesto. Ninguna de ellas tiene que ver con el sexo de quien ocupa el puesto.
 
 El problema empieza cuando, descontadas todas esas razones, **sigue habiendo diferencia**.
+
+En España, la brecha bruta fue del **16,1 %** en 2024 (INE, Encuesta de Estructura Salarial). Dicho de otro modo: por cada 100 € que cobra de media un hombre al año, una mujer cobra unos 84 €.
 
 ### 2. Brecha bruta y brecha ajustada
 
@@ -169,10 +189,48 @@ No vale cualquier empleo. El **ODS 8** exige **trabajo decente**: con derechos, 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Brecha salarial bruta</b></td><td>Diferencia entre el salario medio de hombres y mujeres, sin ajustar por puesto ni jornada.</td></tr><tr><td><b>Brecha salarial ajustada</b></td><td>La que persiste al comparar puestos equivalentes.</td></tr><tr><td><b>Segregación horizontal</b></td><td>Concentración de mujeres y hombres en sectores distintos, con distinta remuneración media.</td></tr><tr><td><b>Segregación vertical</b></td><td>Menor presencia femenina en los puestos de mayor responsabilidad (techo de cristal).</td></tr><tr><td><b>Trabajos codiciosos</b></td><td>Empleos que retribuyen desproporcionadamente la disponibilidad total (Claudia Goldin).</td></tr><tr><td><b>Política activa de empleo</b></td><td>La que busca mejorar la empleabilidad: formación, orientación, incentivos.</td></tr><tr><td><b>Política pasiva de empleo</b></td><td>La que protege la renta de quien pierde el empleo: prestaciones y subsidios.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Brecha salarial bruta</b></td><td>Diferencia entre el salario medio de hombres y mujeres, sin ajustar por puesto ni jornada. En España, 16,1 % en 2024.</td></tr>
+<tr><td><b>Brecha salarial ajustada</b></td><td>La que persiste al comparar puestos equivalentes, una vez descontados sector, jornada, experiencia y puesto.</td></tr>
+<tr><td><b>Segregación horizontal</b></td><td>Concentración de mujeres y hombres en sectores distintos, con distinta remuneración media.</td></tr>
+<tr><td><b>Segregación vertical</b></td><td>Menor presencia femenina en los puestos de mayor responsabilidad. También se llama techo de cristal.</td></tr>
+<tr><td><b>Parcialidad involuntaria</b></td><td>Trabajo a jornada parcial de quien querría trabajar a jornada completa.</td></tr>
+<tr><td><b>Penalización por cuidados</b></td><td>Frenazo de la carrera salarial tras la maternidad, que no se produce tras la paternidad.</td></tr>
+<tr><td><b>Trabajos codiciosos</b></td><td>Empleos que retribuyen desproporcionadamente la disponibilidad total. El concepto es de Claudia Goldin.</td></tr>
+<tr><td><b>Política activa de empleo</b></td><td>La que busca mejorar la empleabilidad: formación, orientación, incentivos a la contratación.</td></tr>
+<tr><td><b>Política pasiva de empleo</b></td><td>La que protege la renta de quien pierde el empleo: prestaciones y subsidios.</td></tr>
+<tr><td><b>Prestación contributiva</b></td><td>Cobro por desempleo al que se tiene derecho por haber cotizado antes un tiempo mínimo.</td></tr>
+</tbody></table>
 
-## Cierre
+### Para saber más
 
-Responde por escrito, en 4-5 líneas del Cornell, a la **pregunta abierta de la sesión 1**: “¿Por qué, con la misma formación, las nóminas medias siguen sin coincidir?”. Es obligatorio usar la distinción **brecha bruta / brecha ajustada**.
+```video
+https://www.youtube.com/watch?v=TIc77QYgF4Y | Las teorías de Claudia Goldin | MurciaStartup · 2:20
+https://www.youtube.com/watch?v=qSheMx8jkGM | Políticas activas y pasivas de empleo | Econosublime · 10:14
+```
 
-El argumentario pasa a tu portafolio junto con el lienzo de las dos propuestas. Y esboza la **tercera propuesta**: la cerraréis al arrancar la sesión 7.
+## Comprueba lo que sabes
+
+```actividad
+id: sda07-s06-repaso
+tipo: verdadero-falso
+titulo: Comprueba lo que sabes
+puntua: false
+instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después la explicación. **No cuenta para la nota**: sirve para que sepas por dónde andas.'
+preguntas:
+- enunciado: La brecha bruta mide solo la discriminación salarial.
+  respuesta: falso
+  explicacion: '**Falso.** Mezcla causas legítimas (sector, jornada, experiencia) con discriminación. La ajustada aísla lo que no se explica por diferencias de trabajo.'
+- enunciado: Según el INE, en 2024 la brecha salarial bruta subió por primera vez en once años.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Pasó a ser del 16,1 %, según la Encuesta de Estructura Salarial.'
+- enunciado: Para Claudia Goldin, buena parte de la brecha nace años después de firmar el contrato.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Los trabajos codiciosos penalizan a quien reduce su disponibilidad para cuidar.'
+- enunciado: La prestación por desempleo es una política activa de empleo.
+  respuesta: falso
+  explicacion: '**Falso.** Es pasiva: protege la renta, pero no mejora la empleabilidad.'
+- enunciado: Una propuesta de empleo está terminada cuando se sabe en qué dato se notaría que funciona.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Sin un efecto medible, no se puede evaluar.'
+```

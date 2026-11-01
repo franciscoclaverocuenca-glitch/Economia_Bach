@@ -2,7 +2,18 @@
 titulo: Sesión 1 · Cuatro noticias y una controversia
 ---
 
+Cuatro noticias reales sobre el mercado de trabajo de Málaga y Andalucía. Todas hablan del trabajo que te espera, y no dicen lo mismo.
+
+Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de camino, vais a tener que defender la contraria. No es un capricho. Es la única forma de entender de verdad un argumento.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda07-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda07-s01-fuentes-noticias.pdf | Fuentes de las cuatro noticias | Solo docente, enlaces y datos que hay que actualizar
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 (con introducción a 3.3)</td><td><b>Saberes básicos</b></td><td>C3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante la controversia · D: calidad del debate por parejas y del posicionamiento conjunto</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -20,7 +31,7 @@ La fase de inversión es la que hace el trabajo. Obliga a entender el argumento 
 
 **3. El reto (10 min).** Presenta el podcast y el Festival. Cada grupo anota una primera preferencia de sector, que se confirmará en la sesión 3 tras escuchar a la persona orientadora.
 
-**4. Diagnóstico y cierre (10 min).** Tres preguntas a mano alzada con respuesta razonada. **No corrijas ninguna**: las respuestas intuitivas y contradictorias se quedan escritas en la pizarra como foto inicial. Cierra con la pregunta abierta de la brecha, que se anota en el margen del Cornell y se recupera en la sesión 6.
+**4. Diagnóstico y cierre (10 min).** Tres preguntas a mano alzada con respuesta razonada. **No corrijas ninguna**: las respuestas intuitivas y contradictorias se quedan escritas en la pizarra como foto inicial. Cierra con la pregunta abierta de la brecha, que el alumnado anota y se recupera en la sesión 6.
 
 ### Preguntas guía del profesorado
 
@@ -28,13 +39,6 @@ La fase de inversión es la que hace el trabajo. Obliga a entender el argumento 
 - ¿Quién de esta clase cuenta como parado para la estadística?
 - ¿Un estudiante que no busca trabajo está parado?
 - ¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?
-
-::: aviso Material que debes preparar tú
-- **Cuatro noticias reales y recientes** del mercado laboral malagueño y andaluz, con enlaces actualizados por ti al inicio del curso. Focos: (a) **paro juvenil** con datos EPA de menores de 25 años en Andalucía frente a la media española; (b) **estacionalidad turística** y los “valles” de empleo invernal en la hostelería de la Costa del Sol; (c) **empleo tecnológico** y vacantes sin cubrir en el entorno de Málaga TechPark; (d) **brecha de género** salarial o de tasa de paro, preferiblemente con datos andaluces.
-- **Plantilla de posicionamiento** para el consenso de tres líneas, una por grupo base.
-- **Tablón de la unidad** para registrar el sector elegido por cada grupo.
-- Pizarra o proyector para anotar, sin corregir, las respuestas del diagnóstico exprés.
-:::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
@@ -44,24 +48,30 @@ La fase de inversión es la que hace el trabajo. Obliga a entender el argumento 
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-## Para empezar
-
-Cuatro noticias reales sobre el mercado de trabajo de Málaga y Andalucía. Todas hablan del trabajo que te espera, y no dicen lo mismo.
-
-Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de camino, vais a tener que defender la contraria. No es un capricho. Es la única forma de entender de verdad un argumento.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda7-s01-01.webp | Portada
-sda7-s01-02.webp | Las cuatro noticias
-sda7-s01-03.webp | La controversia
-sda7-s01-04.webp | Las tres fases
-sda7-s01-05.webp | La palabra que emerge
-sda7-s01-06.webp | El reto
-sda7-s01-07.webp | Elegid vuestro sector
-sda7-s01-08.webp | Diagnóstico inicial
-sda7-s01-09.webp | La pregunta abierta
+sda7-s01-01.webp | Cuatro noticias y una controversia
+sda7-s01-02.webp | El paro, en cifras
+sda7-s01-03.webp | Cuatro noticias, una pregunta
+sda7-s01-04.webp | ¿Amenaza u oportunidad?
+sda7-s01-05.webp | Cómo funciona
+sda7-s01-06.webp | Depende.
+sda7-s01-07.webp | Un podcast sobre el trabajo que os espera en un sector de Málaga.
+sda7-s01-08.webp | Primera preferencia
+sda7-s01-09.webp | Tres preguntas
+sda7-s01-10.webp | ¿Por qué, con la misma formación, las nóminas medias de mujeres y…
+```
+
+## Las cuatro noticias
+
+Cada pareja recibe una. Leedla buscando **un dato** y **una consecuencia** para alguien de vuestra edad.
+
+<table><thead><tr><th width="24%">Noticia</th><th width="76%">El dato de partida</th></tr></thead><tbody><tr><td><b>1 · Paro en Andalucía</b></td><td>Según la Encuesta de Población Activa del tercer trimestre de 2026 (INE, 27 de octubre de 2026), la tasa de paro fue del <b>10,18 %</b> en España y del <b>14,91 %</b> en Andalucía, la más alta de todas las comunidades. La más baja, Baleares, con un 4,63 %.</td></tr><tr><td><b>2 · Paro juvenil</b></td><td>En el segundo trimestre de 2026, el paro de los menores de 25 años en Andalucía llegó al <b>30,9 %</b>, unos siete puntos por encima de la media española de esa edad.</td></tr><tr><td><b>3 · Temporada en la Costa del Sol</b></td><td>La hostelería malagueña contrata en primavera y despide en otoño. Cada invierno se abre un “valle” de empleo en los municipios de costa.</td></tr><tr><td><b>4 · Brecha salarial</b></td><td>La Encuesta de Estructura Salarial de 2024 (INE, junio de 2026) sitúa la diferencia entre el salario medio anual de hombres y mujeres en el <b>16,1 %</b>. Es la primera vez en once años que la brecha sube.</td></tr></tbody></table>
+
+```descargas
+sda07-s01-noticias.pdf | Las cuatro noticias | Una ficha por pareja, con preguntas de lectura
+sda07-s01-controversia.pdf | Hoja de la controversia | Argumentos, inversión de roles y consenso
 ```
 
 ## Controversia estructurada · ¿amenaza u oportunidad?
@@ -85,47 +95,27 @@ A mano alzada y con respuesta razonada. **No se corrigen**: se quedan escritas e
 <table><thead><tr><th width="6%"></th><th width="70%">Pregunta</th><th width="24%">Se resuelve en…</th></tr></thead><tbody><tr><td>1</td><td>¿Quién de esta clase cuenta como parado para la estadística?</td><td>Sesión 3</td></tr><tr><td>2</td><td>¿Un estudiante que no busca trabajo está parado?</td><td>Sesión 3</td></tr><tr><td>3</td><td>¿Cobra todo el mundo lo mismo por el mismo trabajo?</td><td>Sesión 6</td></tr></tbody></table>
 
 ::: nota La pregunta abierta de la unidad
-“**¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?**” Anótala en el margen de tu Cornell. La respondemos con datos en la sesión 6, de la mano de Claudia Goldin, Premio Nobel de Economía 2023.
+“**¿Por qué, con la misma formación, las nóminas medias de mujeres y hombres siguen sin coincidir?**” Anótala en tus apuntes. La respondemos con datos en la sesión 6, de la mano de Claudia Goldin, Premio Nobel de Economía 2023.
 :::
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-3.1
+```descargas
+sda07-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-3.3
-```
+### Cómo se leen
+
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
+
+## Cierre
+
+Antes de irte. Anota en tus apuntes la **pregunta abierta** sobre la brecha salarial, y acuerda con tu grupo una **primera preferencia de sector** para el podcast. La confirmaréis en la sesión 3, después de escuchar a la persona orientadora.
 
 ## Apuntes de la sesión
 
@@ -137,7 +127,7 @@ Y de las cuatro noticias de hoy sale ya una primera conclusión: **el mismo merc
 
 ### 2. Los cuatro focos de las noticias
 
-<table><thead><tr><th width="24%">Foco</th><th width="54%">Qué problema plantea</th><th width="22%">Se trabaja en…</th></tr></thead><tbody><tr><td><b>Paro juvenil</b></td><td>El desempleo de menores de 25 años en Andalucía se sitúa muy por encima de la media española</td><td>Sesiones 3 y 4</td></tr><tr><td><b>Estacionalidad turística</b></td><td>Los contratos de temporada generan “valles” de empleo invernal en la Costa del Sol</td><td>Sesión 5</td></tr><tr><td><b>Empleo tecnológico</b></td><td>Hay vacantes sin cubrir por falta de perfiles en el entorno de Málaga TechPark</td><td>Sesión 5</td></tr><tr><td><b>Brecha de género</b></td><td>Con la misma formación, las nóminas medias no coinciden</td><td>Sesión 6</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Foco</th><th width="54%">Qué problema plantea</th><th width="22%">Se trabaja en…</th></tr></thead><tbody><tr><td><b>Paro juvenil</b></td><td>El desempleo de menores de 25 años en Andalucía (30,9 % en el segundo trimestre de 2026) se sitúa muy por encima de la media española</td><td>Sesiones 3 y 4</td></tr><tr><td><b>Estacionalidad turística</b></td><td>Los contratos de temporada generan “valles” de empleo invernal en la Costa del Sol</td><td>Sesión 5</td></tr><tr><td><b>Empleo tecnológico</b></td><td>Hay vacantes sin cubrir por falta de perfiles en el entorno de Málaga TechPark</td><td>Sesión 5</td></tr><tr><td><b>Brecha de género</b></td><td>Con la misma formación, las nóminas medias no coinciden</td><td>Sesión 6</td></tr></tbody></table>
 
 ### 3. Tres preguntas que hoy no sabes responder con precisión
 
@@ -155,8 +145,20 @@ Y no pasa nada. Casi nadie las responde bien la primera vez. Lo importante es qu
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Mercado de trabajo</b></td><td>Espacio en el que se encuentran quienes ofrecen su trabajo y quienes lo demandan.</td></tr><tr><td><b>Estacionalidad</b></td><td>Concentración de la actividad de un sector en determinados meses del año.</td></tr><tr><td><b>Brecha salarial</b></td><td>Diferencia entre los salarios medios de mujeres y hombres.</td></tr><tr><td><b>Empleabilidad</b></td><td>Conjunto de características que hacen a una persona más probable candidata a un empleo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Mercado de trabajo</b></td><td>Espacio en el que se encuentran quienes ofrecen su trabajo (las personas trabajadoras) y quienes lo demandan (las empresas y las administraciones).</td></tr>
+<tr><td><b>Tasa de paro</b></td><td>Porcentaje de la población activa que no tiene empleo y lo busca. En España, 10,18 % en el tercer trimestre de 2026.</td></tr>
+<tr><td><b>Paro juvenil</b></td><td>Desempleo de las personas menores de 25 años. Suele duplicar o triplicar la tasa general.</td></tr>
+<tr><td><b>Estacionalidad</b></td><td>Concentración de la actividad de un sector en determinados meses del año, como el turismo en verano.</td></tr>
+<tr><td><b>Temporalidad</b></td><td>Peso de los contratos con fecha de fin sobre el total de contratos.</td></tr>
+<tr><td><b>Brecha salarial</b></td><td>Diferencia entre los salarios medios de mujeres y hombres, expresada en porcentaje del salario masculino.</td></tr>
+<tr><td><b>Empleabilidad</b></td><td>Conjunto de características (formación, experiencia, idiomas, competencias) que hacen a una persona más probable candidata a un empleo.</td></tr>
+<tr><td><b>Controversia estructurada</b></td><td>Debate en el que cada pareja defiende una postura asignada y después la contraria, para acabar en un consenso razonado.</td></tr>
+<tr><td><b>EPA</b></td><td>Encuesta de Población Activa. La elabora el INE cada trimestre y es la fuente oficial de la tasa de paro.</td></tr>
+</tbody></table>
 
-## Cierre
+### Para saber más
 
-Antes de irte. Anota en tu Cornell la **pregunta abierta** sobre la brecha salarial, y acuerda con tu grupo una **primera preferencia de sector** para el podcast. La confirmaréis en la sesión 3, después de escuchar a la persona orientadora.
+```video
+https://www.youtube.com/watch?v=lpEk4cN1e0E | Qué es el desempleo | Econosublime · 8:00
+```
