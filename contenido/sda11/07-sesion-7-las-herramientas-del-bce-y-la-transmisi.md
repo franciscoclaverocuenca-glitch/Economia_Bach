@@ -2,7 +2,18 @@
 titulo: Sesión 7 · Las herramientas del BCE y la transmisión
 ---
 
+Ya sabes qué es la inflación y quién debe controlarla. Falta lo más concreto: **¿qué puede hacer exactamente el BCE?** Y sobre todo, ¿por qué caminos llega una decisión tomada en Fráncfort hasta el precio de la tienda de la esquina?
+
+Al final de la sesión tu grupo tomará su primera decisión como Consejo de Gobierno. Es un ensayo, pero con feedback.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s07-tarjetas-instrumentos.pdf | Tarjetas de instrumentos y del mini-escenario | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa, ensayo previo de la decisión del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: razonamiento del equipo · P: esquema del mecanismo de transmisión en el portafolio</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagn
 - El euríbor ya está por encima del tipo oficial. ¿Qué está descontando el mercado?
 - ¿Qué le responderíais a una familia con hipoteca variable si subís los tipos?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas de los instrumentos de política monetaria** para el trabajo en grupo.
-- **Diagrama del mecanismo de transmisión** proyectable, con las flechas paso a paso.
-- **Mini-escenarios de práctica**, uno por grupo base. Ejemplo: “la inflación está en el 7 % y subiendo, la economía crece con fuerza y el paro es bajo”.
-- **Dato del euríbor a 12 meses** actualizado. En julio de 2026 su media provisional rondaba el 2,8 %, por encima del tipo oficial: el mercado descuenta subidas.
-- Tarjetas de rol (Coordinador/a, Analista de datos, Redactor/a, Portavoz) si no se han repartido ya.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El mecanismo de transmisión se presenta como una cadena numerada de cinco pasos además de como diagrama de flechas, de modo que pueda seguirse secuencialmente por quien no procese bien la representación espacial.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr></tbody></table>
@@ -43,24 +46,16 @@ Cierra con los cuatro errores más frecuentes (diapositiva 8): decidir sin diagn
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Ya sabes qué es la inflación y quién debe controlarla. Falta lo más concreto: **¿qué puede hacer exactamente el BCE?** Y sobre todo, ¿por qué caminos llega una decisión tomada en Fráncfort hasta el precio de la tienda de la esquina?
-
-Al final de la sesión tu grupo tomará su primera decisión como Consejo de Gobierno. Es un ensayo, pero con feedback.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s07-01.webp | Portada
-sda11-s07-02.webp | Los tres instrumentos
-sda11-s07-03.webp | Dos direcciones
-sda11-s07-04.webp | El mecanismo de transmisión
-sda11-s07-05.webp | Los retardos
-sda11-s07-06.webp | El euríbor
-sda11-s07-07.webp | El ensayo
-sda11-s07-08.webp | Lo que se os va a exigir
-sda11-s07-09.webp | Síntesis
+sda11-s07-01.webp | Las herramientas del BCE
+sda11-s07-02.webp | Tres herramientas
+sda11-s07-03.webp | De Fráncfort a la tienda
+sda11-s07-04.webp | Tarda meses, a veces más de un año.
+sda11-s07-05.webp | Vuestra primera decisión
+sda11-s07-06.webp | Evitadlos
+sda11-s07-07.webp | Diagnóstico, decisión, mecanismo e impacto
 ```
 
 ## Ensayo · Vuestra primera decisión como Consejo
@@ -81,6 +76,10 @@ Tenéis **10 minutos** y los roles ya asignados. Decidid:
 
 1. Qué haríais con los tipos: **subir, mantener o bajar**. Y con qué magnitud.
 2. Explicadlo en **dos frases**: por qué esa decisión y qué efecto esperáis, señalando por qué paso del mecanismo de transmisión llegaría.
+
+```descargas
+sda11-s07-mini-escenario.pdf | Mini-escenario y diagrama de transmisión | Datos para decidir y la cadena para completar
+```
 
 ### Los cuatro errores que más se repiten
 
@@ -139,4 +138,20 @@ En julio de 2026 su media provisional a 12 meses rondaba el **2,8 %**, por encim
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Política monetaria</b></td><td>Conjunto de decisiones del banco central sobre la cantidad de dinero y el tipo de interés.</td></tr><tr><td><b>Política restrictiva</b></td><td>Subida de tipos para enfriar la demanda y frenar la inflación.</td></tr><tr><td><b>Política expansiva</b></td><td>Bajada de tipos para animar el crédito y reactivar la actividad.</td></tr><tr><td><b>Operaciones de mercado abierto</b></td><td>Compraventa de activos y préstamos a los bancos con los que el BCE regula la liquidez.</td></tr><tr><td><b>Coeficiente de reservas</b></td><td>Proporción de depósitos que los bancos deben mantener sin prestar.</td></tr><tr><td><b>Mecanismo de transmisión</b></td><td>Cadena por la que una decisión de tipos acaba afectando a los precios.</td></tr><tr><td><b>Euríbor</b></td><td>Tipo al que se prestan entre sí los bancos europeos; referencia de las hipotecas variables.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Política monetaria</b></td><td>Conjunto de decisiones del banco central sobre la cantidad de dinero y el tipo de interés.</td></tr>
+<tr><td><b>Política restrictiva</b></td><td>Subida de tipos para enfriar la demanda y frenar la inflación.</td></tr>
+<tr><td><b>Política expansiva</b></td><td>Bajada de tipos para animar el crédito, el consumo y la inversión.</td></tr>
+<tr><td><b>Tipos oficiales</b></td><td>Los tres tipos que fija el BCE: facilidad de depósito, operaciones principales de financiación y facilidad marginal de crédito.</td></tr>
+<tr><td><b>Operaciones de mercado abierto</b></td><td>Compras y ventas de bonos por el banco central para aumentar o reducir el dinero en circulación.</td></tr>
+<tr><td><b>Mecanismo de transmisión</b></td><td>Camino por el que una decisión del banco central llega a los precios: tipos, crédito, gasto, demanda y precios.</td></tr>
+<tr><td><b>Euríbor</b></td><td>Tipo al que se prestan los bancos de la zona euro. Sigue de cerca a los tipos del BCE. En septiembre de 2026, 3,247 %.</td></tr>
+<tr><td><b>Proyecciones</b></td><td>Previsiones del BCE sobre inflación y crecimiento en los próximos años, con las que decide.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=GRI9R5SsY-U | Tipos de política monetaria: expansiva y contractiva | Econosublime · 7:14
+https://www.youtube.com/watch?v=hnfxZXLX5x0 | La política monetaria del BCE | Econosublime · 15:12
+```

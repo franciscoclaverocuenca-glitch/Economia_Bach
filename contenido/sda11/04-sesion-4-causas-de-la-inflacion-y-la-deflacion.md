@@ -2,7 +2,18 @@
 titulo: Sesión 4 · Causas de la inflación y la deflación
 ---
 
+Ya sabes qué es la inflación y cómo se mide. Hoy toca la pregunta difícil: **¿por qué ocurre?**
+
+Y también la pregunta que casi nadie se hace: ¿y si los precios **bajaran**? Spoiler: no sería tan buena noticia como parece.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s04-tarjetas-concurso.pdf | Tarjetas del concurso con solución | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual (visionado previo) → Gran grupo → Parejas</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: esquema de causas en el portafolio · C: concurso formativo “¿inflación o deflación?”</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: Sesión 4 · Causas de la inflación y la deflación
 - ¿Por qué el BCE no persigue una inflación del 0 %?
 - El Brent ronda los 100 dólares. ¿Qué tipo de inflación genera eso?
 
-::: aviso Material que debes preparar tú
-- **Seleccionar y compartir con antelación** en Moodle Centros un vídeo divulgativo riguroso y breve sobre qué es la inflación y sus causas, con una o dos preguntas guía que el alumnado responde **antes** de la sesión. Canales de referencia de la programación: Econosublime, Economía desde casa, Ecomon Academy.
-- **Tarjetas del concurso “¿inflación o deflación?”** con situaciones reales o verosímiles, proyectables.
-- **Comprobar que el alumnado ha visto el vídeo** antes de la sesión. El aula invertida se cae si no se verifica.
-- Actualizar el ejemplo de la energía con el dato del Brent y de la inflación del mes.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El formato de aula invertida permite que cada persona vea el vídeo a su ritmo, con pausas y subtítulos, y libera el tiempo de aula para la parte que requiere acompañamiento.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El concurso con escala de dedos y turnos de 15 segundos da a todo el mundo una vía de participación breve y de bajo riesgo, con feedback inmediato entre iguales.</td></tr></tbody></table>
@@ -42,24 +46,15 @@ titulo: Sesión 4 · Causas de la inflación y la deflación
 Asegúrate de que el vídeo compartido tiene subtítulos verificados (no automáticos) o facilita la transcripción. Durante el concurso, proyecta cada tarjeta por escrito además de leerla, y repite en voz alta las justificaciones del resto de la clase.
 :::
 
-## Para empezar
-
-Ya sabes qué es la inflación y cómo se mide. Hoy toca la pregunta difícil: **¿por qué ocurre?**
-
-Y también la pregunta que casi nadie se hace: ¿y si los precios **bajaran**? Spoiler: no sería tan buena noticia como parece.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s04-01.webp | Portada
-sda11-s04-02.webp | Puesta en común
-sda11-s04-03.webp | Las tres causas
-sda11-s04-04.webp | Referente: Anna Schwartz
-sda11-s04-05.webp | La deflación
-sda11-s04-06.webp | La espiral deflacionista
-sda11-s04-07.webp | Por qué el 2 %
-sda11-s04-08.webp | El concurso
-sda11-s04-09.webp | Síntesis
+sda11-s04-01.webp | Causas de la inflación y la deflación
+sda11-s04-02.webp | ¿Por qué suben los precios?
+sda11-s04-03.webp | La espiral precios-salarios
+sda11-s04-04.webp | Deflación
+sda11-s04-05.webp | ¿Inflación o deflación?
+sda11-s04-06.webp | La justificación vale más que el acierto
 ```
 
 ## Concurso · “¿Inflación o deflación?”
@@ -68,58 +63,67 @@ sda11-s04-09.webp | Síntesis
 
 Se proyecta una situación real o verosímil. Por parejas dentro del grupo base, tenéis **15 segundos** para decidir con la escala de dedos si generaría inflación o deflación, **y de qué tipo**, y justificarlo.
 
-<table><thead><tr><th width="44%">Situación</th><th width="20%">¿Qué generaría?</th><th width="36%">Pista</th></tr></thead><tbody><tr><td>Una crisis energética con el petróleo disparado</td><td></td><td>¿Qué le pasa a los costes de producción de casi todo?</td></tr><tr><td>Una recesión con paro al alza y demanda hundida</td><td></td><td>¿Quién compra cuando nadie tiene empleo?</td></tr><tr><td>Una guerra de precios entre supermercados</td><td></td><td>Ojo: ¿es generalizado o es un sector?</td></tr><tr><td>Un exceso de gasto público en una economía a pleno rendimiento</td><td></td><td>Mucho dinero persiguiendo pocos bienes.</td></tr><tr><td>Todo el mundo espera que los precios sigan subiendo el año que viene</td><td></td><td>¿Qué hacen las empresas y los sindicatos “por si acaso”?</td></tr></tbody></table>
+```actividad
+id: sda11-s04-concurso
+tipo: clasificar
+instrucciones: ¿Qué generaría cada situación?
+categorias:
+  - nombre: Inflación de costes
+    elementos:
+      - texto: Una crisis energética con el petróleo disparado
+        explicacion: Suben los costes de producción de casi todo y las empresas los trasladan a los precios.
+  - nombre: Inflación de demanda
+    elementos:
+      - texto: Un exceso de gasto público en una economía a pleno rendimiento
+        explicacion: Mucho dinero persiguiendo pocos bienes. Si no se puede producir más, suben los precios.
+  - nombre: Inflación por expectativas
+    elementos:
+      - texto: Todo el mundo espera que los precios sigan subiendo el año que viene
+        explicacion: Las empresas suben precios y los sindicatos piden subidas salariales por si acaso, y la previsión se cumple.
+  - nombre: Deflación o presión a la baja
+    elementos:
+      - texto: Una recesión con paro al alza y demanda hundida
+        explicacion: Si nadie compra, las empresas bajan precios para vender. Riesgo de deflación.
+  - nombre: Solo un precio relativo
+    elementos:
+      - texto: Una guerra de precios entre supermercados
+        explicacion: Bajan los precios de un sector, no el nivel general. No es deflación.
+```
 
-::: aviso Se puntúa la justificación, no el acierto
+```descargas
+sda11-s04-concurso.pdf | Hoja del concurso | Situación, tipo de inflación o deflación y justificación
+```
+
+::: aviso Lo que cuenta es la justificación
 Una respuesta correcta sin justificación no vale. Una respuesta equivocada con un razonamiento sólido enseña más que un acierto por intuición.
 :::
 
-## Vídeo de apoyo {.plegado}
+## Vídeo de apoyo
+
+Míralo antes de la sesión: es la base del aula invertida.
 
 ```video
-https://www.youtube.com/embed/iCgB4mzPnvI
+https://www.youtube.com/watch?v=0gP3TJRnuQI | Causas de la inflación | Econosublime · 6:55
 ```
-
-Vídeo del canal **Econosublime** (Javier Martínez Argudo, Málaga), incluido en la Programación Didáctica de la materia. Actívale los subtítulos con el botón **CC**. **Aviso de preparación.** este es el vídeo verificado del canal sobre gasto público; conviene sustituirlo por el vídeo concreto sobre *causas de la inflación* que quieras usar como aula invertida (Econosublime, “Economía desde casa” o “Ecomon Academy”), y comprueba que tiene subtítulos verificados antes de compartirlo en Moodle Centros.
-
-## Apuntes de la sesión
-
-### 1. Las tres grandes causas de la inflación
-
-**a) Inflación de demanda.** Ocurre cuando la demanda de bienes y servicios crece más deprisa que la capacidad de producirlos. La imagen habitual es “mucho dinero persiguiendo pocos bienes”. Si todo el mundo quiere comprar y la producción no da más de sí, los precios suben. El ejemplo más claro es el tirón del consumo tras el confinamiento, cuando millones de personas quisieron gastar a la vez lo que no habían podido gastar durante meses.
-
-**b) Inflación de costes.** Ocurre cuando se encarecen los costes de producción (energía, materias primas, salarios) y las empresas trasladan esa subida a los precios finales. La subida del gas y del petróleo en 2022 es el ejemplo de manual, y en 2026 vuelve a serlo. Con el Brent rondando los 100 dólares, la energía se ha convertido de nuevo en el principal riesgo inflacionista para la zona euro.
-
-**c) Inflación por expectativas.** Es la más sutil y la más peligrosa. Si todo el mundo espera que los precios sigan subiendo, las empresas suben precios “por si acaso” y las plantillas piden subidas salariales para no perder poder adquisitivo. Pero esas subidas salariales son un coste, que se traslada de nuevo a los precios. Es la **espiral precios-salarios**: la expectativa se cumple porque todo el mundo actúa como si fuera a cumplirse.
-
-::: nota Por eso los bancos centrales hablan tanto
-Si la inflación se alimenta de expectativas, **convencer** a la gente de que los precios se van a estabilizar es en sí mismo una herramienta de política monetaria. Por eso el BCE cuida tanto sus comunicados: sus palabras mueven expectativas. Y por eso vuestro producto final es, precisamente, un comunicado.
-:::
-
-### 2. La explicación monetarista: Anna Schwartz
-
-Hay una cuarta explicación, de más largo alcance. La economista estadounidense **Anna Schwartz** (1915-2012) firmó junto a Milton Friedman la *Historia monetaria de los Estados Unidos*, una de las investigaciones económicas más influyentes del siglo XX. Su trabajo respaldó la tesis **monetarista**: a largo plazo, la inflación es sobre todo un fenómeno monetario. Si la cantidad de dinero en circulación crece muy por encima de lo que crece la producción, los precios acaban subiendo.
-
-Su figura aparece poco citada en los manuales pese a la magnitud de su aportación, y es un ejemplo claro del papel de las mujeres en la economía monetaria. Retén su tesis. Es uno de los argumentos que puedes usar en el comunicado del BCE.
-
-### 3. El problema opuesto: la deflación
-
-La **deflación** es la caída generalizada y sostenida de los precios. Suena bien, todo más barato, y es una de las peores noticias que puede recibir una economía. La razón está en la **espiral deflacionista**:
-
-1. La gente espera que mañana todo sea más barato, así que **aplaza** sus compras.
-2. Al aplazarse las compras, **cae la demanda** y las empresas venden menos.
-3. Para vender, las empresas **bajan aún más** los precios y **reducen plantilla**.
-4. Con más paro y menos renta, la demanda **cae todavía más** … y vuelta a empezar.
-
-El ejemplo clásico es el largo estancamiento de Japón, que pasó décadas intentando salir de esta trampa. Y hay un agravante: con deflación, las deudas se hacen *más pesadas* en términos reales, porque hay que devolver euros que cada año valen más.
-
-### 4. Por qué el objetivo es el 2 % y no el 0 %
-
-<table><thead><tr><th width="30%">Razón</th><th width="70%">Explicación</th></tr></thead><tbody><tr><td><b>Colchón frente a la deflación</b></td><td>Con el objetivo en 0 %, cualquier sacudida a la baja metería a la economía en deflación.</td></tr><tr><td><b>Margen para actuar en una crisis</b></td><td>Si la inflación es 0 % y los tipos también, el banco central se queda sin munición para bajarlos.</td></tr><tr><td><b>Suficientemente bajo para no distorsionar</b></td><td>Con inflación baja y previsible se puede planificar; con inflación alta o errática, nadie sabe a qué precio contratar o invertir.</td></tr><tr><td><b>Es un objetivo simétrico</b></td><td>Al BCE le preocupa tanto quedarse por encima del 2 % como por debajo.</td></tr></tbody></table>
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Inflación de demanda</b></td><td>La que se produce cuando la demanda crece más rápido que la capacidad de producción.</td></tr><tr><td><b>Inflación de costes</b></td><td>La que se produce cuando se encarecen los costes de producción y se trasladan a los precios.</td></tr><tr><td><b>Espiral precios-salarios</b></td><td>Realimentación entre subidas de precios y subidas salariales impulsada por las expectativas.</td></tr><tr><td><b>Monetarismo</b></td><td>Corriente que sostiene que, a largo plazo, la inflación es esencialmente un fenómeno monetario.</td></tr><tr><td><b>Deflación</b></td><td>Caída generalizada y sostenida del nivel de precios.</td></tr><tr><td><b>Estabilidad de precios</b></td><td>Objetivo del BCE: inflación en torno al 2 % a medio plazo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Inflación de demanda</b></td><td>La que se produce cuando la demanda crece más rápido que la capacidad de producción.</td></tr>
+<tr><td><b>Inflación de costes</b></td><td>La que se produce cuando se encarecen los costes de producción y se trasladan a los precios.</td></tr>
+<tr><td><b>Inflación por expectativas</b></td><td>La que se produce porque todo el mundo espera que los precios suban y actúa en consecuencia.</td></tr>
+<tr><td><b>Espiral precios-salarios</b></td><td>Realimentación en la que los precios suben, los salarios suben para compensar y los precios vuelven a subir.</td></tr>
+<tr><td><b>Deflación</b></td><td>Bajada generalizada y sostenida de los precios. Puede paralizar el consumo y la inversión.</td></tr>
+<tr><td><b>Desinflación</b></td><td>Bajada del ritmo de inflación: los precios siguen subiendo, pero más despacio.</td></tr>
+<tr><td><b>Hiperinflación</b></td><td>Inflación descontrolada, de cientos o miles por ciento al año.</td></tr>
+<tr><td><b>Teoría cuantitativa del dinero</b></td><td>Idea de que si la cantidad de dinero crece más que la producción, suben los precios.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=v9WVE4FZDdg | Qué es la deflación | Econosublime · 4:47
+```
 
 ## Comprueba lo que sabes
 

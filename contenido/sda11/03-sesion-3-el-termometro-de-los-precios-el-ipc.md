@@ -2,7 +2,18 @@
 titulo: 'Sesión 3 · “El termómetro de los precios”: el IPC'
 ---
 
+En la sesión 1 quedó una pregunta abierta. Si la inflación es un ladrón invisible, ¿cómo se mide exactamente cuánto nos roba?
+
+Hoy dejas de intuir la inflación y aprendes a **medirla**. Vas a construir tu propio índice de precios con datos reales y a compararlo con el que publica el INE.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s03-solucionario.pdf | Solucionario del IPC de clase | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.3</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Pareja → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia central de portafolio y de observación</td></tr><tr><td><b>Instrumentos</b></td><td>P: hoja del taller del IPC · OD: razonamiento cuantitativo del equipo · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ titulo: 'Sesión 3 · “El termómetro de los precios”: el IPC'
 - ¿Tiene la misma inflación una persona que va en coche que otra que va en autobús?
 - Si el IPC es un promedio, ¿de quién es exactamente ese promedio?
 
-::: aviso Material que debes preparar tú
-- **Plantilla de hoja de cálculo** con una cesta reducida de 5-6 productos cotidianos y sus precios en dos momentos (año base y año actual). Un dispositivo por grupo base.
-- **Versión pautada de la plantilla** con la cesta y los precios ya introducidos (**refuerzo**), para quien necesite concentrar el esfuerzo en la fórmula y la interpretación.
-- **Versión ampliada** con más productos y ponderación explícita (**ampliación**) para quien avance con soltura.
-- **Datos oficiales del IPC del INE** para Andalucía o la provincia de Málaga en el periodo elegido, para la fase 5 de comparación.
-- **Avisa al departamento de Matemáticas**: esta sesión es el núcleo de la coordinación con MACS I y la hoja de cálculo del alumnado puede recogerse allí como evidencia.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo procedimiento se presenta en tres notaciones equivalentes (tabla numérica de la cesta, descripción verbal por fases y fórmula de la tasa de variación), y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El taller se estructura en cinco fases guiadas y numeradas, con una plantilla pautada de refuerzo y otra ampliada, lo que permite ajustar la carga cognitiva sin cambiar el objetivo de aprendizaje.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,27 +50,36 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 La coordinación con MACS I (competencia específica 1, criterio 1.1, saber MACS.1.A.4) sigue siendo una **propuesta**: confirma que el centro oferta la materia, que hay matrícula común y el código exacto del criterio en la concreción curricular del centro.
 :::
 
-## Para empezar
-
-En la sesión 1 quedó una pregunta abierta. Si la inflación es un ladrón invisible, ¿cómo se mide exactamente cuánto nos roba?
-
-Hoy dejas de intuir la inflación y aprendes a **medirla**. Vas a construir tu propio índice de precios con datos reales y a compararlo con el que publica el INE.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s03-01.webp | Portada
-sda11-s03-02.webp | Del precio al nivel de precios
-sda11-s03-03.webp | Cómo mide el INE
-sda11-s03-04.webp | La fórmula
-sda11-s03-05.webp | El taller
-sda11-s03-06.webp | Por qué vuestro dato no coincidirá
-sda11-s03-07.webp | La inflación en España
-sda11-s03-08.webp | Interdisciplinariedad
-sda11-s03-09.webp | Coevaluación
+sda11-s03-01.webp | El termómetro de los precios
+sda11-s03-02.webp | Índice de Precios de Consumo
+sda11-s03-03.webp | Cinco fases
+sda11-s03-04.webp | La cesta de una familia
+sda11-s03-05.webp | «A mí la inflación me ha subido mucho más de lo que dicen.»
+sda11-s03-06.webp | Si los precios suben un 8 %, tu dinero compra un 7,4 % menos
 ```
 
 ## Taller · Construimos nuestro termómetro de precios
+
+### Un ejemplo antes de empezar
+
+Una familia compra al mes 30 barras de pan, 20 litros de leche, 2 litros de aceite, 40 litros de gasolina y 4 docenas de huevos, a los precios de la cesta de la sesión 1.
+
+```actividad
+id: sda11-s03-indice
+tipo: rellenar
+instrucciones: Calcula con dos decimales. Escribe solo el número, con coma decimal, sin el símbolo €.
+texto: |
+  La cesta de esa familia cuesta [109,70|109,7|109.70] € en 2021 y [147,50|147,5|147.50] € en 2023.
+  Si 2021 es el año base (100), el índice de 2023 es [134,46|134.46|134,5] y la inflación de esa familia entre los dos años es del [34,46|34.46|34,5] %.
+explicacion: '2021: 30 × 0,85 + 20 × 0,75 + 2 × 4,00 + 40 × 1,38 + 4 × 1,50 = 25,50 + 15 + 8 + 55,20 + 6 = 109,70 €. 2023: 31,50 + 21 + 17 + 68,80 + 9,20 = 147,50 €. Índice: 147,50 / 109,70 × 100 = 134,46. Inflación: 34,46 %. Al ponderar por cantidades, el aceite pesa mucho menos que en la suma simple de la sesión 1 y la gasolina mucho más.'
+```
+
+```descargas
+sda11-s03-taller-ipc.pdf | Plantilla del taller del IPC | Cantidades, precios, gasto, índice e inflación
+```
 
 ### Las cinco fases
 
@@ -81,7 +93,7 @@ sda11-s03-09.webp | Coevaluación
 
 ### La pregunta de la coevaluación
 
-Si vuestra cesta ha subido un 8 %, ¿cuánto poder adquisitivo ha perdido el dinero de esa familia? Se coevalúa con escala de dedos la **claridad de la interpretación**, no la exactitud del cálculo.
+Si vuestra cesta ha subido un 8 %, ¿cuánto poder adquisitivo ha perdido el dinero de esa familia? Otra pareja os valora con la escala de dedos la **claridad de la interpretación**, no la exactitud del cálculo.
 
 ## Apuntes de la sesión
 
@@ -123,8 +135,24 @@ Por eso conviene desconfiar cuando alguien dice “la inflación es del X %, as�
 
 ### 5. Esto también es Matemáticas
 
-El IPC es, en la gramática de las matemáticas, un problema de **números índice y medias ponderadas** resuelto con hoja de cálculo. Corresponde al criterio 1.1 de Matemáticas Aplicadas a las Ciencias Sociales I y a su saber MACS.1.A.4 sobre educación financiera. Tu profesorado de Matemáticas puede recoger este mismo taller como evidencia sin que tengas que repetir la actividad.
+El IPC es, en la gramática de las matemáticas, un problema de **números índice y medias ponderadas** resuelto con hoja de cálculo.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>Número índice</b></td><td>Valor que expresa la evolución de una magnitud tomando un periodo como base (=100).</td></tr><tr><td><b>Año base</b></td><td>Periodo de referencia al que se asigna el valor 100.</td></tr><tr><td><b>IPC</b></td><td>Índice de Precios de Consumo. Mide la evolución del precio de una cesta representativa.</td></tr><tr><td><b>Ponderación</b></td><td>Peso que se asigna a cada categoría según su importancia en el gasto de los hogares.</td></tr><tr><td><b>Tasa de variación</b></td><td>Cambio porcentual de una magnitud entre dos momentos.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Número índice</b></td><td>Valor que expresa la evolución de una magnitud tomando un periodo como base, igual a 100.</td></tr>
+<tr><td><b>Año base</b></td><td>Periodo de referencia al que se asigna el valor 100.</td></tr>
+<tr><td><b>IPC</b></td><td>Índice de Precios de Consumo. Mide la evolución del precio de una cesta representativa de lo que compran los hogares.</td></tr>
+<tr><td><b>Ponderación</b></td><td>Peso de cada producto en la cesta, según lo que gastan en él las familias.</td></tr>
+<tr><td><b>Encuesta de Presupuestos Familiares</b></td><td>Encuesta del INE que mide en qué gastan los hogares y sirve para fijar las ponderaciones del IPC.</td></tr>
+<tr><td><b>Inflación subyacente</b></td><td>La que excluye los alimentos no elaborados y la energía, que son los precios más volátiles.</td></tr>
+<tr><td><b>IPCA</b></td><td>Índice de precios armonizado, igual en todos los países de la UE. Es el que mira el BCE.</td></tr>
+<tr><td><b>Media ponderada</b></td><td>Media en la que cada valor cuenta según su peso.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=lIGXci_NXHQ | Qué es el IPC. La medición de la inflación | Econosublime · 5:21
+https://www.youtube.com/watch?v=gRS7PCyL6tk | Qué es el IPC y cómo se calcula | Kotaro en Español · 3:31
+```

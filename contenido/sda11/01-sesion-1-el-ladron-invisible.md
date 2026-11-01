@@ -2,7 +2,20 @@
 titulo: Sesión 1 · “El ladrón invisible”
 ---
 
+Antes de leer nada, responde sin buscarlo en ningún sitio:
+
+“Si en 2021 tenías 50 € para la compra, ¿puedes comprar lo mismo hoy con esos 50 €?”
+
+Guarda tu respuesta. Al final de la unidad volverás a leerla.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s01-fuentes-cesta.pdf | Fuentes de la cesta y de los titulares | Solo docente, con lo que hay que actualizar
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 (con introducción a 4.2)</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante la indagación · D: debate por parejas sobre las causas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +40,6 @@ titulo: Sesión 1 · “El ladrón invisible”
 - ¿Alguien de vuestra familia ha notado la subida más que otros? ¿Por qué creéis que es?
 - Si la inflación es un ladrón invisible, ¿cómo podríamos medir cuánto nos roba?
 
-::: aviso Material que debes preparar tú
-- **Tabla de la cesta de la compra 2021-2023** con precios reales de Málaga: barra de pan, litro de leche, botella de aceite de oliva, litro de gasolina y alquiler medio de un piso. Una copia por pareja. Fuentes: INE, IECA y portales inmobiliarios.
-- **Cuatro titulares reales** de prensa digital: energía y conflicto internacional, encarecimiento de alimentos, subida del euríbor y las hipotecas, y decisión de tipos del BCE. Proyectables.
-- **Plantilla de diagnóstico** con las tres preguntas, anónima, en papel o formulario digital.
-- **Verifica los tipos oficiales del BCE** y la última tasa de inflación antes de proyectar la diapositiva 8: la unidad se apoya en que el dato esté vivo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la cesta de la compra que cada familia del alumnado ha vivido. Un contexto local, cercano y auténtico que no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo por parejas dentro del grupo base permite participar sin exponerse ante el gran grupo, y el diagnóstico final es anónimo y escrito.</td></tr></tbody></table>
@@ -42,27 +48,17 @@ titulo: Sesión 1 · “El ladrón invisible”
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Antes de leer nada, responde sin buscarlo en ningún sitio:
-
-“Si en 2021 tenías 50 € para la compra, ¿puedes comprar lo mismo hoy con esos 50 €?”
-
-Guarda tu respuesta. Al final de la unidad volverás a leerla.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s01-01.webp | Portada
-sda11-s01-02.webp | Pregunta detonante
-sda11-s01-03.webp | La cesta malagueña
-sda11-s01-04.webp | La idea clave
-sda11-s01-05.webp | Cuatro titulares
-sda11-s01-06.webp | La distinción fundamental
-sda11-s01-07.webp | El reto de la unidad
-sda11-s01-08.webp | El escenario real
-sda11-s01-09.webp | Diagnóstico inicial
-sda11-s01-10.webp | La pregunta abierta
+sda11-s01-01.webp | El ladrón invisible
+sda11-s01-02.webp | 2021 frente a 2023
+sda11-s01-03.webp | La inflación no es que haya menos dinero. Es que cada euro compra…
+sda11-s01-04.webp | ¿Causa, consecuencia o respuesta?
+sda11-s01-05.webp | Un precio o los precios
+sda11-s01-06.webp | La inflación en España
+sda11-s01-07.webp | Seréis el Consejo de Gobierno del BCE.
+sda11-s01-08.webp | ¿Qué sabes hoy de la inflación?
 ```
 
 ## Actividad 1 · La cesta de la compra malagueña
@@ -73,7 +69,23 @@ Recibís una tabla con el precio de cinco productos cotidianos en 2021 y en 2023
 
 <table><thead><tr><th width="6%"></th><th width="94%">Tarea</th></tr></thead><tbody><tr><td>1</td><td>Calculad en <b>porcentaje</b> cuánto ha subido cada producto. Fórmula: (precio nuevo − precio viejo) ÷ precio viejo × 100.</td></tr><tr><td>2</td><td>Sumad el coste total de la cesta en cada año y responded. Si en 2021 teníais 50 € para la compra, ¿podéis comprar lo mismo con esos 50 € hoy? ¿Qué le ha pasado al valor de vuestro dinero?</td></tr></tbody></table>
 
-<table><thead><tr><th width="37%">Producto</th><th width="21%">Precio 2021</th><th width="21%">Precio 2023</th><th width="21%">Subida %</th></tr></thead><tbody><tr><td>Barra de pan</td><td></td><td></td><td></td></tr><tr><td>Litro de leche</td><td></td><td></td><td></td></tr><tr><td>Botella de aceite de oliva</td><td></td><td></td><td></td></tr><tr><td>Litro de gasolina</td><td></td><td></td><td></td></tr><tr><td>Alquiler medio de un piso en Málaga</td><td></td><td></td><td></td></tr><tr><td><b>TOTAL DE LA CESTA</b></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="46%">Producto</th><th width="27%">Precio 2021</th><th width="27%">Precio 2023</th></tr></thead><tbody><tr><td>Barra de pan</td><td>0,85 €</td><td>1,05 €</td></tr><tr><td>Litro de leche</td><td>0,75 €</td><td>1,05 €</td></tr><tr><td>Litro de aceite de oliva virgen extra</td><td>4,00 €</td><td>8,50 €</td></tr><tr><td>Litro de gasolina</td><td>1,38 €</td><td>1,72 €</td></tr><tr><td>Docena de huevos</td><td>1,50 €</td><td>2,30 €</td></tr><tr><td><b>Total de la cesta</b></td><td><b>8,48 €</b></td><td><b>14,62 €</b></td></tr></tbody></table>
+
+Son precios medios aproximados y redondeados de un supermercado de Málaga. Sirven para practicar; los oficiales los publica el INE como índices.
+
+```actividad
+id: sda11-s01-cesta
+tipo: rellenar
+instrucciones: Calcula cuánto ha subido cada producto, en porcentaje y con un decimal. Escribe solo el número, con coma decimal.
+texto: |
+  El pan ha subido un [23,5|23.5] %. La leche, un [40|40,0] %. El aceite, un [112,5|112.5] %. La gasolina, un [24,6|24.6] %. Los huevos, un [53,3|53.3] %.
+  El total de la cesta ha subido un [72,4|72.4] %.
+explicacion: '(precio nuevo − precio viejo) / precio viejo × 100. Pan: 0,20 / 0,85 = 23,5 %. Leche: 0,30 / 0,75 = 40 %. Aceite: 4,50 / 4,00 = 112,5 %. Gasolina: 0,34 / 1,38 = 24,6 %. Huevos: 0,80 / 1,50 = 53,3 %. Cesta: 6,14 / 8,48 = 72,4 %. Fíjate en que el aceite, que se duplicó por la sequía, pesa muchísimo en esta cesta tan pequeña. El IPC usa miles de productos y los pondera según lo que gastan las familias.'
+```
+
+```descargas
+sda11-s01-cesta.pdf | Hoja de la cesta de la compra | Precios, cálculos y la pregunta de los 50 euros
+```
 
 ::: nota La idea que tiene que salir de aquí
 La inflación **no es que haya menos dinero**. El dinero es el mismo: los billetes siguen en tu cartera. Lo que ocurre es que cada euro **compra menos**. A eso lo llamamos pérdida de **poder adquisitivo**.
@@ -85,56 +97,57 @@ La inflación **no es que haya menos dinero**. El dinero es el mismo: los billet
 
 Se proyectan cuatro titulares reales sobre la escalada de precios. Por parejas, decidid si cada uno habla de una **causa** de la subida, de una **consecuencia** para las familias o de la **respuesta** de las autoridades.
 
+```actividad
+id: sda11-s01-titulares
+tipo: clasificar
+instrucciones: ¿Habla cada titular de una causa, de una consecuencia o de una respuesta?
+categorias:
+  - nombre: Causa de la subida de precios
+    elementos:
+      - texto: La invasión de Ucrania dispara el precio del gas en Europa (2022)
+        explicacion: El encarecimiento de la energía sube los costes de casi todo lo que se produce.
+      - texto: La sequía duplica el precio del aceite de oliva (2023)
+        explicacion: Es una causa, pero de un precio concreto. Ojo, es un cambio de precio relativo.
+  - nombre: Consecuencia para las familias
+    elementos:
+      - texto: Los salarios suben menos que los precios y las familias pierden poder adquisitivo
+        explicacion: Con el mismo sueldo se compra menos.
+      - texto: La inflación en España llega al 4,9 % en septiembre de 2026
+        explicacion: Es la medida de la subida generalizada de precios que notan las familias.
+  - nombre: Respuesta de las autoridades
+    elementos:
+      - texto: El BCE sube los tipos de interés por primera vez en once años (julio de 2022)
+        explicacion: Encarecer el crédito para frenar el gasto y con él los precios.
+      - texto: El BCE sube su tipo de depósito al 2,50 % (septiembre de 2026)
+        explicacion: La misma herramienta, cuatro años después, ante el repunte de la inflación.
+```
+
 ### Y ahora la distinción fundamental de la unidad
 
 <table><thead><tr><th width="50%">Sube UN precio</th><th width="50%">Suben LOS precios</th></tr></thead><tbody><tr><td>Una sequía encarece el aceite de oliva. Un huracán arrasa las cosechas de café.</td><td>El nivel medio de precios de toda la economía sube.</td></tr><tr><td>Es un cambio de <b>precio relativo</b>: ese producto se encarece respecto de los demás.</td><td>Sube de forma <b>generalizada</b> (muchos bienes y servicios a la vez).</td></tr><tr><td>Puede compensarse comprando otra cosa.</td><td>Y de forma <b>sostenida</b> (no un mes suelto, sino mantenida en el tiempo).</td></tr><tr><td><b>NO es inflación.</b></td><td><b>ESO es inflación.</b></td></tr></tbody></table>
 
 ::: aviso Primera entrada de tu portafolio
-Escribe esta distinción con tus palabras y un ejemplo propio de cada caso. Vas a volver sobre ella varias veces, y en la prueba escrita se pregunta.
+Escribe esta distinción con tus palabras y un ejemplo propio de cada caso. Vas a volver sobre ella varias veces.
 :::
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-4.1
+```descargas
+sda11-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-4.2
-```
+### Cómo se leen
 
-```rubrica
-4.3
-```
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
+
+## Diagnóstico inicial
+
+Antes de irte, responde el **diagnóstico inicial**: es anónimo y no se califica. Tres preguntas: ¿qué crees que es la inflación?, ¿sabes quién decide los tipos de interés en Europa?, ¿la inflación es siempre mala? Volverás a ver tus respuestas en la sesión 10.
 
 ## Apuntes de la sesión
 
@@ -167,6 +180,22 @@ Si la inflación es un ladrón invisible que no te quita billetes de la cartera 
 
 Eso es lo que vas a construir tú mismo en la sesión 3, con una hoja de cálculo y datos reales del Instituto Nacional de Estadística.
 
-## Diagnóstico inicial
 
-Antes de irte, responde el **diagnóstico inicial**: es anónimo y no se califica. Tres preguntas: ¿qué crees que es la inflación?, ¿sabes quién decide los tipos de interés en Europa?, ¿la inflación es siempre mala? Volverás a ver tus respuestas en la sesión 10.
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Inflación</b></td><td>Subida generalizada y sostenida del nivel de precios de una economía.</td></tr>
+<tr><td><b>Deflación</b></td><td>Bajada generalizada y sostenida del nivel de precios.</td></tr>
+<tr><td><b>Poder adquisitivo</b></td><td>Cantidad de bienes y servicios que se pueden comprar con un dinero. La inflación lo reduce.</td></tr>
+<tr><td><b>Precio relativo</b></td><td>Precio de un bien en comparación con los demás. Puede subir sin que haya inflación.</td></tr>
+<tr><td><b>Nivel general de precios</b></td><td>Precio medio de todos los bienes y servicios de una economía.</td></tr>
+<tr><td><b>IPC</b></td><td>Índice de Precios de Consumo. Lo publica el INE cada mes y mide la inflación en España.</td></tr>
+<tr><td><b>Tasa de variación</b></td><td>Cambio porcentual de un precio o un índice entre dos momentos.</td></tr>
+<tr><td><b>Cesta de la compra</b></td><td>Conjunto de bienes y servicios que compra una familia típica.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=p1taRQDId5g | Qué es la inflación | Econosublime · 5:27
+```

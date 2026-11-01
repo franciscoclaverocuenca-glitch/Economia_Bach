@@ -2,7 +2,18 @@
 titulo: 'Sesión 2 · Exploración: visita al Banco de España en Málaga'
 ---
 
+Hoy no explica el profesorado: salimos del aula. Visitamos la **sucursal del Banco de España en Málaga**, en la Alameda Principal, para ver de cerca qué hace un banco central y responder a lo que en la sesión 1 solo pudimos suponer.
+
+Tu tarea no es escuchar: es **preguntar**. Tu grupo trae dos preguntas preparadas, y tú vas a tomar notas con un guion muy concreto. A la vuelta escribirás en tu portafolio qué sabías antes y qué has aprendido.
+
 ## Guía docente · Sesión 2 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s02-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s02-organizar-visita.pdf | Cómo organizar la visita | Solo docente, con contactos y alternativa
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad extraescolar, visita institucional</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 (contextualización)</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo</td><td><b>Carácter</b></td><td>Formativa, toma de notas y reflexión metacognitiva en el portafolio</td></tr><tr><td><b>Instrumentos</b></td><td>P: toma de notas y reflexión metacognitiva en el portafolio · C: cuestionario formativo breve de comprensión</td><td><b>Duración</b></td><td>55 minutos (más el desplazamiento)</td></tr></tbody></table>
 
@@ -25,14 +36,6 @@ titulo: 'Sesión 2 · Exploración: visita al Banco de España en Málaga'
 - ¿Qué dato os habéis apuntado y por qué ese y no otro?
 - ¿Se notó en Málaga lo que hizo el BCE, y cuánto tardó en notarse?
 
-::: aviso Material que debes preparar tú
-- **Solicitar la visita con antelación** a la sucursal del **Banco de España en Málaga** (Alameda Principal) a través de su programa de visitas educativas.
-- **Tramitar las autorizaciones** de las familias y el desplazamiento propios de una actividad extraescolar.
-- **Guion de notas** impreso con las tres entradas, una copia por alumno/a, y el **guion de preguntas** de los grupos.
-- **Plantilla de reflexión metacognitiva** para el portafolio y **cuestionario formativo** en Moodle Centros o en papel.
-- **Si la visita no fuera posible**, puede sustituirse por una charla presencial o telemática de una persona experta. Profesorado de la Facultad de Ciencias Económicas y Empresariales de la Universidad de Málaga o un/a profesional del Banco de España. Prioriza a una mujer experta, coherente con los referentes femeninos de la unidad (Anna Schwartz, Christine Lagarde, Isabel Schnabel).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional real ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito económico y financiero.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de notas de tres entradas estructura la escucha y evita la toma de apuntes indiscriminada, que es la principal dificultad de este tipo de sesión.</td></tr></tbody></table>
@@ -41,27 +44,25 @@ titulo: 'Sesión 2 · Exploración: visita al Banco de España en Málaga'
 En una visita guiada el riesgo aumenta. Espacio amplio, eco y una persona que habla mientras camina. Avisa con antelación a la sucursal para que quien guíe la visita hable de frente y a ritmo pausado, y pide si es posible material escrito de apoyo. Sitúa al alumno/a siempre junto a la persona que explica y repite en voz alta las preguntas del resto de la clase antes de que se respondan.
 :::
 
-## Para empezar
-
-Hoy no explica el profesorado: salimos del aula. Visitamos la **sucursal del Banco de España en Málaga**, en la Alameda Principal, para ver de cerca qué hace un banco central y responder a lo que en la sesión 1 solo pudimos suponer.
-
-Tu tarea no es escuchar: es **preguntar**. Tu grupo trae dos preguntas preparadas, y tú vas a tomar notas con un guion muy concreto. A la vuelta escribirás en tu portafolio qué sabías antes y qué has aprendido.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s02-01.webp | Portada
-sda11-s02-02.webp | Vuestras preguntas
-sda11-s02-03.webp | El guion de notas
-sda11-s02-04.webp | La pregunta puente
-sda11-s02-05.webp | Cierre
+sda11-s02-01.webp | Visita al Banco de España
+sda11-s02-02.webp | Tres instituciones
+sda11-s02-03.webp | Tres entradas
+sda11-s02-04.webp | ¿Se notó en Málaga lo que hizo el BCE, y cuánto tardó?
+sda11-s02-05.webp | Un dato local con su fuente
 ```
 
 ## Tu guion de notas
 
+```descargas
+sda11-s02-guion-notas.pdf | Guion de notas y reflexión | Las tres entradas, la pregunta clave y el antes y después
+```
+
 ### Tres entradas, ni una más
 
-<table><thead><tr><th width="24%">Entrada</th><th width="34%">Qué anotar</th><th width="42%">Para qué te servirá</th></tr></thead><tbody><tr><td><b>Una idea que me ha sorprendido</b></td><td>Algo que no esperabas o que contradice lo que creías.</td><td>Es lo que más se recuerda meses después, y material excelente para el comunicado de la S8.</td></tr><tr><td><b>Un dato que quiero recordar</b></td><td>Una cifra concreta con su fuente.</td><td>Los datos que os den en la sucursal anclan vuestro comunicado en la realidad andaluza.</td></tr><tr><td><b>Una duda que me queda</b></td><td>Lo que no has entendido o lo que te ha generado más preguntas.</td><td>Orientará las sesiones siguientes y puede resolverse en el turno de preguntas.</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Entrada</th><th width="34%">Qué anotar</th><th width="42%">Para qué te servirá</th></tr></thead><tbody><tr><td><b>Una idea que me ha sorprendido</b></td><td>Algo que no esperabas o que contradice lo que creías.</td><td>Es lo que más se recuerda meses después, y material excelente para el comunicado de la sesión 8.</td></tr><tr><td><b>Un dato que quiero recordar</b></td><td>Una cifra concreta con su fuente.</td><td>Los datos que os den en la sucursal anclan vuestro comunicado en la realidad andaluza.</td></tr><tr><td><b>Una duda que me queda</b></td><td>Lo que no has entendido o lo que te ha generado más preguntas.</td><td>Orientará las sesiones siguientes y puede resolverse en el turno de preguntas.</td></tr></tbody></table>
 
 ::: nota Si solo pudieras hacer una pregunta
 “¿Se notó en Málaga lo que hizo el BCE, y **cuánto tardó** en notarse?” Es la pregunta que enlaza directamente con la sesión 7, cuando estudiéis cómo una decisión de Fráncfort acaba llegando a la tienda de la esquina.
@@ -82,6 +83,35 @@ modelo: "Antes pensaba que el Banco de España fijaba los tipos de interés. Aho
 
 Guarda tus notas. Las vas a necesitar en la sesión 8, cuando tu grupo redacte el comunicado del BCE. Un dato local citado con su fuente vale mucho en ese documento.
 
+## Apuntes de la sesión
+
+### 1. Banco de España, BCE y Eurosistema
+
+<table><thead><tr><th width="28%">Institución</th><th width="72%">Qué hace</th></tr></thead><tbody><tr><td><b>Banco Central Europeo</b></td><td>Con sede en Fráncfort. Su Consejo de Gobierno fija los tipos de interés de toda la zona euro. Su objetivo principal es que la inflación se mantenga en el 2 % a medio plazo.</td></tr><tr><td><b>Eurosistema</b></td><td>El BCE más los bancos centrales nacionales de los países del euro. Aplican juntos la política monetaria.</td></tr><tr><td><b>Banco de España</b></td><td>Forma parte del Eurosistema. Supervisa a los bancos españoles, pone en circulación los billetes, publica estadísticas y atiende reclamaciones. Tiene una sucursal en Málaga.</td></tr></tbody></table>
+
+### 2. Dónde estamos
+
+::: ejemplo Los datos de partida
+En septiembre de 2026 la inflación en España fue del **4,9 %**, seis décimas más que en agosto (INE, 14 de octubre de 2026). El BCE subió su tipo de depósito al **2,50 %** en septiembre y lo mantuvo en su reunión del 29 de octubre.
+:::
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Banco central</b></td><td>Institución pública que emite la moneda y dirige la política monetaria de un país o de una zona monetaria.</td></tr>
+<tr><td><b>BCE</b></td><td>Banco Central Europeo. Fija los tipos de interés de la zona euro.</td></tr>
+<tr><td><b>Eurosistema</b></td><td>El BCE y los bancos centrales nacionales de los países que usan el euro.</td></tr>
+<tr><td><b>Banco de España</b></td><td>Banco central español, parte del Eurosistema y supervisor de los bancos.</td></tr>
+<tr><td><b>Política monetaria</b></td><td>Decisiones del banco central sobre los tipos de interés y la cantidad de dinero para mantener los precios estables.</td></tr>
+<tr><td><b>Estabilidad de precios</b></td><td>Inflación baja y previsible. Para el BCE, el 2 % a medio plazo.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=vGlpc7Uy_Og | El Banco Central Europeo y el Eurosistema | Econosublime · 2:29
+https://www.youtube.com/watch?v=nfmnOe6isYU | Funciones del Banco de España | Banco de España · 2:19
+```
 ## Comprueba lo que sabes
 
 ```actividad

@@ -2,18 +2,18 @@
 titulo: SdA 11 · ¿Por qué suben los precios?
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 11 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE4. Conocer y comprender el funcionamiento del sistema financiero y de la política monetaria, valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras, para evaluar el impacto en las decisiones de política monetaria, así como planificar y gestionar con responsabilidad y autonomía las propias finanzas.</td></tr><tr><td><b>Criterio 4.1</b></td><td>Conocer y comprender el funcionamiento del sistema financiero y de las políticas monetarias, valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras.</td></tr><tr><td><b>Criterio 4.2</b></td><td>Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y comprensión del sistema financiero, valorando los efectos que estas pueden provocar en la economía real.</td></tr><tr><td><b>Criterio 4.3</b></td><td>Adquirir conocimientos financieros a partir del análisis del sistema financiero y de los efectos de las decisiones adoptadas en él, estableciendo conexiones con las decisiones financieras personales y su influencia en la viabilidad de los proyectos personales, de las empresas y de la sociedad.</td></tr><tr><td><b>Saberes básicos</b></td><td><b>D3</b> La política monetaria y la estabilidad de precios. El Banco Central Europeo. Funcionamiento del mercado monetario. La inflación: medición, teorías explicativas e impacto sobre los agentes. Efecto de las políticas monetarias sobre la inflación, el crecimiento y el bienestar.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM4 · CD4 · CPSAA1.2 · CPSAA4 · CPSAA5 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>10. Reducción de las desigualdades</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación financiera y educación para el consumo responsable; educación cívica (S6 y S9)</td></tr><tr><td><b>Referente</b></td><td>Anna Schwartz (historia monetaria) e Isabel Schnabel (Comité Ejecutivo del BCE)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Matemáticas Aplicadas a las Ciencias Sociales I, competencia específica 1, criterio 1.1, saberes MACS.1.A.4 y MACS.1.A.1 (sesión 3, cálculo del IPC; sesión 5, interés nominal y real). Pendiente de confirmar matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>10 (tercer trimestre).</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso El escenario real de esta unidad
-Esta SdA se ha construido sobre una decisión de política monetaria **que todavía no se ha tomado**: el Consejo de Gobierno del BCE se reúne el **10 de septiembre de 2026**. En su reunión del 23 de julio mantuvo los tres tipos oficiales sin cambios (facilidad de depósito 2,25 %, operaciones principales 2,40 %, facilidad marginal 2,65 %) tras moderarse la inflación de la zona euro al 2,8 % en junio, primer descenso del año.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b><b>OD</b> Observación directa</b></td><td>4.1 · 4.2 · 4.3</td><td>S1 cesta malagueña · S3 taller del IPC · S5 ganadores y perdedores · S6 BCE y Phillips · S7 transmisión · S8 laboratorio</td></tr><tr><td><b><b>D</b> Debate</b></td><td>4.1 · 4.3</td><td>S1 parejas · S6 debate · S9 preguntas de la prensa</td></tr><tr><td><b><b>C</b> Cuestionario</b></td><td>4.1 · 4.3</td><td>S2 tras la visita · S4 concurso</td></tr><tr><td><b><b>P</b> Portafolio</b></td><td>4.1 · 4.2 · 4.3</td><td>S3 IPC · S4 causas · S5 interés real · S7 diagrama de transmisión</td></tr><tr><td><b><b>PF</b> Producto final</b></td><td>4.1 · 4.2 · 4.3</td><td>S9 comunicado del BCE</td></tr><tr><td><b><b>EO</b> Exposición oral</b></td><td>4.1 · 4.2 · 4.3</td><td>S9 rueda de prensa</td></tr><tr><td><b><b>PE</b> Prueba escrita</b></td><td>4.1 · 4.2 · 4.3</td><td>S10</td></tr><tr><td><b><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</b></td><td>formativas</td><td>Co.Ev. en S3, S5 y S9 · Auto.Ev. en S10</td></tr></tbody></table>
 
-Eso da a la unidad una autenticidad poco habitual. El alumnado decide antes que el BCE y después puede contrastar su razonamiento con el real. **Si impartes la unidad después de septiembre**, sustituye el escenario por la siguiente reunión pendiente y actualiza los tipos.
+::: aviso Datos que hay que actualizar
+IPC (INE), IPCA de la zona euro (Eurostat), tipos oficiales del BCE y euríbor cambian cada mes. A 1 de noviembre de 2026: IPC de España del 4,9 % en septiembre de 2026; facilidad de depósito del BCE en el 2,50 % tras la subida de septiembre, mantenida el 29 de octubre. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -31,45 +31,25 @@ Esta unidad va sobre ese fenómeno, la **inflación**, y sobre la institución q
 - Quién gana y quién pierde con la inflación, y qué es el tipo de interés real.
 - Qué es el BCE, cómo decide y con qué herramientas actúa sobre los precios.
 
-::: idea Elementos curriculares
-Competencia específica **4** · Criterios de evaluación **4.1, 4.2 y 4.3** · Saber básico **D3** · 10 sesiones · Coordinación propuesta con Matemáticas Aplicadas a las Ciencias Sociales I.
-:::
+## El reto: la rueda de prensa «El BCE informa»
 
-## El reto: rueda de prensa “El BCE informa”
+Durante esta unidad vuestro grupo será el **Consejo de Gobierno del Banco Central Europeo**. Recibiréis un escenario económico, decidiréis qué hacer con los tipos de interés y lo defenderéis en una rueda de prensa ante la prensa económica, es decir, ante el resto de la clase.
 
-Durante esta unidad vuestro grupo no será una clase. Será el **Consejo de Gobierno del Banco Central Europeo**. Recibiréis un escenario económico, decidiréis qué hacer con los tipos de interés y lo defenderéis en una rueda de prensa ante la prensa económica (es decir, ante el resto de la clase).
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas inseparables
-
-<table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Comunicado de política monetaria</b></td><td>Documento con formato de nota de prensa oficial: diagnóstico del escenario, decisión sobre los tipos, mecanismo de transmisión previsto y valoración del impacto, con al menos un dato oficial verificable del INE, Eurostat o el BCE.</td><td>Instrumento R (valoración del producto), con la rúbrica general de los criterios</td></tr><tr><td><b>2. Rueda de prensa “El BCE informa”</b></td><td>Declaración introductoria de 2 minutos leída por la portavocía, en el papel de la Presidencia del BCE, seguida de un turno obligatorio de preguntas críticas de la prensa económica.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El comunicado</b></td><td>Una nota de prensa con el formato de las del BCE: diagnóstico del escenario, decisión sobre los tipos, cómo se espera que actúe la decisión sobre la economía y a quién afecta, con al menos un dato oficial del INE, Eurostat o el BCE.</td></tr><tr><td><b>2. La rueda de prensa</b></td><td>Dos minutos de declaración leída por la portavocía, en el papel de la Presidencia del BCE, y después las preguntas de la prensa económica.</td></tr></tbody></table>
 
 ::: nota Y el escenario es real
-El Consejo de Gobierno del BCE se reúne el **10 de septiembre de 2026** y la decisión está abierta. Vais a decidir con los mismos datos que ellos tienen sobre la mesa, y después podréis comparar vuestro razonamiento con el suyo. No se trata de acertar. Se trata de razonar bien y de sostenerlo ante las preguntas.
+En septiembre de 2026 la inflación en España llegó al 4,9 % y el BCE subió su tipo de depósito al 2,50 %; en octubre lo mantuvo. Vais a decidir con los mismos datos que tiene el BCE y después podréis comparar vuestro razonamiento con el suyo. No se trata de acertar, sino de razonar bien y sostenerlo ante las preguntas.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda11-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 4.1
@@ -85,6 +65,15 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 10 sesiones {.plegado}
 
-Estas son las diez sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="57%">Sesión</th><th width="21%">Fase</th><th width="17%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>“El ladrón invisible”: motivación, activación y diagnóstico</td><td>Movilizar + Activar</td><td>4.1</td></tr><tr><td>2</td><td>Exploración. Visita a la sucursal del Banco de España en Málaga (extraescolar)</td><td>Explorar</td><td>4.1</td></tr><tr><td>3</td><td>“El termómetro de los precios”. Nivel de precios, poder adquisitivo e IPC</td><td>Estructurar</td><td>4.1 · 4.3</td></tr><tr><td>4</td><td>¿Por qué sube (o baja)? Causas de la inflación y la deflación</td><td>Estructurar</td><td>4.1</td></tr><tr><td>5</td><td>“Ganadores y perdedores”: consecuencias e interés real</td><td>Estructurar</td><td>4.1 · 4.2</td></tr><tr><td>6</td><td>El guardián del euro. El BCE, el Eurosistema y la curva de Phillips</td><td>Estructurar</td><td>4.1</td></tr><tr><td>7</td><td>Las herramientas del BCE: instrumentos y transmisión</td><td>Estructurar</td><td>4.1 · 4.3</td></tr><tr><td>8</td><td>Laboratorio de preparación: el comunicado del BCE</td><td>Aplicar</td><td>4.1 · 4.2 · 4.3</td></tr><tr><td>9</td><td>Rueda de prensa simulada “El BCE informa”</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr><tr><td>10</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>4.1 · 4.2 · 4.3</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>El ladrón invisible.</b> La cesta de la compra de Málaga: cuánto ha subido y qué significa.</td></tr>
+<tr><td><b>2</b></td><td><b>Visita al Banco de España.</b> Qué hace un banco central, contado desde dentro.</td></tr>
+<tr><td><b>3</b></td><td><b>El termómetro de los precios.</b> Calculáis vuestro propio IPC con hoja de cálculo.</td></tr>
+<tr><td><b>4</b></td><td><b>Causas de la inflación.</b> Demanda, costes y expectativas, y un concurso: ¿inflación o deflación?</td></tr>
+<tr><td><b>5</b></td><td><b>Ganadores y perdedores.</b> A quién perjudica la inflación y qué es el interés real.</td></tr>
+<tr><td><b>6</b></td><td><b>El guardián del euro.</b> El BCE, su objetivo del 2 % y la curva de Phillips.</td></tr>
+<tr><td><b>7</b></td><td><b>Las herramientas del BCE.</b> Cómo llega una subida de tipos hasta tu bolsillo.</td></tr>
+<tr><td><b>8</b></td><td><b>Laboratorio.</b> Preparáis el comunicado del BCE con datos reales.</td></tr>
+<tr><td><b>9</b></td><td><b>Rueda de prensa.</b> El BCE informa y la prensa pregunta.</td></tr>
+<tr><td><b>10</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

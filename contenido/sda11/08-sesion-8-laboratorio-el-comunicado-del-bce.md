@@ -2,7 +2,18 @@
 titulo: 'Sesión 8 · Laboratorio: el comunicado del BCE'
 ---
 
+A partir de ahora vuestro grupo es el **Consejo de Gobierno del BCE**. Recibís un escenario económico real y tenéis 30 minutos para diagnosticarlo, decidir y redactar vuestro comunicado.
+
+Es un ensayo general **con red**: la sesión es formativa y el docente pasará a haceros las preguntas difíciles antes de que os las haga la prensa.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda11-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda11-s08-escenarios.pdf | Escenarios por grupo y control de calidad | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>4.1 + 4.2 + 4.3 (formativa)</td><td><b>Saberes básicos</b></td><td>D3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4 (roles)</td><td><b>Carácter</b></td><td>Formativa, control de calidad y andamiaje del producto final</td></tr><tr><td><b>Instrumentos</b></td><td>OD: trabajo cooperativo y uso del andamiaje conceptual</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ Esta sesión es el andamiaje explícito de planificación antes de la evaluació
 - ¿Por qué no habéis actuado antes?
 - ¿Qué señales os harían cambiar de decisión en la próxima reunión?
 
-::: aviso Material que debes preparar tú
-- **Plantilla de comunicado de política monetaria** con formato de nota de prensa oficial y los cuatro apartados, una por grupo. En formato editable.
-- **Plantilla más pautada** (**refuerzo**) para quien lo necesite, y **escenario de estanflación** (**ampliación**) para quien avance con soltura.
-- **Escenarios macroeconómicos**, uno por grupo base, con datos de inflación, crecimiento y desempleo de la eurozona.
-- **Acceso a datos oficiales**: INE (IPC de España y Andalucía), Eurostat y BCE.
-- Portafolios y apuntes del alumnado sobre la mesa. Son las herramientas de trabajo de la sesión.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de cuatro apartados, la asignación de roles y el control de calidad intermedio actúan como andamiaje explícito de planificación antes de la evaluación sumativa; existe además una versión más pautada de la plantilla para quien la necesite.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>El ensayo previo del turno de preguntas con apoyo de un compañero o compañera reduce la ansiedad anticipatoria ante la comparecencia de la sesión siguiente.</td></tr></tbody></table>
@@ -43,21 +46,14 @@ Esta sesión es el andamiaje explícito de planificación antes de la evaluació
 Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este grupo en la zona más alejada y acuerda una norma de un solo turno de palabra. Entrega por escrito la retroalimentación del control de calidad, además de darla oralmente. Si este alumno/a es Portavoz, garantiza un ensayo previo completo del turno de preguntas.
 :::
 
-## Para empezar
-
-A partir de ahora vuestro grupo es el **Consejo de Gobierno del BCE**. Recibís un escenario económico real y tenéis 30 minutos para diagnosticarlo, decidir y redactar vuestro comunicado.
-
-Es un ensayo general **con red**: la sesión es formativa y el docente pasará a haceros las preguntas difíciles antes de que os las haga la prensa.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda11-s08-01.webp | Portada
-sda11-s08-02.webp | Vuestro escenario
-sda11-s08-03.webp | Los cuatro roles
-sda11-s08-04.webp | Los cuatro apartados
-sda11-s08-05.webp | Las preguntas difíciles
-sda11-s08-06.webp | Y también sois prensa
+sda11-s08-01.webp | Laboratorio: el comunicado del BCE
+sda11-s08-02.webp | A 1 de noviembre de 2026
+sda11-s08-03.webp | Cuatro apartados
+sda11-s08-04.webp | Las que os harán
+sda11-s08-05.webp | También seréis prensa económica
 ```
 
 ## El comunicado de política monetaria
@@ -66,10 +62,35 @@ sda11-s08-06.webp | Y también sois prensa
 
 <table><thead><tr><th width="24%">Apartado</th><th width="76%">Qué tiene que contener</th></tr></thead><tbody><tr><td><b>1 · Diagnóstico</b></td><td>¿Cuál es el problema? ¿La inflación se aleja del objetivo del 2 %? ¿Por arriba o por abajo? ¿Qué causa parece predominar: demanda, costes o expectativas?</td></tr><tr><td><b>2 · Decisión</b></td><td>Subir, mantener o bajar los tipos oficiales, y en su caso otras medidas. Indicad el sentido <b>y la magnitud</b>: “subir 25 puntos básicos”, no “subir un poco”.</td></tr><tr><td><b>3 · Justificación y mecanismo</b></td><td>Por qué esa decisión y por qué camino esperáis que se transmita a la economía real: crédito, demanda, precios. Recorred la cadena completa.</td></tr><tr><td><b>4 · Impacto y dato</b></td><td>Valoración <b>honesta</b> del impacto sobre familias, empresas y sector público, incluidos los efectos no deseados. Y al menos <b>un dato oficial verificable</b> del INE, Eurostat o el BCE que respalde el diagnóstico.</td></tr></tbody></table>
 
+```descargas
+sda11-s08-plantilla-comunicado.pdf | Plantilla del comunicado del BCE | Los cuatro apartados y el dato oficial
+sda11-s08-datos-escenario.pdf | Datos del escenario real | Inflación, tipos, euríbor y paro a octubre de 2026
+```
+
 ### Anticipad las preguntas difíciles
 
 <table><thead><tr><th width="44%">Pregunta que os van a hacer</th><th width="56%">Cómo prepararla</th></tr></thead><tbody><tr><td>“Han subido los tipos. ¿qué le dicen a una familia con hipoteca variable?”</td><td>Es la más previsible de todas. Preparad la respuesta ahora, no en el atril.</td></tr><tr><td>“¿No temen provocar una recesión y destruir empleo?”</td><td>La curva de Phillips os la van a echar en cara. Reconoced el coste y explicad por qué lo asumís.</td></tr><tr><td>“¿Por qué no han actuado antes?”</td><td>Aquí se luce quien ha entendido los retardos del mecanismo de transmisión.</td></tr><tr><td>“¿Y si se equivocan?”</td><td>La mejor respuesta no es negar la posibilidad, sino explicar qué señales os harían cambiar de decisión.</td></tr></tbody></table>
 
 ::: nota No lo olvidéis
-En la sesión 9 vuestro grupo **también actuará como prensa económica**. Id pensando preguntas críticas para los demás. Preguntar bien puntúa tanto como comparecer bien.
+En la sesión 9 vuestro grupo **también actuará como prensa económica**. Id pensando preguntas críticas para los demás. Preguntar bien es tan importante como comparecer bien.
 :::
+
+## Apuntes de la sesión
+
+### Cómo es un comunicado del BCE
+
+Los comunicados del BCE son breves y siguen siempre el mismo orden: **qué se decide**, **por qué** (cómo está la inflación y qué se espera), **qué se hará después** y **qué riesgos** se vigilan. Usan un lenguaje prudente: «el Consejo de Gobierno está decidido a…», «las decisiones dependerán de los datos».
+
+::: ejemplo Los datos de partida, octubre de 2026
+IPC de España en septiembre: **4,9 %**. Tipo de la facilidad de depósito del BCE: **2,50 %**, tras la subida de septiembre, mantenido el 29 de octubre. Euríbor a 12 meses: **3,247 %** de media en septiembre. Paro en España: **10,18 %** en el tercer trimestre.
+:::
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Comunicado de política monetaria</b></td><td>Nota oficial en la que el banco central explica su decisión sobre los tipos.</td></tr>
+<tr><td><b>Diagnóstico</b></td><td>Análisis de cuál es el problema y qué lo causa.</td></tr>
+<tr><td><b>Dato oficial</b></td><td>Cifra publicada por un organismo estadístico público: INE, Eurostat, BCE.</td></tr>
+<tr><td><b>Orientación futura</b></td><td>Lo que el banco central anuncia que hará en las próximas reuniones.</td></tr>
+<tr><td><b>Dependencia de los datos</b></td><td>Principio del BCE de decidir reunión a reunión según los datos que lleguen.</td></tr>
+</tbody></table>
