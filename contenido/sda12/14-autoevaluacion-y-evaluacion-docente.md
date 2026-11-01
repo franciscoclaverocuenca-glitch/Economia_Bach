@@ -6,7 +6,11 @@ titulo: Autoevaluación y evaluación docente
 
 ### Ficha de autoevaluación de cierre
 
-Al terminar la prueba, completa la ficha de autoevaluación. Es un instrumento evaluable (**Auto.Ev.**) y cierra el ciclo de la unidad y del curso.
+Al terminar la prueba, completa la ficha de autoevaluación. Cierra la unidad y el curso.
+
+```descargas
+sda12-s14-autoevaluacion.pdf | Ficha de autoevaluación | Con el diagnóstico de la sesión 1 para comparar
+```
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué se te pide</th></tr></thead><tbody><tr><td>1</td><td>Sitúate en los niveles de las rúbricas de los criterios <b>5.1, 5.2, 6.1 y 6.2</b>, justificando cada posición con una <b>evidencia concreta</b> de la unidad.</td></tr><tr><td>2</td><td>Propón un aspecto concreto de mejora. Concreto: “estudiar más” no vale.</td></tr><tr><td>3</td><td>Recupera la respuesta que escribiste en la sesión 1 a “¿quién paga el Estado?” y compárala con lo que responderías hoy.</td></tr><tr><td>4</td><td>Mirada retrospectiva al curso completo. ¿qué idea de Economía de este año crees que vas a seguir usando dentro de diez años?</td></tr></tbody></table>
 

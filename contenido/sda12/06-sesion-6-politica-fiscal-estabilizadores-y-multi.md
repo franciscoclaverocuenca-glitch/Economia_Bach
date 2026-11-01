@@ -2,7 +2,18 @@
 titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 ---
 
+Pregunta para empezar. Si el Estado inyecta 1.000 millones de euros en una obra pública, ¿cuánta renta acaba moviéndose en la economía?
+
+La respuesta no es 1.000. Es bastante más, y hoy vas a calcular exactamente cuánto. De paso descubrirás que es la misma progresión geométrica que estás viendo en Matemáticas.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s06-valores-c.pdf | Valores de c por grupo y solución | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.2</td><td><b>Saberes básicos</b></td><td>D2, A6</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: tabla y cálculo del multiplicador en el portafolio · Co.Ev.: contraste entre grupos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,12 +38,6 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 - ¿Qué pasaría con el multiplicador si la gente ahorrara todo lo que recibe?
 - Si el multiplicador es 5, ¿por qué no aumentamos el gasto público indefinidamente?
 
-::: aviso Material que debes preparar tú
-- **Hoja de cálculo o simulador** con la tabla de rondas preparada, un dispositivo por grupo base. Alternativa sin dispositivos: tabla impresa y calculadora.
-- **Tarjetas con distintos valores de c** (0,5 · 0,6 · 0,7 · 0,8 · 0,9) para repartir entre grupos.
-- **Coordinación previa con el departamento de Matemáticas**: conviene avisar al profesorado de MACS I de que esta sesión se imparte, para que la progresión geométrica se trabaje en paralelo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El modelo se presenta en tres notaciones equivalentes (tabla numérica, descripción verbal y fórmula algebraica) y se recorre siempre en ese orden, de modo que quien no accede por la vía simbólica pueda hacerlo por la numérica o la narrativa.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -41,24 +46,15 @@ titulo: 'Sesión 6 · Política fiscal: estabilizadores y multiplicador'
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Pregunta para empezar. Si el Estado inyecta 1.000 millones de euros en una obra pública, ¿cuánta renta acaba moviéndose en la economía?
-
-La respuesta no es 1.000. Es bastante más, y hoy vas a calcular exactamente cuánto. De paso descubrirás que es la misma progresión geométrica que estás viendo en Matemáticas.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s06-01.webp | Portada
-sda12-s06-02.webp | Dos formas de hacer política fiscal
-sda12-s06-03.webp | La pregunta
-sda12-s06-04.webp | Las rondas de gasto
-sda12-s06-05.webp | La fórmula
-sda12-s06-06.webp | Interdisciplinariedad
-sda12-s06-07.webp | Simulación
-sda12-s06-08.webp | Los límites del modelo
-sda12-s06-09.webp | Síntesis
+sda12-s06-01.webp | Política fiscal
+sda12-s06-02.webp | Automática y discrecional
+sda12-s06-03.webp | Las rondas
+sda12-s06-04.webp | Vuestro valor de c
+sda12-s06-05.webp | No hay que creerse del todo el número.
+sda12-s06-06.webp | ¿Austeridad o estímulo?
 ```
 
 ## Actividad · Simulación del multiplicador
@@ -67,7 +63,11 @@ sda12-s06-09.webp | Síntesis
 
 El Estado inyecta 1.000 millones en una obra pública. Ese dinero se convierte en rentas de trabajadores y empresas, que gastan una parte (la **propensión marginal al consumo**, c) y ahorran el resto. Ese gasto es renta para otros, que a su vez gastan una parte… y así sucesivamente.
 
-<table><thead><tr><th width="12%">Ronda</th><th width="32%">Renta generada</th><th width="30%">Gasta (c = 0,8)</th><th width="26%">Ahorra</th></tr></thead><tbody><tr><td>1</td><td>1.000 M€</td><td>800 M€</td><td>200 M€</td></tr><tr><td>2</td><td>800 M€</td><td>640 M€</td><td>160 M€</td></tr><tr><td>3</td><td>640 M€</td><td>512 M€</td><td>128 M€</td></tr><tr><td>4</td><td>512 M€</td><td>410 M€</td><td>102 M€</td></tr><tr><td>…</td><td>La serie continúa, cada vez más pequeña</td><td>…</td><td>…</td></tr><tr><td><b>TOTAL</b></td><td><b>5.000 M€</b></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="12%">Ronda</th><th width="32%">Renta generada</th><th width="30%">Gasta (c = 0,8)</th><th width="26%">Ahorra</th></tr></thead><tbody><tr><td>1</td><td>1.000 M€</td><td>800 M€</td><td>200 M€</td></tr><tr><td>2</td><td>800 M€</td><td>640 M€</td><td>160 M€</td></tr><tr><td>3</td><td>640 M€</td><td>512 M€</td><td>128 M€</td></tr><tr><td>4</td><td>512 M€</td><td>410 M€</td><td>102 M€</td></tr><tr><td>…</td><td>La serie continúa, cada vez más pequeña</td><td>…</td><td>…</td></tr><tr><td><b>TOTAL</b></td><td><b>5.000 M€</b></td><td><b>4.000 M€</b></td><td><b>1.000 M€</b></td></tr></tbody></table>
+
+```descargas
+sda12-s06-hoja-multiplicador.pdf | Hoja del multiplicador | Rondas, multiplicador y efecto total con vuestro valor de c
+```
 
 ### Vuestra simulación
 
@@ -79,7 +79,7 @@ Cada grupo recibe un valor distinto de **c**. Con la hoja de cálculo:
 4. Coevaluación: contrastad vuestro cálculo con el del grupo cuyo valor de c sea más parecido al vuestro.
 
 ::: nota Conexión con Matemáticas
-La suma 1 + c + c² + c³ + … con c entre 0 y 1 es una **progresión geométrica convergente**, y su suma es 1/(1−c). Es el mismo objeto que estáis trabajando en MACS I (saberes MACS.1.C.1 y MACS.1.C.2). Allí se evalúa que sepáis generalizar el patrón; aquí, que sepáis qué significa el número y por qué no hay que creérselo del todo.
+La suma 1 + c + c² + c³ + … con c entre 0 y 1 es una **progresión geométrica convergente**, y su suma es 1/(1−c). Es el mismo objeto que trabajáis en Matemáticas Aplicadas. Allí importa generalizar el patrón; aquí, entender qué significa el número y por qué no hay que creérselo del todo.
 :::
 
 ## Laboratorio · El multiplicador, ronda a ronda
@@ -88,7 +88,7 @@ La suma 1 + c + c² + c³ + … con c entre 0 y 1 es una **progresión geométri
 tipo: multiplicador
 titulo: ¿Cuánto rinde cada euro de gasto público?
 instrucciones: Reproduce la tabla de rondas de la actividad (1.000 millones con c = 0,8) y después prueba con el valor de c de tu grupo. ¿Qué ocurre con el multiplicador cuando las familias ahorran más?
-gasto: 500
+gasto: 1000
 pmc: 0.8
 ```
 
@@ -129,7 +129,23 @@ Has aprendido a usar un modelo y, a la vez, a no creértelo del todo. Las dos co
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Política fiscal</b></td><td>Uso del gasto público y los impuestos para influir en la economía.</td></tr><tr><td><b>Estabilizador automático</b></td><td>Mecanismo que amortigua el ciclo sin decisión política en el momento.</td></tr><tr><td><b>Política discrecional</b></td><td>Decisiones deliberadas de modificar el gasto o los impuestos.</td></tr><tr><td><b>Propensión marginal al consumo (c)</b></td><td>Fracción de cada euro adicional de renta que se gasta.</td></tr><tr><td><b>Multiplicador</b></td><td>Factor por el que se amplifica una inyección inicial de gasto: k = 1/(1−c).</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Política fiscal</b></td><td>Uso del gasto público y de los impuestos para influir en la economía.</td></tr>
+<tr><td><b>Política fiscal expansiva</b></td><td>Más gasto o menos impuestos para animar la demanda en una crisis.</td></tr>
+<tr><td><b>Política fiscal contractiva</b></td><td>Menos gasto o más impuestos para frenar la economía o reducir el déficit.</td></tr>
+<tr><td><b>Estabilizadores automáticos</b></td><td>Partidas que se mueven solas con el ciclo: en una crisis suben las prestaciones por desempleo y bajan los impuestos.</td></tr>
+<tr><td><b>Política discrecional</b></td><td>Medidas que el Gobierno decide expresamente, como un plan de obras.</td></tr>
+<tr><td><b>Multiplicador</b></td><td>Número de veces que la renta total supera al gasto inicial: k = 1 / (1 − c).</td></tr>
+<tr><td><b>Propensión marginal al consumo</b></td><td>Parte de cada euro adicional de renta que se gasta (c).</td></tr>
+<tr><td><b>Efecto expulsión</b></td><td>Cuando el gasto público desplaza al gasto privado, por ejemplo porque suben los tipos de interés.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=l-L6fdLc3lo | La política fiscal y los PGE | Econosublime · 13:49
+https://www.youtube.com/watch?v=SFK6OJGWblw | Estabilizadores automáticos | Khan Academy en Español · 6:04
+```
 
 ## Comprueba lo que sabes
 

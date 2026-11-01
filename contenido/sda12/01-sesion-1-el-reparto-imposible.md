@@ -2,7 +2,20 @@
 titulo: Sesión 1 · El reparto imposible
 ---
 
+Antes de leer nada, responde en una frase y sin buscarlo en ningún sitio:
+
+“¿Quién paga el Estado y quién decide en qué se gasta?”
+
+Guarda tu respuesta. Al final de la unidad volverás a leerla y comprobarás cuánto ha cambiado.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s01-reparto-real.pdf | El reparto real del gasto público | Solo docente, con las fuentes
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2 (con introducción a 6.1)</td><td><b>Saberes básicos</b></td><td>D2, E3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual · Parejas · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso y diagnóstico inicial, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD · D</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -28,13 +41,6 @@ titulo: Sesión 1 · El reparto imposible
 - ¿Es lo mismo decir “el Estado gasta mucho” que decir “el Estado gasta mal”?
 - Si el gasto público crea valor, como sostiene Mazzucato, ¿por qué hablamos siempre de “coste”?
 
-::: aviso Material que debes preparar tú
-- **26 fichas impresas** del reparto de 100 monedas (una por alumno/a). Plantilla en el anexo imprimible.
-- **Encuesta de diagnóstico** creada en Google Forms o en el módulo Cuestionario de Moodle Centros, con las tres preguntas del cierre. Deja el enlace o el QR listo antes de la sesión.
-- **Datos actualizados** de distribución del gasto público del último ejercicio disponible, y del presupuesto del Ayuntamiento de Málaga o de la Junta de Andalucía para el contraste local.
-- Proyector y conexión comprobados. La sesión depende del efecto de la revelación.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El reparto de monedas parte de las prioridades personales de cada alumno/a. No hay respuesta correcta, lo que elimina el miedo a equivocarse en la sesión de apertura.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se ofrece en tres canales. Manipulativo (fichas), visual (gráfico de barras) y verbal (explicación). Instrucciones proyectadas y verbalizadas simultáneamente.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se abre el glosario mural de la unidad con los cuatro primeros términos: gasto público, Estado del Bienestar, protección social, deuda pública.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El contraste por parejas permite participar sin exponerse ante el gran grupo; la encuesta final es anónima y escrita.</td></tr></tbody></table>
@@ -43,28 +49,16 @@ titulo: Sesión 1 · El reparto imposible
 La sesión tiene un momento de alta carga oral (la puesta en común tras la revelación). Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana; repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la dinámica. El vídeo incrustado tiene subtítulos activables.
 :::
 
-## Para empezar
-
-Antes de leer nada, responde en una frase y sin buscarlo en ningún sitio:
-
-“¿Quién paga el Estado y quién decide en qué se gasta?”
-
-Guarda tu respuesta. Al final de la unidad volverás a leerla y comprobarás cuánto ha cambiado.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s01-01.webp | Portada
-sda12-s01-02.webp | Pregunta detonante
-sda12-s01-03.webp | Instrucciones de la dinámica
-sda12-s01-04.webp | Las funciones del gasto
-sda12-s01-05.webp | Revelación: el gasto real
-sda12-s01-06.webp | El dato incómodo
-sda12-s01-07.webp | Por qué interviene el Estado
-sda12-s01-08.webp | El Estado del Bienestar
-sda12-s01-09.webp | Referente: Mariana Mazzucato
-sda12-s01-10.webp | El reto de la unidad
-sda12-s01-11.webp | Diagnóstico inicial
+sda12-s01-01.webp | El reparto imposible
+sda12-s01-02.webp | Reparte el gasto del Estado
+sda12-s01-03.webp | España, 2024
+sda12-s01-04.webp | El reparto real
+sda12-s01-05.webp | Mariana Mazzucato
+sda12-s01-06.webp | Pacto Fiscal 2050: una Comisión de Expertos.
+sda12-s01-07.webp | ¿Los impuestos son un robo o el precio de la vida en común?
 ```
 
 ## Actividad 1 · El reparto imposible
@@ -77,23 +71,43 @@ Tienes **100 monedas**. Representan todo el dinero que un Estado gasta en un añ
 La suma tiene que dar **exactamente 100**. Tienes 8 minutos y trabajas en solitario.
 :::
 
-<table><thead><tr><th width="26%">Función de gasto</th><th width="60%">Qué incluye</th><th width="14%">Tus monedas</th></tr></thead><tbody><tr><td>Protección social</td><td>Pensiones, prestaciones por desempleo, dependencia, ayudas a la familia</td><td></td></tr><tr><td>Sanidad</td><td>Hospitales, centros de salud, medicamentos, personal sanitario</td><td></td></tr><tr><td>Educación</td><td>Colegios, institutos, universidades, becas</td><td></td></tr><tr><td>Asuntos económicos</td><td>Carreteras, trenes, energía, I+D, ayudas a empresas</td><td></td></tr><tr><td>Servicios públicos generales</td><td>Administración, diplomacia e intereses de la deuda pública</td><td></td></tr><tr><td>Defensa</td><td>Fuerzas armadas</td><td></td></tr><tr><td>Orden público y seguridad</td><td>Policía, bomberos, prisiones</td><td></td></tr><tr><td>Justicia</td><td>Juzgados y tribunales</td><td></td></tr><tr><td>Ocio, cultura y religión</td><td>Bibliotecas, museos, deporte, patrimonio</td><td></td></tr><tr><td>Medio ambiente</td><td>Gestión de residuos, protección de espacios naturales</td><td></td></tr><tr><td>Vivienda y servicios comunitarios</td><td>Vivienda pública, urbanismo, alumbrado, agua</td><td></td></tr><tr><td><b>TOTAL</b></td><td></td><td><b>100</b></td></tr></tbody></table>
+```descargas
+sda12-s01-reparto.pdf | Ficha del reparto imposible | Las once funciones, tus 100 monedas y las dos discrepancias
+```
+
+### El reparto real
+
+En 2024 las administraciones públicas españolas gastaron unos **725.000 millones de euros**, el 45,5 % del PIB (IGAE). Si fueran 100 monedas, se repartirían aproximadamente así:
+
+<table><thead><tr><th width="50%">Función</th><th width="20%">Monedas (aprox.)</th><th width="30%">Ejemplo</th></tr></thead><tbody><tr><td>Protección social</td><td><b>40</b></td><td>Sobre todo, pensiones</td></tr><tr><td>Sanidad</td><td><b>15</b></td><td>Hospitales, centros de salud</td></tr><tr><td>Servicios públicos generales</td><td><b>12</b></td><td>Incluye los intereses de la deuda</td></tr><tr><td>Asuntos económicos</td><td><b>11</b></td><td>Transporte, energía, I+D</td></tr><tr><td>Educación</td><td><b>10</b></td><td>Colegios, institutos, universidades</td></tr><tr><td>Orden público, seguridad y justicia</td><td><b>4</b></td><td>Policía, juzgados, prisiones</td></tr><tr><td>Ocio, cultura y religión</td><td><b>3</b></td><td>Bibliotecas, deporte</td></tr><tr><td>Defensa</td><td><b>2</b></td><td>Fuerzas armadas</td></tr><tr><td>Medio ambiente</td><td><b>2</b></td><td>Residuos, espacios naturales</td></tr><tr><td>Vivienda y servicios comunitarios</td><td><b>1</b></td><td>Vivienda pública, alumbrado</td></tr></tbody></table>
+
+Fuente: IGAE y Eurostat, clasificación del gasto por funciones. Reparto redondeado.
 
 ### Ahora, en parejas
 
 Compara tu reparto con el de tu compañero/a y anotad las **dos mayores discrepancias**: las dos funciones en las que más os separáis. Para cada una, escribid en una línea el argumento de cada parte. No hace falta que os pongáis de acuerdo.
 
 ::: nota Lo que estamos midiendo
-Esta actividad no evalúa conocimientos: mide tus **intuiciones de partida**. Dentro de un momento verás la distribución real y probablemente la distancia te sorprenda. Esa distancia es exactamente el punto de partida de la unidad.
+Esta actividad mide tus **intuiciones de partida**. Ahora mira la distribución real y probablemente la distancia te sorprenda. Esa distancia es exactamente el punto de partida de la unidad.
 :::
 
-## Vídeo · Los gastos públicos (Econosublime) {.plegado}
+## Diagnóstico inicial
 
-```video
-https://www.youtube.com/embed/iCgB4mzPnvI
+### Diagnóstico inicial
+
+Para terminar, responde el diagnóstico.
+
+```descargas
+sda12-s01-diagnostico.pdf | Diagnóstico inicial | Las preguntas de hoy, con columna para la última sesión
 ```
 
-Vídeo de Javier Martínez Argudo (canal **Econosublime**, Málaga). Actívale los subtítulos con el botón **CC** del reproductor. Fuente: econosublime.com, recurso incluido en la Programación Didáctica de la materia.
+Responde la encuesta en línea. Es **anónima** y **no se califica**. Tus respuestas se guardan y volverás a verlas en la última sesión de la unidad, cuando te autoevalúes. Comparar el “antes” y el “después” es parte del aprendizaje.
+
+<table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Los impuestos son un robo o el precio de la vida en común? Explica tu postura en tres líneas.</td></tr><tr><td>2</td><td>¿Sabes qué es el déficit público? Defínelo con tus palabras; si no lo sabes, escribe “no lo sé”.</td></tr><tr><td>3</td><td>Cuando el Estado se endeuda, ¿quién paga esa deuda y cuándo?</td></tr></tbody></table>
+
+::: nota Enlace a la encuesta
+Tu profesor/a te facilitará el enlace o el código QR al final de la sesión. Tienes hasta el final de la clase para responder.
+:::
 
 ## Apuntes de la sesión
 
@@ -145,63 +159,35 @@ Su tesis no es que el Estado deba gastar más sin más, sino que la pregunta cor
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>Gasto público</b></td><td>Conjunto de los gastos realizados por todas las administraciones públicas en un periodo.</td></tr><tr><td><b>Estado del Bienestar</b></td><td>Conjunto de sistemas (sanidad, educación, pensiones, prestaciones) con los que el Estado garantiza derechos sociales.</td></tr><tr><td><b>Protección social</b></td><td>Función de gasto que agrupa pensiones, desempleo, dependencia y ayudas a la familia y a la exclusión.</td></tr><tr><td><b>Deuda pública</b></td><td>Dinero que el Estado ha tomado prestado y que debe devolver, pagando entretanto intereses.</td></tr><tr><td><b>COFOG</b></td><td>Clasificación internacional del gasto público por su finalidad, usada por Eurostat para comparar países.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Sector público</b></td><td>Conjunto de administraciones y empresas públicas: Estado, comunidades autónomas, ayuntamientos y Seguridad Social.</td></tr>
+<tr><td><b>Gasto público</b></td><td>Dinero que gastan las administraciones para prestar servicios, pagar prestaciones e invertir.</td></tr>
+<tr><td><b>Ingresos públicos</b></td><td>Dinero que obtienen las administraciones, sobre todo con impuestos y cotizaciones.</td></tr>
+<tr><td><b>Presupuestos Generales del Estado</b></td><td>Ley que fija cada año cuánto se prevé ingresar y en qué se va a gastar.</td></tr>
+<tr><td><b>Protección social</b></td><td>Gasto en pensiones, desempleo, dependencia y ayudas a las familias. Es la mayor partida.</td></tr>
+<tr><td><b>Bien público</b></td><td>Bien que, una vez producido, puede usar todo el mundo y del que no se puede excluir a nadie, como el alumbrado.</td></tr>
+<tr><td><b>Estado del bienestar</b></td><td>Sistema de servicios y prestaciones públicas que protege a las personas a lo largo de su vida.</td></tr>
+<tr><td><b>Intereses de la deuda</b></td><td>Lo que paga el Estado por el dinero que ha pedido prestado.</td></tr>
+</tbody></table>
 
-## Diagnóstico inicial
+### Para saber más
 
-### Diagnóstico inicial
-
-Para terminar, responde la encuesta en línea. Es **anónima** y **no se califica**. Tus respuestas se guardan y volverás a verlas en la última sesión de la unidad, cuando te autoevalúes. Comparar el “antes” y el “después” es parte del aprendizaje.
-
-<table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>¿Los impuestos son un robo o el precio de la vida en común? Explica tu postura en tres líneas.</td></tr><tr><td>2</td><td>¿Sabes qué es el déficit público? Defínelo con tus palabras; si no lo sabes, escribe “no lo sé”.</td></tr><tr><td>3</td><td>Cuando el Estado se endeuda, ¿quién paga esa deuda y cuándo?</td></tr></tbody></table>
-
-::: nota Enlace a la encuesta
-Tu profesor/a te facilitará el enlace o el código QR al final de la sesión. Tienes hasta el final de la clase para responder.
-:::
-
-## Entrega de las rúbricas de evaluación
-
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
-
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-5.1
+```video
+https://www.youtube.com/watch?v=iCgB4mzPnvI | Qué son los gastos públicos | Econosublime · 6:38
+https://www.youtube.com/watch?v=OVoGcTHPuhI | Qué son los ingresos públicos | Econosublime · 5:02
 ```
 
-```rubrica
-5.2
+## Las rúbricas de la unidad
+
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
+
+```descargas
+sda12-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-6.1
-```
+### Cómo se leen
 
-```rubrica
-6.2
-```
+- Cada uno de los cuatro criterios tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.

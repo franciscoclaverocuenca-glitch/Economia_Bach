@@ -2,7 +2,18 @@
 titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 ---
 
+Hay una parte de la economía española que no aparece en ninguna estadística, que no paga impuestos y que, sin embargo, existe y es enorme.
+
+Hoy vas a ver cómo se estima algo que por definición no se registra, a quién perjudica realmente, y si la economía de plataformas (el reparto, el alquiler turístico, los microtrabajos digitales) es una versión nueva del mismo problema.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s08-casos-docente.pdf | Los casos de plataformas y datos de economía sumergida | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>D2, E2, E3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de análisis en el portafolio · OD: observación del trabajo cooperativo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 - ¿Es lo mismo no pedir factura que defraudar? ¿Dónde está la línea?
 - ¿Se parece el alquiler turístico sin declarar a la economía sumergida clásica, o es otra cosa?
 
-::: aviso Material que debes preparar tú
-- **Datos del peso estimado** de la economía sumergida en España y en Andalucía, con al menos dos estimaciones distintas para que se vea la dispersión entre métodos.
-- **Cuatro casos de economía de plataformas**, uno por grupo base: reparto a domicilio, transporte con conductor, alquiler turístico y microtrabajos digitales.
-- **Ficha de análisis** con las cuatro preguntas del caso, una por grupo.
-- Glosario mural de la unidad para los términos nuevos.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los casos de economía de plataformas se eligen entre realidades muy próximas al alumnado (reparto, alquiler turístico en Málaga, microtrabajos digitales), lo que permite conectar el contenido con experiencias familiares o propias.</td></tr></tbody></table>
@@ -42,23 +46,14 @@ titulo: Sesión 8 · La economía sumergida y el fraude fiscal
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hay una parte de la economía española que no aparece en ninguna estadística, que no paga impuestos y que, sin embargo, existe y es enorme.
-
-Hoy vas a ver cómo se estima algo que por definición no se registra, a quién perjudica realmente, y si la economía de plataformas (el reparto, el alquiler turístico, los microtrabajos digitales) es una versión nueva del mismo problema.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s08-01.webp | Portada
-sda12-s08-02.webp | Definición
-sda12-s08-03.webp | Cómo se mide
-sda12-s08-04.webp | Causas
-sda12-s08-05.webp | Efectos
-sda12-s08-06.webp | Referente: Marilyn Waring
-sda12-s08-07.webp | Economía de plataformas
-sda12-s08-08.webp | Instrumentos
+sda12-s08-01.webp | La economía sumergida y el fraude fiscal
+sda12-s08-02.webp | Tres conceptos
+sda12-s08-03.webp | Solo se puede estimar
+sda12-s08-04.webp | ¿Nueva economía sumergida?
+sda12-s08-05.webp | El trabajo de cuidados tampoco aparece en las cuentas
 ```
 
 ## Actividad · ¿Es la economía de plataformas una nueva economía sumergida?
@@ -69,8 +64,12 @@ Cada grupo base recibe un caso real de la economía de plataformas. Cuatro pregu
 
 <table><thead><tr><th width="5%"></th><th width="42%">Pregunta</th><th width="53%">Por qué importa</th></tr></thead><tbody><tr><td>1</td><td>¿Quién declara los ingresos de esta actividad?</td><td>Si nadie los declara con claridad, ya tenéis un problema de recaudación.</td></tr><tr><td>2</td><td>¿Quién cotiza a la Seguridad Social y quién no?</td><td>Sin cotización no hay desempleo, ni baja, ni pensión futura.</td></tr><tr><td>3</td><td>¿En qué país tributa la plataforma?</td><td>La actividad transfronteriza es la novedad respecto a la economía sumergida clásica.</td></tr><tr><td>4</td><td>¿Quién asume el riesgo del negocio?</td><td>Es la pregunta que distingue a una persona autónoma real de un falso autónomo.</td></tr></tbody></table>
 
+```descargas
+sda12-s08-casos-plataformas.pdf | Los cuatro casos de plataformas | Reparto, alquiler turístico, trabajo freelance y venta de segunda mano
+```
+
 ::: nota La pregunta final
-¿Vuestro caso reproduce viejos problemas de la economía sumergida con formas nuevas, o es un fenómeno distinto que exige herramientas distintas? Justificadlo con lo que habéis contestado en las cuatro preguntas. Va al portafolio (instrumento P).
+¿Vuestro caso reproduce viejos problemas de la economía sumergida con formas nuevas, o es un fenómeno distinto que exige herramientas distintas? Justificadlo con lo que habéis contestado en las cuatro preguntas. Guardadlo en el portafolio.
 :::
 
 ## Apuntes de la sesión
@@ -109,7 +108,7 @@ Saber leer un dato económico incluye saber **cuánto fiarse de él**. Cuando en
 **A la calidad de las decisiones públicas**, porque si una parte relevante de la actividad no se registra, los indicadores con los que se gobierna están sesgados.
 
 ::: aviso La otra economía invisible: Marilyn Waring
-Ya trabajasteis a Waring en las SdA 8 y 9. Aquí sirve para un paralelismo esclarecedor: además de la economía sumergida existe una **economía invisible que ni siquiera es ilegal** (el trabajo de cuidados no remunerado, realizado mayoritariamente por mujeres), que sostiene toda la economía pero que ni las estadísticas contabilizan ni el sistema fiscal grava.
+Ya conocéis a Marilyn Waring de unidades anteriores. Aquí sirve para un paralelismo esclarecedor: además de la economía sumergida existe una **economía invisible que ni siquiera es ilegal** (el trabajo de cuidados no remunerado, realizado mayoritariamente por mujeres), que sostiene toda la economía pero que ni las estadísticas contabilizan ni el sistema fiscal grava.
 
 Las dos son invisibles para el Estado, pero por razones opuestas. Una se esconde, la otra nunca se consideró digna de contarse. La comparación obliga a preguntarse qué decide contar y gravar una sociedad, y qué deja fuera.
 :::
@@ -120,4 +119,19 @@ Las dos son invisibles para el Estado, pero por razones opuestas. Una se esconde
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Economía sumergida</b></td><td>Actividades legales que escapan al control fiscal y a las estadísticas oficiales.</td></tr><tr><td><b>Economía ilegal</b></td><td>Actividades prohibidas en sí mismas, no solo ocultadas.</td></tr><tr><td><b>Elusión fiscal</b></td><td>Aprovechamiento de resquicios legales para pagar menos sin incumplir formalmente la ley.</td></tr><tr><td><b>Método indirecto</b></td><td>Técnica de estimación que infiere la actividad oculta a partir de indicadores observables.</td></tr><tr><td><b>Falso autónomo</b></td><td>Persona formalmente autónoma que trabaja en condiciones de dependencia propias de un empleo por cuenta ajena.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Economía sumergida</b></td><td>Actividades legales que escapan al control fiscal y a las estadísticas oficiales. Las estimaciones para España varían mucho según el método.</td></tr>
+<tr><td><b>Economía ilegal</b></td><td>Actividades prohibidas en sí mismas, no solo ocultadas.</td></tr>
+<tr><td><b>Fraude fiscal</b></td><td>Incumplimiento deliberado de las obligaciones tributarias para pagar menos.</td></tr>
+<tr><td><b>Elusión fiscal</b></td><td>Uso de vacíos legales para pagar menos impuestos sin incumplir la ley.</td></tr>
+<tr><td><b>Métodos indirectos</b></td><td>Formas de estimar la economía sumergida a partir de otros datos: uso de efectivo, consumo eléctrico, encuestas.</td></tr>
+<tr><td><b>Economía de plataformas</b></td><td>Actividad que se organiza mediante aplicaciones que ponen en contacto a quien ofrece y a quien demanda.</td></tr>
+<tr><td><b>Falso autónomo</b></td><td>Persona que trabaja como asalariada pero figura como autónoma, sin la protección de un contrato.</td></tr>
+<tr><td><b>Economía invisible</b></td><td>Trabajo no remunerado de cuidados que tampoco se refleja en el PIB.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=sfE6T8vJ94A | Fraude fiscal | Econosublime · 6:38
+```

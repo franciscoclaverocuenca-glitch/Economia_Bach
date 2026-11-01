@@ -2,7 +2,18 @@
 titulo: 'Sesión 3 · El sistema fiscal: funciones y tipos de impuestos'
 ---
 
+En la sesión 1 viste **en qué** gasta el Estado. Hoy toca la otra mitad: **de dónde** saca el dinero.
+
+Al terminar la sesión sabrás clasificar cualquier impuesto que te encuentres y, sobre todo, entenderás por qué dos impuestos que recaudan lo mismo pueden tener efectos opuestos sobre la desigualdad.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s03-tarjetas.pdf | Baraja del clasificador fiscal con solución | Solo docente, para recortar
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1</td><td><b>Saberes básicos</b></td><td>D2, A6</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia de proceso (portafolio y observación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: clasificación fiscal en el portafolio · OD: trabajo cooperativo · Co.Ev.: escala de dedos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: 'Sesión 3 · El sistema fiscal: funciones y tipos de impuestos'
 - Un impuesto sobre el tabaco recauda menos cuanto mejor funciona. ¿Es eso un fracaso?
 - ¿Qué tarjeta os ha costado más clasificar y por qué?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas de impuestos y situaciones reales** para el clasificador (una baraja por grupo base): la compra de una barra de pan con IVA, la nómina con retención de IRPF, el impuesto de matriculación de un coche, el IBI de una vivienda, el impuesto de sucesiones, el céntimo sanitario…
-- **Plantilla de clasificación** con los dos ejes (directo/indirecto y progresivo/proporcional/regresivo).
-- **Glosario mural o digital** de la unidad, para ir añadiendo los términos de cada sesión.
-- Actualizar la gráfica de progresividad con datos reales de incidencia fiscal si dispones de ellos.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -46,24 +50,15 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 Es un buen punto para recuperar de forma explícita, como repaso del curso, lo estudiado sobre el sector público en la unidad de macroeconomía, reforzando la coherencia de la programación.
 :::
 
-## Para empezar
-
-En la sesión 1 viste **en qué** gasta el Estado. Hoy toca la otra mitad: **de dónde** saca el dinero.
-
-Al terminar la sesión sabrás clasificar cualquier impuesto que te encuentres y, sobre todo, entenderás por qué dos impuestos que recaudan lo mismo pueden tener efectos opuestos sobre la desigualdad.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s03-01.webp | Portada
-sda12-s03-02.webp | Enganche
-sda12-s03-03.webp | Las tres funciones
-sda12-s03-04.webp | Directos vs indirectos
-sda12-s03-05.webp | Progresivo, proporcional, regresivo
-sda12-s03-06.webp | Por qué el IVA es regresivo
-sda12-s03-07.webp | Clasificador fiscal
-sda12-s03-08.webp | Gráfico de progresividad
-sda12-s03-09.webp | Síntesis
+sda12-s03-01.webp | El sistema fiscal
+sda12-s03-02.webp | Tres funciones
+sda12-s03-03.webp | Directos e indirectos
+sda12-s03-04.webp | Cómo pesan según la renta
+sda12-s03-05.webp | Los dos ejes a la vez
+sda12-s03-06.webp | Los casos dudosos son los que enseñan
 ```
 
 ## Actividad · Clasificador fiscal cooperativo
@@ -74,17 +69,38 @@ Cada persona recibe una baraja de tarjetas con impuestos y situaciones reales. H
 
 <table><thead><tr><th width="18%">Fase</th><th width="68%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td>1 · Individual</td><td>Clasificas tú solo/a todas las tarjetas y anotas tus dudas.</td><td>8 min</td></tr><tr><td>2 · Grupo base</td><td>Contrastáis y consensuáis UNA única clasificación. Los casos dudosos se justifican en voz alta, no se votan.</td><td>12 min</td></tr><tr><td>3 · Puesta en común</td><td>Escala de dedos entre grupos sobre las clasificaciones discrepantes.</td><td>5 min</td></tr></tbody></table>
 
-::: nota Los casos dudosos son los importantes
-Si una tarjeta es fácil, no te enseña nada. Marca las que os han hecho discutir y anota en tu portafolio por qué. Eso es exactamente lo que se evalúa (instrumento P).
-:::
-
-## Vídeo de apoyo {.plegado}
-
-```video
-https://www.youtube.com/embed/iCgB4mzPnvI
+```actividad
+id: sda12-s03-clasificador
+tipo: clasificar
+instrucciones: Clasifica cada impuesto según sea directo o indirecto y según cómo pesa en función de la renta.
+categorias:
+  - nombre: Directo y progresivo
+    elementos:
+      - texto: IRPF
+        explicacion: Grava la renta de cada persona y su tipo sube a medida que la renta aumenta.
+      - texto: Impuesto sobre el patrimonio
+        explicacion: Grava la riqueza de cada persona, con tipos crecientes a partir de un mínimo exento.
+  - nombre: Directo y proporcional
+    elementos:
+      - texto: Impuesto sobre sociedades
+        explicacion: Grava el beneficio de las empresas con un tipo general fijo del 25 %.
+      - texto: IBI
+        explicacion: Grava la propiedad de un inmueble con un porcentaje fijo sobre su valor catastral.
+  - nombre: Indirecto, regresivo respecto a la renta
+    elementos:
+      - texto: IVA
+        explicacion: Grava el consumo con el mismo tipo para todos; quien menos gana dedica más parte de su renta a consumir, así que pesa más sobre él.
+      - texto: Impuesto sobre hidrocarburos
+        explicacion: Se paga al llenar el depósito, lo mismo seas quien seas.
 ```
 
-Repaso del gasto público (Econosublime, Málaga). Actívale los subtítulos con el botón **CC**. Fuente: econosublime.com, canal incluido en la Programación Didáctica de la materia.
+```descargas
+sda12-s03-plantilla-ejes.pdf | Plantilla de los dos ejes | Directo o indirecto, progresivo, proporcional o regresivo
+```
+
+::: nota Los casos dudosos son los importantes
+Si una tarjeta es fácil, no te enseña nada. Marca las que os han hecho discutir y anota en tu portafolio por qué. Es lo que más se aprende.
+:::
 
 ## Apuntes de la sesión
 
@@ -126,7 +142,23 @@ De ahí la distinción entre **tipo marginal** (el del último tramo que alcanza
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>Impuesto</b></td><td>Pago obligatorio y sin contraprestación directa a las administraciones públicas.</td></tr><tr><td><b>Impuesto directo</b></td><td>Grava la renta o la riqueza y tiene en cuenta las circunstancias personales.</td></tr><tr><td><b>Impuesto indirecto</b></td><td>Grava el consumo, con independencia de quién lo realice.</td></tr><tr><td><b>Progresividad</b></td><td>Característica de un impuesto por la que el porcentaje pagado crece con la renta.</td></tr><tr><td><b>Regresividad</b></td><td>Característica por la que el porcentaje pagado decrece al aumentar la renta.</td></tr><tr><td><b>Tipo marginal</b></td><td>Tipo que se aplica al último tramo de renta alcanzado.</td></tr><tr><td><b>Tipo efectivo</b></td><td>Porcentaje que se paga realmente sobre el total de la renta.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Impuesto</b></td><td>Pago obligatorio a las administraciones sin contraprestación directa.</td></tr>
+<tr><td><b>Impuesto directo</b></td><td>El que grava la renta o la riqueza de una persona o empresa, como el IRPF.</td></tr>
+<tr><td><b>Impuesto indirecto</b></td><td>El que grava el consumo o el uso de bienes, como el IVA.</td></tr>
+<tr><td><b>Progresivo</b></td><td>El que hace pagar un porcentaje mayor a quien más tiene.</td></tr>
+<tr><td><b>Proporcional</b></td><td>El que aplica el mismo porcentaje a todos.</td></tr>
+<tr><td><b>Regresivo</b></td><td>El que pesa más, en proporción a la renta, sobre quien menos tiene.</td></tr>
+<tr><td><b>Tasa</b></td><td>Pago por un servicio público concreto que se usa, como la recogida de basuras.</td></tr>
+<tr><td><b>Base imponible</b></td><td>Cantidad sobre la que se aplica el impuesto.</td></tr>
+<tr><td><b>Funciones de los impuestos</b></td><td>Financiar el gasto, redistribuir la renta y regular conductas, como el tabaco.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=LEkzUlViXUM | Tipos de impuestos | Econosublime · 8:19
+```
 
 ## Comprueba lo que sabes
 

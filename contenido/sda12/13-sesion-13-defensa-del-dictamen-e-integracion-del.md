@@ -2,7 +2,18 @@
 titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 ---
 
+Hoy comparecéis. Cada comisión defiende su Dictamen ante las demás, responde a sus preguntas y, después, todas juntas tenéis que acordar un **Pacto Fiscal 2050** común.
+
+Aviso importante: lo que de verdad se evalúa hoy no es defender bien vuestra propuesta. Es lograr un paquete coherente con las de los demás. **Cuatro dictámenes sueltos no son un Pacto Fiscal.**
+
 ## Guía docente · Sesión 13 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s13-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s13-registro-comision.pdf | Registro de la Comisión y modelo de acta | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.1 + 6.2 (sumativa) + 5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>A5, A6, D2, E1-E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo / roles de comisión</td><td><b>Carácter</b></td><td>Sumativa, producto final integrador de los cuatro criterios</td></tr><tr><td><b>Instrumentos</b></td><td>EO: defensa oral · R: valoración del Dictamen · D: turno de contraste · Co.Ev.: coevaluación entre comisiones</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 - ¿Vuestro Pacto solo recauda y reparte, u orienta la economía hacia algo?
 - ¿Qué conceptos de todo el curso habéis tenido que usar hoy?
 
-::: aviso Material que debes preparar tú
-- **Dictámenes entregados** por cada comisión, impresos o proyectables.
-- **Rúbrica de los criterios 5.1, 5.2, 6.1 y 6.2** visible para todo el mundo durante la sesión.
-- **Plantilla del acta del “Pacto Fiscal 2050”** para recoger el acuerdo negociado.
-- Proyector y disposición del aula en forma de comisión (mesa central o herradura).
-- Hoja de registro simultáneo de los cuatro instrumentos (EO, R, D, Co.Ev.).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La defensa se reparte entre los cuatro roles de la comisión, de modo que nadie soporta en solitario la carga de la exposición oral; se admite guion escrito ampliado o intervención grabada previamente sin penalización académica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las reglas de turno y de respeto se explicitan antes de empezar y la rúbrica está a la vista, de modo que se sabe con antelación exactamente qué se valora.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -43,32 +46,29 @@ titulo: Sesión 13 · Defensa del Dictamen e integración del Pacto
 Sesión de máxima carga oral y con turnos cruzados. Proyecta el turno de palabra y el nombre de quien interviene, exige que se hable de pie y de frente, y facilita a este alumno/a los dictámenes por escrito antes de la sesión para que pueda preparar sus preguntas. Considera asignarle el rol de Redactor/a con intervención preparada.
 :::
 
-## Para empezar
-
-Hoy comparecéis. Cada comisión defiende su Dictamen ante las demás, responde a sus preguntas y, después, todas juntas tenéis que acordar un **Pacto Fiscal 2050** común.
-
-Aviso importante: lo que de verdad se evalúa hoy no es defender bien vuestra propuesta. Es lograr un paquete coherente con las de los demás. **Cuatro dictámenes sueltos no son un Pacto Fiscal.**
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s11-01.webp | Portada
-sda12-s11-02.webp | Reglas de la sesión
-sda12-s11-03.webp | La fase decisiva
-sda12-s11-04.webp | Los conflictos a resolver
-sda12-s11-05.webp | Cierre del hilo
-sda12-s11-06.webp | Cierre
+sda12-s13-01.webp | Comisión de Expertos Pacto Fiscal 2050
+sda12-s13-02.webp | La sesión
+sda12-s13-03.webp | Lo que va a chocar
+sda12-s13-04.webp | Mazzucato, otra vez
+sda12-s13-05.webp | Prueba escrita y autoevaluación
 ```
 
 ## Cómo se desarrolla la sesión
 
 ### Las dos fases
 
-<table><thead><tr><th width="16%">Fase</th><th width="48%">Qué ocurre</th><th width="36%">Qué se evalúa</th></tr></thead><tbody><tr><td><b>1 · Defensa</b></td><td>Cada comisión expone su reto, sus medidas, la cuantificación y los inconvenientes, y responde a un turno de preguntas cruzadas del resto.</td><td>EO (defensa oral) · R (el Dictamen como producto) · D (turno de contraste)</td></tr><tr><td><b>2 · Integración</b></td><td>Todas las comisiones negocian un paquete coherente que combine medidas de los cuatro retos, resolviendo los conflictos entre ellas. El acuerdo se recoge en un acta breve.</td><td>D (negociación) · Co.Ev. (coevaluación entre comisiones)</td></tr></tbody></table>
+<table><thead><tr><th width="16%">Fase</th><th width="48%">Qué ocurre</th><th width="36%">Qué se busca</th></tr></thead><tbody><tr><td><b>1 · Defensa</b></td><td>Cada comisión expone su reto, sus medidas, la cuantificación y los inconvenientes, y responde a un turno de preguntas cruzadas del resto.</td><td>Claridad, datos y respuesta a las preguntas</td></tr><tr><td><b>2 · Integración</b></td><td>Todas las comisiones negocian un paquete coherente que combine medidas de los cuatro retos, resolviendo los conflictos entre ellas. El acuerdo se recoge en un acta breve.</td><td>La negociación y la valoración entre comisiones</td></tr></tbody></table>
 
-::: aviso Preguntar bien también puntúa
-El turno de preguntas cruzadas se evalúa. Una pregunta que localiza el punto débil de una propuesta ajena demuestra tanto conocimiento como una buena exposición propia.
+::: aviso Preguntar bien también cuenta
+Una pregunta que localiza el punto débil de una propuesta ajena demuestra tanto conocimiento como una buena exposición propia.
 :::
+
+```descargas
+sda12-s13-hoja-comision.pdf | Hoja de la Comisión | Preguntas a cada dictamen, coevaluación y propuesta para el acta
+```
 
 ### Los conflictos que van a aparecer
 

@@ -2,7 +2,18 @@
 titulo: Sesión 5 · Déficit y deuda pública
 ---
 
+Déficit y deuda son las dos palabras que más se confunden en cualquier conversación sobre economía, incluidas muchas de las que oirás en televisión.
+
+Al terminar esta sesión no las vas a confundir nunca más, y además vas a saber leer una serie histórica real de treinta años y explicar qué ocurrió en cada tramo.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s05-solucion-serie.pdf | La serie comentada por tramos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>6.2</td><td><b>Saberes básicos</b></td><td>D2, A6</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: análisis de la serie de deuda en el portafolio · OD: trabajo cooperativo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,13 +38,6 @@ titulo: Sesión 5 · Déficit y deuda pública
 - ¿Es lo mismo endeudarse para pagar nóminas que para construir una línea de tren?
 - Kelton dice que un Estado con moneda propia no quiebra como una familia. ¿Se aplica a España?
 
-::: aviso Material que debes preparar tú
-- **Serie histórica de la deuda pública española sobre el PIB (1995-2024)** del Banco de España o del INE, actualizada al último dato disponible. Una copia por grupo base.
-- **Datos de la deuda de la Junta de Andalucía** para el contraste local.
-- Esquema impreso o proyectado del “contador y el saldo”.
-- Referencia actualizada de la reforma del marco fiscal europeo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -42,24 +46,15 @@ titulo: Sesión 5 · Déficit y deuda pública
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Déficit y deuda son las dos palabras que más se confunden en cualquier conversación sobre economía, incluidas muchas de las que oirás en televisión.
-
-Al terminar esta sesión no las vas a confundir nunca más, y además vas a saber leer una serie histórica real de treinta años y explicar qué ocurrió en cada tramo.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda12-s05-01.webp | Portada
+sda12-s05-01.webp | Déficit y deuda
 sda12-s05-02.webp | El contador y el saldo
 sda12-s05-03.webp | Cíclico y estructural
-sda12-s05-04.webp | Efectos de una deuda alta
-sda12-s05-05.webp | La serie de la deuda
-sda12-s05-06.webp | Preguntas del caso
-sda12-s05-07.webp | Las reglas fiscales europeas
-sda12-s05-08.webp | Referente: Stephanie Kelton
-sda12-s05-09.webp | Andalucía
+sda12-s05-04.webp | España, 1995-2026
+sda12-s05-05.webp | Stephanie Kelton
+sda12-s05-06.webp | Si el déficit baja a la mitad, ¿baja la deuda?
 ```
 
 ## Actividad · La serie de la deuda española 1995-2024
@@ -68,11 +63,16 @@ sda12-s05-09.webp | Andalucía
 
 Vuestro grupo recibe la serie de la deuda pública española sobre el PIB de las últimas tres décadas. Cuatro preguntas, en este orden:
 
+<table><thead><tr><th>Año</th><th>1995</th><th>2000</th><th>2007</th><th>2010</th><th>2012</th><th>2014</th><th>2019</th><th>2020</th><th>2022</th><th>2024</th><th>2T 2026</th></tr></thead><tbody><tr><td><b>Deuda / PIB</b></td><td>61 %</td><td>58 %</td><td>36 %</td><td>60 %</td><td>86 %</td><td>101 %</td><td>98 %</td><td>120 %</td><td>110 %</td><td>102 %</td><td>101,4 %</td></tr></tbody></table>
+
+Fuente: Banco de España, deuda según el protocolo de déficit excesivo. Valores redondeados; el del segundo trimestre de 2026 se publicó el 30 de septiembre de 2026.
+
+```descargas
+sda12-s05-serie-deuda.pdf | La serie de la deuda y las cuatro preguntas | Gráfico, tramos y explicación
+```
+
 <table><thead><tr><th width="5%"></th><th width="48%">Pregunta</th><th width="47%">Pista</th></tr></thead><tbody><tr><td>1</td><td>Identificad los cuatro grandes tramos y ponedle un nombre a cada uno.</td><td>Buscad primero los puntos de inflexión, no los valores.</td></tr><tr><td>2</td><td>¿Por qué la deuda casi se triplica entre 2008 y 2014?</td><td>Pensad en las dos cosas que pasan a la vez en una crisis. Qué ocurre con los ingresos y qué con las prestaciones.</td></tr><tr><td>3</td><td>En 2020 hay otro salto brusco. ¿Fue por el mismo motivo que en 2008?</td><td>Comparad el origen del shock y la respuesta política de cada momento.</td></tr><tr><td>4</td><td>Entre 2014 y 2019 hay crecimiento y la deuda apenas baja. ¿Qué os dice eso?</td><td>Esta es la pregunta importante. La respuesta tiene nombre y aparece en los apuntes.</td></tr></tbody></table>
 
-::: nota Esto es exactamente el saber A6
-Interpretar una serie de datos económicos reales, identificar sus tramos y explicarlos con conceptos es literalmente lo que evalúa el saber básico A6. Vuestro análisis va al portafolio (instrumento P).
-:::
 
 ## Apuntes de la sesión
 
@@ -119,4 +119,20 @@ Es una posición muy discutida y con un límite evidente para nosotros: **Españ
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>Déficit público</b></td><td>Diferencia negativa entre ingresos y gastos públicos en un periodo (flujo).</td></tr><tr><td><b>Superávit</b></td><td>Diferencia positiva entre ingresos y gastos públicos en un periodo.</td></tr><tr><td><b>Deuda pública</b></td><td>Acumulación de déficits pasados pendientes de devolución (stock).</td></tr><tr><td><b>Déficit cíclico</b></td><td>El que se debe a la fase del ciclo económico y se corrige con la recuperación.</td></tr><tr><td><b>Déficit estructural</b></td><td>El que persiste incluso en las fases expansivas del ciclo.</td></tr><tr><td><b>Prima de riesgo</b></td><td>Sobrecoste que un país paga sobre la referencia por financiarse.</td></tr><tr><td><b>Efecto expulsión</b></td><td>Desplazamiento de la inversión privada por el endeudamiento público.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Déficit público</b></td><td>Diferencia, en un año, entre lo que gastan las administraciones y lo que ingresan. En 2025, el 2,4 % del PIB.</td></tr>
+<tr><td><b>Deuda pública</b></td><td>Todo lo que deben las administraciones, acumulado año tras año. En el segundo trimestre de 2026, el 101,4 % del PIB.</td></tr>
+<tr><td><b>Déficit estructural</b></td><td>El que existiría aunque la economía estuviera en su nivel normal. No se corrige solo.</td></tr>
+<tr><td><b>Déficit cíclico</b></td><td>El que aparece por la crisis: caen los ingresos y suben los gastos en paro. Se corrige al recuperarse la economía.</td></tr>
+<tr><td><b>Prima de riesgo</b></td><td>Interés extra que paga un país frente a Alemania por la desconfianza de los inversores.</td></tr>
+<tr><td><b>Reglas fiscales europeas</b></td><td>Límites que la UE fija al déficit y a la deuda de los países miembros.</td></tr>
+<tr><td><b>Sostenibilidad de la deuda</b></td><td>Capacidad de un Estado para pagar su deuda sin que crezca sin control.</td></tr>
+<tr><td><b>Superávit</b></td><td>Lo contrario del déficit: se ingresa más de lo que se gasta.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=QGq3ByN_qY4 | Qué es la deuda pública | Econosublime · 6:12
+https://www.youtube.com/watch?v=B71APNKwpBA | Deuda pública y déficit público: diferencias | Una tapa de economía · 2:43
+```

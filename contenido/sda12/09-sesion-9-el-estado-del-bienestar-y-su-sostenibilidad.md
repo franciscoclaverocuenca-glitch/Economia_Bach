@@ -2,7 +2,18 @@
 titulo: 'Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, envejecimiento y migraciones'
 ---
 
+Antes de mirar ningún dato, escribe tu hipótesis: **en 2050, ¿cuántas personas estarán trabajando por cada pensionista?**
+
+Hoy sabrás si acertaste. Y, sobre todo, entenderás por qué esa cifra decide buena parte de los impuestos que pagarás tú.
+
 ## Guía docente · Sesión 9 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda12-s09-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda12-s09-fichas-palancas.pdf | Las cuatro fichas de palanca con datos | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>E3, D2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4 → Gran grupo</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y ficha de escenario · D: debate reglado de escenarios · OD: observación del trabajo cooperativo</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ titulo: 'Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, en
 - ¿Por qué la inmigración aparece en un debate sobre pensiones?
 - ¿Por qué las mujeres cobran, de media, pensiones más bajas?
 
-::: aviso Material que debes preparar tú
-- **Proyecciones de población** del INE y del IECA (tasa de dependencia actual y prevista para España y Andalucía).
-- **Datos de gasto en pensiones** de la AIReF y de la Seguridad Social, y el dato actual de afiliados por pensión.
-- **Cuatro fichas de escenario**, una por palanca: empleo y productividad, inmigración regularizada, impuestos y cotizaciones, edad de jubilación.
-- **Dato de la brecha de género** en las pensiones contributivas (Seguridad Social).
-- **Plantilla Cornell**, una por alumno/a.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La tasa de dependencia se presenta a la vez en cifra, en gráfico de pirámide de población y en una frase-resumen (“hoy hay tantas personas en edad de trabajar por cada mayor de 65; en 2050 habrá…”).</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; en el debate cada grupo elige quién defiende y quién responde a la pregunta cruzada.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Las pensiones se conectan con la vida real del alumnado. Las de sus abuelos y abuelas hoy y la cotización de su propio primer empleo.</td></tr></tbody></table>
@@ -43,17 +46,23 @@ titulo: 'Sesión 9 · El Estado del bienestar y su sostenibilidad: pensiones, en
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. En el debate, exige que cada grupo hable de pie y de frente, y proyecta por escrito la palanca que se está defendiendo y la pregunta cruzada.
 :::
 
-## Para empezar
 
-Antes de mirar ningún dato, escribe tu hipótesis: **en 2050, ¿cuántas personas estarán trabajando por cada pensionista?**
+## Diapositivas de la sesión
 
-Hoy sabrás si acertaste. Y, sobre todo, entenderás por qué esa cifra decide buena parte de los impuestos que pagarás tú.
+```diapositivas
+sda12-s09-01.webp | El Estado del bienestar
+sda12-s09-02.webp | Cuatro pilares
+sda12-s09-03.webp | El sistema de reparto
+sda12-s09-04.webp | ¿Cómo sostenerlo?
+sda12-s09-05.webp | No es si es sostenible, sino qué combinación elegimos y quién la paga.
+sda12-s09-06.webp | Las mujeres cobran pensiones más bajas
+```
 
 ## El Estado del bienestar: ¿quién lo pagará en 2050?
 
 ### Los pilares
 
-El **Estado del bienestar** es el conjunto de servicios y prestaciones públicas que protegen a las personas a lo largo de la vida: **sanidad, educación, pensiones y servicios sociales** (dependencia, desempleo, ayudas a las familias). Ya lo viste en la SdA 3 como un contrato social. Ahora la pregunta es otra: **cómo se financia**.
+El **Estado del bienestar** es el conjunto de servicios y prestaciones públicas que protegen a las personas a lo largo de la vida: **sanidad, educación, pensiones y servicios sociales** (dependencia, desempleo, ayudas a las familias). Ya lo viste en una unidad anterior como un contrato social. Ahora la pregunta es otra: **cómo se financia**.
 
 ### El sistema de reparto
 
@@ -75,6 +84,10 @@ Las mujeres cobran, de media, pensiones contributivas más bajas. Buena parte de
 
 Tu grupo recibe una ficha con **una palanca** y datos oficiales. Respondéis a tres preguntas y defendéis la palanca en dos minutos.
 
+```descargas
+sda12-s09-ficha-escenario.pdf | Ficha de escenario | Vuestra palanca, sus datos, las tres preguntas y quién paga
+```
+
 <table><thead><tr><th width="28%">Palanca</th><th width="36%">Qué cambia</th><th width="36%">Pregunta clave</th></tr></thead><tbody><tr><td><b>1 · Empleo y productividad</b></td><td>Más personas trabajando y mejores salarios: más cotizaciones.</td><td>¿Es realista? ¿Qué haría falta en Andalucía, con su paro estructural?</td></tr><tr><td><b>2 · Inmigración regularizada</b></td><td>Más población en edad de trabajar que cotiza.</td><td>¿Basta por sí sola? ¿Qué pasa cuando esas personas se jubilen?</td></tr><tr><td><b>3 · Impuestos y cotizaciones</b></td><td>Más ingresos públicos para pagar las pensiones.</td><td>¿Quién paga más? ¿Afecta al empleo?</td></tr><tr><td><b>4 · Edad de jubilación</b></td><td>Más años cotizando y menos cobrando.</td><td>¿Es igual de justo para todos los oficios?</td></tr></tbody></table>
 
 ```actividad
@@ -87,6 +100,40 @@ modelo: "Retrasar la edad de jubilación reduce el gasto en pensiones y aumenta 
 ## Cierre
 
 La sostenibilidad del Estado del bienestar será el **telón de fondo** de los cuatro retos de la Comisión “Pacto Fiscal 2050”. Guarda tu ficha de escenario: es material para el Dictamen.
+
+## Apuntes de la sesión
+
+### 1. Por qué preocupa el envejecimiento
+
+En un sistema de **reparto**, las cotizaciones de hoy pagan las pensiones de hoy. Si hay más personas jubiladas y menos en edad de trabajar, o se cotiza más, o se trabaja más años, o se completa con impuestos, o las pensiones crecen menos. No hay más opciones.
+
+### 2. Las cuatro palancas
+
+<table><thead><tr><th width="30%">Palanca</th><th width="70%">Qué aporta y qué cuesta</th></tr></thead><tbody><tr><td><b>Empleo y productividad</b></td><td>Más cotizantes y mejores salarios. Exige reducir el paro, que en Andalucía fue del 14,91 % en el tercer trimestre de 2026.</td></tr><tr><td><b>Inmigración regularizada</b></td><td>Más población en edad de trabajar y cotizando. Exige políticas de integración.</td></tr><tr><td><b>Más ingresos</b></td><td>Subir cotizaciones o financiar parte con impuestos. Lo pagan trabajadores, empresas o contribuyentes.</td></tr><tr><td><b>Retrasar la jubilación o ajustar pensiones</b></td><td>Menos gasto. Lo pagan quienes se jubilan.</td></tr></tbody></table>
+
+### 3. La pregunta de fondo
+
+No es si el Estado del bienestar es sostenible, sino **qué combinación de palancas** se elige y **quién soporta su coste**.
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Estado del bienestar</b></td><td>Conjunto de servicios y prestaciones públicas: sanidad, educación, pensiones y servicios sociales.</td></tr>
+<tr><td><b>Sistema de reparto</b></td><td>Las cotizaciones de quienes trabajan hoy pagan las pensiones de hoy.</td></tr>
+<tr><td><b>Sistema de capitalización</b></td><td>Cada persona ahorra para su propia pensión en una cuenta individual.</td></tr>
+<tr><td><b>Tasa de dependencia</b></td><td>Población de 65 años o más en relación con la población en edad de trabajar.</td></tr>
+<tr><td><b>Pensión contributiva</b></td><td>La que se cobra por haber cotizado un mínimo de años.</td></tr>
+<tr><td><b>Pensión no contributiva</b></td><td>La que se cobra sin haber cotizado lo suficiente, si se tienen pocos recursos.</td></tr>
+<tr><td><b>Brecha de género en pensiones</b></td><td>Diferencia entre la pensión media de hombres y mujeres, ligada a carreras interrumpidas por los cuidados.</td></tr>
+<tr><td><b>AIReF</b></td><td>Autoridad Independiente de Responsabilidad Fiscal: vigila las cuentas públicas y proyecta el gasto en pensiones.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=fjf0RC1MpE4 | El problema de las pensiones | Econosublime · 6:48
+https://www.youtube.com/watch?v=XTi8n-PtBpQ | ¿Qué es el Estado del bienestar? | En Minutos · 5:28
+```
 
 ## Comprueba lo que sabes
 

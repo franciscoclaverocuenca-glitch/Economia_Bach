@@ -2,16 +2,18 @@
 titulo: SdA 12 · ¿Quién paga el Estado?
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 12 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE5. Identificar y valorar los retos y desafíos a los que se enfrenta la economía actual, analizando el impacto de la globalización económica, la nueva economía y la revolución digital, para proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad. CE6. Analizar los problemas económicos actuales mediante el estudio de casos, la investigación y la experimentación, utilizando herramientas del análisis económico y teniendo en cuenta los factores que condicionan las decisiones de los agentes económicos.</td></tr><tr><td><b>Criterio 5.1</b></td><td>Proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad a partir de la identificación de los retos de la economía actual, valorando sus ventajas e inconvenientes y el impacto de la globalización, la nueva economía y la revolución digital en el bienestar.</td></tr><tr><td><b>Criterio 5.2</b></td><td>Comprender los retos económicos actuales analizando de forma crítica y constructiva el entorno, identificando los elementos que condicionan y transforman la economía y fomentando iniciativas que respondan a esos retos.</td></tr><tr><td><b>Criterio 6.1</b></td><td>Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas, investigando la realidad económica y aplicando las herramientas propias de la economía.</td></tr><tr><td><b>Criterio 6.2</b></td><td>Comprender y valorar la importancia del análisis de los datos, la aplicación de modelos económicos y el estudio de la viabilidad de soluciones fundamentadas al proponer medidas para mejorar el bienestar individual y social.</td></tr><tr><td><b>Saberes básicos</b></td><td><b>D2</b> La política fiscal, el Estado del bienestar y su financiación; impuestos; gasto público y presupuestos; déficit, deuda y su sostenibilidad. <b>E1</b> Globalización, desigualdad y pobreza. <b>E2</b> Nueva economía y revolución digital. <b>E3</b> Democracia, Estado del bienestar, pensiones, migraciones y economía sumergida. <b>E4</b> Decrecimiento. <b>E5</b> ODS y retos de la economía andaluza. <b>A6</b> Métodos de análisis económico.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM2 · STEM4 · CD5 · CPSAA1.2 · CPSAA4 · CPSAA5 · CC3 · CC4 · CE1 · CE2 · CE3 · CCEC2</td></tr><tr><td><b>ODS principal</b></td><td>10. Reducción de las desigualdades</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación cívica y democrática; educación en valores éticos y educación financiera (S4, S8 y S11)</td></tr><tr><td><b>Referente</b></td><td>Mariana Mazzucato (el Estado emprendedor) y Stephanie Kelton (deuda y déficit)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Historia del Mundo Contemporáneo, competencia específica 1, criterio HMCO.1.3, saber HMCO.1.A.9 (sesión 7, debate sobre austeridad o estímulo; anclajes en las sesiones 1 y 11). Pendiente de confirmar matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>14 (cierre del tercer trimestre y del curso).</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica de la sesión, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. Haz clic en cualquier miniatura para abrirlo. El mismo mazo se entrega aparte en formato .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Antes de impartir
-Este material se apoya en datos oficiales que cambian cada ejercicio (Presupuestos Generales del Estado, presupuesto de la Junta y del Ayuntamiento de Málaga, recaudación por figuras impositivas, deuda/PIB). Todas las cifras están marcadas en el texto y en la guía docente de cada sesión con el ejercicio al que corresponden. Revísalas antes de empezar la unidad.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b><b>OD</b> Observación directa</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S1 reparto · S3 impuestos · S5 deuda · S7 debate · S8 economía sumergida · S9 bienestar · S10 globalización · S11 arranque · S12 taller</td></tr><tr><td><b><b>D</b> Debate</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S1 reparto · S4 mini-debate · S7 Oxford · S9 escenarios · S13 Comisión</td></tr><tr><td><b><b>C</b> Cuestionario</b></td><td>5.2 · 6.2</td><td>S2 presupuesto participativo</td></tr><tr><td><b><b>P</b> Portafolio</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S3 · S4 · S5 · S6 · S8 · S9 · S10 · S12</td></tr><tr><td><b><b>PF</b> Producto final</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S13 dictamen</td></tr><tr><td><b><b>EO</b> Exposición oral</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S13 comparecencia</td></tr><tr><td><b><b>PE</b> Prueba escrita</b></td><td>5.1 · 5.2 · 6.1 · 6.2</td><td>S14</td></tr><tr><td><b><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</b></td><td>formativas</td><td>Co.Ev. en S3, S6 y S13 · Auto.Ev. en S14</td></tr></tbody></table>
+
+::: aviso Datos que hay que actualizar
+Recaudación (Agencia Tributaria), déficit (IGAE), deuda (Banco de España), gasto público por funciones (IGAE, Eurostat), proyecciones de pensiones (AIReF) y economía sumergida cambian cada año. A 1 de noviembre de 2026: recaudación de 2025, 325.356 millones; déficit de 2025, 2,4 % del PIB; deuda del segundo trimestre de 2026, 101,4 % del PIB. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -29,45 +31,25 @@ Esta unidad va sobre las dos caras de esa moneda: **de dónde sale el dinero pú
 - Cómo funciona la política fiscal y por qué hay dos escuelas enfrentadas sobre ella.
 - Cómo se elabora y se defiende un dictamen técnico de reforma fiscal.
 
-::: idea Elementos curriculares
-Competencias específicas **5** y **6** · Criterios de evaluación **5.1, 5.2, 6.1 y 6.2** · Saberes básicos **D2, E1, E2, E3, E4, E5** (y A6) · 14 sesiones · Tercer trimestre.
-:::
+## El reto: la Comisión de Expertos «Pacto Fiscal 2050»
 
-## El reto: Comisión de Expertos “Pacto Fiscal 2050”
+Durante esta unidad vais a ser una **Comisión de Expertos**. Vuestro encargo es redactar y defender un dictamen del **Pacto Fiscal 2050**: una reforma fiscal que permita sostener el Estado del bienestar ante el envejecimiento de la población y los retos de este siglo.
 
-Durante esta unidad no vais a ser una clase. Vais a ser una **Comisión de Expertos**. Vuestro encargo es redactar y defender el **Pacto Fiscal 2050**, un dictamen de reforma fiscal que permita sostener el Estado del Bienestar español ante el envejecimiento de la población y los retos del siglo.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas inseparables
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El dictamen de reforma fiscal</b></td><td>Un documento técnico de grupo: diagnóstico del problema, dos o tres propuestas concretas de ingreso o de gasto, una estimación con números de su impacto y las fuentes oficiales citadas.</td></tr><tr><td><b>2. La comparecencia ante la Comisión</b></td><td>La defensa oral del dictamen, las preguntas del resto de comisiones y la negociación de un acuerdo común que queda en acta.</td></tr></tbody></table>
 
-<table><thead><tr><th width="24%">Pieza</th><th width="46%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Dictamen de reforma fiscal</b></td><td>Documento técnico grupal: diagnóstico del problema, propuestas concretas de ingreso y de gasto, estimación cuantificada de su impacto y fuentes oficiales citadas.</td><td>Rúbrica · instrumento P (producción) y R (rúbrica de producto)</td></tr><tr><td><b>2. Comparecencia ante la Comisión</b></td><td>Defensa oral del dictamen, turno de preguntas del resto de comisiones y negociación de un acuerdo común de mínimos.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
-
-::: nota Por qué esto no lo puede hacer una IA por ti
-El dictamen exige datos concretos de **Málaga y Andalucía** que tendréis que buscar y verificar, una estimación cuantitativa propia y una defensa oral con réplica en directo. Una respuesta genérica se detecta en el primer turno de preguntas.
+::: nota Con datos de casa
+El dictamen tiene que usar datos concretos de **Málaga y Andalucía**, buscados y verificados por vosotros, y una estimación propia. En la Comisión os preguntarán por ellos en directo.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda12-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 5.1
@@ -87,6 +69,19 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 14 sesiones {.plegado}
 
-Estas son las catorce sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="55%">Sesión</th><th width="22%">Fase</th><th width="18%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>El Estado como agente económico, “El reparto imposible”</td><td>Movilizar + Activar</td><td>5.1 · 5.2</td></tr><tr><td>2</td><td>Exploración. La Hacienda pública por dentro y un presupuesto real</td><td>Explorar</td><td>5.2</td></tr><tr><td>3</td><td>El sistema fiscal. Para qué sirven los impuestos y qué tipos hay</td><td>Estructurar</td><td>6.1</td></tr><tr><td>4</td><td>Los grandes impuestos españoles y el principio de solidaridad</td><td>Estructurar</td><td>6.1</td></tr><tr><td>5</td><td>Cuando los ingresos no llegan: déficit y deuda pública</td><td>Estructurar</td><td>6.1 · 6.2</td></tr><tr><td>6</td><td>La política fiscal en acción: estabilizadores y multiplicador</td><td>Estructurar</td><td>6.2</td></tr><tr><td>7</td><td>El gran debate: ¿austeridad o estímulo?</td><td>Estructurar</td><td>6.2</td></tr><tr><td>8</td><td>Fraude fiscal y economía sumergida</td><td>Estructurar</td><td>6.1</td></tr><tr><td>9</td><td>El Estado del bienestar y su sostenibilidad: pensiones, envejecimiento y migraciones</td><td>Estructurar</td><td>5.1 · 5.2</td></tr><tr><td>10</td><td>Globalización y revolución digital. Los nuevos retos para financiar el Estado</td><td>Estructurar</td><td>5.1 · 5.2</td></tr><tr><td>11</td><td>Decrecimiento, ODS y retos andaluces. Constitución de la Comisión y reparto de retos</td><td>Aplicar</td><td>5.1 · 6.2</td></tr><tr><td>12</td><td>Laboratorio del Dictamen: datos, estimación y redacción</td><td>Aplicar</td><td>5.2 · 6.2</td></tr><tr><td>13</td><td>Comparecencia y negociación del Pacto Fiscal 2050</td><td>Evaluar</td><td>5.1 · 5.2 · 6.2</td></tr><tr><td>14</td><td>Prueba escrita y cierre de la unidad</td><td>Evaluar</td><td>6.1 · 6.2</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>El reparto imposible.</b> Repartís un presupuesto y lo comparáis con lo que de verdad gasta el Estado.</td></tr>
+<tr><td><b>2</b></td><td><b>Presupuesto participativo.</b> Decidís en qué gastar una partida real del centro.</td></tr>
+<tr><td><b>3</b></td><td><b>El sistema fiscal.</b> Para qué sirven los impuestos y qué tipos hay.</td></tr>
+<tr><td><b>4</b></td><td><b>Los grandes impuestos.</b> IRPF, IVA, sociedades y cotizaciones, y el principio de solidaridad.</td></tr>
+<tr><td><b>5</b></td><td><b>Déficit y deuda.</b> El contador y el saldo, con la deuda pública española.</td></tr>
+<tr><td><b>6</b></td><td><b>Política fiscal.</b> Estabilizadores automáticos y el multiplicador.</td></tr>
+<tr><td><b>7</b></td><td><b>El gran debate.</b> ¿Austeridad o estímulo? Un debate de formato Oxford.</td></tr>
+<tr><td><b>8</b></td><td><b>La economía sumergida.</b> Qué es, cuánto se estima y cómo se combate.</td></tr>
+<tr><td><b>9</b></td><td><b>El Estado del bienestar.</b> Pensiones, envejecimiento y migraciones.</td></tr>
+<tr><td><b>10</b></td><td><b>Globalización y revolución digital.</b> Impuestos en un mundo de plataformas y robots.</td></tr>
+<tr><td><b>11</b></td><td><b>Decrecimiento, ODS y retos andaluces.</b> Y arranca la Comisión.</td></tr>
+<tr><td><b>12</b></td><td><b>Taller de la Comisión.</b> Investigáis y redactáis el dictamen.</td></tr>
+<tr><td><b>13</b></td><td><b>La Comisión.</b> Defensa de los dictámenes y Pacto Fiscal 2050.</td></tr>
+<tr><td><b>14</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y cierras el curso.</td></tr>
+</tbody></table>
