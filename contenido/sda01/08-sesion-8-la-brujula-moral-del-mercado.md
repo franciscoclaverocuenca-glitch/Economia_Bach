@@ -10,6 +10,12 @@ Regla de hoy. Para hablar en el centro de la pecera hay que usar **un término e
 
 ## Guía docente · Sesión 8 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico · sesión coordinada con Filosofía</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Círculo / núcleo rotativo de 4 (Fishbowl)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>D: calidad argumentativa en el debate Fishbowl · OD: observación del uso del turno de palabra y del vocabulario económico exigido</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -81,6 +87,11 @@ La conocisteis en la sesión 4. Documentó que entre **privatizar del todo** y *
 :::
 
 ### Los casos límite de la pecera
+
+```descargas
+sda01-s08-casos-limite.pdf | Casos límite y regla de la pecera | Con ficha del círculo exterior
+```
+
 
 <table><thead><tr><th width="6%"></th><th width="94%">El caso</th></tr></thead><tbody><tr><td><b>1</b></td><td>¿Debería permitirse a los grandes fondos de inversión comprar bloques enteros de viviendas para ponerlas en alquiler, si eso <b>aumenta la oferta disponible</b> aunque sea a precios altos, o <b>vulnera el derecho</b> a una vivienda digna?</td></tr><tr><td><b>2</b></td><td>¿Es ético que un propietario multiplique el precio del alquiler de temporada en plena alta demanda turística, sabiendo que eso <b>reduce la vivienda disponible</b> para quienes viven todo el año en la ciudad?</td></tr><tr><td><b>3</b></td><td>Las <b>familias monoparentales</b>, mayoritariamente encabezadas por mujeres, tienen más dificultad para acceder a una vivienda en alquiler al depender de una única renta. ¿Es esto un problema de <b>eficiencia</b> del mercado, un problema de <b>equidad</b>, o ambos a la vez? ¿Debe la administración reservarles vivienda pública protegida, o eso limita la libertad contractual de quienes alquilan?</td></tr></tbody></table>
 

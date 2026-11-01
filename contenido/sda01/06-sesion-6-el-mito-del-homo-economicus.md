@@ -8,6 +8,12 @@ Y no con teoría. Con **tres dilemas** que probablemente hayáis vivido, o que v
 
 ## Guía docente · Sesión 6 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Parejas → Cuartetos</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación del razonamiento marginal en parejas y cuartetos · P: dictamen escrito del Consultor Racional · Co.Ev.: coevaluación entre parejas</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -77,6 +83,12 @@ El dinero de la fianza ya pagada es un **coste irrecuperable**: lo recuperes o n
 La pregunta correcta no es “¿he visto suficientes?”. Es: **¿el beneficio de ver UNO MÁS supera su coste?** Esa es la lógica del **análisis marginal**: decidir mirando la unidad adicional, no el total acumulado.
 
 ### El Consultor Racional
+
+```descargas
+sda01-s06-casos-consultor.pdf | Diez casos para el torneo | Uno por pareja y ronda
+sda01-s06-dictamen.pdf | Plantilla del dictamen | Con coevaluación
+```
+
 
 ::: aviso Vuestro caso de muestra
 “Javier lleva 8 meses pagando la hipoteca de un piso que, tras la reforma que le hizo su banco pagar de más, ya no le convence, pero sigue pagándola sin plantearse alternativas porque *ya ha invertido demasiado dinero*”. **Analiza su decisión.**

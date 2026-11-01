@@ -10,6 +10,13 @@ Tu pareja va a defender una postura que **te asignamos nosotros**. Y a mitad de 
 
 ## Guía docente · Sesión 1 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda01-s01-guia-noticias.pdf | Fuentes de las noticias | Solo docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (con introducción a 1.3)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la argumentación durante la controversia estructurada · D: calidad del debate por parejas y del manifiesto conjunto</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -60,7 +67,7 @@ sda1-s01-09.webp | Tres fases
 sda1-s01-10.webp | Vuestra controversia
 sda1-s01-11.webp | Lo que hemos acordado
 sda1-s01-12.webp | El reto final: un juicio
-sda1-s01-13.webp | Cuatro partes enfrentadas
+sda1-s01-13.webp | Cuatro partes y un jurado sorteado
 sda1-s01-14.webp | De hoy al juicio
 sda1-s01-15.webp | Cómo se sube de nivel
 sda1-s01-16.webp | Esta vez, normativo
@@ -72,7 +79,12 @@ sda1-s01-18.webp | Cuando algo no llega para todos, hay que elegir
 
 ### Las cuatro noticias
 
-<table><thead><tr><th width="26%">Foco</th><th width="74%">De qué habla</th></tr></thead><tbody><tr><td><b>El alquiler se dispara</b></td><td>Cómo el alquiler llega a absorber buena parte del salario de muchas familias malagueñas, y las movilizaciones del Sindicato de Inquilinas e Inquilinos de Málaga.</td></tr><tr><td><b>El precio de comprar</b></td><td>El precio medio de la vivienda en Málaga capital ronda ya los 3.800 €/m² y sigue subiendo. Uno de los ritmos más altos de España tras Madrid y Barcelona.</td></tr><tr><td><b>La provincia con más pisos turísticos</b></td><td>Según el INE, Málaga es la provincia española con más viviendas de uso turístico, más de 45.000, lo que reduce la oferta residencial disponible.</td></tr><tr><td><b>Los grandes propietarios</b></td><td>Los “grandes tenedores” de vivienda en alquiler (bancos y fondos de inversión), con Andalucía como segunda comunidad con mayor concentración tras Madrid.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Foco</th><th width="74%">De qué habla</th></tr></thead><tbody><tr><td><b>El alquiler y los salarios</b></td><td>Miles de personas se manifiestan en Málaga contra unos alquileres que se llevan buena parte del sueldo. <a href="https://www.elespanol.com/malaga/20260627/malaga-sale-calle-problema-vivienda-alquileres-nubes-salarios-suelos/1003744302371_0.html">El Español, junio de 2026</a></td></tr><tr><td><b>El precio de comprar</b></td><td>La vivienda en Málaga capital marca un máximo histórico: 3.938 €/m² de media en agosto. <a href="https://www.idealista.com/news/node/909783">idealista, septiembre de 2026</a></td></tr><tr><td><b>Las viviendas turísticas</b></td><td>Por primera vez en años baja la oferta de pisos turísticos en la provincia, tras la regulación. <a href="https://www.elespanol.com/malaga/20260625/regulacion-empieza-tumbar-boom-vivienda-turistica-malaga-ano/1003744298178_0.html">El Español, junio de 2026</a></td></tr><tr><td><b>¿Quién es el casero?</b></td><td>Unos pocos fondos y bancos acumulan decenas de miles de pisos, pero la mayoría del alquiler sigue en manos de particulares. <a href="https://forbes.es/economia/437679/caixabank-y-blackstone-los-dos-mayores-caseros-del-pais-acumulan-41-000-viviendas-alquiladas-segun-civio/">Forbes, con datos de Civio</a></td></tr></tbody></table>
+
+```descargas
+sda01-s01-noticias.pdf | Las cuatro noticias | Resumen, datos clave y preguntas
+sda01-s01-manifiesto.pdf | Controversia y manifiesto | Notas del debate y tres medidas
+```
 
 ### Las dos posturas asignadas
 
@@ -93,9 +105,11 @@ Defender lo que no piensas obliga a entenderlo. Y es lo que hace posible la fase
 En la sesión 10 el aula se convertirá en un tribunal. **Cuatro partes** con intereses enfrentados defenderán su postura hasta llegar a un veredicto económico razonado:
 
 1. Fondos de inversión y grandes tenedores de vivienda.
-2. Constructoras y promotoras de Málaga.
-3. Plataforma vecinal e inquilina por el derecho a la vivienda.
-4. Administración pública y Tribunal de Expertos.
+2. Pequeños propietarios.
+3. Constructoras y promotoras de Málaga.
+4. Plataforma vecinal e inquilina por el derecho a la vivienda.
+
+El veredicto lo dictará un **jurado** formado por un miembro de cada grupo, elegido por sorteo el mismo día del juicio.
 
 Cada grupo base representará una parte, preparará un **dossier estructurado** y defenderá su postura oralmente.
 
@@ -111,7 +125,11 @@ Quédate con esta pregunta: no la respondemos hoy. La recuperamos en la sesión 
 
 ## Las rúbricas de la unidad
 
-Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html).
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
+
+```descargas
+sda01-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ### Cómo se leen
 
@@ -133,7 +151,7 @@ La Economía se puede explicar con ejemplos abstractos, pero es más útil empez
 
 ### Las cuatro noticias, en clave económica
 
-<table><thead><tr><th width="34%">La noticia</th><th width="66%">El concepto económico que hay detrás</th></tr></thead><tbody><tr><td><b>El alquiler absorbe buena parte del salario</b></td><td>La <b>tasa de esfuerzo</b>: el porcentaje de la renta que un hogar dedica a la vivienda. Por encima del 30-35 % se considera que la vivienda empieza a desplazar otros gastos básicos.</td></tr><tr><td><b>El precio de compra sube con fuerza</b></td><td>El precio funciona como una <b>señal de escasez</b>. Cuando muchas personas quieren lo mismo y no hay suficiente, el precio sube.</td></tr><tr><td><b>Más de 45.000 viviendas de uso turístico</b></td><td><b>Usos alternativos</b> de un mismo recurso. Cada vivienda dedicada al turismo es una vivienda que no está en el mercado residencial: ese es su coste de oportunidad.</td></tr><tr><td><b>Concentración de grandes tenedores</b></td><td>Cambia <b>quién decide</b> el precio y en qué condiciones. No es lo mismo un mercado de miles de pequeños propietarios que uno con pocos actores grandes.</td></tr></tbody></table>
+<table><thead><tr><th width="34%">La noticia</th><th width="66%">El concepto económico que hay detrás</th></tr></thead><tbody><tr><td><b>El alquiler absorbe buena parte del salario</b></td><td>La <b>tasa de esfuerzo</b>: el porcentaje de la renta que un hogar dedica a la vivienda. Por encima del 30-35 % se considera que la vivienda empieza a desplazar otros gastos básicos.</td></tr><tr><td><b>El precio de compra sube con fuerza</b></td><td>El precio funciona como una <b>señal de escasez</b>. Cuando muchas personas quieren lo mismo y no hay suficiente, el precio sube.</td></tr><tr><td><b>Las viviendas turísticas</b></td><td><b>Usos alternativos</b> de un mismo recurso. Cada vivienda dedicada al turismo es una vivienda que no está en el mercado residencial: ese es su coste de oportunidad.</td></tr><tr><td><b>¿Quién es el casero?</b></td><td>Cambia <b>quién decide</b> el precio y en qué condiciones. No es lo mismo un mercado de miles de pequeños propietarios que uno con pocos actores grandes.</td></tr></tbody></table>
 
 ### Glosario de la sesión
 

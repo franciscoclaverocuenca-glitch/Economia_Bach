@@ -10,6 +10,13 @@ Cuando las dos fuentes no coincidan, y no van a coincidir, tendréis que decidir
 
 ## Guía docente · Sesión 2 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s02-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda01-s02-distritos.pdf | Reparto de distritos y fuentes | Solo docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad de indagación con fuentes reales</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 (contextualización)</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro del grupo base · puesta en común en gran grupo</td><td><b>Carácter</b></td><td>Formativa · primera entrada del portafolio de la unidad</td></tr><tr><td><b>Instrumentos</b></td><td>OD: lista de cotejo de tres ítems durante la investigación · P: ficha de recogida de datos con conclusión y pregunta pendiente</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -71,6 +78,11 @@ sda1-s02-16.webp | Un precio alto es el síntoma de que algo escasea
 ## El mapa de precios
 
 ### Vuestro distrito y vuestros cuatro datos
+
+```descargas
+sda01-s02-ficha-datos.pdf | Ficha de recogida de datos | Cuatro datos, dos fuentes
+```
+
 
 <table><thead><tr><th width="5%"></th><th width="37%">Dato</th><th width="29%">Fuente 1</th><th width="29%">Fuente 2</th></tr></thead><tbody><tr><td>1</td><td>Precio medio del <b>alquiler</b></td><td></td><td></td></tr><tr><td>2</td><td>Precio medio de <b>compra</b> por m²</td><td></td><td></td></tr><tr><td>3</td><td><b>Número de anuncios</b> disponibles</td><td></td><td></td></tr><tr><td>4</td><td><b>Superficie media</b> ofertada</td><td></td><td></td></tr></tbody></table>
 

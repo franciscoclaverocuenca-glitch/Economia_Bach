@@ -61,6 +61,8 @@ export function crearMarkdown(ctx) {
           return renderVideo(contenido);
         case 'enlace-anonimo':
           return renderEnlaceAnonimo(cargarYaml(contenido, 'enlace-anonimo'), ctx);
+        case 'descargas':
+          return renderDescargas(contenido, ctx);
         case 'mapa-precios':
           return renderMapa(cargarYaml(contenido, 'mapa-precios'), ctx);
         case 'simulador':
@@ -221,4 +223,17 @@ function renderMapa(d, ctx) {
     `<p class="act-pie"><button type="button" class="boton-sec" data-mapa-csv>Descargar los datos (CSV)</button> <button type="button" class="boton-sec" data-mapa-borrar>Vaciar el mapa</button> <span class="act-res" aria-live="polite"></span></p></details>` +
     `<noscript><p class="sin-js">El mapa necesita JavaScript.</p></noscript></div>\n`
   );
+}
+
+// Archivos descargables: una línea por archivo, «fichero | título | descripción»
+function renderDescargas(contenido, ctx) {
+  const kb = (b) => (b > 1048576 ? `${(b / 1048576).toFixed(1).replace('.', ',')} MB` : `${Math.max(1, Math.round(b / 1024))} KB`);
+  const items = contenido.split(/\r?\n/).map((l) => l.trim()).filter(Boolean).map((l) => {
+    const [f, titulo, desc] = l.split('|').map((x) => x.trim());
+    const a = ctx.archivo(f);
+    if (!a) return '';
+    const ext = f.split('.').pop().toUpperCase();
+    return `<li><a class="descarga" href="archivos/${esc(f)}" download><span class="descarga-ext">${esc(ext)}</span><span class="descarga-txt"><b>${esc(titulo || f)}</b>${desc ? `<small>${esc(desc)}</small>` : ''}</span><span class="descarga-peso">${kb(a.bytes)}</span></a></li>`;
+  });
+  return `<ul class="descargas">${items.join('')}</ul>\n`;
 }

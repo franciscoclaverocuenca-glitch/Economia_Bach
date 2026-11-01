@@ -388,3 +388,15 @@ h1,h2,h3,h4{font-family:var(--display);line-height:1.12;color:var(--texto);font-
 .caja-esquema li:not(:last-child)::after{content:"→";position:absolute;right:-12px;top:50%;transform:translateY(-50%);color:var(--teja);font-weight:700;z-index:1;background:var(--blanco);line-height:1}
 .bloque.docente .caja-esquema li{background:var(--blanco)}
 @media (max-width:640px){.caja-esquema li:not(:last-child)::after{content:"↓";right:50%;top:auto;bottom:-14px;transform:translateX(50%)}}
+
+/* descargas */
+.descargas{list-style:none;padding:0!important;margin:14px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.descargas li{margin:0!important}
+.descarga{display:flex;align-items:center;gap:12px;padding:12px 14px;border-radius:var(--radio-s);background:var(--fondo);text-decoration:none!important;color:var(--texto);transition:background .2s}
+.descarga:hover{background:var(--azul-claro)}
+.descarga-ext{flex:none;width:42px;height:42px;border-radius:10px;background:var(--teja);color:#fff;font-size:12px;font-weight:700;display:grid;place-items:center}
+.descarga-txt{flex:1;min-width:0;display:flex;flex-direction:column;line-height:1.3}
+.descarga-txt b{font-weight:600;font-size:15px}
+.descarga-txt small{font-size:13px;color:var(--suave)}
+.descarga-peso{font-size:12px;color:var(--suave);white-space:nowrap}
+.bloque.docente .descarga{background:var(--blanco)}

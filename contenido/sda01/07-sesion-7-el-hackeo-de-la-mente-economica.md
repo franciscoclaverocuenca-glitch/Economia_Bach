@@ -8,6 +8,13 @@ Y no vamos a avisaros de cuándo empieza. Después analizaremos vuestras propias
 
 ## Guía docente · Sesión 7 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda01-s07-experimentos.pdf | Papeletas de los experimentos | Solo docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo sobre sesgos cognitivos · OD: observación del diseño de la propuesta de Nudge en equipo · Co.Ev.: coevaluación de las propuestas expuestas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -69,6 +76,11 @@ No es que seamos irracionales: nuestra racionalidad tiene **límites**. Decidimo
 
 
 ### Diseñadores de Nudges
+
+```descargas
+sda01-s07-ficha-nudge.pdf | Ficha de diseño del nudge | Para el grupo base
+```
+
 
 Un *nudge* es un cambio en el entorno que altera el comportamiento de forma predecible **sin prohibir nada** y sin cambiar los incentivos económicos.
 

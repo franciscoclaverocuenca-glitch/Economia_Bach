@@ -10,6 +10,13 @@ Y empezamos con una pregunta:
 
 ## Guía docente · Sesión 4 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda01-s04-grupos-base.pdf | Composición de los grupos base | Solo docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2</td><td><b>Saberes básicos</b></td><td>A1, A2</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: cierre individual del Cornell (columna izquierda + resumen de 3 líneas)</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización

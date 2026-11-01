@@ -10,6 +10,12 @@ Y una exigencia innegociable: **al menos un dato oficial**.
 
 ## Guía docente · Sesión 9 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s09-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de consolidación y repaso</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 + 1.3 (preparación; no se califica de forma sumativa)</td><td><b>Saberes básicos</b></td><td>A1, A2, A5, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base heterogéneos de 4</td><td><b>Carácter</b></td><td>Formativa (taller de trabajo cooperativo, no calificable)</td></tr><tr><td><b>Instrumentos</b></td><td>OD: seguimiento formativo del proceso de elaboración del dossier y del alegato</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -60,10 +66,21 @@ sda1-s09-10.webp | Ensayad el alegato en voz alta
 
 ## Las cuatro partes del Juicio
 
-<table><thead><tr><th width="5%"></th><th width="26%">La parte</th><th width="69%">Qué defiende</th></tr></thead><tbody><tr><td><b>1</b></td><td>Fondos de Inversión y Grandes Tenedores de Vivienda</td><td>La vivienda como <b>activo de inversión legítimo</b>: su actividad aumenta la oferta de alquiler disponible, genera rentabilidad y atrae inversión a la ciudad. Representan también a las familias con patrimonio que han ahorrado toda su vida y ven en su vivienda un activo cuyo valor no quieren ver reducido por la regulación.</td></tr><tr><td><b>2</b></td><td>Constructoras y Promotoras de Málaga</td><td>Condiciones realistas para poder construir, analizando el <b>coste de oportunidad</b> de dedicar suelo y capital a vivienda protegida a precio regulado frente a vivienda libre, en un contexto de subida de costes de materiales y mano de obra.</td></tr><tr><td><b>3</b></td><td>Plataforma Vecinal e Inquilina por el Derecho a la Vivienda</td><td>El acceso a la vivienda bajo criterios <b>éticos y de equidad</b>. Agrupa tanto a trabajadores de sectores como la hostelería con salarios cercanos al mínimo que no llegan a pagar el alquiler, como a jóvenes con empleos cualificados que no logran ahorrar la entrada ni cumplir el límite prudente del 33 % de esfuerzo. Prioriza las necesidades primarias (Maslow) frente al beneficio empresarial.</td></tr><tr><td><b>4</b></td><td>Administración Pública y Tribunal de Expertos</td><td><b>No defiende una parte</b>: modera el debate, plantea preguntas sobre vivienda pública frente a vivienda de mercado, y dicta una sentencia que maximice el bienestar social equilibrando eficiencia y equidad. Dispone de herramientas reales. Declarar zonas de mercado residencial tensionado, construir vivienda pública o habilitar nuevo suelo urbanizable.</td></tr></tbody></table>
+```descargas
+sda01-s09-partes.pdf | Las cuatro partes | Qué defiende cada una y dónde buscar datos
+sda01-s09-dossier.pdf | Plantilla del dossier | Una por grupo
+sda01-s09-alegato.pdf | Guion del alegato | Dos minutos en cinco pasos
+```
 
-::: aviso Una nota sobre la Parte 1
-No es “los malos”. Representa también a familias que han ahorrado toda su vida y cuyo patrimonio es su vivienda. Defender bien esa parte exige entender por qué su posición es legítima para quien la sostiene, no caricaturizarla.
+
+<table><thead><tr><th width="5%"></th><th width="26%">La parte</th><th width="69%">Qué defiende</th></tr></thead><tbody><tr><td><b>1</b></td><td>Fondos de inversión y grandes tenedores</td><td>La vivienda como <b>activo de inversión legítimo</b>: su capital construye y rehabilita, y aumenta la oferta de alquiler profesional con contratos largos y estables.</td></tr><tr><td><b>2</b></td><td>Pequeños propietarios</td><td>Familias que han ahorrado toda su vida y alquilan <b>uno o dos pisos</b> para completar su sueldo o su pensión. Son la mayoría de los caseros en España. Temen los impagos y que la regulación les trate como a un gran fondo.</td></tr><tr><td><b>3</b></td><td>Constructoras y promotoras de Málaga</td><td>Condiciones realistas para poder construir, analizando el <b>coste de oportunidad</b> de dedicar suelo y capital a vivienda protegida a precio regulado frente a vivienda libre, con costes de materiales y mano de obra al alza.</td></tr><tr><td><b>4</b></td><td>Plataforma vecinal e inquilina</td><td>El acceso a la vivienda bajo criterios <b>éticos y de equidad</b>. Agrupa a trabajadores con salarios cercanos al mínimo que no llegan a pagar el alquiler y a jóvenes que no logran ahorrar la entrada. Prioriza las necesidades primarias frente al beneficio.</td></tr></tbody></table>
+
+::: aviso Ninguna parte es “la mala”
+Fondos y pequeños propietarios no defienden lo mismo: un fondo gestiona miles de pisos como inversión; una familia alquila el piso de la abuela para llegar a fin de mes. Defender bien cualquier parte exige entender por qué su posición es legítima para quien la sostiene.
+:::
+
+::: nota Cualquiera puede ser jurado
+Al empezar el juicio se sortea un miembro de cada grupo para formar el Tribunal. Quien salga deja su parte y juzga a todas. Por eso **todo el grupo** debe conocer el dossier y los argumentos de las demás partes.
 :::
 
 ## El laboratorio: dossier y alegato

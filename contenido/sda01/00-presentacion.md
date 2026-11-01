@@ -29,22 +29,28 @@ Málaga tiene un problema de vivienda, y ese problema es **económico**. Esta un
 
 ## El reto: el Juicio simulado
 
-En la sesión 10 el aula se convierte en un **tribunal**. Cuatro partes con intereses enfrentados defienden su postura sobre la vivienda en Málaga, se someten a un careo y escuchan un veredicto económico razonado.
+En la sesión 10 el aula se convierte en un **tribunal**. Cuatro partes con intereses enfrentados defienden su postura sobre la vivienda en Málaga, se someten a un careo y un jurado sorteado entre vosotros dicta un veredicto económico razonado.
 
 ### Lo que vais a preparar
 
 <table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El dossier grupal</b></td><td>Un documento que analiza el caso de la vivienda en Málaga con las herramientas de la unidad y que incluye <b>al menos un dato oficial</b> (IECA, INE, Banco de España o Ministerio de Vivienda) sobre vivienda turística, tasa de esfuerzo, grandes tenedores o desahucios.</td></tr><tr><td><b>2. El Juicio simulado</b></td><td>Un alegato inicial de 2 minutos, un careo con preguntas cruzadas del Tribunal y un veredicto final que equilibre eficiencia y equidad.</td></tr></tbody></table>
 
 ::: aviso Las cuatro partes del Juicio
-1. **Fondos de Inversión y Grandes Tenedores**, la vivienda como activo de inversión legítimo, que aumenta la oferta de alquiler y atrae capital a la ciudad.
-2. **Constructoras y Promotoras de Málaga**, condiciones realistas para construir, analizando el coste de oportunidad de destinar suelo a vivienda protegida frente a vivienda libre.
-3. **Plataforma Vecinal e Inquilina**, el acceso a la vivienda bajo criterios éticos y de equidad, priorizando las necesidades humanas primarias.
-4. **Administración Pública y Tribunal de Expertos**, moderan, preguntan y dictan un veredicto que maximice el bienestar social equilibrando eficiencia y equidad.
+1. **Fondos de inversión y grandes tenedores**, la vivienda como inversión legítima que aporta capital y aumenta la oferta de alquiler.
+2. **Pequeños propietarios**, familias que han ahorrado toda su vida y alquilan uno o dos pisos para completar su sueldo o su pensión.
+3. **Constructoras y promotoras de Málaga**, condiciones realistas para construir y el coste de oportunidad de la vivienda protegida frente a la libre.
+4. **Plataforma vecinal e inquilina**, el acceso a la vivienda como necesidad y derecho de quien vive aquí.
+
+Y un **Tribunal** que no se elige hasta el último momento: al empezar el juicio se sortea un miembro de cada grupo para formar el jurado, que preside el docente. Por eso todo el grupo debe dominar el caso completo.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
 Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
+
+```descargas
+sda01-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 1.2

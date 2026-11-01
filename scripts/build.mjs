@@ -47,6 +47,14 @@ function copiarAssets(destino, { scorm }) {
   }
 }
 
+function copiarArchivos(unidad, nombres, destinoUnidad) {
+  for (const n of nombres) {
+    const d = path.join(destinoUnidad, 'archivos', n);
+    fs.mkdirSync(path.dirname(d), { recursive: true });
+    fs.copyFileSync(path.join(RAIZ, 'contenido', unidad.carpeta, 'archivos', n), d);
+  }
+}
+
 function listarFicheros(dir, base = dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => {
     const p = path.join(dir, e.name);
@@ -57,6 +65,7 @@ function listarFicheros(dir, base = dir) {
 /** Renderiza todas las páginas de una unidad en un modo («web» o «scorm»). */
 function renderUnidad(curso, unidad, imagenes, modo) {
   const usadas = new Set();
+  const archivos = new Set();
   const ids = new Map();
   const indice = { puntuables: {}, totalPuntuable: 0, revisar: 0, actividades: {} };
   let paginaActual = null;
@@ -71,6 +80,15 @@ function renderUnidad(curso, unidad, imagenes, modo) {
       }
       usadas.add(img.nombre);
       return img;
+    },
+    archivo(nombre) {
+      const f = path.join(RAIZ, 'contenido', unidad.carpeta, 'archivos', nombre);
+      if (!fs.existsSync(f)) {
+        errores.push(`${paginaActual.fichero}: no existe el archivo «${nombre}» en ${unidad.carpeta}/archivos/`);
+        return null;
+      }
+      archivos.add(nombre);
+      return { nombre, bytes: fs.statSync(f).size };
     },
     registrarActividad(d) {
       if (ids.has(d.id)) errores.push(`${paginaActual.fichero}: el id de actividad «${d.id}» ya se usa en ${ids.get(d.id)}`);
@@ -99,7 +117,7 @@ function renderUnidad(curso, unidad, imagenes, modo) {
     salida: pagina.salida,
     html: plantillaPagina({ curso, unidad, pagina, indice, html: cuerpos[i], modo }),
   }));
-  return { paginas, usadas, indice };
+  return { paginas, usadas, indice, archivos };
 }
 
 function zip(dir, destino) {
@@ -124,7 +142,7 @@ async function main() {
   for (const unidad of curso.unidades) {
     // materiales del docente: materiales/sdaXX_anexo.pdf y materiales/sdaXX_diapositivas.zip
     const mat = (suf) => (fs.existsSync(path.join(RAIZ, 'materiales', `${unidad.carpeta}${suf}`)) ? `${unidad.carpeta}${suf}` : null);
-    unidad.materiales = { anexo: mat('_anexo.pdf'), diapositivas: mat('_diapositivas.zip') };
+    unidad.materiales = { anexo: mat('_anexo.pdf'), diapositivas: mat('_diapositivas.zip'), editables: mat('_editables.zip') };
 
     const imagenes = await prepararImagenes(unidad);
 
@@ -132,7 +150,7 @@ async function main() {
     const web = renderUnidad(curso, unidad, imagenes, 'web');
     const dirWeb = path.join(DIST, unidad.carpeta);
     for (const p of web.paginas) escribir(path.join(dirWeb, p.salida), p.html);
-    if (!SOLO_COMPROBAR) copiarImagenes(unidad, web.usadas, dirWeb);
+    if (!SOLO_COMPROBAR) { copiarImagenes(unidad, web.usadas, dirWeb); copiarArchivos(unidad, web.archivos, dirWeb); }
     if (web.indice.revisar) avisos.push(`${unidad.carpeta}: ${web.indice.revisar} actividades con «revisar: true» (claves pendientes de revisión)`);
 
     // SCORM (sin guía docente)
@@ -144,6 +162,7 @@ async function main() {
         const dirU = path.join(raiz, unidad.carpeta);
         for (const p of sc.paginas) escribir(path.join(dirU, p.salida), p.html);
         copiarImagenes(unidad, sc.usadas, dirU);
+        copiarArchivos(unidad, sc.archivos, dirU);
         copiarAssets(raiz, { scorm: true });
         escribir(path.join(raiz, 'index.html'), plantillaScormInicio(unidad));
         const ficheros = listarFicheros(raiz);

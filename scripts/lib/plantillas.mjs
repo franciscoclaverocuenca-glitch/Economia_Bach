@@ -138,6 +138,7 @@ export function plantillaPortada({ curso, scormDisponible }) {
               ${[
                 u.materiales?.diapositivas ? `<a href="materiales/${u.materiales.diapositivas}">diapositivas (.pptx)</a>` : '',
                 u.materiales?.anexo ? `<a href="materiales/${u.materiales.anexo}">anexo imprimible (PDF)</a>` : '',
+                u.materiales?.editables ? `<a href="materiales/${u.materiales.editables}">materiales editables (.docx)</a>` : '',
                 scormDisponible ? `<a href="scorm/${u.carpeta}.zip" download>paquete SCORM</a>` : '',
               ].filter(Boolean).join(' · ')}
             </p>

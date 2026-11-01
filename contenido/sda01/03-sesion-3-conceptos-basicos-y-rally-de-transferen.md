@@ -8,6 +8,12 @@ Primero una explicación corta de los conceptos clave, que tú anotarás con tus
 
 ## Guía docente · Sesión 3 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Cuartetos</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio y de coevaluación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell y pasaporte de respuestas del Rally · OD: observación docente durante el Rally en parejas · Co.Ev.: escala de dedos (1-4) en la Ruleta de Expertos</td><td><b>Duración</b></td><td>60 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -84,6 +90,12 @@ explicacion: Fíjate en que el **coste de oportunidad** no es lo que pagas, sino
 ```
 
 ## Rally de Transferencia · “El Mercado de Problemas”
+
+```descargas
+sda01-s03-tarjetas-rally.pdf | Las ocho tarjetas del rally | A4 apaisado
+sda01-s03-pasaporte.pdf | Pasaporte de respuestas | Un folio por pareja
+```
+
 
 ### Los conceptos que necesitáis
 

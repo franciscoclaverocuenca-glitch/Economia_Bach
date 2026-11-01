@@ -10,6 +10,12 @@ Tened a mano vuestros apuntes: los vais a necesitar en cada reto.
 
 ## Guía docente · Sesión 5 {.docente .plegado}
 
+### Material de la sesión
+
+```descargas
+sda01-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
+
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.2 + 1.3</td><td><b>Saberes básicos</b></td><td>A1, A2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: dossier de respuestas del caso · OD: observación del reparto de roles y del trabajo cooperativo · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
 ### Temporalización
@@ -63,6 +69,12 @@ sda1-s05-14.webp | En una isla o en Málaga, el problema es el mismo
 ```
 
 ## El retorno a la Isla Utopía
+
+```descargas
+sda01-s05-isla-utopia.pdf | Dossier del caso | Escenario, retos y folio de respuestas
+sda01-s05-roles.pdf | Tarjetas de roles | Una por persona
+```
+
 
 ### Los cuatro roles del grupo
 
