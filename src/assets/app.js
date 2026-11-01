@@ -687,6 +687,25 @@
       a.addEventListener('focus', () => on(true));
       a.addEventListener('blur', () => on(false));
     });
+    // carruseles de cada trimestre
+    $$('.trimestre').forEach((s) => {
+      const c = $('.carrusel', s);
+      const [ant, sig] = $$('[data-mover]', s);
+      if (!c || !ant) return;
+      const estado = () => {
+        ant.disabled = c.scrollLeft < 8;
+        sig.disabled = c.scrollLeft + c.clientWidth >= c.scrollWidth - 8;
+        $('.carrusel-botones', s).hidden = c.scrollWidth <= c.clientWidth + 8;
+      };
+      $$('[data-mover]', s).forEach((b) => b.addEventListener('click', () => {
+        const paso = ($('.ud:not(.oculta)', c)?.offsetWidth || 400) + 20;
+        c.scrollBy({ left: paso * Number(b.dataset.mover), behavior: 'smooth' });
+      }));
+      c.addEventListener('scroll', estado, { passive: true });
+      window.addEventListener('resize', estado);
+      q.addEventListener('input', () => setTimeout(estado, 0));
+      estado();
+    });
     // las voces del curso: una al azar en cada visita
     const voces = $('[data-voces]');
     if (voces) {

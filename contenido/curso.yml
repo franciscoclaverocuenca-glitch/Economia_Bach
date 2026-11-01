@@ -12,8 +12,8 @@ licencia_url: https://creativecommons.org/licenses/by-sa/4.0/deed.es
 
 portada:
   etiqueta: Humanidades y Ciencias Sociales
-  # El texto entre *asteriscos* se resalta en color.
-  titular: Doce retos para entender la *economía*
+  # Titular de la portada: aparece tras "Economía." en gris.
+  titular: Doce retos para entender cómo funciona el mundo
   entradilla: >-
     Cada unidad arranca con un reto sin respuesta fácil y termina con algo que
     construyes tú, ya sea un juicio, una cumbre, una campaña, un mercado montado en el aula.

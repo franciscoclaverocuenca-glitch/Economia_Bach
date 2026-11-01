@@ -18,15 +18,7 @@ const SOLO_COMPROBAR = args.has('--solo-comprobar');
 const DIST = path.join(RAIZ, 'dist');
 const TMP = path.join(RAIZ, '.cache', 'scorm');
 const ASSETS = path.join(RAIZ, 'src', 'assets');
-const FUENTES = [
-  ['@fontsource/alegreya/files', 'alegreya-latin-400-normal.woff2'],
-  ['@fontsource/alegreya/files', 'alegreya-latin-400-italic.woff2'],
-  ['@fontsource/alegreya/files', 'alegreya-latin-700-normal.woff2'],
-  ['@fontsource/alegreya/files', 'alegreya-latin-800-normal.woff2'],
-  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-400-normal.woff2'],
-  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-500-normal.woff2'],
-  ['@fontsource/alegreya-sans/files', 'alegreya-sans-latin-700-normal.woff2'],
-];
+const FUENTES = []; // tipografía del sistema (SF Pro en Apple, Segoe UI en Windows)
 
 const errores = [];
 const avisos = [];
