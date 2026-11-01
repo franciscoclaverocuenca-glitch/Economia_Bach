@@ -2,7 +2,17 @@
 titulo: Sesión 8 · La economía de mercado
 ---
 
+Hoy y mañana estudiáis dos sistemas económicos con **exactamente el mismo formato** y **exactamente el mismo rigor**.
+
+Empezamos por la economía de mercado. La misma ficha de cuatro apartados que rellenéis hoy la rellenaréis mañana para la planificación central. Y en la sesión 10 las pondréis lado a lado.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda02-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico (estudio de caso)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual / Gran grupo</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de análisis del caso · C: cuestionario formativo breve</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +39,6 @@ Presenta de forma **documentada** tanto sus logros habituales (innovación, vari
 - ¿Cómo funcionan los precios como señales sin que nadie los calcule?
 - ¿Cuál es el límite documentado que más te ha llamado la atención?
 
-::: aviso Material que debes preparar tú
-- **Ficha de caso real** de una economía predominantemente de mercado, con datos suficientes para completar los cuatro apartados.
-- **Plantilla Cornell** y **ficha de análisis de cuatro apartados**, una por alumno/a.
-- **La misma ficha se usará mañana** para la planificación central: consérvala.
-- Los apuntes del puzzle de la sesión 6.
-- **Cuestionario formativo** de repaso, breve.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La ficha de cuatro apartados fijos estructura el análisis y se repite idéntica en la sesión siguiente, lo que automatiza el procedimiento y hace posible la comparación posterior.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Logros y límites se presentan con el mismo formato y el mismo rigor documental, evitando que el alumnado reciba un juicio cerrado en lugar de material para juzgar.</td></tr></tbody></table>
@@ -45,21 +47,19 @@ Presenta de forma **documentada** tanto sus logros habituales (innovación, vari
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy y mañana estudiáis dos sistemas económicos con **exactamente el mismo formato** y **exactamente el mismo rigor**.
-
-Empezamos por la economía de mercado. La misma ficha de cuatro apartados que rellenéis hoy la rellenaréis mañana para la planificación central. Y en la sesión 10 las pondréis lado a lado.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda2-s08-01.webp | Portada
-sda2-s08-02.webp | Los tres rasgos
-sda2-s08-03.webp | Quién responde a las tres preguntas
-sda2-s08-04.webp | Logros y límites
-sda2-s08-05.webp | Vuestra ficha
-sda2-s08-06.webp | Por qué la misma ficha
+sda2-s08-01.webp | La economía de mercado
+sda2-s08-02.webp | ¿Quién decidió cuántas barras de pan habría hoy en las panaderías…
+sda2-s08-03.webp | Qué la define
+sda2-s08-04.webp | Cómo responde el mercado
+sda2-s08-05.webp | La mano invisible
+sda2-s08-06.webp | Los precios como información
+sda2-s08-07.webp | Logros y límites
+sda2-s08-08.webp | La ficha de cuatro apartados
+sda2-s08-09.webp | Medir con la misma vara
+sda2-s08-10.webp | El mercado coordina sin que nadie mande
 ```
 
 ## Estudio de caso: la economía de mercado
@@ -78,7 +78,12 @@ sda2-s08-06.webp | Por qué la misma ficha
 
 ### Vuestra ficha de cuatro apartados
 
-<table><thead><tr><th width="6%"></th><th width="44%">Apartado</th><th width="50%">Vuestra respuesta</th></tr></thead><tbody><tr><td><b>1</b></td><td>Cómo responde este sistema a las TRES preguntas básicas</td><td></td></tr><tr><td><b>2</b></td><td>Un DATO que ilustre su funcionamiento</td><td></td></tr><tr><td><b>3</b></td><td>Una VENTAJA documentada</td><td></td></tr><tr><td><b>4</b></td><td>Una CRÍTICA documentada</td><td></td></tr></tbody></table>
+Rellenad la ficha con lo que encontréis en el dossier. Cada apartado debe poder señalarse en el texto: si no está en el dossier, no vale.
+
+```descargas
+sda02-s08-dossier-mercado.pdf | Dossier del caso | Textos y datos sobre la economía de mercado
+sda02-s08-ficha-sistema.pdf | Ficha de cuatro apartados | Una por pareja, para el portafolio
+```
 
 ::: nota Por qué exactamente estos cuatro apartados
 Porque mañana vais a rellenar **la misma ficha** para la planificación central, y en la sesión 10 vais a poner las dos lado a lado. **Comparar exige haber medido con la misma vara.**
@@ -102,9 +107,35 @@ Porque mañana vais a rellenar **la misma ficha** para la planificación central
 Los dos lados se presentan **documentados**, no opinados. Lo que se os pide no es adoptar un juicio, sino disponer de material fiable con el que juzgar. Vuestra valoración personal se reserva para la sesión 10 y para la Cumbre.
 :::
 
+### 4. La mano invisible
+
+En 1776, el escocés **Adam Smith** publicó *La riqueza de las naciones*. Su idea más famosa es que cada persona, buscando su propio interés, acaba sirviendo al interés de todos «como guiada por una mano invisible». El panadero no hace pan por bondad, sino para ganarse la vida, y así la ciudad tiene pan cada mañana.
+
+Dos siglos después, **Friedrich Hayek** añadió el argumento de la información. Nadie puede saber todo lo que saben millones de personas, pero los precios lo resumen. Si el aceite escasea, su precio sube, y sin que nadie lo ordene se consume menos y se produce más.
+
+La crítica llega por el otro lado. La mano invisible funciona bien para repartir lo que se compra y se vende, pero no ve a quien no tiene con qué pagar ni los costes que recaen sobre terceros. Por eso los fallos de mercado de la sesión 7 son su contrapeso.
+
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Economía de mercado</b></td><td>Sistema en que las decisiones económicas se toman de forma descentralizada mediante la oferta y la demanda.</td></tr><tr><td><b>Señal de precios</b></td><td>Función informativa del precio, que revela la escasez relativa de un bien.</td></tr><tr><td><b>Ciclo económico</b></td><td>Alternancia recurrente de fases de expansión y recesión.</td></tr><tr><td><b>Propiedad privada</b></td><td>Titularidad particular de los medios de producción.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Economía de mercado</b></td><td>Sistema en el que las tres preguntas básicas se responden mediante los intercambios libres de compradores y vendedores, guiados por los precios.</td></tr>
+<tr><td><b>Mercado</b></td><td>Cualquier lugar, físico o virtual, donde se encuentran compradores y vendedores para intercambiar. Un mercadillo, una lonja o una tienda en internet.</td></tr>
+<tr><td><b>Oferta</b></td><td>Cantidad de un bien que los vendedores están dispuestos a vender a cada precio.</td></tr>
+<tr><td><b>Demanda</b></td><td>Cantidad de un bien que los compradores están dispuestos a comprar a cada precio.</td></tr>
+<tr><td><b>Precio como señal</b></td><td>El precio informa a todos de lo escaso o deseado que es algo. Un precio alto anima a producir más y a consumir menos.</td></tr>
+<tr><td><b>Propiedad privada</b></td><td>Derecho de las personas y las empresas a poseer bienes y medios de producción, y a decidir sobre ellos.</td></tr>
+<tr><td><b>Competencia</b></td><td>Rivalidad entre empresas por atraer a los compradores. Empuja a bajar precios, mejorar la calidad e innovar.</td></tr>
+<tr><td><b>Mano invisible</b></td><td>Metáfora de Adam Smith: la búsqueda del interés propio, a través del mercado, acaba beneficiando al conjunto sin que nadie lo planee.</td></tr>
+<tr><td><b>Ciclo económico</b></td><td>Alternancia de etapas de crecimiento (expansión) y de caída de la actividad (recesión) que se repite en las economías de mercado.</td></tr>
+<tr><td><b>Desigualdad</b></td><td>Diferencias en la renta o la riqueza entre personas. El mercado reparte según la capacidad de pago, y por eso tiende a reproducirla.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=-uxBgNnyxj0 | La mano invisible de Adam Smith | Econosublime · 4:31
+https://www.youtube.com/watch?v=uPTwfnlxMkw | Ventajas e inconvenientes de la economía de mercado | Econosublime · 7:18
+```
 
 ## Comprueba lo que sabes
 

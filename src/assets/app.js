@@ -692,6 +692,108 @@
       pintar();
     },
 
+    // Frontera de posibilidades de producción a partir de una tabla de combinaciones
+    fpp(el, cfg) {
+      const bx = cfg.bien_x || 'aceite', by = cfg.bien_y || 'vino', u = cfg.unidad || 't';
+      const P = (cfg.puntos || [[0, 15], [1, 14], [2, 12], [3, 9], [4, 5], [5, 0]]).map(([x, y]) => [+x, +y]);
+      const XMAX0 = P.at(-1)[0], YMAX0 = P[0][1];
+      const XM = Math.ceil(XMAX0 * 1.6), YM = Math.ceil(YMAX0 * 1.6);
+      const uid = 'sim' + Math.random().toString(36).slice(2, 7);
+      const letras = 'ABCDEFGHIJ';
+      el.innerHTML = `<p class="sim-cab">Simulador</p><h3 class="act-titulo">${cfg.titulo || 'La frontera de posibilidades de producción'}</h3>
+        ${cfg.instrucciones ? `<p>${cfg.instrucciones}</p>` : ''}
+        <div class="sim-rejilla"><div><svg class="sim-grafico" viewBox="0 0 420 340" role="img" aria-labelledby="${uid}-desc"><desc id="${uid}-desc">Frontera de posibilidades de producción de ${bx} y ${by}</desc></svg>
+        <div class="sim-datos"><div class="sim-dato"><span>Tu combinación</span><strong data-o="c"></strong></div><div class="sim-dato"><span>El punto es</span><strong data-o="t"></strong></div>
+        <div class="sim-dato"><span>Coste de oportunidad en este tramo</span><strong data-o="co"></strong></div><div class="sim-dato"><span>Máximo de ${by} con ese ${bx}</span><strong data-o="m"></strong></div></div></div>
+        <div class="sim-controles">
+          ${control(uid + '-x', `Toneladas de ${bx}`, 0, XM, 0.1, P[2][0], ' ' + u)}
+          ${control(uid + '-y', `Toneladas de ${by}`, 0, YM, 0.1, P[2][1], ' ' + u)}
+          ${control(uid + '-sx', `Recursos o tecnología para el ${bx}`, -40, 50, 5, 0, ' %')}
+          ${control(uid + '-sy', `Recursos o tecnología para el ${by}`, -40, 50, 5, 0, ' %')}
+          <div class="sim-botones"><button type="button" data-a="ajustar">Llevar el punto a la frontera</button>${(cfg.escenarios || []).map((s, k) => `<button type="button" data-esc="${k}">${s.nombre}</button>`).join('')}<button type="button" data-a="reset">Volver al inicio</button></div>
+          <p class="sim-lectura" aria-live="polite"></p>
+        </div></div>`;
+      const svg = $('svg', el);
+      const W = 420, H = 340, m = { l: 46, r: 16, t: 18, b: 40 };
+      const X = (x) => m.l + (x / XM) * (W - m.l - m.r);
+      const Y = (y) => H - m.b - (y / YM) * (H - m.t - m.b);
+      const g = svgEl('g', {}, svg);
+      const inputs = $$('input[type=range]', el);
+      const [iX, iY, iSx, iSy] = inputs;
+      const linea = (pts, attrs) => svgEl('polyline', { points: pts.map(([x, y]) => `${X(x)},${Y(y)}`).join(' '), fill: 'none', ...attrs }, g);
+      const texto = (x, y, t, attrs = {}) => { const e = svgEl('text', { x, y, 'font-size': 12, 'font-family': 'system-ui, sans-serif', ...attrs }, g); e.textContent = t; return e; };
+      // frontera escalada: x se multiplica por sx e y por sy
+      const pts = (sx, sy) => P.map(([x, y]) => [x * sx, y * sy]);
+      function frontera(x, sx, sy) {
+        const q = pts(sx, sy);
+        if (x > q.at(-1)[0] + 1e-9) return { y: -1, k: -1 };
+        for (let k = 1; k < q.length; k++) {
+          if (x <= q[k][0] + 1e-9) {
+            const [x0, y0] = q[k - 1], [x1, y1] = q[k];
+            return { y: y0 + ((y1 - y0) * (x - x0)) / (x1 - x0), k, coste: (y0 - y1) / (x1 - x0) };
+          }
+        }
+        return { y: q[0][1], k: 1, coste: (q[0][1] - q[1][1]) / (q[1][0] - q[0][0]) };
+      }
+      const f1 = (n) => fmt(n, Number.isInteger(Math.round(n * 10) / 10) ? 0 : 1);
+      function pintar() {
+        const sx = 1 + +iSx.value / 100, sy = 1 + +iSy.value / 100;
+        const x = +iX.value, y = +iY.value;
+        inputs.forEach((i) => { const v = +i.value; $(`[data-valor="${i.id}"]`, el).textContent = (i === iSx || i === iSy ? (v > 0 ? '+' : '') + v : f1(v)) + (i.dataset.sufijo || ''); });
+        g.innerHTML = '';
+        linea([[0, 0], [XM, 0]], { stroke: '#6B6257' });
+        linea([[0, 0], [0, YM]], { stroke: '#6B6257' });
+        const pasoX = XM <= 10 ? 1 : 2, pasoY = YM <= 20 ? 2 : 5;
+        for (let v = 0; v <= XM; v += pasoX) texto(X(v), H - m.b + 16, String(v), { 'text-anchor': 'middle', fill: '#6B6257' });
+        for (let v = 0; v <= YM; v += pasoY) texto(m.l - 6, Y(v) + 4, String(v), { 'text-anchor': 'end', fill: '#6B6257' });
+        texto(m.l, m.t - 4, `${by[0].toUpperCase() + by.slice(1)} (${u})`, { fill: '#0F2C3D', 'font-weight': 600, dx: 4 });
+        texto(W - m.r, H - 6, `${bx[0].toUpperCase() + bx.slice(1)} (${u})`, { fill: '#0F2C3D', 'font-weight': 600, 'text-anchor': 'end' });
+        const movida = sx !== 1 || sy !== 1;
+        const q = pts(sx, sy);
+        // zona alcanzable sombreada
+        svgEl('polygon', { points: [[0, 0], ...q, [q.at(-1)[0], 0]].map(([a, b]) => `${X(a)},${Y(b)}`).join(' '), fill: '#5E8BA3', opacity: 0.12 }, g);
+        if (movida) linea(pts(1, 1), { stroke: '#1B4B66', 'stroke-width': 2, 'stroke-dasharray': '4 4', opacity: 0.4 });
+        linea(q, { stroke: '#1B4B66', 'stroke-width': 3 });
+        q.forEach(([a, b], k) => { svgEl('circle', { cx: X(a), cy: Y(b), r: 3.5, fill: '#1B4B66' }, g); texto(X(a) + 6, Y(b) - 6, letras[k], { fill: '#1B4B66', 'font-weight': 700 }); });
+        const fr = frontera(x, sx, sy);
+        const tol = 0.25;
+        let tipo, color;
+        if (fr.y < 0 || y > fr.y + tol) { tipo = 'inalcanzable'; color = '#B3261E'; }
+        else if (y < fr.y - tol) { tipo = 'ineficiente'; color = '#C1694A'; }
+        else { tipo = 'eficiente'; color = '#1B4B66'; }
+        linea([[0, y], [x, y], [x, 0]], { stroke: color, 'stroke-dasharray': '3 3', opacity: 0.7 });
+        svgEl('circle', { cx: X(x), cy: Y(y), r: 7, fill: color, stroke: '#fff', 'stroke-width': 2 }, g);
+        $('[data-o="c"]', el).textContent = `${f1(x)} ${u} de ${bx} y ${f1(y)} ${u} de ${by}`;
+        const tEl = $('[data-o="t"]', el); tEl.textContent = tipo; tEl.style.color = color;
+        $('[data-o="co"]', el).textContent = fr.y < 0 ? '–' : `${f1(fr.coste)} ${u} de ${by} por cada ${u} de ${bx}`;
+        $('[data-o="m"]', el).textContent = fr.y < 0 ? 'imposible' : `${f1(fr.y)} ${u}`;
+        const lect = [];
+        if (tipo === 'eficiente') lect.push(`Estás sobre la frontera: se usan todos los recursos. Para tener más ${bx} hay que renunciar a ${by}. En este tramo, cada tonelada más de ${bx} cuesta ${f1(fr.coste)} de ${by}.`);
+        else if (tipo === 'ineficiente') lect.push(`Hay recursos sin usar. Sin renunciar a nada de ${bx}, podrías producir hasta ${f1(fr.y)} ${u} de ${by}: ${f1(fr.y - y)} más.`);
+        else lect.push(fr.y < 0 ? `Ni dedicando todos los recursos al ${bx} se llega a ${f1(x)} ${u}.` : `Con los recursos y la tecnología actuales no se llega ahí: como mucho ${f1(fr.y)} ${u} de ${by} con ese ${bx}. Prueba a mejorar los recursos o la tecnología.`);
+        if (movida) lect.push(sx >= 1 && sy >= 1 ? 'La frontera se ha desplazado hacia fuera: eso es crecimiento económico.' : sx <= 1 && sy <= 1 ? 'La frontera se ha desplazado hacia dentro: la economía puede producir menos de todo.' : 'La frontera ha cambiado de forma: un sector gana capacidad y el otro la pierde.');
+        $('.sim-lectura', el).textContent = lect.join(' ');
+      }
+      el.addEventListener('input', pintar);
+      $('.sim-botones', el).addEventListener('click', (ev) => {
+        const b = ev.target.closest('button');
+        if (!b) return;
+        let extra = '';
+        if (b.dataset.a === 'reset') { iX.value = P[2][0]; iY.value = P[2][1]; iSx.value = 0; iSy.value = 0; }
+        else if (b.dataset.a === 'ajustar') { const fr = frontera(+iX.value, 1 + +iSx.value / 100, 1 + +iSy.value / 100); if (fr.y >= 0) iY.value = Math.round(fr.y * 10) / 10; }
+        else {
+          const s = cfg.escenarios[+b.dataset.esc];
+          if (s.x !== undefined) iX.value = s.x;
+          if (s.y !== undefined) iY.value = s.y;
+          iSx.value = s.cambio_x ?? 0; iSy.value = s.cambio_y ?? 0;
+          extra = s.explicacion || '';
+        }
+        pintar();
+        if (extra) $('.sim-lectura', el).textContent = extra + ' ' + $('.sim-lectura', el).textContent;
+      });
+      pintar();
+    },
+
     // Multiplicador del gasto: ΔY = ΔG / (1 − PMC), ronda a ronda
     multiplicador(el, cfg) {
       const uid = 'sim' + Math.random().toString(36).slice(2, 7);

@@ -2,7 +2,20 @@
 titulo: Sesión 5 · La Frontera de Posibilidades de Producción
 ---
 
+Hoy vais a dibujar el coste de oportunidad.
+
+La **Frontera de Posibilidades de Producción** muestra todo lo que una economía puede producir con lo que tiene. Y su pendiente en cada punto dice exactamente a cuánto hay que renunciar de un bien para conseguir una unidad más del otro.
+
+Es Economía y es Matemáticas a la vez. La FPP es la gráfica de una función cóncava.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda02-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda02-s05-solucionario.pdf | Solucionario del caso Agroria | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico (interdisciplinar)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A1</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas</td><td><b>Carácter</b></td><td>Formativa, sesión coordinada con Matemáticas Aplicadas a las CCSS I</td></tr><tr><td><b>Instrumentos</b></td><td>P: gráfica de la FPP y respuestas escritas · OD: observación del proceso de construcción e interpretación de la gráfica</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +42,6 @@ Circula resolviendo dudas de construcción gráfica. El obstáculo suele ser té
 - ¿Por qué ese sacrificio va aumentando conforme producimos más aceite?
 - ¿Qué diferencia hay entre moverse por la curva y que la curva entera se desplace?
 
-::: aviso Material que debes preparar tú
-- **Tabla de datos del caso “Agroria”**: seis combinaciones posibles de producción de toneladas de aceite y toneladas de vino, con recursos limitados.
-- **Papel milimetrado o acceso a GeoGebra**, según lo que se coordine con Matemáticas.
-- **Calculadora** y ficha de respuestas escritas.
-- **Coordinación previa con el departamento de Matemáticas**: idealmente impartir esta sesión **en la misma semana** que el contenido correspondiente en MACS I.
-- Ten preparada la corrección del obstáculo habitual: rotular ejes y elegir escala.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>El mismo contenido se presenta en tres registros simultáneos: tabla numérica, gráfica y explicación verbal del coste de oportunidad, de modo que quien no accede por la vía gráfica pueda comprobarlo en la tabla.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La actividad se descompone en tres tareas numeradas y secuenciales (representar, identificar, calcular), y el docente circula para que una dificultad técnica de trazado no bloquee el razonamiento económico.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -49,27 +54,31 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 **Coordinación con Matemáticas Aplicadas a las Ciencias Sociales I** (competencia específica 7, criterio 7.2; saber MACS.1.C.4: representar conceptos e información matemáticos seleccionando la tecnología más adecuada). Sigue siendo una propuesta pendiente de confirmar oferta de la materia y matrícula común. Se sugiere impartirla **en la misma semana** que el contenido correspondiente en Matemáticas.
 :::
 
-## Para empezar
-
-Hoy vais a dibujar el coste de oportunidad.
-
-La **Frontera de Posibilidades de Producción** muestra todo lo que una economía puede producir con lo que tiene. Y su pendiente en cada punto dice exactamente a cuánto hay que renunciar de un bien para conseguir una unidad más del otro.
-
-Es Economía y es Matemáticas a la vez. La FPP es la gráfica de una función cóncava.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda2-s05-01.webp | Portada
-sda2-s05-02.webp | Qué es la FPP
-sda2-s05-03.webp | Los tres tipos de punto
-sda2-s05-04.webp | El caso Agroria
-sda2-s05-05.webp | Por qué la curva es cóncava
-sda2-s05-06.webp | Movimiento o desplazamiento
-sda2-s05-07.webp | La conexión con Matemáticas
+sda2-s05-01.webp | La frontera de posibilidades de producción
+sda2-s05-02.webp | Un país que solo produce aceite y vino. Si quiere más aceite,…
+sda2-s05-03.webp | Qué es la FPP
+sda2-s05-04.webp | Las seis combinaciones de Agroria
+sda2-s05-05.webp | Dónde está la economía
+sda2-s05-06.webp | Cuánto vino cuesta cada tonelada de aceite
+sda2-s05-07.webp | Los recursos no valen igual para todo
+sda2-s05-08.webp | La misma idea en dos lenguajes
+sda2-s05-09.webp | Movimiento o desplazamiento
+sda2-s05-10.webp | Comprobadlo en el simulador
+sda2-s05-11.webp | Elegir siempre cuesta
 ```
 
 ## El caso de “Agroria”: aceite y vino
+
+Agroria es un país pequeño e imaginario que solo produce dos cosas, aceite y vino. Tiene una cantidad fija de tierra, de trabajadores y de maquinaria. Si dedica todo a una cosa, no produce nada de la otra. Estas son sus seis combinaciones máximas posibles:
+
+<table><thead><tr><th width="16%">Combinación</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th></tr></thead><tbody><tr><td><b>Aceite (t)</b></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td><b>Vino (t)</b></td><td>15</td><td>14</td><td>12</td><td>9</td><td>5</td><td>0</td></tr></tbody></table>
+
+```descargas
+sda02-s05-agroria.pdf | Ficha del caso Agroria | Tabla, papel milimetrado y espacio para las tres tareas
+```
 
 ### Los tres tipos de punto
 
@@ -84,6 +93,32 @@ Porque los recursos **no son igual de buenos para todo**. Para producir las prim
 
 Eso es la **ley de los rendimientos decrecientes**, y es lo que hace que la curva se doble en lugar de ser una recta.
 :::
+
+### Comprobadlo en el simulador
+
+Cuando hayáis hecho las tres tareas en papel, comprobad vuestras respuestas aquí. Moved el punto, buscad uno de cada tipo y probad qué le pasa a la frontera si Agroria mejora su tecnología.
+
+```simulador
+tipo: fpp
+titulo: La frontera de Agroria
+instrucciones: Mueve las toneladas de aceite y de vino para situar tu punto. Después cambia los recursos o la tecnología de cada sector y mira qué le ocurre a la frontera.
+bien_x: aceite
+bien_y: vino
+unidad: t
+puntos: [[0, 15], [1, 14], [2, 12], [3, 9], [4, 5], [5, 0]]
+escenarios:
+  - nombre: Paro en el campo
+    x: 2
+    y: 6
+    explicacion: La mitad de los jornaleros está sin trabajo.
+  - nombre: Nueva almazara
+    cambio_x: 40
+    explicacion: Una almazara moderna permite sacar más aceite con la misma aceituna.
+  - nombre: Sequía
+    cambio_x: -25
+    cambio_y: -25
+    explicacion: Sin agua, la tierra rinde menos para todo.
+```
 
 ### El cierre: movimiento o desplazamiento
 
@@ -123,7 +158,27 @@ Eso es la **ley de los rendimientos decrecientes**, y es la razón de que la cur
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="34%">Término</th><th width="66%">Definición</th></tr></thead><tbody><tr><td><b>Frontera de Posibilidades de Producción</b></td><td>Curva que muestra las combinaciones máximas de dos bienes que una economía puede producir.</td></tr><tr><td><b>Punto eficiente</b></td><td>Combinación situada sobre la curva, que emplea plenamente los recursos.</td></tr><tr><td><b>Punto ineficiente</b></td><td>Combinación por debajo de la curva, con recursos sin utilizar.</td></tr><tr><td><b>Punto inalcanzable</b></td><td>Combinación por encima de la curva, imposible con los recursos actuales.</td></tr><tr><td><b>Coste de oportunidad marginal</b></td><td>Cantidad de un bien que hay que sacrificar para obtener una unidad más del otro.</td></tr><tr><td><b>Rendimientos decrecientes</b></td><td>Ley por la que el coste de oportunidad aumenta al especializarse más en un bien.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Frontera de Posibilidades de Producción (FPP)</b></td><td>Curva que muestra todas las combinaciones máximas de dos bienes que una economía puede producir si usa todos sus recursos con la mejor tecnología disponible. Es el dibujo del problema económico básico.</td></tr>
+<tr><td><b>Modelo de dos bienes</b></td><td>Simplificación que supone que una economía solo produce dos cosas. No es realista, pero permite ver en un gráfico lo que ocurre con miles de bienes.</td></tr>
+<tr><td><b>Punto eficiente</b></td><td>Combinación situada sobre la curva. Se usan todos los recursos y no se puede tener más de un bien sin renunciar a algo del otro.</td></tr>
+<tr><td><b>Punto ineficiente</b></td><td>Combinación por debajo de la curva. Hay recursos sin usar (paro, maquinaria parada) y se podría producir más de los dos bienes a la vez.</td></tr>
+<tr><td><b>Punto inalcanzable</b></td><td>Combinación por encima de la curva. Con los recursos y la tecnología de hoy no se puede producir, aunque quizá sí en el futuro.</td></tr>
+<tr><td><b>Coste de oportunidad</b></td><td>Lo que se sacrifica de la mejor alternativa al elegir. En la FPP, las toneladas de vino a las que se renuncia para producir aceite.</td></tr>
+<tr><td><b>Coste de oportunidad marginal</b></td><td>Lo que cuesta, en el otro bien, producir <b>una unidad más</b>. En Agroria, pasar de 2 a 3 toneladas de aceite cuesta 3 toneladas de vino (de 12 a 9).</td></tr>
+<tr><td><b>Pendiente</b></td><td>Inclinación de una línea: cuánto cambia la variable vertical por cada unidad que cambia la horizontal. En la FPP, la pendiente es el coste de oportunidad.</td></tr>
+<tr><td><b>Función cóncava</b></td><td>Curva que se dobla hacia fuera, como un arco. La FPP lo es porque el coste de oportunidad crece a medida que nos especializamos.</td></tr>
+<tr><td><b>Rendimientos decrecientes</b></td><td>Al dedicar cada vez más recursos a un bien, cada unidad adicional cuesta más del otro, porque se empiezan a usar recursos menos adecuados.</td></tr>
+<tr><td><b>Crecimiento económico</b></td><td>Aumento de la capacidad de producir de una economía. En el gráfico, la frontera se desplaza hacia fuera por más recursos o mejor tecnología.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=PBLIvuzn5Yg | La FPP y el coste de oportunidad | Econosublime · 8:45
+https://www.youtube.com/watch?v=Zp4GjxouneE | La FPP y la eficiencia | Econosublime · 6:22
+https://www.youtube.com/watch?v=CjuLMMFlohE | Ejercicio resuelto de FPP, coste de oportunidad y eficiencia | Econosublime · 9:42
+```
 
 ## Comprueba lo que sabes
 

@@ -2,7 +2,20 @@
 titulo: Sesión 1 · ¿Quién decide? Simulación relámpago de tres sistemas
 ---
 
+Doce fichas. Cuatro personas. Y tres formas distintas de repartirlas.
+
+No os vamos a explicar todavía qué representa cada ronda. Primero se juega. Y después hablamos.
+
+Lo único que os pedimos es que os fijéis en **cómo os sentís** en cada una: quién decide, si os parece justo, y si alguien se queda fuera.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda02-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda02-s01-fichas-puntos.pdf | Fichas y tarjetas de puntos | Recortables, un juego por grupo
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3 (introducción vivencial)</td><td><b>Saberes básicos</b></td><td>A3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de 4</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación de la reacción y el razonamiento en cada ronda · D: calidad de la reflexión final en gran grupo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -33,14 +46,6 @@ titulo: Sesión 1 · ¿Quién decide? Simulación relámpago de tres sistemas
 - ¿Fue rápido, o costó llegar al reparto?
 - ¿Alguien se quedó descontento, y por qué?
 
-::: aviso Material que debes preparar tú
-- **12 fichas o gomets por grupo**, que representen un bien escaso y deseable. Minutos de música en clase, cromos o similar. Que sea algo que de verdad quieran.
-- **Tarjetas de rol** para la ronda 1 (autoridad planificadora).
-- **Puntos de puja desiguales** para la ronda 2: por ejemplo 20, 10, 5 y 2 por grupo. La desigualdad es deliberada.
-- **Espacio de pizarra dividido en tres columnas**, sin encabezados. Se rellenan durante la reflexión y se nombran solo al final de la unidad.
-- **No expliques qué representa cada ronda** hasta la reflexión. Toda la sesión depende de eso.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La simulación es manipulativa y con un bien realmente deseable. Permite participar y formarse una opinión sin ningún conocimiento previo de Economía.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>El reparto de papeles es aleatorio y las reglas vienen impuestas desde fuera, de modo que la frustración de una ronda concreta no es atribuible a nadie del grupo y puede analizarse con distancia.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Las tres rondas ofrecen tres formas distintas de participar (acatar, pujar, negociar), de modo que cada persona encuentra al menos una en la que se desenvuelve con comodidad.</td></tr></tbody></table>
@@ -49,24 +54,24 @@ titulo: Sesión 1 · ¿Quién decide? Simulación relámpago de tres sistemas
 La ronda 2 (subasta de viva voz) y la 3 (negociación simultánea de todos los grupos) generan mucho ruido. Sitúa a este alumno/a en la zona más alejada, exige que las pujas se muestren también **con tarjeta escrita** además de anunciarse, y en la reflexión final anota en la pizarra cada aportación conforme se produzca.
 :::
 
-## Para empezar
-
-Doce fichas. Cuatro personas. Y tres formas distintas de repartirlas.
-
-No os vamos a explicar todavía qué representa cada ronda. Primero se juega. Y después hablamos.
-
-Lo único que os pedimos es que os fijéis en **cómo os sentís** en cada una: quién decide, si os parece justo, y si alguien se queda fuera.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda2-s01-01.webp | Portada
-sda2-s01-02.webp | Las reglas
-sda2-s01-03.webp | Ronda 1
-sda2-s01-04.webp | Ronda 2
-sda2-s01-05.webp | Ronda 3
-sda2-s01-06.webp | La reflexión
-sda2-s01-07.webp | Las tres preguntas
+sda2-s01-01.webp | ¿Quién decide?
+sda2-s01-02.webp | Si solo hay doce para cuatro, ¿quién decide quién se lleva qué?
+sda2-s01-03.webp | Lo que vas a hacer en esta sesión
+sda2-s01-04.webp | Doce fichas por grupo
+sda2-s01-05.webp | El Estado decide
+sda2-s01-06.webp | El mercado decide
+sda2-s01-07.webp | El grupo decide
+sda2-s01-08.webp | Cuatro preguntas, tres rondas
+sda2-s01-09.webp | Rapidez frente a justicia
+sda2-s01-10.webp | Toda economía tiene que responderlas
+sda2-s01-11.webp | Tres rondas, tres grandes sistemas
+sda2-s01-12.webp | Tres varas de medir
+sda2-s01-13.webp | La Cumbre de Sistemas Económicos
+sda2-s01-14.webp | Cómo se sube de nivel
+sda2-s01-15.webp | Las preguntas son las mismas en todas partes
 ```
 
 ## “12 fichas para repartir”
@@ -76,6 +81,10 @@ sda2-s01-07.webp | Las tres preguntas
 ### Las cuatro preguntas de la reflexión
 
 <table><thead><tr><th width="5%"></th><th width="35%">Pregunta</th><th width="20%">Ronda 1</th><th width="20%">Ronda 2</th><th width="20%">Ronda 3</th></tr></thead><tbody><tr><td>1</td><td>¿Quién decidió?</td><td></td><td></td><td></td></tr><tr><td>2</td><td>¿Te pareció justo?</td><td></td><td></td><td></td></tr><tr><td>3</td><td>¿Fue rápido o costó?</td><td></td><td></td><td></td></tr><tr><td>4</td><td>¿Alguien quedó descontento?</td><td></td><td></td><td></td></tr></tbody></table>
+
+```descargas
+sda02-s01-hoja-reflexion.pdf | Hoja de reflexión | Las cuatro preguntas, ronda a ronda
+```
 
 ::: aviso Las tres columnas de la pizarra
 Vuestras respuestas se recogen en tres columnas **sin nombre**. Esas tres columnas tienen nombre propio en Economía, y lo vais a descubrir a lo largo de la unidad.
@@ -95,46 +104,22 @@ No son las preguntas. Son **quién las responde y con qué reglas**. En la ronda
 
 En la sesión 11 el aula se convertirá en una **Cumbre**. Cuatro delegaciones con sistemas económicos distintos tendrán que encontrar puntos de acuerdo ante una **crisis alimentaria global**: exactamente las tres preguntas de arriba, planteadas en una situación límite.
 
-Y no es un juicio como el de la SdA 1: es una **negociación**. No gana nadie: se firma un acta.
+No es una competición: es una **negociación**. No gana nadie. Al final se firma un acta con lo que todas las delegaciones aceptan.
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-1.3
+```descargas
+sda02-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-1.4
-```
+### Cómo se leen
+
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
 
 ## Apuntes de la sesión
 
@@ -156,15 +141,47 @@ Fijaos en que ninguna de las tres es perfecta. La primera es rápida pero arbitr
 Lo que distingue a un sistema económico de otro **no son las preguntas**: es quién las responde y con qué reglas.
 :::
 
-### 3. El recorrido de la unidad
+### 3. Tres criterios para comparar sistemas
 
-De aquí en adelante vais a: escuchar a una cooperativa real (S2), aprender a pensar como un economista (S3), manejar las herramientas básicas (S4 y S5), estudiar los tres sistemas con el mismo rigor (S6 a S10), y finalmente negociar entre ellos en la **Cumbre** (S11).
+Cuando comparéis sistemas en las próximas sesiones, usad siempre las mismas tres varas de medir. Así la comparación es justa.
+
+<table><thead><tr><th width="22%">Criterio</th><th width="40%">La pregunta que hace</th><th width="38%">En el juego</th></tr></thead><tbody><tr><td><b>Eficiencia</b></td><td>¿Se aprovechan bien los recursos? ¿Acaban las cosas en manos de quien más las valora?</td><td>La subasta asigna rápido, pero según los puntos, no según el deseo.</td></tr><tr><td><b>Equidad</b></td><td>¿Es justo el reparto? ¿Alguien se queda sin lo básico?</td><td>La ronda 3 garantiza un mínimo para todos.</td></tr><tr><td><b>Libertad y participación</b></td><td>¿Quién decide? ¿Puede cada persona influir en el resultado?</td><td>En la ronda 1 decidía una sola persona.</td></tr></tbody></table>
+
+### 4. El recorrido de la unidad
+
+```esquema
+Escuchar a una cooperativa real (S2)
+Pensar como un economista (S3)
+Manejar las herramientas básicas (S4 y S5)
+Estudiar los tres sistemas con el mismo rigor (S6 a S10)
+Negociar entre ellos en la Cumbre (S11)
+```
 
 Y al final volveréis a la pregunta del título: **¿quién decide?**
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Sistema económico</b></td><td>Conjunto de reglas e instituciones con que una sociedad responde a las tres preguntas económicas básicas.</td></tr><tr><td><b>Escasez</b></td><td>Situación en que los recursos disponibles son insuficientes para satisfacer todas las necesidades.</td></tr><tr><td><b>Eficiencia</b></td><td>Obtener el máximo resultado con los recursos disponibles.</td></tr><tr><td><b>Equidad</b></td><td>Criterio de justicia en el reparto de lo producido.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Sistema económico</b></td><td>Conjunto de reglas, instituciones y costumbres con que una sociedad responde a las tres preguntas económicas básicas. Cambia quién decide (el Estado, el mercado o una combinación) y con qué reglas.</td></tr>
+<tr><td><b>Escasez</b></td><td>Situación en la que los recursos disponibles no bastan para satisfacer todas las necesidades. Es el punto de partida de toda la Economía: si hubiera de todo para todos, no habría que decidir nada.</td></tr>
+<tr><td><b>Las tres preguntas básicas</b></td><td><b>Qué</b> producir, <b>cómo</b> producirlo y <b>para quién</b>. Todas las sociedades las responden, lo sepan o no. Si nadie decide de forma explícita, la respuesta sale de la costumbre, del precio o de la fuerza.</td></tr>
+<tr><td><b>Planificación central</b></td><td>Sistema en el que una autoridad (normalmente el Estado) decide qué, cómo y para quién se produce. Lo verás a fondo en la sesión 9.</td></tr>
+<tr><td><b>Economía de mercado</b></td><td>Sistema en el que esas decisiones salen de los intercambios libres entre compradores y vendedores, guiados por los precios. Lo verás en la sesión 8.</td></tr>
+<tr><td><b>Economía mixta</b></td><td>Sistema que combina mercado e intervención del Estado. Es el de casi todos los países actuales, incluido España. Lo verás en la sesión 10.</td></tr>
+<tr><td><b>Asignación</b></td><td>Forma en que los recursos o los bienes acaban en unas manos y no en otras. Asignar es repartir, con el criterio que sea.</td></tr>
+<tr><td><b>Eficiencia</b></td><td>Obtener el máximo resultado posible con los recursos disponibles, sin desperdiciarlos.</td></tr>
+<tr><td><b>Equidad</b></td><td>Criterio de justicia en el reparto de lo producido. Lo eficiente y lo equitativo no siempre coinciden: es la tensión central de esta unidad.</td></tr>
+<tr><td><b>Capacidad de pago</b></td><td>Lo que una persona puede pagar, que depende de su renta. En la subasta, decidía quién se llevaba las fichas, por encima de lo mucho que las deseara cada cual.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=TtUKmbN4-vk | Los problemas económicos básicos | Econosublime · 4:30
+https://www.youtube.com/watch?v=5HEKMf0fvvE | Cómo resuelve los problemas básicos la economía de mercado | Econosublime · 7:26
+https://www.youtube.com/watch?v=UpcQFu4ZZW0 | Cómo los resuelve la economía planificada | Econosublime · 3:23
+https://www.youtube.com/watch?v=YeoXyf-yW2A | Cómo los resuelve la economía mixta | Econosublime · 5:23
+```
 
 ## Comprueba lo que sabes
 

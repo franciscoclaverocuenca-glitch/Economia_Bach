@@ -2,7 +2,17 @@
 titulo: 'Sesión 6 · Los sistemas económicos: Puzzle de expertos'
 ---
 
+Hoy sois especialistas. Cada persona de vuestro grupo se va a convertir en experta en **un** sistema económico, y va a depender de sus compañeros para conocer los otros dos.
+
+La regla del puzzle es simple y no admite excepciones: **si tú no lo explicas, tu grupo no lo sabe**. Nadie más lo va a hacer por ti.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda02-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico (Jigsaw)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.3</td><td><b>Saberes básicos</b></td><td>A3</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos de expertos → Grupo base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación en el grupo de expertos y al enseñar en el grupo base · EO: calidad de la explicación de cada experto a su grupo · Co.Ev.: coevaluación de la tabla comparativa final</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +39,6 @@ En la ficha del sistema de mercado se incluye a **Joan Robinson**, economista de
 - ¿En qué se parecen los tres sistemas? Porque también se parecen en algo.
 - Si tú no lo explicas, ¿quién se lo va a contar a tu grupo?
 
-::: aviso Material que debes preparar tú
-- **3 fichas de experto** (mercado, planificación central y mixta) con estructura idéntica: definición, quién responde a las tres preguntas básicas y cómo, un ejemplo histórico o actual, una ventaja documentada y un límite documentado.
-- **Plantilla de tabla comparativa** de los tres sistemas, una por grupo base.
-- **El apartado sobre Joan Robinson** incluido en la ficha del sistema de mercado.
-- Espacio que permita **dos reagrupamientos**: primero por sistema, después vuelta al grupo base.
-- Enuncia la regla del puzzle en voz alta antes de empezar.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El puzzle obliga a reformular el contenido con palabras propias para enseñarlo, que es una de las estrategias de consolidación más eficaces; y las tres fichas comparten estructura idéntica, lo que hace la comparación posible.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>Cada persona expone ante tres compañeros de su grupo base, no ante el gran grupo, lo que reduce notablemente la exposición manteniendo la exigencia de explicar con claridad.</td></tr></tbody></table>
@@ -45,22 +47,19 @@ En la ficha del sistema de mercado se incluye a **Joan Robinson**, economista de
 La fase de expertos y la enseñanza cruzada generan conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, **entrégale su ficha de experto por escrito con antelación** para que pueda prepararla con calma, y pide a su grupo base que se hable de uno en uno y de frente.
 :::
 
-## Para empezar
-
-Hoy sois especialistas. Cada persona de vuestro grupo se va a convertir en experta en **un** sistema económico, y va a depender de sus compañeros para conocer los otros dos.
-
-La regla del puzzle es simple y no admite excepciones: **si tú no lo explicas, tu grupo no lo sabe**. Nadie más lo va a hacer por ti.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda2-s06-01.webp | Portada
-sda2-s06-02.webp | Cómo funciona el puzzle
-sda2-s06-03.webp | La estructura de las fichas
-sda2-s06-04.webp | La tabla comparativa
-sda2-s06-05.webp | Referente: Joan Robinson
-sda2-s06-06.webp | El cierre
-sda2-s06-07.webp | Lo que viene
+sda2-s06-01.webp | Los sistemas económicos
+sda2-s06-02.webp | Si tú no lo explicas, tu grupo no lo sabe.
+sda2-s06-03.webp | Tres fases
+sda2-s06-04.webp | Quién es especialista en qué
+sda2-s06-05.webp | Las cinco partes de cada ficha
+sda2-s06-06.webp | Grupos de expertos
+sda2-s06-07.webp | La tabla comparativa
+sda2-s06-08.webp | Joan Robinson (1903-1983)
+sda2-s06-09.webp | Puesta en común
+sda2-s06-10.webp | Las tres preguntas de la sesión 1, con tres respuestas
 ```
 
 ## Puzzle de Aronson: tres sistemas, tres especialistas
@@ -71,13 +70,23 @@ sda2-s06-07.webp | Lo que viene
 
 <table><thead><tr><th width="6%"></th><th width="94%">Apartado</th></tr></thead><tbody><tr><td><b>1</b></td><td>Definición del sistema</td></tr><tr><td><b>2</b></td><td>Quién responde a las tres preguntas económicas básicas (qué, cómo y para quién) y <b>cómo</b> lo hace</td></tr><tr><td><b>3</b></td><td>Un ejemplo histórico o actual</td></tr><tr><td><b>4</b></td><td>Una ventaja <b>documentada</b></td></tr><tr><td><b>5</b></td><td>Un límite <b>documentado</b></td></tr></tbody></table>
 
+```descargas
+sda02-s06-ficha-mercado.pdf | Ficha de experto: economía de mercado | Para el especialista en mercado
+sda02-s06-ficha-planificacion.pdf | Ficha de experto: planificación central | Para el especialista en planificación
+sda02-s06-ficha-mixta.pdf | Ficha de experto: economía mixta | Para el especialista en economía mixta
+```
+
 ::: aviso Misma estructura, comparación posible
 Las tres fichas siguen **exactamente** el mismo esquema. No es casualidad. Comparar exige haber medido con la misma vara. Y “documentada” significa que no vale la opinión. Vale lo que está en la ficha.
 :::
 
 ### La tabla comparativa que tenéis que completar entre los tres
 
-<table><thead><tr><th width="28%"></th><th width="24%">Mercado</th><th width="24%">Planificación central</th><th width="24%">Mixta</th></tr></thead><tbody><tr><td><b>¿QUÉ se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿CÓMO se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>¿PARA QUIÉN se produce?</b></td><td></td><td></td><td></td></tr><tr><td><b>Una ventaja</b></td><td></td><td></td><td></td></tr><tr><td><b>Un límite</b></td><td></td><td></td><td></td></tr></tbody></table>
+Cinco filas (qué, cómo, para quién, una ventaja y un límite) por tres columnas (mercado, planificación central y mixta). Cada especialista dicta su columna y los demás la copian.
+
+```descargas
+sda02-s06-tabla-comparativa.pdf | Tabla comparativa | Una por persona, para el portafolio
+```
 
 ::: nota Son las tres preguntas de la sesión 1
 Aquellas mismas que formulasteis después de repartir las doce fichas. Ahora con tres respuestas distintas y con nombre técnico. Guardad bien esta tabla. Es el esqueleto de toda la unidad y la base del dossier de la Cumbre.
@@ -111,7 +120,25 @@ Fue además una **analista comparada** de economías de mercado y planificadas, 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Economía de mercado</b></td><td>Sistema en que las decisiones se toman de forma descentralizada mediante la oferta y la demanda.</td></tr><tr><td><b>Planificación central</b></td><td>Sistema en que un organismo estatal decide de forma centralizada qué, cómo y para quién producir.</td></tr><tr><td><b>Economía mixta</b></td><td>Sistema que combina el mercado con una intervención pública significativa.</td></tr><tr><td><b>Competencia imperfecta</b></td><td>Situaciones de mercado intermedias entre el monopolio y la competencia perfecta.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Economía de mercado</b></td><td>Sistema en el que las decisiones se toman de forma descentralizada: millones de compradores y vendedores deciden libremente, guiados por los precios. La propiedad de los medios de producción es mayoritariamente privada.</td></tr>
+<tr><td><b>Planificación central</b></td><td>Sistema en el que un organismo del Estado decide qué, cómo y para quién producir, mediante un plan. Los medios de producción son de propiedad pública.</td></tr>
+<tr><td><b>Economía mixta</b></td><td>Sistema que combina el mercado con una intervención pública importante: el Estado regula, produce algunos servicios y redistribuye la renta.</td></tr>
+<tr><td><b>Medios de producción</b></td><td>Los recursos con los que se produce: tierras, fábricas, maquinaria. Quién es su propietario es una de las grandes diferencias entre sistemas.</td></tr>
+<tr><td><b>Descentralización</b></td><td>Las decisiones se reparten entre muchos agentes en lugar de concentrarse en una autoridad.</td></tr>
+<tr><td><b>Sistema de precios</b></td><td>Mecanismo por el que los precios informan de lo que es escaso y orientan a quién produce y a quién compra. Es el corazón de la economía de mercado.</td></tr>
+<tr><td><b>Plan quinquenal</b></td><td>Plan económico de cinco años con objetivos de producción para cada sector. Fue la herramienta de la planificación central en la Unión Soviética.</td></tr>
+<tr><td><b>Competencia imperfecta</b></td><td>Mercados intermedios entre la competencia perfecta (muchísimas empresas pequeñas) y el monopolio (una sola). Es donde viven la mayoría de los mercados reales. La estudió Joan Robinson.</td></tr>
+<tr><td><b>Puzzle de Aronson</b></td><td>Técnica cooperativa en la que cada miembro del grupo aprende una parte y la enseña al resto. Nadie puede completar la tarea sin los demás.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=5HEKMf0fvvE | Características de la economía de mercado | Econosublime · 7:26
+https://www.youtube.com/watch?v=UpcQFu4ZZW0 | Características de la economía planificada | Econosublime · 3:23
+https://www.youtube.com/watch?v=YeoXyf-yW2A | Características de la economía mixta | Econosublime · 5:23
+```
 
 ## Comprueba lo que sabes
 

@@ -2,7 +2,20 @@
 titulo: Sesión 3 · Cómo piensa un economista
 ---
 
+Hoy no aprendemos economía. Aprendemos a **pensar** como se piensa en economía.
+
+Y la herramienta central es una distinción que parece menor y no lo es. La diferencia entre decir **lo que es** y decir **lo que debería ser**.
+
+Las dos cosas son legítimas. Confundirlas, no.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda02-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda02-s03-solucionario.pdf | Solucionario de los titulares | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.4</td><td><b>Saberes básicos</b></td><td>A6, D1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo “Detective Económico” · P: apuntes Cornell del método científico y la distinción positiva/normativa</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -33,14 +46,6 @@ Conviene nombrar por qué esta sesión importa. En la **Cumbre** tendrán que di
 - ¿Qué hacemos con un titular que contiene un dato Y una valoración?
 - ¿Un modelo económico es una foto de la realidad o un mapa útil?
 
-::: aviso Material que debes preparar tú
-- **10 titulares de prensa reales**, mezclando positivos y normativos, con **al menos dos deliberadamente ambiguos** que combinen un dato verificable y una valoración.
-- **Ejemplo positivo de referencia**: “La inflación interanual se situó en el 3,2 % en el mes de marzo”.
-- **Ejemplo normativo de referencia**: “El Gobierno debería bajar los impuestos al carburante para aliviar a las familias”.
-- **Plantilla Cornell**, una por alumno/a.
-- **Cuestionario formativo** de 5 preguntas sobre método científico, modelos y la distinción positiva/normativa.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>La distinción positiva/normativa se enseña con una marca lingüística concreta y observable, las palabras que delatan el juicio de valor, lo que convierte un criterio abstracto en un procedimiento verificable.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La tarea descompone la clasificación en dos pasos fijos que se repiten en los diez titulares: clasificar y subrayar la marca. Eso automatiza el procedimiento.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -49,39 +54,36 @@ Conviene nombrar por qué esta sesión importa. En la **Cumbre** tendrán que di
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Hoy no aprendemos economía. Aprendemos a **pensar** como se piensa en economía.
-
-Y la herramienta central es una distinción que parece menor y no lo es. La diferencia entre decir **lo que es** y decir **lo que debería ser**.
-
-Las dos cosas son legítimas. Confundirlas, no.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda2-s03-01.webp | Portada
-sda2-s03-02.webp | El método
-sda2-s03-03.webp | Positiva y normativa
-sda2-s03-04.webp | Las palabras delatoras
-sda2-s03-05.webp | Detective Económico
-sda2-s03-06.webp | Los casos difíciles
-sda2-s03-07.webp | Por qué importa
+sda2-s03-01.webp | Cómo piensa un economista
+sda2-s03-02.webp | «El paro juvenil supera el 25 %». «Es injusto que haya tanto paro…
+sda2-s03-03.webp | Cómo avanza la Economía
+sda2-s03-04.webp | Un modelo es un mapa, no una foto
+sda2-s03-05.webp | Ceteris paribus
+sda2-s03-06.webp | Lo que es y lo que debería ser
+sda2-s03-07.webp | La huella del juicio de valor
+sda2-s03-08.webp | Diez titulares
+sda2-s03-09.webp | «Los alimentos suben más que el resto de precios y el Gobierno…
+sda2-s03-10.webp | Lectores críticos
+sda2-s03-11.webp | Cuestionario de la sesión
+sda2-s03-12.webp | Primero el dato. Después la opinión.
 ```
 
 ## Detective Económico
 
-### Economía positiva y Economía normativa
-
-<table><thead><tr><th width="22%"></th><th width="39%">Economía POSITIVA</th><th width="39%">Economía NORMATIVA</th></tr></thead><tbody><tr><td><b>Qué hace</b></td><td>Describe lo que <b>es</b></td><td>Prescribe lo que <b>debería ser</b></td></tr><tr><td><b>Se puede comprobar</b></td><td>Sí: es verificable con datos</td><td>No: contiene un juicio de valor</td></tr><tr><td><b>Ejemplo</b></td><td>“La inflación interanual se situó en el 3,2 % en marzo”</td><td>“El Gobierno debería bajar los impuestos al carburante para aliviar a las familias”</td></tr><tr><td><b>Puede ser…</b></td><td>Verdadera o falsa</td><td>Defendible o no, pero no verdadera ni falsa</td></tr></tbody></table>
+Os llegan diez titulares de prensa económica. Vuestra misión, por parejas, es decidir si cada uno **describe lo que es** (positivo) o **dice lo que debería ser** (normativo), y señalar la palabra que lo delata.
 
 ::: aviso Las palabras que delatan un enunciado normativo
 “**Debería**”, “**es injusto**”, “**es necesario que**”, “**hay que**”, “**lo mejor sería**”. Subrayadlas: son la huella dactilar de la Economía normativa.
 :::
 
-### Vuestra tarea
+### Los diez titulares
 
-<table><thead><tr><th width="5%"></th><th width="55%">Titular</th><th width="22%">¿POSITIVO o NORMATIVO?</th><th width="18%">Palabra que lo delata</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td></td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda02-s03-titulares.pdf | Los diez titulares | Ficha del Detective Económico, con la tabla para clasificar
+```
 
 ::: nota Ojo a los titulares ambiguos
 Algunos mezclan a propósito un **dato verificable** con una **valoración**. No son un error del ejercicio. Son la situación normal en la prensa económica. Saber separarlas es lo que os convierte en lectores críticos.
@@ -150,7 +152,24 @@ Es más: el **bloque 3 de la prueba escrita** os pedirá distinguir los argument
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Modelo económico</b></td><td>Representación simplificada de la realidad que permite razonar sobre ella.</td></tr><tr><td><b>Ceteris paribus</b></td><td>Supuesto de mantener constante todo lo demás para aislar el efecto de una variable.</td></tr><tr><td><b>Economía positiva</b></td><td>La que describe lo que es, mediante enunciados verificables.</td></tr><tr><td><b>Economía normativa</b></td><td>La que prescribe lo que debería ser, mediante juicios de valor.</td></tr><tr><td><b>Juicio de valor</b></td><td>Afirmación que expresa una preferencia y no puede comprobarse empíricamente.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Método científico</b></td><td>Forma de conocer que parte de la observación, formula hipótesis y las contrasta con datos. La Economía lo usa, aunque no pueda hacer experimentos de laboratorio con un país entero.</td></tr>
+<tr><td><b>Hipótesis</b></td><td>Explicación provisional de un fenómeno que se puede comprobar. «Si sube el precio del aceite, se comprará menos» es una hipótesis.</td></tr>
+<tr><td><b>Modelo económico</b></td><td>Representación simplificada de la realidad que permite razonar sobre ella. Como un mapa del metro: deja fuera casi todo para que se vea lo importante.</td></tr>
+<tr><td><b>Supuesto</b></td><td>Condición que se acepta al construir un modelo para hacerlo manejable. Por ejemplo, que las personas eligen lo que más les conviene.</td></tr>
+<tr><td><b>Ceteris paribus</b></td><td>Expresión latina que significa «lo demás constante». Permite estudiar el efecto de una sola variable suponiendo que el resto no cambia.</td></tr>
+<tr><td><b>Economía positiva</b></td><td>La que describe lo que es, mediante enunciados que se pueden comprobar con datos. Sus afirmaciones pueden ser verdaderas o falsas.</td></tr>
+<tr><td><b>Economía normativa</b></td><td>La que dice lo que debería ser, mediante juicios de valor. Sus afirmaciones se pueden defender mejor o peor, pero no comprobar.</td></tr>
+<tr><td><b>Juicio de valor</b></td><td>Afirmación que expresa una preferencia o una idea de lo justo. Se reconoce por palabras como «debería», «hay que» o «es injusto».</td></tr>
+<tr><td><b>Variable económica</b></td><td>Magnitud que puede tomar distintos valores y medirse: el precio, el paro, la inflación, la renta.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=ThGey_q1hxE | El método científico en economía | Econosublime · 6:48
+https://www.youtube.com/watch?v=6mYF8-OMSQk | Economía positiva y normativa: ejemplos del mundo real | Econosublime · 5:59
+```
 
 ## Comprueba lo que sabes
 
