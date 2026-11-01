@@ -2,7 +2,18 @@
 titulo: Sesión 4 · ¿Crecemos de verdad? y lo que el PIB no ve
 ---
 
+Ayer aprendimos qué es el PIB. Hoy aprendemos a **desconfiar de él** de dos maneras distintas.
+
+Primero técnicamente: hay tres pares de gafas (reales, per cápita y PPA) sin las que cualquier cifra de PIB puede engañarte. Y después conceptualmente. Hay cuatro cosas que el PIB no ve, y hoy las vais a mirar una por una.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda08-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda08-s04-guia-estaciones.pdf | Guía del torneo y de las estaciones | Solo docente, con soluciones, datos y fuentes
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.3 + 3.1</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas → Grupos base de 4 rotando por estaciones</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio, coevaluación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>P: prácticas de cálculo y folios giratorios · OD: trabajo por parejas y rotación · Co.Ev.: corrección cruzada del Torneo · D: mini-debate de cierre</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -29,15 +40,6 @@ titulo: Sesión 4 · ¿Crecemos de verdad? y lo que el PIB no ve
 - Si mañana todo el trabajo de cuidados se pagara, el PIB subiría de golpe. ¿Seríamos más ricos?
 - De las cuatro estaciones, ¿qué agente aparece más veces soportando costes sin recibir el beneficio?
 
-::: aviso Material que debes preparar tú
-- **Tablas de datos oficiales** del INE, Eurostat y Banco Mundial para el Torneo de tasas, y **Contabilidad Regional de España e IECA** para la comparación andaluza. **Actualiza las cifras.**
-- **Tarjetas del Torneo de tasas** (2 rondas) y plantilla de soluciones para la corrección cruzada.
-- **Un titular real** del tipo “la economía crece a ritmo récord” junto al dato de inflación del mismo periodo.
-- **Cuatro estaciones montadas en el aula**, cada una con su caso, su dato oficial y su **folio giratorio** con las dos preguntas en la cabecera: Estación A (Encuesta de Empleo del Tiempo y cuenta satélite de los hogares), B (estimaciones de economía sumergida), C (externalidad ambiental) y D (Atlas de renta con microejemplo de dos barrios).
-- **El tarjetero de agentes de la sesión 3**, sobre la mesa de cada grupo como apoyo permanente.
-- Plantilla Cornell.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Las tres “gafas” se introducen con un único ejemplo conductor que se transforma paso a paso, en lugar de tres definiciones independientes. La carga conceptual se reparte y cada nuevo concepto se apoya en el anterior.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El folio giratorio permite aportar por escrito sin intervenir oralmente, y admite rebatir lo escrito por otros grupos, de modo que la participación no dependa de la exposición pública.</td></tr></tbody></table>
@@ -54,25 +56,18 @@ Sesión resultante de **fusionar** las antiguas S5 (nominal/real/PPA y Torneo de
 **Coordinación con EPCD I** (competencia específica 3, criterio 3.1; saber EPCD.1.B.3.3). Aplicable **si el centro oferta la materia**. Conviene confirmarlo.
 :::
 
-## Para empezar
-
-Ayer aprendimos qué es el PIB. Hoy aprendemos a **desconfiar de él** de dos maneras distintas.
-
-Primero técnicamente: hay tres pares de gafas (reales, per cápita y PPA) sin las que cualquier cifra de PIB puede engañarte. Y después conceptualmente. Hay cuatro cosas que el PIB no ve, y hoy las vais a mirar una por una.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda8-s04-01.webp | Portada
-sda8-s04-02.webp | Las gafas de mirar el PIB
-sda8-s04-03.webp | El Torneo de tasas
-sda8-s04-04.webp | Andalucía en el mapa
-sda8-s04-05.webp | La trampa nominal
-sda8-s04-06.webp | La galería de estaciones
-sda8-s04-07.webp | Las cuatro estaciones
-sda8-s04-08.webp | Referente: Marilyn Waring
-sda8-s04-09.webp | El mini-debate
-sda8-s04-10.webp | Cierre
+sda8-s04-01.webp | ¿Crecemos de verdad?
+sda8-s04-02.webp | Antes de leer un PIB
+sda8-s04-03.webp | Nominal y real
+sda8-s04-04.webp | PIB por habitante, 2024
+sda8-s04-05.webp | ¿Puede una región crecer año tras año y no converger?
+sda8-s04-06.webp | Cuatro estaciones
+sda8-s04-07.webp | Marilyn Waring
+sda8-s04-08.webp | ¿Jubilar el PIB?
+sda8-s04-09.webp | El PIB mide lo que se produce y se paga
 ```
 
 ## El Torneo de tasas
@@ -81,13 +76,38 @@ sda8-s04-10.webp | Cierre
 
 <table><thead><tr><th width="10%">Ronda</th><th width="46%">El cálculo</th><th width="44%">Y la interpretación</th></tr></thead><tbody><tr><td><b>1</b></td><td>Tasa de variación nominal y tasa real aproximada, descontando la inflación</td><td>Una línea: ¿ha crecido de verdad ese país?</td></tr><tr><td><b>2</b></td><td>PIB per cápita y comparación en paridad de poder adquisitivo</td><td>Una línea. ¿en cuál de los dos se vive mejor y por qué?</td></tr></tbody></table>
 
-::: nota Puntúan las dos cosas
-Cada acierto de cálculo suma, y cada interpretación defendible suma también. Un número correcto sin interpretar vale la mitad. Lo que se evalúa es que sepáis **leer** el dato, no solo obtenerlo.
+::: nota El cálculo y la lectura
+Un número correcto sin interpretar se queda a medias. Lo importante es saber **leer** el dato, no solo obtenerlo.
 :::
 
+```descargas
+sda08-s04-torneo-tasas.pdf | Tarjetas del Torneo de tasas | Dos rondas con sus datos y la hoja de respuestas
+```
+
+Calienta con los datos reales de España:
+
+```actividad
+id: sda08-s04-real
+tipo: rellenar
+instrucciones: Completa con los datos del INE. Escribe solo el número, con coma decimal, sin el símbolo %.
+texto: |
+  En 2025, el PIB de España a precios corrientes creció un 5,7 %. En volumen, es decir, descontando la subida de los precios, creció un 2,6 %. Así que, aproximadamente, la subida de los precios explica [3,1|3.1|3] puntos de ese 5,7 %.
+  Si un año el PIB nominal sube un 4 % y los precios suben un 5 %, el PIB real cae aproximadamente un [1|1,0] %.
+explicacion: 'Tasa real ≈ tasa nominal − inflación. 5,7 − 2,6 = 3,1 puntos se deben a los precios. En el segundo caso, 4 − 5 = −1: se ha producido menos aunque la cifra nominal suba. Datos: INE, revisión de la Contabilidad Nacional de septiembre de 2026.'
+```
 ### Andalucía en el mapa
 
-Con datos de la Contabilidad Regional de España y del IECA, calculad qué porcentaje representa el PIB per cápita de Andalucía sobre la media española. Históricamente se ha situado en torno a **tres cuartas partes** de la media nacional.
+Según la Contabilidad Regional de España del INE, en 2024 el PIB per cápita de Andalucía fue de **24.566 €**, el más bajo de todas las comunidades autónomas. La media española fue de **32.633 €**, y la de la Comunidad de Madrid, la más alta, de 44.755 €.
+
+```actividad
+id: sda08-s04-andalucia
+tipo: rellenar
+instrucciones: Calcula y redondea a un decimal. Escribe solo el número, con coma decimal.
+texto: |
+  El PIB per cápita de Andalucía es el [75,3|75.3|75] % de la media española.
+  El de Madrid es el [137,1|137.1|137] % de la media española.
+explicacion: 24.566 / 32.633 × 100 = 75,3 %. 44.755 / 32.633 × 100 = 137,1 %. Andalucía lleva décadas en torno a tres cuartas partes de la media.
+```
 
 ::: aviso Y la pregunta incómoda
 ¿Puede una región crecer año tras año y **no converger**? Guardad la respuesta: la retomamos en la sesión 6.
@@ -95,13 +115,17 @@ Con datos de la Contabilidad Regional de España y del IECA, calculad qué porce
 
 ### La trampa nominal
 
-Un minuto. Aquí tenéis un titular real del tipo “la economía crece a ritmo récord” y, al lado, el dato de inflación del mismo periodo. **¿Sobrevive el titular a las gafas de hoy?** Escribid vuestro veredicto en el Cornell.
+Un minuto. Aquí tenéis un titular real del tipo “la economía crece a ritmo récord” y, al lado, el dato de inflación del mismo periodo. **¿Sobrevive el titular a las gafas de hoy?** Escribid vuestro veredicto en la hoja del torneo.
 
 ## La galería de las cuatro estaciones
 
 ### La mecánica
 
 Cada estación tiene un caso breve, un dato oficial y un **folio giratorio** con dos preguntas en la cabecera. Vuestro grupo lee, debate y añade sus dos respuestas debajo de las anteriores. **Podéis rebatir** lo que haya escrito el grupo anterior.
+
+```descargas
+sda08-s04-estaciones.pdf | Las cuatro estaciones | El caso, el dato y el folio giratorio de cada estación
+```
 
 ::: aviso La segunda pregunta es la misma en las cuatro
 “**¿Qué agente soporta este coste o recibe este beneficio, y cuál NO aparece?**” El tarjetero de agentes de ayer se queda sobre la mesa. Lo vais a necesitar en las cuatro.
@@ -133,7 +157,7 @@ Para intervenir hay que **citar un dato** de alguna estación. Sin dato, no cuen
 
 De las cuatro estaciones, **¿cuál es el agente que más veces aparece soportando costes sin recibir el beneficio correspondiente?**
 
-Cerrad el Cornell respondiendo, ahora con argumentos, a la pregunta que sembramos ayer. ¿puede un país tener bien cinco testigos del salpicadero y aun así ir mal?
+Cerrad respondiendo por escrito, ahora con argumentos, a la pregunta que sembramos ayer: ¿puede un país tener bien cinco testigos del salpicadero y aun así ir mal?
 
 ## Apuntes de la sesión
 
@@ -147,7 +171,7 @@ La herramienta única para todo esto es la **tasa de variación**: cuánto cambi
 
 ### 2. Andalucía en el mapa
 
-Con datos de la Contabilidad Regional de España y del IECA, el PIB per cápita de Andalucía se ha situado históricamente en torno a **tres cuartas partes** de la media española.
+Con datos de la Contabilidad Regional de España, el PIB per cápita de Andalucía fue en 2024 de 24.566 €, el **75,3 %** de la media española (32.633 €). Lleva décadas en torno a **tres cuartas partes** de la media.
 
 Y de ahí sale una pregunta incómoda: **¿puede una región crecer año tras año y no converger?** Sí, si crece a un ritmo parecido o inferior al del conjunto. Crecer no es lo mismo que acercarse. Esa distinción se retoma en la sesión 6.
 
@@ -175,4 +199,23 @@ La respuesta correcta es **no**: se produciría exactamente lo mismo que hoy. Lo
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>PIB nominal</b></td><td>PIB medido a precios corrientes del propio año.</td></tr><tr><td><b>PIB real</b></td><td>PIB corregido del efecto de los precios, para aislar el cambio en la producción.</td></tr><tr><td><b>Tasa de variación</b></td><td>Cambio porcentual de una magnitud entre dos momentos.</td></tr><tr><td><b>Convergencia</b></td><td>Proceso por el que una región se acerca a la media de un conjunto. Crecer no equivale a converger.</td></tr><tr><td><b>Economía sumergida</b></td><td>Actividad económica legal no declarada. Por definición solo estimable.</td></tr><tr><td><b>Externalidad</b></td><td>Coste o beneficio que recae sobre terceros y no se refleja en el precio.</td></tr><tr><td><b>Cuenta satélite</b></td><td>Contabilidad complementaria que mide actividades excluidas del PIB, como el trabajo de los hogares.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>PIB nominal</b></td><td>PIB medido a los precios de cada año. Sube aunque solo suban los precios.</td></tr>
+<tr><td><b>PIB real</b></td><td>PIB corregido del efecto de los precios, para aislar el cambio en la producción. También se llama PIB en volumen.</td></tr>
+<tr><td><b>Deflactor del PIB</b></td><td>Índice de precios que permite pasar del PIB nominal al real.</td></tr>
+<tr><td><b>Tasa de variación</b></td><td>Cambio porcentual de una magnitud entre dos momentos: (final − inicial) / inicial × 100.</td></tr>
+<tr><td><b>Paridad de poder adquisitivo</b></td><td>Corrección que iguala el coste de la vida entre países para comparar lo que de verdad se puede comprar.</td></tr>
+<tr><td><b>Convergencia</b></td><td>Proceso por el que una región se acerca a la media de un conjunto. Crecer no equivale a converger.</td></tr>
+<tr><td><b>Economía sumergida</b></td><td>Actividad económica legal que no se declara. Por definición solo puede estimarse.</td></tr>
+<tr><td><b>Externalidad</b></td><td>Coste o beneficio que recae sobre terceros y no se refleja en el precio.</td></tr>
+<tr><td><b>Cuenta satélite</b></td><td>Contabilidad complementaria que mide actividades excluidas del PIB, como el trabajo de los hogares.</td></tr>
+<tr><td><b>Trabajo de cuidados no remunerado</b></td><td>Trabajo doméstico y de atención a otras personas que se hace sin cobrar, sobre todo en los hogares.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=ctiTC0xbyRI | PIB nominal y PIB real, explicado para principiantes | Kotaro en Español · 4:39
+https://www.youtube.com/watch?v=ETYqMvFozw8 | Limitaciones del PIB para medir la calidad de vida | Econosublime · 9:58
+https://www.youtube.com/watch?v=BrnZMrjsf6w | El trabajo no remunerado que el PIB ignora | Marilyn Waring, TED · 17:20
+```

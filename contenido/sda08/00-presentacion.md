@@ -2,22 +2,18 @@
 titulo: SdA 8 · Crecimiento, ¿a qué precio?
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 8 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE3. Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta, comprendiendo sus interacciones y reconociendo, con sentido crítico, los beneficios y costes que genera, para explicar cómo se produce el desarrollo económico y su relación con el bienestar de la sociedad.</td></tr><tr><td><b>Criterio 3.1</b></td><td>Conocer cómo se produce el desarrollo económico y el bienestar social, valorando con sentido crítico y analítico cómo se evalúa, mediante macromagnitudes y otros indicadores, el papel de los distintos agentes económicos.</td></tr><tr><td><b>Criterio 3.3</b></td><td>Valorar la importancia de la recopilación sistemática de datos estadísticos y su correcta interpretación para comprender la realidad económica y evaluar las consecuencias de las intervenciones de los agentes.</td></tr><tr><td><b>Saberes básicos</b></td><td><b>C1</b> La macroeconomía. Macromagnitudes: del PIB a la renta personal disponible. Limitaciones e indicadores alternativos. Los agentes económicos y el flujo circular de la renta. <b>C2</b> Crecimiento económico y desarrollo. Los factores del crecimiento. La distribución de la renta: relación entre eficiencia y equidad. Indicadores del desarrollo social. Bienestar y calidad de vida.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM4 · CPSAA4 · CPSAA5 · CC3 · CC4 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>8. Trabajo decente y crecimiento económico (también 10, Reducción de las desigualdades)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación para el desarrollo sostenible y la ciudadanía global (S2, S4, S5, S6, S7 y S8)</td></tr><tr><td><b>Referente</b></td><td>Esther Duflo, Nobel de Economía 2019, y Sabina Alkire (índice de pobreza multidimensional)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Educación para la Convivencia Democrática I, competencia EPCD 3, criterio EPCD 3.1, saber EPCD.1.B.3.3 (sesión 4, estación de externalidades ambientales, y sesión 6, debate de las cuatro esquinas). Pendiente de confirmar oferta y matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>9 (cierre del segundo trimestre). Las sesiones 3 y 4 duran 55 minutos; el cálculo de Economilandia por las tres vías y las cuatro estaciones no se recortan. La pregunta «¿quién paga y quién gana?» prepara el criterio 3.2, que se evalúa en la SdA 9.</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Dos avisos sobre la arquitectura de esta unidad
-**Es la versión rediseñada (rev. B, julio de 2026).** Mantiene el rediseño de 11 a 9 sesiones (se fusionaron las antiguas 3+4 en la actual sesión 3 y las antiguas 5+6 en la actual sesión 4) e incorpora, sin añadir sesiones, un hilo formativo de análisis de agentes (“¿quién paga y quién gana?”) que prepara el criterio 3.2 de la SdA 9.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b><b>OD</b> Observación directa</b></td><td>3.1 · 3.3</td><td>S1 podio · S3 fábrica de PIB · S4 torneo y estaciones · S5 indicadores · S6 cuatro esquinas · S7 laboratorio · S8 Cumbre</td></tr><tr><td><b><b>D</b> Debate</b></td><td>3.1 · 3.3</td><td>S1 podio engañoso · S4 estaciones · S6 cuatro esquinas · S8 preguntas cruzadas</td></tr><tr><td><b><b>C</b> Cuestionario</b></td><td>3.1 · 3.3</td><td>S1 diagnóstico · S2 tras la charla</td></tr><tr><td><b><b>P</b> Portafolio</b></td><td>3.1 · 3.3</td><td>S3 cálculo por las tres vías y mapa de agentes · S4 torneo de tasas · S5 reordenación PIB-IDH · S7 informe en elaboración</td></tr><tr><td><b><b>PF</b> Producto final</b></td><td>3.1 · 3.3</td><td>S8 informe país</td></tr><tr><td><b><b>EO</b> Exposición oral</b></td><td>3.1 · 3.3</td><td>S8 defensa en la Cumbre</td></tr><tr><td><b><b>PE</b> Prueba escrita</b></td><td>3.1 · 3.3</td><td>S9</td></tr><tr><td><b><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</b></td><td>formativas</td><td>Co.Ev. en S3, S4, S5 y S8 · Auto.Ev. en S9</td></tr></tbody></table>
 
-**Las sesiones 3 y 4 duran 55 minutos** y son las más densas del itinerario. Si tu grupo va justo, se señala qué se comprime y qué no. El cálculo de Economilandia por las tres vías **no se recorta** (el momento de la triple coincidencia es el núcleo de la sesión 3) y las cuatro estaciones de la sesión 4 se mantienen íntegras.
-:::
-
-::: nota El criterio 3.2 no se evalúa en esta unidad
-Se trabaja y se califica íntegramente en la SdA 9 (“El viaje de un euro”). La pregunta “¿quién paga y quién gana?” que recorre esta unidad es solo andamiaje formativo hacia ese criterio. La Competencia Específica 3 se califica en la tercera evaluación.
+::: aviso Datos que hay que actualizar
+PIB y crecimiento (INE, IECA, Eurostat), Atlas de Distribución de Renta de los Hogares (INE), IDH (PNUD), IPM (OPHI-PNUD), Gini y AROPE (INE, Encuesta de Condiciones de Vida) cambian cada año. Los expedientes país de la sesión 7 deben revisarse cada curso. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -35,51 +31,25 @@ Las dos cosas son ciertas a la vez. Esta unidad va sobre por qué, y sobre cómo
 - Las cuatro cosas importantes que el PIB no ve.
 - Y a manejar los indicadores que lo completan: IDH, IPM, índice de Gini y tasa AROPE.
 
-::: idea Elementos curriculares
-Competencia específica **3** · Criterios **3.1** y **3.3** · Saberes básicos **C1** y **C2** · 9 sesiones · Cierre del segundo trimestre · Coordinación propuesta con Educación para la Convivencia Democrática I.
-:::
+## El reto: el Informe país y la Cumbre del Desarrollo Humano
 
-## El reto: Informe país y Cumbre del Desarrollo Humano
+Vuestro grupo será una **delegación técnica**. Recibiréis el expediente de un país (Noruega, Catar, Costa Rica, Vietnam, Chile o Nigeria) y tendréis que elaborar su radiografía económica comparada con España y Andalucía, y defenderla en una **Cumbre del Desarrollo Humano**.
 
-Vuestro grupo será una **delegación técnica**. Recibiréis el expediente de un país (Noruega, Catar, Costa Rica, Vietnam, Chile o Nigeria) y tendréis que elaborar su radiografía económica comparada frente a España y defenderla ante una **Cumbre del Desarrollo Humano** simulada.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas inseparables
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El informe país</b></td><td>Una tabla comparativa de siete indicadores con su fuente y su año, un gráfico hecho por vosotros, un diagnóstico de qué cuenta el PIB de ese país y qué esconde, tres propuestas de desarrollo con lo que se sacrifica al elegir cada una, y una tabla de quién gana y quién pierde con cada propuesta.</td></tr><tr><td><b>2. La defensa en la Cumbre</b></td><td>Cuatro o cinco minutos en los que intervienen al menos dos miembros y el gráfico sirve de verdad para argumentar. Después, dos preguntas de otras delegaciones y una réplica de quince segundos.</td></tr></tbody></table>
 
-<table><thead><tr><th width="22%">Pieza</th><th width="48%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Informe país</b></td><td>Tabla comparativa de siete indicadores con fuentes y años citados, gráfico de elaboración propia, diagnóstico razonado de “qué cuenta el PIB de este país y qué esconde”, tres propuestas de desarrollo con su coste de oportunidad explícito y una matriz de ganadores y perdedores por agente económico.</td><td>Instrumento R (valoración del producto), con las rúbricas de 3.1 y 3.3</td></tr><tr><td><b>2. Defensa en la Cumbre</b></td><td>Cuatro o cinco minutos con dos obligaciones formales. Que intervengan al menos dos miembros y que el gráfico se use como soporte real de la argumentación. Después, dos preguntas cruzadas de otras delegaciones y una réplica de quince segundos.</td><td>Instrumentos EO (exposición oral), D (debate) y Co.Ev. (coevaluación)</td></tr></tbody></table>
-
-::: nota La pregunta motriz tiene DOS mitades
-“Crecimiento, ¿a qué precio?” · “¿y para quién?”
-
-La primera mitad organiza el trabajo con indicadores de las sesiones 3 a 5. La segunda, el análisis de agentes que se levanta en la sesión 3 y culmina en la matriz del informe. **Ninguna delegación podrá cerrar su defensa sin responder a las dos.**
-:::
-
-::: aviso Por qué esto no lo puede hacer una IA por ti
-Los expedientes llegan **en papel y curados**, el gráfico se construye en el aula, y la pregunta cruzada fija exige responder en directo quién paga y quién gana con vuestras propias propuestas, con una réplica de quince segundos que puede señalar un agente olvidado. Ese intercambio no se prepara de antemano: exige comprensión real del reparto.
+::: nota La pregunta tiene dos mitades
+“Crecimiento, ¿a qué precio?” y “¿para quién?”. Ninguna delegación podrá cerrar su defensa sin responder a las dos. En la Cumbre os preguntarán, sin aviso previo, **quién paga y quién gana** con vuestras propuestas.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda08-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 3.1
@@ -91,10 +61,14 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 9 sesiones {.plegado}
 
-Estas son las nueve sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="56%">Sesión</th><th width="21%">Fase</th><th width="18%">Criterios</th></tr></thead><tbody><tr><td>1</td><td>Motivación y diagnóstico. “El podio engañoso” y la paradoja malagueña</td><td>Movilizar + Activar</td><td>3.1</td></tr><tr><td>2</td><td>Exploración. La voz de la cooperación al desarrollo</td><td>Explorar</td><td>3.3</td></tr><tr><td>3</td><td>Del micro al macro, la fábrica de PIB y el mapa de los agentes</td><td>Estructurar</td><td>3.1 · 3.3</td></tr><tr><td>4</td><td>¿Crecemos de verdad? y lo que el PIB no ve</td><td>Estructurar</td><td>3.3 · 3.1</td></tr><tr><td>5</td><td>Medir lo que importa: crecimiento, desarrollo e indicadores</td><td>Estructurar</td><td>3.1 · 3.3</td></tr><tr><td>6</td><td>¿Crecer primero, repartir después? Distribución y debate</td><td>Estructurar</td><td>3.1</td></tr><tr><td>7</td><td>Laboratorio de datos: elaboración del Informe país</td><td>Aplicar</td><td>3.1 · 3.3</td></tr><tr><td>8</td><td>La Cumbre del Desarrollo Humano</td><td>Aplicar + Evaluar</td><td>3.1 · 3.3</td></tr><tr><td>9</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>3.1 · 3.3</td></tr></tbody></table>
-
-::: nota ⏱️ Las sesiones 3 y 4 son de 55 minutos
-Son las dos sesiones fusionadas del rediseño y las más densas del itinerario. El resto son de 50.
-:::
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>El podio engañoso.</b> Ordenáis seis países por lo bien que se vive en ellos, y los datos os llevan la contraria. Y una paradoja: Málaga crece, pero no para todos.</td></tr>
+<tr><td><b>2</b></td><td><b>La voz de la cooperación.</b> Una persona de una ONG de desarrollo os cuenta qué significa desarrollarse sobre el terreno.</td></tr>
+<tr><td><b>3</b></td><td><b>La fábrica de PIB.</b> Calculáis el PIB de un país inventado por tres caminos y descubrís quiénes son los cuatro agentes de la economía.</td></tr>
+<tr><td><b>4</b></td><td><b>¿Crecemos de verdad?</b> PIB nominal y real, por habitante y en paridad de poder adquisitivo. Y cuatro estaciones con lo que el PIB no ve.</td></tr>
+<tr><td><b>5</b></td><td><b>Medir lo que importa.</b> Crecimiento y desarrollo: IDH, pobreza multidimensional, índice de Gini y tasa AROPE.</td></tr>
+<tr><td><b>6</b></td><td><b>¿Crecer primero, repartir después?</b> El reparto de la renta y un debate en las cuatro esquinas del aula.</td></tr>
+<tr><td><b>7</b></td><td><b>Laboratorio de datos.</b> Elaboráis el informe país con vuestro expediente.</td></tr>
+<tr><td><b>8</b></td><td><b>La Cumbre del Desarrollo Humano.</b> Cada delegación defiende su informe y responde a las preguntas de las demás.</td></tr>
+<tr><td><b>9</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

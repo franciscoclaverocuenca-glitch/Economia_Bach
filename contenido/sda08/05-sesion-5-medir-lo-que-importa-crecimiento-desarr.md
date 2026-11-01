@@ -2,7 +2,18 @@
 titulo: 'Sesión 5 · Medir lo que importa: crecimiento, desarrollo e indicadores'
 ---
 
+Ayer, en la Estación D, pedisteis un dato que acompañara al PIB per cápita para no dejaros engañar por la media. Hoy os lo damos, y además otros tres.
+
+Y vais a hacer algo más interesante que aprenderlos de memoria. Vais a **reconstruir el IDH** de dos países con vuestras propias manos y a comprobar cuánto cambia el ranking.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda08-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda08-s05-solucionario-idh.pdf | Solucionario del IDH simplificado | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y coevaluación</td></tr><tr><td><b>Instrumentos</b></td><td>P: reconstrucción del IDH y apuntes Cornell · OD: observación del trabajo por parejas · Co.Ev.: contraste cruzado de reconstrucciones</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,15 +38,6 @@ Presenta a **Esther Duflo** como referente actual. El enlace con el criterio 3.3
 - El PIB no desaparece del IDH: ¿qué papel juega dentro de él?
 - Si pudieras añadir un solo indicador al panel de mandos, ¿cuál sería y por qué?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas con los componentes reales del IDH** de dos países: esperanza de vida al nacer, años esperados y años medios de escolarización, y renta per cápita en PPA. Datos del Informe sobre Desarrollo Humano del PNUD, **última edición**.
-- **Plantilla de reconstrucción del IDH paso a paso**: normalizar cada dimensión entre el mínimo y el máximo dados y promediar. Con los valores de referencia ya facilitados.
-- **Tablas del IDH oficial** y del **ranking por PIB per cápita** de los mismos países, para la comparación final.
-- **Datos AROPE de la Encuesta de Condiciones de Vida del INE**, con el dato andaluz. Históricamente por encima del tercio de la población. **Cifra a actualizar.**
-- **Mural del aula** para recoger las propuestas de indicador libre.
-- Plantilla Cornell.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La reconstrucción del IDH se apoya en una plantilla paso a paso con los valores de referencia ya facilitados, de modo que el esfuerzo se concentre en comprender la lógica del índice y no en recordar el procedimiento.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El contraste cruzado entre parejas valida el cálculo antes de la puesta en común, lo que permite detectar y corregir errores sin exposición ante el gran grupo.</td></tr></tbody></table>
@@ -44,23 +46,17 @@ Presenta a **Esther Duflo** como referente actual. El enlace con el criterio 3.3
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Ayer, en la Estación D, pedisteis un dato que acompañara al PIB per cápita para no dejaros engañar por la media. Hoy os lo damos, y además otros tres.
-
-Y vais a hacer algo más interesante que aprenderlos de memoria. Vais a **reconstruir el IDH** de dos países con vuestras propias manos y a comprobar cuánto cambia el ranking.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda8-s05-01.webp | Portada
-sda8-s05-02.webp | Crecer y vivir mejor
-sda8-s05-03.webp | El IDH
-sda8-s05-04.webp | La declaración de intenciones
-sda8-s05-05.webp | Los otros tres indicadores
-sda8-s05-06.webp | Referente: Esther Duflo
-sda8-s05-07.webp | Reconstruye el IDH
-sda8-s05-08.webp | Cierre
+sda8-s05-01.webp | Medir lo que importa
+sda8-s05-02.webp | Crecimiento y desarrollo
+sda8-s05-03.webp | Tres dimensiones
+sda8-s05-04.webp | Cuatro pasos
+sda8-s05-05.webp | Tres indicadores más
+sda8-s05-06.webp | Riesgo de pobreza o exclusión
+sda8-s05-07.webp | Esther Duflo
+sda8-s05-08.webp | Si pudieras añadir un solo indicador, ¿cuál sería?
 ```
 
 ## Reconstruye el IDH
@@ -75,15 +71,37 @@ El **PIB no desaparece** del IDH: se convierte en una de sus tres patas. El IDH 
 
 ### Vuestro cálculo
 
-<table><thead><tr><th width="10%">Paso</th><th width="90%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1</b></td><td>Normalizad cada dimensión entre el mínimo y el máximo dados en la plantilla.</td></tr><tr><td><b>2</b></td><td>Promediad las tres dimensiones normalizadas.</td></tr><tr><td><b>3</b></td><td>Ordenad los dos países por vuestro IDH simplificado y comparadlo con el IDH oficial.</td></tr><tr><td><b>4</b></td><td>MOMENTO CLAVE: comparad el puesto de cada país por <b>IDH</b> con su puesto por <b>PIB per cápita</b>.</td></tr></tbody></table>
+Practicad primero con dos países inventados. Para normalizar se usa: **(valor − mínimo) / (máximo − mínimo)**. Los mínimos y máximos son: esperanza de vida, 20 y 85 años; años esperados de escolarización, 0 y 18; años medios, 0 y 15; renta per cápita, 100 y 75.000 dólares PPA.
 
-<table><thead><tr><th width="34%">País</th><th width="24%">Puesto por PIB per cápita</th><th width="22%">Puesto por IDH</th><th width="20%">¿Sube o baja?</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="28%">País</th><th width="18%">Esperanza de vida</th><th width="18%">Años esperados de escolarización</th><th width="18%">Años medios de escolarización</th><th width="18%">Renta per cápita (dólares PPA)</th></tr></thead><tbody><tr><td><b>Aurea</b></td><td>70</td><td>10</td><td>6</td><td>40.000</td></tr><tr><td><b>Verdia</b></td><td>80</td><td>16</td><td>10</td><td>15.000</td></tr></tbody></table>
+
+```actividad
+id: sda08-s05-idh
+tipo: rellenar
+instrucciones: Calcula con dos decimales y coma decimal. La educación es la media de los dos índices de escolarización. El IDH simplificado es la media de las tres dimensiones.
+texto: |
+  **Aurea.** Salud: [0,77|0.77]. Educación: [0,48|0.48]. Renta: [0,53|0.53]. IDH simplificado: [0,59|0.59].
+  **Verdia.** Salud: [0,92|0.92]. Educación: [0,78|0.78]. Renta: [0,20|0.20|0,2]. IDH simplificado: [0,63|0.63].
+explicacion: 'Aurea: salud (70 − 20) / 65 = 0,77; educación (10/18 + 6/15) / 2 = (0,56 + 0,40) / 2 = 0,48; renta (40.000 − 100) / 74.900 = 0,53; media 0,59. Verdia: salud 60/65 = 0,92; educación (0,89 + 0,67) / 2 = 0,78; renta 14.900 / 74.900 = 0,20; media 0,63. Verdia tiene menos de la mitad de renta y un IDH mayor. El PNUD usa la media geométrica y el logaritmo de la renta, pero la idea es la misma.'
+```
+
+Después, con los datos reales de la sesión 1:
+
+<table><thead><tr><th width="10%">Paso</th><th width="90%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1</b></td><td>Ordenad los siete países por PIB per cápita y por IDH.</td></tr><tr><td><b>2</b></td><td>Comparad el puesto de cada país en las dos listas: ¿sube o baja?</td></tr><tr><td><b>3</b></td><td>Buscad qué dimensión del IDH explica cada cambio.</td></tr></tbody></table>
+
+```descargas
+sda08-s05-reconstruye-idh.pdf | Plantilla para reconstruir el IDH | Normalización, cálculo y comparación de puestos
+```
 
 ::: aviso Los dos hallazgos que hay que anotar
 Buscad el país que **“vive mejor de lo que produce”** y el que **“produce más de lo que vive”**. Esas dos divergencias son la respuesta empírica al conflicto cognitivo de la sesión 1.
 :::
 
-Antes de la puesta en común, contrastad vuestro cálculo con otra pareja para validarlo. Ese contraste es la coevaluación.
+Antes de la puesta en común, contrastad vuestro cálculo con otra pareja: si no coincide, buscad juntos dónde está la diferencia.
+
+## Cierre
+
+Ronda final: **si pudieras añadir un solo indicador al panel de mandos del país, ¿cuál sería y por qué?** Vuestras propuestas quedan en el mural. De ahí saldrá el indicador libre de vuestro Informe país. Y se anuncia el reparto de expedientes país de la sesión 7.
 
 ## Apuntes de la sesión
 
@@ -105,14 +123,18 @@ El PIB **no desaparece** del IDH: es una de sus tres patas. El IDH no sustituye 
 
 ### 3. Tres indicadores más para completar las gafas
 
-<table><thead><tr><th width="28%">Indicador</th><th width="44%">Qué mide</th><th width="28%">Origen</th></tr></thead><tbody><tr><td><b>Índice de Pobreza Multidimensional (IPM)</b></td><td>Las privaciones concretas de cada hogar, no solo la renta: agua, electricidad, escolarización, nutrición</td><td>Codiseñado por <b>Sabina Alkire</b> para el PNUD</td></tr><tr><td><b>Índice de Gini</b></td><td>El reparto de la renta dentro de un país. Es exactamente el dato que pidió la Estación D</td><td>Corrado Gini (1912)</td></tr><tr><td><b>Tasa AROPE</b></td><td>Riesgo de pobreza o exclusión social. El dato andaluz se ha situado históricamente por encima del tercio de la población</td><td>Indicador oficial de la Unión Europea</td></tr></tbody></table>
+<table><thead><tr><th width="28%">Indicador</th><th width="44%">Qué mide</th><th width="28%">Origen</th></tr></thead><tbody><tr><td><b>Índice de Pobreza Multidimensional (IPM)</b></td><td>Las privaciones concretas de cada hogar, no solo la renta: agua, electricidad, escolarización, nutrición</td><td>Codiseñado por <b>Sabina Alkire</b> para el PNUD</td></tr><tr><td><b>Índice de Gini</b></td><td>El reparto de la renta dentro de un país. Es exactamente el dato que pidió la Estación D</td><td>Corrado Gini (1912)</td></tr><tr><td><b>Tasa AROPE</b></td><td>Riesgo de pobreza o exclusión social. En 2025, el 25,7 % en España y el 34,7 % en Andalucía, la tasa más alta de todas las comunidades</td><td>Indicador oficial de la Unión Europea</td></tr></tbody></table>
+
+::: ejemplo Los datos de España y Andalucía
+Según la Encuesta de Condiciones de Vida 2025 del INE, publicada el 5 de febrero de 2026, la tasa AROPE fue del **25,7 %** en España, frente al 25,8 % de 2024. Andalucía tuvo la más alta, **34,7 %**, seguida de Castilla-La Mancha (34,0 %) y la Región de Murcia (32,5 %). La tasa de riesgo de pobreza andaluza fue del 27,7 %, también la más alta.
+:::
 
 ### 4. Referente: Esther Duflo
 
 ::: aviso Premio Nobel de Economía 2019
 **Esther Duflo** recibió el Nobel junto a Abhijit Banerjee y Michael Kremer por someter la lucha contra la pobreza al **método experimental**: en lugar de discutir en abstracto qué funciona, diseñar experimentos que lo comprueben sobre el terreno.
 
-El enlace con el criterio 3.3 de esta materia es literal: **no basta con medir cuánto crece un país; hay que comprobar, con datos, qué políticas mejoran de verdad la vida de la gente**. Junto a Sabina Alkire, es referente actual de mujeres en la economía del desarrollo.
+Su lección es directa: **no basta con medir cuánto crece un país; hay que comprobar, con datos, qué políticas mejoran de verdad la vida de la gente**. Junto a Sabina Alkire, es referente actual de mujeres en la economía del desarrollo.
 :::
 
 ### 5. Y una tarea que sale de aquí
@@ -123,8 +145,22 @@ Conviene elegirlo pensando también en la **matriz de ganadores y perdedores**: 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody><tr><td><b>Desarrollo</b></td><td>Transformación que amplía las capacidades y oportunidades reales de las personas.</td></tr><tr><td><b>IDH</b></td><td>Índice del PNUD que combina esperanza de vida, educación y renta per cápita en PPA.</td></tr><tr><td><b>IPM</b></td><td>Índice de Pobreza Multidimensional: mide privaciones concretas de los hogares.</td></tr><tr><td><b>Índice de Gini</b></td><td>Medida de la desigualdad en el reparto de la renta: 0 igualdad total, 1 desigualdad máxima.</td></tr><tr><td><b>Tasa AROPE</b></td><td>Porcentaje de población en riesgo de pobreza o exclusión social.</td></tr><tr><td><b>Normalizar</b></td><td>Transformar un valor a una escala común (habitualmente entre 0 y 1) para poder promediarlo con otros.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Desarrollo</b></td><td>Transformación que amplía las capacidades y oportunidades reales de las personas.</td></tr>
+<tr><td><b>IDH</b></td><td>Índice del PNUD que combina esperanza de vida, educación y renta per cápita en PPA. Va de 0 a 1.</td></tr>
+<tr><td><b>Esperanza de vida al nacer</b></td><td>Años que viviría de media una persona nacida hoy si se mantuvieran las condiciones actuales.</td></tr>
+<tr><td><b>Normalizar</b></td><td>Transformar un valor a una escala común, habitualmente entre 0 y 1, para poder promediarlo con otros.</td></tr>
+<tr><td><b>IPM</b></td><td>Índice de Pobreza Multidimensional: mide privaciones concretas de los hogares en salud, educación y nivel de vida.</td></tr>
+<tr><td><b>Índice de Gini</b></td><td>Medida de la desigualdad en el reparto de la renta: 0 es igualdad total y 1 (o 100), desigualdad máxima.</td></tr>
+<tr><td><b>Tasa AROPE</b></td><td>Porcentaje de población en riesgo de pobreza o exclusión social. Combina renta baja, carencia material severa y baja intensidad en el empleo.</td></tr>
+<tr><td><b>Tasa de riesgo de pobreza</b></td><td>Porcentaje de personas con ingresos por debajo del 60 % de la renta mediana del país.</td></tr>
+<tr><td><b>Método experimental</b></td><td>Comparar a quienes reciben un programa con un grupo parecido que no lo recibe para saber si funciona.</td></tr>
+</tbody></table>
 
-## Cierre
+### Para saber más
 
-Ronda final: **si pudieras añadir un solo indicador al panel de mandos del país, ¿cuál sería y por qué?** Vuestras propuestas quedan en el mural. De ahí saldrá el indicador libre de vuestro Informe país. Y se anuncia el reparto de expedientes país de la sesión 7.
+```video
+https://www.youtube.com/watch?v=EaQZ9MOW71k | Crecimiento y desarrollo económico | Econosublime · 6:59
+https://www.youtube.com/watch?v=jY5ljGpwMhg | ¿Qué es el índice de Gini? | Ecoduca · 2:34
+https://www.youtube.com/watch?v=M-iPolFMMeg | ¿Qué es el indicador AROPE? | EAPN España · 1:46
+```

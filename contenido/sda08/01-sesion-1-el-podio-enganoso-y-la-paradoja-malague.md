@@ -2,7 +2,18 @@
 titulo: Sesión 1 · El podio engañoso y la paradoja malagueña
 ---
 
+Vais a ordenar seis países según dónde creéis que “se vive mejor”. Sin datos, sin buscar nada: con vuestra intuición.
+
+Después veremos los dos rankings reales. Y aviso: no coinciden entre sí, y probablemente ninguno coincidirá con vuestro podio. Ese desajuste es el punto de partida de toda la unidad.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda08-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda08-s01-datos-podio.pdf | Datos del podio y de la paradoja | Solo docente, con las fuentes que hay que actualizar
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 (con introducción a 3.3)</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: argumentación durante el podio y la puesta en común · C: cuestionario diagnóstico inicial · D: calidad del contraste argumentado</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,15 +40,6 @@ titulo: Sesión 1 · El podio engañoso y la paradoja malagueña
 - Si Málaga “va como un tiro”, ¿por qué no lo nota todo el mundo por igual?
 - ¿Quién decide qué se cuenta y qué no en el PIB?
 
-::: aviso Material que debes preparar tú
-- **6 tarjetas de países sin datos**, con nombre y bandera: Noruega, Catar, Costa Rica, Vietnam, Chile y Nigeria. Un juego por grupo base.
-- **Dos rankings reales** de esos mismos seis países, proyectables. Uno por PIB per cápita en PPA (Banco Mundial) y otro por IDH (PNUD). **Actualiza las cifras** con la última edición.
-- **3 titulares reales y recientes de prensa sobre Málaga**: crecimiento del PIB provincial, récords turísticos y llegada de empresas tecnológicas.
-- **Extracto del Atlas de Distribución de Renta de los Hogares del INE** con las secciones censales de la capital de menor renta media, señaladamente en el distrito Palma-Palmilla.
-- **Cuestionario diagnóstico** de 8-10 ítems (papel o digital): qué es el PIB, crecimiento frente a desarrollo, renta per cápita, si un país rico puede tener pobreza y, ítem añadido en la revisión, quién produce y quién consume, con tres ejemplos cotidianos que hay que asignar.
-- **Mural del reto** con las dos mitades de la pregunta motriz, que permanecerá visible toda la unidad.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es la intuición del propio alumnado, sin ningún dato previo: nadie parte en desventaja por no saber, y el conflicto cognitivo surge de comparar la propia respuesta con los datos, no de recibir una corrección.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La paradoja se presenta simultáneamente en tres soportes (titulares de prensa, tabla de rankings y mapa de renta por secciones censales), de modo que la misma idea llegue por vía textual, numérica y espacial.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El podio se resuelve en grupo base antes de cualquier intervención en gran grupo, y el diagnóstico final es individual, escrito y sin calificación.</td></tr></tbody></table>
@@ -46,24 +48,18 @@ titulo: Sesión 1 · El podio engañoso y la paradoja malagueña
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-Vais a ordenar seis países según dónde creéis que “se vive mejor”. Sin datos, sin buscar nada: con vuestra intuición.
-
-Después veremos los dos rankings reales. Y aviso: no coinciden entre sí, y probablemente ninguno coincidirá con vuestro podio. Ese desajuste es el punto de partida de toda la unidad.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda8-s01-01.webp | Portada
-sda8-s01-02.webp | El podio engañoso
-sda8-s01-03.webp | La revelación
-sda8-s01-04.webp | Dos casos que chocan
-sda8-s01-05.webp | La paradoja malagueña
-sda8-s01-06.webp | Las preguntas que quedan en la pizarra
-sda8-s01-07.webp | El reto
-sda8-s01-08.webp | La doble pregunta motriz
-sda8-s01-09.webp | Cierre transversal
+sda8-s01-01.webp | El podio engañoso
+sda8-s01-02.webp | ¿Dónde se vive mejor?
+sda8-s01-03.webp | Dos rankings que no coinciden
+sda8-s01-04.webp | Producir y vivir
+sda8-s01-05.webp | Málaga crece
+sda8-s01-06.webp | Cuando decimos que «Málaga crece», ¿quién crece exactamente?
+sda8-s01-07.webp | Un informe país y una Cumbre del Desarrollo Humano.
+sda8-s01-08.webp | Dos mitades
+sda8-s01-09.webp | ¿Quién cocinó ayer en tu casa, y cuánto de eso está en el PIB?
 ```
 
 ## Actividad 1 · El podio engañoso
@@ -72,11 +68,17 @@ sda8-s01-09.webp | Cierre transversal
 
 Ordenad los seis países de mejor a peor según dónde creéis que se vive mejor, y justificad en una frase el primer puesto y el último.
 
-<table><thead><tr><th width="12%">Puesto</th><th width="34%">País</th><th width="54%">Justificación (solo 1.º y 6.º)</th></tr></thead><tbody><tr><td>1.º</td><td></td><td></td></tr><tr><td>2.º</td><td></td><td></td></tr><tr><td>3.º</td><td></td><td></td></tr><tr><td>4.º</td><td></td><td></td></tr><tr><td>5.º</td><td></td><td></td></tr><tr><td>6.º</td><td></td><td></td></tr></tbody></table>
+Los seis países son **Noruega, Catar, Costa Rica, Vietnam, Chile y Nigeria**.
+
+```descargas
+sda08-s01-podio.pdf | Hoja del podio | Vuestro orden, la justificación y los dos rankings reales
+```
 
 ### Y ahora los datos
 
-<table><thead><tr><th width="28%">Ranking</th><th width="48%">Qué ordena</th><th width="24%">Vuestra sorpresa</th></tr></thead><tbody><tr><td><b>PIB per cápita en PPA</b></td><td>Cuánto produce el país por habitante, corrigiendo el coste de la vida</td><td></td></tr><tr><td><b>IDH</b></td><td>Vida larga y saludable, educación y nivel de vida digno</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="22%">País</th><th width="26%">PIB per cápita en PPA, 2024 (dólares, aprox.)</th><th width="26%">IDH (2023)</th><th width="26%">Puesto mundial en el IDH</th></tr></thead><tbody><tr><td><b>Catar</b></td><td>120.000</td><td>0,886</td><td>43.º</td></tr><tr><td><b>Noruega</b></td><td>102.000</td><td>0,970</td><td>2.º</td></tr><tr><td><b>España</b> (para comparar)</td><td>58.000</td><td>0,918</td><td>28.º</td></tr><tr><td><b>Chile</b></td><td>33.000</td><td>0,878</td><td>45.º</td></tr><tr><td><b>Costa Rica</b></td><td>29.000</td><td>0,833</td><td>62.º</td></tr><tr><td><b>Vietnam</b></td><td>16.000</td><td>0,766</td><td>93.º</td></tr><tr><td><b>Nigeria</b></td><td>6.000</td><td>0,560</td><td>Entre los 30 últimos</td></tr></tbody></table>
+
+Fuentes: Banco Mundial (PIB per cápita en paridad de poder adquisitivo) y PNUD, Informe sobre Desarrollo Humano 2025, con datos de 2023. El IDH va de 0 a 1.
 
 ::: nota Dos casos que conviene mirar despacio
 **Catar.** PIB per cápita entre los más altos del mundo, IDH comparativamente menor. Produce muchísimo por habitante, y eso no se traduce automáticamente en vidas más largas ni en más educación.
@@ -86,7 +88,11 @@ Ordenad los seis países de mejor a peor según dónde creéis que se vive mejor
 
 ## Actividad 2 · La paradoja malagueña
 
-Tres titulares reales sobre el momento económico de Málaga. Y al lado, el Atlas de Distribución de Renta de los Hogares del INE, que muestra secciones censales de la capital entre las de menor renta media de España.
+Tres titulares sobre el momento económico de Málaga. Y al lado, el Atlas de Distribución de Renta de los Hogares del INE, que muestra secciones censales de la capital entre las de menor renta media de España.
+
+```descargas
+sda08-s01-paradoja.pdf | La paradoja malagueña | Los titulares, el mapa de renta y vuestras preguntas
+```
 
 ::: aviso Las preguntas que se quedan en la pizarra
 - Si Málaga “va como un tiro”, ¿por qué no lo nota todo el mundo por igual?
@@ -101,44 +107,24 @@ Tres titulares reales sobre el momento económico de Málaga. Y al lado, el Atla
 
 La primera mitad organiza el trabajo con indicadores de las sesiones 3 a 5. La segunda, el análisis de agentes que se levanta en la sesión 3 y culmina en la matriz de vuestro informe. Ninguna delegación podrá cerrar su defensa en la Cumbre sin responder a las dos.
 
-## Entrega de las rúbricas de evaluación
+## Las rúbricas de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes las rúbricas con las que se evaluará la unidad. Las tienes siempre disponibles en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-3.1
+```descargas
+sda08-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
 ```
 
-```rubrica
-3.3
-```
+### Cómo se leen
+
+- Cada criterio tiene **una rúbrica** con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léelas antes de cada entrega y úsalas en la autoevaluación de la última sesión.
+
+## Cierre
+
+Anota en tus apuntes la pregunta abierta de hoy: **“¿quién cocinó ayer en tu casa, quién puso lavadoras, quién cuidó de alguien… y cuánto de todo eso aparece en el PIB?”** La resolveremos con datos en la sesión 4.
 
 ## Apuntes de la sesión
 
@@ -172,16 +158,28 @@ La unidad se organiza en torno a una pregunta con dos mitades, y conviene no per
 ::: aviso ¿Quién cocina el PIB?
 ¿Quién cocinó ayer en tu casa, quién puso lavadoras, quién cuidó de alguien… y cuánto de todo eso aparece en el PIB del que hemos hablado hoy?
 
-No la respondemos hoy. Anótala en el margen de tu Cornell como **pregunta abierta**: la resolveremos con datos en la sesión 4, con la Encuesta de Empleo del Tiempo del INE y la figura de Marilyn Waring.
+No la respondemos hoy. Anótala en tus apuntes como **pregunta abierta**: la resolveremos con datos en la sesión 4, con la Encuesta de Empleo del Tiempo del INE y la figura de Marilyn Waring.
 :::
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="24%">Término</th><th width="76%">Definición</th></tr></thead><tbody><tr><td><b>PIB per cápita</b></td><td>Producto interior bruto dividido entre la población: cuánto se produce por habitante.</td></tr><tr><td><b>PPA</b></td><td>Paridad de poder adquisitivo. Corrección que permite comparar países con distinto coste de la vida.</td></tr><tr><td><b>IDH</b></td><td>Índice de Desarrollo Humano. Combina salud, educación y nivel de vida. Se estudia en la sesión 5.</td></tr><tr><td><b>Sección censal</b></td><td>Unidad territorial mínima de las estadísticas oficiales. Permite ver desigualdades dentro de una misma ciudad.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Macroeconomía</b></td><td>Parte de la economía que estudia el conjunto de un país: producción total, empleo, precios y crecimiento.</td></tr>
+<tr><td><b>PIB</b></td><td>Producto interior bruto. Valor de todos los bienes y servicios finales producidos en un territorio durante un periodo.</td></tr>
+<tr><td><b>PIB per cápita</b></td><td>PIB dividido entre la población: cuánto se produce por habitante.</td></tr>
+<tr><td><b>PPA</b></td><td>Paridad de poder adquisitivo. Corrección que permite comparar países con distinto coste de la vida.</td></tr>
+<tr><td><b>IDH</b></td><td>Índice de Desarrollo Humano del PNUD. Combina salud, educación y nivel de vida en un valor entre 0 y 1. Se estudia en la sesión 5.</td></tr>
+<tr><td><b>PNUD</b></td><td>Programa de las Naciones Unidas para el Desarrollo. Publica cada año el Informe sobre Desarrollo Humano.</td></tr>
+<tr><td><b>Renta media</b></td><td>Ingreso medio de las personas o de los hogares de una zona.</td></tr>
+<tr><td><b>Sección censal</b></td><td>Unidad territorial mínima de las estadísticas oficiales. Permite ver desigualdades dentro de una misma ciudad.</td></tr>
+<tr><td><b>Atlas de Distribución de Renta</b></td><td>Estadística del INE que muestra la renta media de cada municipio, distrito y sección censal de España.</td></tr>
+</tbody></table>
 
-## La pregunta abierta
+### Para saber más
 
-Anota en el margen de tu Cornell la pregunta abierta de hoy: **“¿quién cocinó ayer en tu casa, quién puso lavadoras, quién cuidó de alguien… y cuánto de todo eso aparece en el PIB?”** La resolveremos con datos en la sesión 4.
+```video
+https://www.youtube.com/watch?v=ZQSV1fvvfa4 | Qué es el PIB | Econosublime · 9:58
+```
 
 ## Comprueba lo que sabes
 

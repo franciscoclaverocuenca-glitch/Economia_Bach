@@ -2,7 +2,20 @@
 titulo: Sesión 6 · ¿Crecer primero, repartir después? Las Cuatro Esquinas
 ---
 
+Hoy no hay explicación larga ni cálculo. Hay un dato y un debate.
+
+El dato: la **desigualdad de mercado no es la desigualdad final**. El índice de Gini de España baja sustancialmente después de impuestos y transferencias.
+
+Y el debate. ¿crecer primero y repartir después, o repartir ya? Vais a elegir esquina físicamente. Y podréis cambiar de esquina, si sabéis explicar qué argumento os ha movido.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda08-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda08-s06-registro-esquinas.pdf | Registro del debate | Solo docente, con los cambios razonados de esquina
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico), sesión coordinada con EPCD I</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1</td><td><b>Saberes básicos</b></td><td>C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Cuatro esquinas</td><td><b>Carácter</b></td><td>Formativa, evidencia de observación y debate</td></tr><tr><td><b>Instrumentos</b></td><td>OD: registro de la argumentación y del uso de evidencia · D: debate estructurado de las Cuatro Esquinas</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,15 +44,6 @@ Y una regla que conviene subrayar. El **cambio razonado de esquina puntúa como 
 - ¿Puede una región crecer año tras año y no converger? (retomamos la S4)
 - ¿Qué argumento de otra esquina os ha hecho dudar?
 
-::: aviso Material que debes preparar tú
-- **Datos de Eurostat y de la Encuesta de Condiciones de Vida del INE**: índice de Gini de España **antes y después** de impuestos y transferencias. **Actualiza las cifras.**
-- **Cuatro carteles** con las tesis de las esquinas, colocados en las cuatro esquinas del aula.
-- **Ficha de posicionamiento individual** con los cuatro campos, incluida la **fila de agentes**.
-- **El tarjetero de agentes de la sesión 3**, disponible para todo el alumnado.
-- **Coordinación previa con el departamento de EPCD I**: su profesorado puede asistir como segundo observador o recibir las fichas de posicionamiento como evidencia propia.
-- Espacio de aula despejado que permita el desplazamiento físico a las esquinas.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El posicionamiento se expresa físicamente eligiendo esquina, lo que permite participar sin intervención oral; la portavocía es rotatoria y la ficha escrita recoge la aportación individual de todo el mundo con independencia de que hable o no.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>El cambio razonado de opinión se define explícitamente como virtud y no como derrota, lo que rebaja el coste emocional de reconsiderar la propia postura en público.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Las cuatro tesis están formuladas sin caricaturas y por escrito en los carteles, de modo que la elección no dependa de haber captado un matiz enunciado solo oralmente.</td></tr></tbody></table>
@@ -56,25 +60,17 @@ Esta sesión incluye una fila a la ficha de posicionamiento (“¿qué agente so
 La coordinación con **EPCD I** (criterio 3.1; saber EPCD.1.B.3.3) es aplicable **si el centro oferta la materia**. Conviene confirmarlo.
 :::
 
-## Para empezar
-
-Hoy no hay explicación larga ni cálculo. Hay un dato y un debate.
-
-El dato: la **desigualdad de mercado no es la desigualdad final**. El índice de Gini de España baja sustancialmente después de impuestos y transferencias.
-
-Y el debate. ¿crecer primero y repartir después, o repartir ya? Vais a elegir esquina físicamente. Y podréis cambiar de esquina, si sabéis explicar qué argumento os ha movido.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda8-s06-01.webp | Portada
-sda8-s06-02.webp | El dato de partida
-sda8-s06-03.webp | Quién hace bajar el Gini
-sda8-s06-04.webp | Las cuatro esquinas
-sda8-s06-05.webp | La ficha de posicionamiento
-sda8-s06-06.webp | Las reglas del debate
-sda8-s06-07.webp | Coordinación con EPCD I
-sda8-s06-08.webp | Cierre
+sda8-s06-01.webp | ¿Crecer primero, repartir después?
+sda8-s06-02.webp | El índice de Gini
+sda8-s06-03.webp | El Sector Público toma recursos de unos y los entrega a otros.
+sda8-s06-04.webp | Elige tu postura
+sda8-s06-05.webp | Cuatro campos
+sda8-s06-06.webp | Lo que importa hoy
+sda8-s06-07.webp | Un debate de todos
+sda8-s06-08.webp | ¿Qué te haría cambiar de esquina?
 ```
 
 ## El debate de las Cuatro Esquinas
@@ -83,8 +79,12 @@ sda8-s06-08.webp | Cierre
 
 Comparad el índice de Gini de España **antes** y **después** de impuestos y transferencias. Pensiones, sanidad, educación y prestaciones reducen sustancialmente la desigualdad medida.
 
+::: ejemplo El dato
+Según la Encuesta de Condiciones de Vida 2025 del INE, con rentas de 2024, el índice de Gini de España, ya **después** de impuestos y prestaciones, fue de **30,8**. La media de la Unión Europea fue de 29,2. España sigue algo por encima de la media europea en desigualdad, aunque el indicador ha mejorado en los últimos años.
+:::
+
 ::: nota Y leed ese gráfico con el tarjetero de agentes delante
-La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente, el **Sector Público**, toma recursos de unos y los entrega a otros. Preguntar en qué se nota esa diferencia en la vida concreta de cada agente anticipa lo que pedirá el criterio 3.2 en la SdA 9.
+La diferencia entre el Gini antes y el Gini después **no es un efecto automático**: es el resultado de que un agente, el **Sector Público**, toma recursos de unos y los entrega a otros. ¿En qué se nota esa diferencia en la vida concreta de cada agente?
 :::
 
 ### Las cuatro esquinas
@@ -95,6 +95,10 @@ La diferencia entre el Gini antes y el Gini después **no es un efecto automáti
 
 <table><thead><tr><th width="18%">Campo</th><th width="82%">Qué escribes</th></tr></thead><tbody><tr><td><b>1 · Tesis</b></td><td>Qué esquina eliges y por qué.</td></tr><tr><td><b>2 · Un dato</b></td><td>Un dato concreto de la unidad que la apoye, con su fuente.</td></tr><tr><td><b>3 · Un concepto</b></td><td>Un concepto económico de la unidad, correctamente usado.</td></tr><tr><td><b>4 · Los agentes</b></td><td>Qué agente <b>soporta el coste</b> de esa opción y cuál <b>recibe el beneficio</b>.</td></tr></tbody></table>
 
+```descargas
+sda08-s06-ficha-posicionamiento.pdf | Ficha de posicionamiento | Tesis, dato, concepto y agentes, con espacio para los cambios de esquina
+```
+
 ::: aviso Requisito formal de cierre: innegociable
 Ninguna intervención de defensa se da por completa hasta que su portavoz responde en una frase a: **“¿quién paga y quién gana con vuestra opción?”**
 
@@ -103,9 +107,13 @@ Obliga a que cada postura se haga cargo de sus costes en lugar de enunciar solo 
 
 ### Y la regla que más importa
 
-::: nota Cambiar de opinión puntúa como virtud
+::: nota Cambiar de opinión es una virtud
 Cualquier persona puede **cambiar de esquina** en los cambios reglados. Pero solo si explica en voz alta **qué argumento le ha movido**. El cambio razonado no es una derrota. Es la conducta intelectual que esta unidad quiere entrenar.
 :::
+
+## Cierre
+
+Cierra tu ficha respondiendo a una última pregunta: **¿qué te haría cambiar de esquina?** Identificar qué evidencia modificaría tu postura es una de las señales más fiables de que has entendido el debate.
 
 ## Apuntes de la sesión
 
@@ -115,15 +123,15 @@ Esta es la idea empírica de la sesión, y conviene entenderla bien porque suele
 
 El mercado reparte la renta según lo que cada persona aporta y posee. Ese reparto se puede medir con el **índice de Gini**. Pero el Gini que finalmente se observa en un país **no es ese**: es el que queda **después** de que el Sector Público haya cobrado impuestos y entregado prestaciones.
 
-En España, la diferencia entre el Gini de mercado y el Gini final es sustancial: pensiones, sanidad, educación y prestaciones reducen apreciablemente la desigualdad medida.
+En España, la diferencia entre el Gini de mercado y el Gini final es sustancial: pensiones, sanidad, educación y prestaciones reducen apreciablemente la desigualdad medida. El Gini final fue de **30,8** en la Encuesta de Condiciones de Vida 2025, frente a 29,2 en la Unión Europea.
 
 ::: nota Y esa diferencia tiene un responsable
-No es un efecto automático de la economía. Es el resultado de que un agente concreto, el **Sector Público**, toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente anticipa lo que el criterio 3.2 pedirá diferenciar en la SdA 9.
+No es un efecto automático de la economía. Es el resultado de que un agente concreto, el **Sector Público**, toma recursos de unos puntos y los entrega en otros. Preguntarse en qué se nota esa diferencia en la vida de cada agente es el punto de partida de la próxima unidad.
 :::
 
 ### 2. Eficiencia y equidad: el dilema con cifras
 
-En la SdA 1 planteamos el dilema entre eficiencia y equidad como una cuestión abstracta. ¿conviene una economía que produce más, o una que reparte mejor?
+Al principio del curso planteamos el dilema entre eficiencia y equidad como una cuestión abstracta. ¿conviene una economía que produce más, o una que reparte mejor?
 
 Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta técnica única, porque es una decisión **política**: depende de qué se prioriza. Lo que sí puede exigirse es que cada postura sea coherente y se haga cargo de sus costes.
 
@@ -131,24 +139,61 @@ Ahora ese dilema tiene cifras encima de la mesa. Y sigue sin tener una respuesta
 
 <table><thead><tr><th width="18%">Postura</th><th width="28%">Su tesis</th><th width="27%">Su punto fuerte</th><th width="27%">Su punto débil</th></tr></thead><tbody><tr><td><b>1 · Crecer primero</b></td><td>Sin crecimiento no hay nada que repartir</td><td>Es cierto que la redistribución necesita base productiva</td><td>El crecimiento puede no llegar abajo por sí solo</td></tr><tr><td><b>2 · Repartir ya</b></td><td>El crecimiento sin redistribución no llega abajo</td><td>Los datos de Gini antes/después lo respaldan</td><td>Una presión fiscal alta puede desincentivar la actividad</td></tr><tr><td><b>3 · Crecimiento verde</b></td><td>Crecer sí, pero desacoplado del daño ambiental</td><td>Compatibiliza dos objetivos aparentemente opuestos</td><td>El desacoplamiento absoluto es difícil de demostrar</td></tr><tr><td><b>4 · Decrecer en lo que daña</b></td><td>Reducir selectivamente lo dañino y repartir mejor</td><td>Cuestiona el crecimiento como fin en sí mismo</td><td>Plantea un problema de empleo y de aceptación social</td></tr></tbody></table>
 
-### 4. Lo que se evalúa hoy
+### 4. Lo que importa hoy
 
 ::: aviso Dos cosas, y ninguna es “ganar”
-**Primera.** que cada intervención cierre respondiendo a “¿quién paga y quién gana con vuestra opción?”. Sin eso, la defensa está incompleta. Es el requisito formal de la sesión.
+**Primera.** que cada intervención cierre respondiendo a “¿quién paga y quién gana con vuestra opción?”. Sin eso, la defensa está incompleta.
 
-**Segunda.** que el **cambio razonado de opinión** se valore como virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.
+**Segunda.** que el **cambio razonado de opinión** es una virtud. Cambiar de esquina explicando qué argumento te ha movido demuestra más comprensión que defender una postura a toda costa.
 :::
 
 ### 5. Esto también es Educación para la Convivencia Democrática
 
-La toma de posición razonada y dialogante sobre el papel del Estado ante la igualdad económica es el objeto literal de los criterios 2.1 y 2.2 de EPCD I, y las esquinas 3 y 4 desarrollan su criterio 3.1 sobre nuestra relación con el medio ambiente.
-
-La fila de agentes de vuestra ficha resulta especialmente útil allí. Preguntarse quién soporta el coste y quién recibe el beneficio de cada modelo de reparto es el planteamiento mismo del saber EPCD.1.A.2.1 sobre la distribución justa de la riqueza.
+Tomar posición de forma razonada y dialogante sobre el papel del Estado ante la desigualdad, y sobre nuestra relación con el medio ambiente, es también lo que se trabaja en Educación para la Convivencia Democrática. La pregunta de quién soporta el coste y quién recibe el beneficio de cada modelo de reparto es, en el fondo, una pregunta sobre qué reparto de la riqueza es justo.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Índice de Gini de mercado</b></td><td>Desigualdad de la renta antes de impuestos y transferencias.</td></tr><tr><td><b>Índice de Gini final</b></td><td>Desigualdad de la renta después de la intervención del Sector Público.</td></tr><tr><td><b>Redistribución</b></td><td>Transferencia de renta entre agentes mediante impuestos y prestaciones.</td></tr><tr><td><b>Estado del bienestar</b></td><td>Conjunto de sistemas públicos que garantizan derechos sociales y reducen la desigualdad.</td></tr><tr><td><b>Eficiencia / equidad</b></td><td>Producir más frente a repartir mejor. El dilema central de la política económica.</td></tr><tr><td><b>Convergencia regional</b></td><td>Proceso por el que una región reduce su distancia respecto de la media.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Distribución de la renta</b></td><td>Forma en que se reparte la renta de un país entre personas, hogares o factores de producción.</td></tr>
+<tr><td><b>Índice de Gini de mercado</b></td><td>Desigualdad de la renta antes de impuestos y transferencias.</td></tr>
+<tr><td><b>Índice de Gini final</b></td><td>Desigualdad de la renta después de la intervención del Sector Público. En España, 30,8 en 2025.</td></tr>
+<tr><td><b>Redistribución</b></td><td>Transferencia de renta entre agentes mediante impuestos y prestaciones.</td></tr>
+<tr><td><b>Impuesto progresivo</b></td><td>El que hace pagar un porcentaje mayor a quien más renta tiene, como el IRPF.</td></tr>
+<tr><td><b>Transferencia</b></td><td>Pago del Sector Público sin contraprestación directa: pensiones, prestaciones por desempleo, ingreso mínimo vital.</td></tr>
+<tr><td><b>Estado del bienestar</b></td><td>Conjunto de sistemas públicos que garantizan derechos sociales y reducen la desigualdad.</td></tr>
+<tr><td><b>Eficiencia y equidad</b></td><td>Producir más frente a repartir mejor. El dilema no tiene una respuesta técnica única.</td></tr>
+<tr><td><b>Crecimiento verde</b></td><td>Crecer desacoplando la producción del daño ambiental.</td></tr>
+<tr><td><b>Decrecimiento</b></td><td>Propuesta de reducir en los países ricos la producción que más daña el medio ambiente.</td></tr>
+</tbody></table>
 
-## Cierre
+### Para saber más
 
-Cierra tu ficha respondiendo a una última pregunta: **¿qué te haría cambiar de esquina?** Identificar qué evidencia modificaría tu postura es una de las señales más fiables de que has entendido el debate.
+```video
+https://www.youtube.com/watch?v=Vldp01hw7RM | Por qué hay desigualdad en la distribución de la renta | Econosublime · 14:26
+```
+
+## Comprueba lo que sabes
+
+```actividad
+id: sda08-s06-repaso
+tipo: verdadero-falso
+titulo: Comprueba lo que sabes
+puntua: false
+instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después la explicación. **No cuenta para la nota**: sirve para que sepas por dónde andas.'
+preguntas:
+- enunciado: El Gini que se publica para España es el de la renta antes de impuestos y prestaciones.
+  respuesta: falso
+  explicacion: '**Falso.** Es el de la renta disponible, después de impuestos y prestaciones. Antes de ellos la desigualdad es mucho mayor.'
+- enunciado: Un Gini más alto indica más desigualdad.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** 0 sería igualdad total y 100, que una sola persona tuviera toda la renta.'
+- enunciado: La reducción de la desigualdad entre el Gini de mercado y el final es un efecto automático del mercado.
+  respuesta: falso
+  explicacion: '**Falso.** Es el resultado de la acción del Sector Público: impuestos, pensiones, sanidad, educación y prestaciones.'
+- enunciado: El dilema entre eficiencia y equidad tiene una única respuesta técnica correcta.
+  respuesta: falso
+  explicacion: '**Falso.** Es una decisión política. Lo que sí se puede exigir es coherencia y que cada postura reconozca sus costes.'
+- enunciado: Cambiar de postura explicando qué argumento te ha convencido demuestra comprensión.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Es la conducta intelectual que entrena el debate de las cuatro esquinas.'
+```

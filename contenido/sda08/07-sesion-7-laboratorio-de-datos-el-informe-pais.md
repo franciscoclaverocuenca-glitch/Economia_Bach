@@ -2,7 +2,19 @@
 titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 ---
 
+Hoy se junta todo. Vuestra delegación recibe su expediente país y construye el **Informe país** completo en cuatro fases.
+
+Un aviso sobre el material. Trabajáis con **papel curado** por el docente. No es una limitación: garantiza fuentes fiables e iguala el punto de partida de todos los grupos.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda08-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda08-s07-guia-expedientes.pdf | Guía para preparar los expedientes país | Solo docente, con fuentes y datos de referencia
+sda08-s07-control-calidad.pdf | Control de calidad por delegación | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Aplicar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico y síntesis</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.1 + 3.3</td><td><b>Saberes básicos</b></td><td>C1, C2</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa con control de calidad docente, el producto se califica en la S8</td></tr><tr><td><b>Instrumentos</b></td><td>P: borrador del informe, tabla comparativa y matriz de agentes · OD: reparto de subroles y trabajo con los datos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,15 +39,6 @@ titulo: 'Sesión 7 · Laboratorio de datos: el Informe país'
 - ¿Qué se sacrifica al elegir vuestra primera propuesta?
 - De vuestras tres propuestas, ¿cuál reparte los costes de forma más desigual?
 
-::: aviso Material que debes preparar tú
-- **Expedientes país impresos y curados** por el docente: Noruega, Catar, Costa Rica, Vietnam, Chile y Nigeria, con tablas oficiales del Banco Mundial, el PNUD y Naciones Unidas. Más la **ficha equivalente de España** y un **dato del IECA o del INE** como tercer término andaluz.
-- **Hoja de cálculo o papel milimetrado**: las dos opciones son plenamente válidas como alternativa DUA.
-- **Plantilla de la matriz de ganadores y perdedores**, con las filas ya rotuladas (familias, empresas, Sector Público y, opcionalmente, sector exterior), **una primera fila resuelta a modo de ejemplo** sobre una propuesta genérica ajena a todos los expedientes, una subida del salario mínimo, y las dos preguntas de síntesis al pie.
-- **Checklist de control de calidad** y **guion del informe**.
-- **El tarjetero de agentes de la sesión 3** sobre la mesa de cada grupo.
-- El **mural de indicadores** de la sesión 5, para elegir el indicador libre.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>Cada sesión se enmarca explícitamente en el reto final, de modo que el alumnado sabe para qué sirve lo que está haciendo; los grupos base estables sostienen el andamiaje entre iguales.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El gráfico admite hoja de cálculo o papel milimetrado como opciones equivalentes, y la matriz admite formato alternativo de esquema de flechas o de listado por agente para quien lo prefiera, sin rebajar la exigencia del contenido.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El informe se estructura en cuatro fases con tiempos explícitos, la matriz incluye una fila resuelta a modo de ejemplo disponible para todo el grupo sin señalar a nadie, y el control de calidad intermedio devuelve como máximo dos indicaciones para que sean accionables.</td></tr></tbody></table>
@@ -48,22 +51,16 @@ Sesión de trabajo en pequeño grupo con ruido ambiental alto. Sitúa a este gru
 La **Fase 4** (matriz de ganadores y perdedores, 8 minutos) forma parte del Informe país y prepara el criterio 3.2 de la SdA 9. Para alojarla sin ampliar la sesión, las tres fases previas se comprimen ligeramente. La compresión es asumible porque la matriz **reutiliza íntegramente** las tres propuestas que el grupo acaba de redactar: no exige investigación nueva.
 :::
 
-## Para empezar
-
-Hoy se junta todo. Vuestra delegación recibe su expediente país y construye el **Informe país** completo en cuatro fases.
-
-Un aviso sobre el material. Trabajáis con **papel curado** por el docente. No es una limitación, es una decisión de diseño. Garantiza fuentes fiables, iguala el punto de partida de todos los grupos y hace vuestro producto resistente a un uso indebido de la IA.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda8-s07-01.webp | Portada
-sda8-s07-02.webp | El expediente país
-sda8-s07-03.webp | Las cuatro fases
-sda8-s07-04.webp | Los siete indicadores
-sda8-s07-05.webp | La matriz de agentes
-sda8-s07-06.webp | Las dos preguntas de síntesis
-sda8-s07-07.webp | El control de calidad
+sda8-s07-01.webp | Laboratorio de datos
+sda8-s07-02.webp | El informe
+sda8-s07-03.webp | Siete indicadores
+sda8-s07-04.webp | Coste de oportunidad
+sda8-s07-05.webp | Dos preguntas de síntesis
+sda8-s07-06.webp | Antes de entregar
+sda8-s07-07.webp | ¿Quién paga y quién gana con vuestras propuestas?
 ```
 
 ## Las cuatro fases del informe
@@ -74,8 +71,12 @@ sda8-s07-07.webp | El control de calidad
 
 <table><thead><tr><th width="6%"></th><th width="94%">Indicador</th></tr></thead><tbody><tr><td>1</td><td>PIB per cápita en paridad de poder adquisitivo</td></tr><tr><td>2</td><td>Tasa de crecimiento</td></tr><tr><td>3</td><td>IDH y sus tres dimensiones</td></tr><tr><td>4</td><td>Índice de Gini</td></tr><tr><td>5</td><td>Emisiones de CO₂ per cápita</td></tr><tr><td>6</td><td>El <b>indicador libre</b> del grupo, elegido del mural de la sesión 5 y justificado en dos líneas</td></tr><tr><td>7</td><td>El dato andaluz del IECA o del INE</td></tr></tbody></table>
 
+```descargas
+sda08-s07-plantilla-informe.pdf | Plantilla del informe país | Tabla de siete indicadores, gráfico, diagnóstico y propuestas
+```
+
 ::: aviso El coste de oportunidad no es un adorno
-Cada propuesta debe explicitar **qué se sacrifica al elegirla**. Es el concepto vertebrador de la SdA 1 y aquí se aplica de verdad. Una propuesta sin coste declarado es una propuesta que no se ha pensado.
+Cada propuesta debe explicitar **qué se sacrifica al elegirla**. Es el concepto con el que empezó el curso, y aquí se aplica de verdad. Una propuesta sin coste declarado es una propuesta que no se ha pensado.
 :::
 
 ## Fase 4 · La matriz de ganadores y perdedores
@@ -84,7 +85,13 @@ Cada propuesta debe explicitar **qué se sacrifica al elegirla**. Es el concepto
 
 La plantilla tiene las filas ya rotuladas y tres columnas, una por cada propuesta que acabáis de redactar. En cada celda, **en una línea telegráfica**: qué coste soporta y qué beneficio obtiene ese agente si la propuesta se aplica.
 
-<table><thead><tr><th width="28%">Agente</th><th width="24%">Propuesta 1</th><th width="24%">Propuesta 2</th><th width="24%">Propuesta 3</th></tr></thead><tbody><tr><td><b>Familias</b></td><td></td><td></td><td></td></tr><tr><td><b>Empresas</b></td><td></td><td></td><td></td></tr><tr><td><b>Sector Público</b></td><td></td><td></td><td></td></tr><tr><td><b>Sector exterior</b> (opcional)</td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda08-s07-matriz-agentes.pdf | Matriz de ganadores y perdedores | Con una fila de ejemplo resuelta y las dos preguntas de síntesis
+```
+
+::: ejemplo Una fila resuelta
+Propuesta genérica: **subir el salario mínimo un 10 %**. Familias con salarios bajos: ganan renta; algunas pueden perder horas o empleo. Empresas: pagan más costes laborales; ganan clientes con más poder de compra. Sector Público: recauda más cotizaciones e impuestos; puede gastar menos en ayudas.
+:::
 
 ::: nota No se pide investigación nueva
 Se pide **releer vuestras propias propuestas** con el tarjetero de agentes delante. La plantilla trae además una primera fila resuelta a modo de ejemplo, sobre una propuesta genérica ajena a todos los expedientes. Y admite formato de esquema de flechas o de listado por agente si lo preferís.
@@ -96,15 +103,19 @@ Aquí está lo que separa una matriz rellena de una matriz útil. Dos líneas ca
 
 <table><thead><tr><th width="6%"></th><th width="94%">Pregunta</th></tr></thead><tbody><tr><td>1</td><td>“De vuestras tres propuestas, <b>¿cuál reparte los costes de forma más desigual</b>, y sobre qué agente recaen?”</td></tr><tr><td>2</td><td>“¿<b>Mejora esa propuesta el desarrollo y el bienestar del país en su conjunto</b>, o solo el de alguno de sus agentes?”</td></tr></tbody></table>
 
-::: aviso La segunda pregunta es literalmente el criterio
+::: aviso La segunda pregunta es la clave
 Su respuesta **la vais a defender oralmente en la Cumbre**, así que preparadla bien.
 :::
 
 ## Control de calidad y preparación de la Cumbre
 
-### La checklist con la que se revisa vuestro informe
+### La lista para revisar vuestro informe
 
-<table><thead><tr><th width="7%"></th><th width="93%">Comprobación</th></tr></thead><tbody><tr><td></td><td>¿Toda cifra tiene fuente y año?</td></tr><tr><td></td><td>¿El gráfico se entiende <b>sin explicación oral</b>?</td></tr><tr><td></td><td>¿El diagnóstico usa al menos <b>tres indicadores distintos</b>?</td></tr><tr><td></td><td>¿Cada propuesta explicita su <b>coste de oportunidad</b>?</td></tr><tr><td></td><td>¿La matriz identifica costes y beneficios para los tres agentes y <b>no deja celdas vacías</b>?</td></tr></tbody></table>
+- ¿Toda cifra tiene fuente y año?
+- ¿El gráfico se entiende **sin explicación oral**?
+- ¿El diagnóstico usa al menos **tres indicadores distintos**?
+- ¿Cada propuesta explicita su **coste de oportunidad**?
+- ¿La matriz identifica costes y beneficios para los tres agentes y **no deja celdas vacías**?
 
 ### Encargo de cierre
 
@@ -115,6 +126,36 @@ Su respuesta **la vais a defender oralmente en la Cumbre**, así que preparadla 
 
 Se anuncia con antelación para que ninguna delegación pueda alegar sorpresa. La matriz **no se expone íntegra** en la Cumbre, no cabría en el tiempo. Se reserva como material de respuesta a esta pregunta.
 :::
+
+
+## Apuntes de la sesión
+
+### 1. Cómo se construye una tabla comparativa
+
+- **Mismo indicador, mismo año** para todos los países. Si un dato es de otro año, se indica.
+- **La fuente al lado de cada cifra**: Banco Mundial, PNUD, INE, IECA, Eurostat.
+- **Las unidades claras**: dólares PPA, porcentaje, índice entre 0 y 1, toneladas de CO₂ por habitante.
+
+### 2. Qué gráfico elegir
+
+<table><thead><tr><th width="30%">Si queréis mostrar…</th><th width="70%">Usad…</th></tr></thead><tbody><tr><td>Una comparación entre países</td><td>Barras, ordenadas de mayor a menor</td></tr><tr><td>Una evolución en el tiempo</td><td>Líneas, con el año en el eje horizontal</td></tr><tr><td>La relación entre dos indicadores</td><td>Dispersión: PIB per cápita en un eje e IDH en el otro</td></tr><tr><td>Un reparto entre partes</td><td>Barras apiladas mejor que un gráfico de sectores</td></tr></tbody></table>
+
+Todo gráfico necesita título, ejes con su unidad y la fuente al pie.
+
+### 3. El coste de oportunidad de una propuesta
+
+Toda propuesta usa recursos que podrían ir a otra cosa. Escribir el coste de oportunidad es decir **qué se deja de hacer** al elegirla: si se invierte en escuelas, ¿qué no se construye?
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Informe país</b></td><td>Radiografía económica de un país que compara sus indicadores con los de España y Andalucía.</td></tr>
+<tr><td><b>Indicador libre</b></td><td>Indicador que elige la delegación para completar la tabla, justificado en dos líneas.</td></tr>
+<tr><td><b>Emisiones de CO₂ per cápita</b></td><td>Toneladas de dióxido de carbono emitidas por habitante y año.</td></tr>
+<tr><td><b>Gráfico de dispersión</b></td><td>Gráfico que sitúa cada país según dos indicadores, para ver si están relacionados.</td></tr>
+<tr><td><b>Coste de oportunidad</b></td><td>Lo que se renuncia a hacer al elegir una opción.</td></tr>
+<tr><td><b>Matriz de ganadores y perdedores</b></td><td>Tabla que recoge, para cada agente, qué coste soporta y qué beneficio obtiene con cada propuesta.</td></tr>
+</tbody></table>
 
 ## Comprueba lo que sabes
 
@@ -127,16 +168,16 @@ instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después l
 preguntas:
 - enunciado: Toda cifra del informe debe llevar su fuente y su año.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es el primer ítem de la checklist de control de calidad. Una cifra sin fuente no es un dato: es una afirmación.'
+  explicacion: '**Verdadero.** Es lo primero que hay que revisar. Una cifra sin fuente no es un dato: es una afirmación.'
 - enunciado: El coste de oportunidad de cada propuesta es opcional.
   respuesta: falso
-  explicacion: '**Falso.** Cada propuesta debe explicitar qué se sacrifica al elegirla. Es el concepto vertebrador de la SdA 1 y un ítem obligatorio de la checklist.'
+  explicacion: '**Falso.** Cada propuesta debe explicitar qué se sacrifica al elegirla. Es obligatorio en el informe.'
 - enunciado: La matriz de agentes exige investigar datos nuevos.
   respuesta: falso
   explicacion: '**Falso.** Se pide releer vuestras propias propuestas con el tarjetero de agentes delante. No hay investigación nueva.'
 - enunciado: El gráfico debe entenderse sin necesidad de explicación oral.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es un ítem de la checklist. Y en la Cumbre se usará como soporte real de la argumentación, no como decorado.'
+  explicacion: '**Verdadero.** Y en la Cumbre se usará como soporte real de la argumentación, no como decorado.'
 - enunciado: La matriz de ganadores y perdedores se expone íntegra en la Cumbre.
   respuesta: falso
   explicacion: '**Falso.** No cabría en el tiempo. Se reserva como material de respuesta a la pregunta cruzada fija de agentes.'
