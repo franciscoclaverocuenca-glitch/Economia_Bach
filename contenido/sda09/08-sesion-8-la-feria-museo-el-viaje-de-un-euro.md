@@ -2,7 +2,20 @@
 titulo: Sesión 8 · La feria-museo “El viaje de un euro”
 ---
 
+Hoy el aula es un museo económico. Todos exponen y todos evalúan.
+
+Cada visita dura **4 minutos cronometrados** y sigue el viaje de un euro por vuestra maqueta. Y después llega la parte más exigente: el **careo de preguntas**.
+
+Responder razonadamente a una pregunta que no habéis ensayado es lo que distingue haber entendido el modelo de haberlo memorizado.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s08-registro-feria.pdf | Registro de la feria | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2 (sumativa)</td><td><b>Saberes básicos</b></td><td>C1 (síntesis: flujo circular; DA-OA)</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo organizado en expositores / mitades rotativas de cada grupo base</td><td><b>Carácter</b></td><td>Sumativa, evidencia oral y de producto del criterio 3.2</td></tr><tr><td><b>Instrumentos</b></td><td>EO: visita guiada · R: valoración de la maqueta · D: careo de preguntas entre grupos · Co.Ev.: escala de dedos 1-4</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -12,11 +25,11 @@ titulo: Sesión 8 · La feria-museo “El viaje de un euro”
 
 ### Guion paso a paso
 
-**1. Apertura del museo (5 min).** Distribuye los expositores por el aula y recuerda las reglas. Cada visita dura **4 minutos cronometrados** y sigue el viaje de un euro por la maqueta; cada grupo visitante debe formular las **dos preguntas obligatorias** de su ficha y anotar la respuesta. La ficha del visitante incorpora, como la Cumbre de la SdA 8, una **casilla obligatoria de agentes**: quién gana y quién paga en el escenario que el grupo anfitrión acaba de resolver.
+**1. Apertura del museo (5 min).** Distribuye los expositores por el aula y recuerda las reglas. Cada visita dura **4 minutos cronometrados** y sigue el viaje de un euro por la maqueta; cada grupo visitante debe formular las **dos preguntas obligatorias** de su ficha y anotar la respuesta. La ficha del visitante incorpora, como la Cumbre de la unidad anterior, una **casilla obligatoria de agentes**: quién gana y quién paga en el escenario que el grupo anfitrión acaba de resolver.
 
 **2. Turno de visitas A (20 min).** La mitad de cada grupo ejerce de personal docente del museo en su expositor; la otra mitad rota por dos expositores ajenos con su ficha.
 
-El **careo de preguntas es el corazón evaluativo** de la sesión. Responder razonadamente a una pregunta no ensayada es lo que distingue la comprensión del modelo de su memorización, y es la evidencia oral directa del criterio 3.2 en sus tres operaciones. Es también, precisamente, la evidencia que la evaluación parcial de la SdA 8 no podía producir.
+El **careo de preguntas es el corazón evaluativo** de la sesión. Responder razonadamente a una pregunta no ensayada es lo que distingue la comprensión del modelo de su memorización, y es la evidencia oral directa del criterio 3.2 en sus tres operaciones. Es también, precisamente, la evidencia que la evaluación parcial de la unidad anterior no podía producir.
 
 **3. Turno de visitas B (20 min).** Inversión completa de roles. Todo el alumnado expone y todo el alumnado pregunta y evalúa. Rota por los expositores aplicando la rúbrica a la exposición oral (EO) y registrando la calidad de las respuestas al careo (D). La valoración del producto (R) se completa tras la sesión sobre la propia maqueta, con los mismos descriptores.
 
@@ -31,15 +44,6 @@ El **careo de preguntas es el corazón evaluativo** de la sesión. Responder raz
 - ¿Por qué ese desplazamiento y no un movimiento dentro de la curva?
 - ¿Qué queda fuera de vuestra maqueta que sin embargo sostiene la economía?
 
-::: aviso Material que debes preparar tú
-- **Maquetas e infografías expuestas**, con espacio suficiente entre expositores para que dos visitas simultáneas no se solapen acústicamente.
-- **Fichas del visitante**, una por persona, con las dos preguntas obligatorias y la **casilla de agentes** (quién gana y quién paga).
-- **Rúbrica del criterio 3.2** visible para todo el mundo durante la sesión.
-- **Cronómetro** visible para los 4 minutos de cada visita.
-- **Hoja de registro simultáneo** de los cuatro instrumentos (EO, R, D, Co.Ev.).
-- Comprueba el reparto de roles de guía y de visitante-evaluador: debe ser equilibrado y no estereotipado.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La visita guiada se reparte en paradas entre los miembros del grupo, de modo que nadie soporta en solitario la carga de la exposición oral; el apoyo visual permanente de la maqueta reduce la dependencia de la memoria verbal.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible y las preguntas obligatorias se conocen y se han ensayado con antelación, de modo que solo el careo abierto es imprevisible; el formato de museo distribuye la atención y evita la exposición ante el gran grupo simultáneo.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -48,23 +52,15 @@ El **careo de preguntas es el corazón evaluativo** de la sesión. Responder raz
 Sesión con varias conversaciones simultáneas en el mismo espacio. Es la de mayor riesgo acústico de toda la unidad. Sitúa el expositor de este grupo en la esquina más alejada y con la espalda a la pared, exige que quien pregunta lo haga de frente y de uno en uno, y facilita por escrito las dos preguntas obligatorias de la ficha. Si este alumno/a va a guiar, garantiza que sus paradas están escritas.
 :::
 
-## Para empezar
-
-Hoy el aula es un museo económico. Todos exponen y todos evalúan.
-
-Cada visita dura **4 minutos cronometrados** y sigue el viaje de un euro por vuestra maqueta. Y después llega la parte que de verdad se evalúa: el **careo de preguntas**.
-
-Responder razonadamente a una pregunta que no habéis ensayado es lo que distingue haber entendido el modelo de haberlo memorizado.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s10-01.webp | Portada
-sda9-s10-02.webp | Las reglas
-sda9-s10-03.webp | Los dos turnos
-sda9-s10-04.webp | El corazón de la evaluación
-sda9-s10-05.webp | Los cuatro instrumentos
-sda9-s10-06.webp | Cómo coevaluar
+sda9-s08-01.webp | La feria-museo
+sda9-s08-02.webp | Cada visita
+sda9-s08-03.webp | Todos guían, todos visitan
+sda9-s08-04.webp | Responder a una pregunta que no habéis ensayado.
+sda9-s08-05.webp | Coevaluar bien
+sda9-s08-06.webp | Prueba escrita: diagrama, escenarios y límites del modelo
 ```
 
 ## Cómo funciona la feria
@@ -77,17 +73,19 @@ sda9-s10-06.webp | Cómo coevaluar
 
 <table><thead><tr><th width="12%">Turno</th><th width="34%">Mitad A</th><th width="40%">Mitad B</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1</b></td><td>Guía en su expositor</td><td>Visita dos expositores ajenos con su ficha</td><td>20 min</td></tr><tr><td><b>2</b></td><td>Visita dos expositores ajenos</td><td>Guía en su expositor</td><td>20 min</td></tr></tbody></table>
 
-### Qué se evalúa exactamente
+### La ficha del visitante
 
-<table><thead><tr><th width="26%">Instrumento</th><th width="74%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · visita guiada</td><td>Claridad y precisión al explicar el modelo siguiendo el viaje de un euro.</td></tr><tr><td><b>R</b> · la maqueta</td><td>Los cinco elementos obligatorios y la calidad del dato oficial documentado.</td></tr><tr><td><b>D</b> · careo de preguntas</td><td>La calidad de las respuestas a preguntas no ensayadas, <b>y la calidad de las preguntas que formuláis</b>.</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Valoración de los dos expositores visitados, justificada con un descriptor concreto de la rúbrica.</td></tr></tbody></table>
+```descargas
+sda09-s08-ficha-visitante.pdf | Ficha del visitante | Las dos preguntas, la casilla de agentes y la coevaluación
+```
 
 ::: aviso El careo es el corazón de la sesión
-Es la evidencia oral directa del criterio 3.2 en sus tres operaciones. Diferenciar costes y beneficios para cada agente, establecer las relaciones entre ellos mediante el modelo DA-OA y determinar su repercusión sobre el desarrollo y el bienestar. Y es exactamente la evidencia que la evaluación parcial de la SdA 8 no podía producir.
+Responder a una pregunta que no habéis ensayado demuestra que sabéis usar el modelo: diferenciar quién gana y quién paga, relacionar a los agentes con la demanda y la oferta agregadas, y ver cómo afecta todo ello al bienestar.
 :::
 
 ### Y la coevaluación
 
-Valorad los dos expositores visitados con la escala de dedos 1-4, **justificando con un descriptor concreto** de la rúbrica. Por ejemplo: “notable porque han conectado la palanca de tipos de interés con el consumo y la inversión…”. Se entrega por escrito en la ficha y se valora con los descriptores los demás instrumentos.
+Valorad los dos expositores visitados con la escala de dedos 1-4, **justificando con un descriptor concreto** de la rúbrica. Por ejemplo: “notable porque han conectado la palanca de tipos de interés con el consumo y la inversión…”. Se entrega por escrito en la ficha.
 
 ## Cierre
 

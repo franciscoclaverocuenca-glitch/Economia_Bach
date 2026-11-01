@@ -2,7 +2,18 @@
 titulo: Sesión 2 · Quien toma el pulso a la economía andaluza
 ---
 
+Ayer seguimos un euro por Málaga con fichas de cartulina. Hoy viene alguien que lo mide de verdad. Qué datos se recogen, cómo se estima lo que aporta el turismo y qué recorrido hacen las rentas que entran en la provincia.
+
+Tu tarea no es escuchar: es **recoger material para tu maqueta**. Y hay dos preguntas que se van a hacer sí o sí.
+
 ## Guía docente · Sesión 2 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s02-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s02-organizar-charla.pdf | Cómo organizar la charla | Solo docente, con contactos y alternativa
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Explorar</th><th>Tipo de actividad (4.4)</th><th>Actividad complementaria o extraescolar</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2 (contextualización)</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario formativo breve tras la charla (Kahoot / Google Forms)</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -30,14 +41,6 @@ Reparte las preguntas entre personas concretas. El turno abierto sin asignar se 
 - ¿Coincide su relato con la cadena que simulamos ayer?
 - ¿Qué dato oficial recomendó y dónde se consulta?
 
-::: aviso Material que debes preparar tú
-- **Contactar y confirmar con antelación a la persona invitada.** Perfiles sugeridos: un servicio de estudios con sede en Málaga, la delegación provincial de un organismo estadístico oficial (**IECA** o **INE**), o el área de datos económicos de una institución local.
-- **Prioriza invitar a una economista**, como modelo de referencia profesional directo en un ámbito, el análisis macroeconómico, tradicionalmente masculinizado.
-- **Las dos preguntas obligatorias** preparadas en la sesión 1 y repartidas entre alumnos concretos.
-- **Cuaderno de notas** con el guion de cuatro entradas y **cuestionario formativo** montado en Kahoot o Google Forms.
-- Si la charla presencial no fuera posible: videoconferencia o, en último término, análisis guiado de un informe de coyuntura reciente de un servicio de estudios andaluz, manteniendo el carácter de voz o fuente externa propio de la fase de Exploración.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El contacto con una persona profesional del análisis económico andaluz ancla el contenido en un itinerario vital reconocible y abre la mirada a salidas profesionales del ámbito.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El guion de notas de cuatro entradas (agentes, flujos, filtraciones y un dato con su fuente) estructura la escucha y la orienta directamente al producto final, en lugar de dejarla en toma de apuntes indiscriminada.</td></tr></tbody></table>
@@ -50,19 +53,14 @@ Con persona invitada el riesgo aumenta. Pide de antemano que hable de frente, si
 Esta charla queda **pendiente de confirmación de disponibilidad**. Conviene gestionarla con antelación suficiente, porque es la sesión de Exploración obligatoria de la unidad.
 :::
 
-## Para empezar
-
-Ayer seguimos un euro por Málaga con fichas de cartulina. Hoy viene alguien que lo mide de verdad. Qué datos se recogen, cómo se estima lo que aporta el turismo y qué recorrido hacen las rentas que entran en la provincia.
-
-Tu tarea no es escuchar: es **recoger material para tu maqueta**. Y hay dos preguntas que se van a hacer sí o sí.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s02-01.webp | Portada
-sda9-s02-02.webp | Las dos preguntas obligatorias
-sda9-s02-03.webp | Tu guion de notas
-sda9-s02-04.webp | Cierre
+sda9-s02-01.webp | El pulso de la economía andaluza
+sda9-s02-02.webp | Lo que no puede faltar
+sda9-s02-03.webp | Cuatro entradas
+sda9-s02-04.webp | Andalucía y España, 2025
+sda9-s02-05.webp | El dato oficial y su fuente
 ```
 
 ## Las dos preguntas obligatorias y tu guion de notas
@@ -71,6 +69,10 @@ sda9-s02-04.webp | Cierre
 
 <table><thead><tr><th width="46%">Pregunta</th><th width="54%">Para qué la necesitáis</th></tr></thead><tbody><tr><td><b>“¿Qué recorrido hace de verdad un euro que gasta un turista en Málaga. Cuánto se queda en la ciudad y por dónde se escapa?”</b></td><td>Es la pregunta de la simulación de ayer, respondida por alguien que la mide con datos. Su respuesta os dará la intuición de las <b>filtraciones</b> antes de que las estudiemos formalmente.</td></tr><tr><td><b>“¿Qué dato oficial nos recomendaría usar para documentar nuestra maqueta, y dónde se consulta?”</b></td><td>Vuestra maqueta necesita un dato oficial del <b>IECA</b> o del <b>INE</b> citado con fuente y fecha. Preguntad directamente a quien trabaja con esas fuentes todos los días.</td></tr></tbody></table>
 
+```descargas
+sda09-s02-guion-notas.pdf | Guion de notas | Las dos preguntas, las cuatro entradas y el dato oficial
+```
+
 ### Tu guion de notas: cuatro entradas
 
 <table><thead><tr><th width="30%">Entrada</th><th width="70%">Qué anotar</th></tr></thead><tbody><tr><td><b>Qué agentes aparecieron</b></td><td>¿Nombró familias, empresas, Sector Público, sector exterior? ¿En qué papel?</td></tr><tr><td><b>Qué flujos mencionó</b></td><td>¿Salarios, compras, impuestos, transferencias? ¿En qué dirección iba el dinero?</td></tr><tr><td><b>Qué filtraciones señaló</b></td><td>¿Por dónde dijo que se escapa el dinero de la provincia? Material directo para vuestra maqueta.</td></tr><tr><td><b>Un dato con su fuente</b></td><td>Una cifra concreta Y de dónde sale. Las dos cosas. Sin fuente, el dato no os sirve.</td></tr></tbody></table>
@@ -78,6 +80,36 @@ sda9-s02-04.webp | Cierre
 ## Cierre
 
 Guarda tus notas y, sobre todo, **el dato oficial y su fuente**: en la sesión 7 tendrás que citarlo en tu maqueta con fuente y fecha, y justificar por escrito por qué es fiable.
+
+
+## Apuntes de la sesión
+
+### 1. Quién mide la economía andaluza
+
+<table><thead><tr><th width="30%">Quién</th><th width="70%">Qué publica</th></tr></thead><tbody><tr><td><b>IECA</b></td><td>Instituto de Estadística y Cartografía de Andalucía. Es el organismo estadístico oficial de la comunidad: PIB regional, empleo, turismo, precios.</td></tr><tr><td><b>INE</b></td><td>Instituto Nacional de Estadística. Publica, entre otras, la Contabilidad Regional de España, que compara todas las comunidades.</td></tr><tr><td><b>Analistas Económicos de Andalucía</b></td><td>Centro de estudios con sede en Málaga que hace previsiones sobre la economía andaluza.</td></tr><tr><td><b>Observatorio Turístico de la Costa del Sol</b></td><td>Mide la llegada de turistas, su gasto y el empleo del sector en la provincia.</td></tr></tbody></table>
+
+### 2. Algunos datos para situarte
+
+::: ejemplo La economía andaluza en 2025
+Según las estimaciones de avance, el PIB de Andalucía creció en torno a un **3,2 %** en 2025, algo más que el conjunto de España (2,6 %, según la revisión del INE de septiembre de 2026). La Costa del Sol recibió 14,65 millones de turistas, que gastaron 21.811,7 millones de euros.
+:::
+
+Cuando cites un dato, recuerda los cuatro elementos: **fuente, operación estadística, periodo y fecha de consulta**.
+
+### 3. Por dónde se escapa el euro
+
+No todo el dinero que un turista gasta en Málaga se queda en Málaga. Una parte paga productos fabricados fuera, beneficios de empresas con sede en otras ciudades o países, o impuestos que van a otras administraciones. Son **filtraciones** del circuito local, y las estudiarás en la sesión 4.
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>IECA</b></td><td>Instituto de Estadística y Cartografía de Andalucía, organismo estadístico oficial de la comunidad.</td></tr>
+<tr><td><b>Contabilidad regional</b></td><td>Estadística que calcula el PIB de cada comunidad autónoma.</td></tr>
+<tr><td><b>Previsión económica</b></td><td>Estimación de cómo evolucionará una magnitud, como el PIB o el paro, en los próximos meses.</td></tr>
+<tr><td><b>Filtración</b></td><td>Parte de la renta que sale del circuito y no vuelve como gasto: ahorro, impuestos, importaciones.</td></tr>
+<tr><td><b>Fuente primaria</b></td><td>Información obtenida directamente de quien la produce o la vive.</td></tr>
+<tr><td><b>Dato oficial</b></td><td>Cifra publicada por un organismo estadístico público, con su metodología.</td></tr>
+</tbody></table>
 
 ## Comprueba lo que sabes
 

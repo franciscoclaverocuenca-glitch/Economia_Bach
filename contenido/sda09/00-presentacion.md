@@ -2,24 +2,18 @@
 titulo: SdA 9 · El viaje de un euro
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 9 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE3. Distinguir y valorar el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta, comprendiendo sus interacciones y reconociendo, con sentido crítico, los beneficios y costes que genera, para explicar cómo se produce el desarrollo económico y su relación con el bienestar de la sociedad.</td></tr><tr><td><b>Criterio 3.2</b></td><td>Diferenciar los costes y beneficios que se generan en el flujo circular de la renta para cada uno de los agentes económicos, estableciendo las principales características de las relaciones entre ellos mediante el uso del modelo de demanda y de oferta agregadas, y determinando su repercusión en el desarrollo económico y el bienestar social.</td></tr><tr><td><b>Saberes básicos</b></td><td><b>C1</b> La macroeconomía. Macromagnitudes: del PIB a la renta personal disponible. Limitaciones e indicadores alternativos. Los agentes económicos y el flujo circular de la renta. La demanda agregada, la oferta agregada y su funcionamiento.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM4 · CPSAA4 · CPSAA5 · CC3 · CC4 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>8. Trabajo decente y crecimiento económico (también 5 y 7 de forma secundaria)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación cívica y convivencia democrática (S3, S6 y S8)</td></tr><tr><td><b>Referente</b></td><td>Marilyn Waring, «Si las mujeres contaran» (1988), crítica de la contabilidad nacional</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Matemáticas Aplicadas a las Ciencias Sociales I, competencia específica 1, criterio 1.1, saberes MACS.1.C.1 y MACS.1.C.2 (sesión 4, el dominó malagueño y el multiplicador; sesiones 5 y 6, demanda y oferta agregadas). Pendiente de confirmar matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>9 (tercer trimestre). La maqueta se monta pieza a pieza: cada sesión de estructuración entrega una pieza y se ensamblan en la sesión 7.</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material físico que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso El criterio 3.2 se evalúa entero aquí
-El criterio 3.2 se trabaja y se califica **una sola vez**, en esta unidad. La SdA 8 solo lo prepara de forma formativa con la pregunta “¿quién paga y quién gana?”, sin calificarlo. Por eso aquí la rúbrica se aplica **completa**, con sus tres operaciones: diferenciar costes y beneficios por agente, establecer las relaciones entre agentes mediante el flujo circular y el modelo de demanda y oferta agregadas, y determinar su repercusión sobre el desarrollo y el bienestar. Conviene decírselo explícitamente al alumnado en la sesión 7, al presentar la rúbrica de la maqueta.
-:::
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b><b>OD</b> Observación directa</b></td><td>3.2</td><td>S1 cadena del euro · S3 flujo circular · S4 expertos · S5 titulares · S6 gabinete de crisis · S7 laboratorio</td></tr><tr><td><b><b>D</b> Debate</b></td><td>3.2</td><td>S3 ¿qué trabajo cuenta? · S6 gabinete de crisis · S8 careo</td></tr><tr><td><b><b>C</b> Cuestionario</b></td><td>3.2</td><td>S1 diagnóstico · S2 tras la charla · S5 titulares</td></tr><tr><td><b><b>P</b> Portafolio</b></td><td>3.2</td><td>S3 diagrama del flujo · S4 tabla de determinantes y multiplicador · S5 gráficas de demanda agregada · S6 gráficas DA-OA</td></tr><tr><td><b><b>PF</b> Producto final</b></td><td>3.2</td><td>S8 maqueta o infografía</td></tr><tr><td><b><b>EO</b> Exposición oral</b></td><td>3.2</td><td>S8 visita guiada</td></tr><tr><td><b><b>PE</b> Prueba escrita</b></td><td>3.2</td><td>S9</td></tr><tr><td><b><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</b></td><td>formativas</td><td>Co.Ev. en S4 y S8 · Auto.Ev. en S9</td></tr></tbody></table>
 
-::: nota Los tres puntos de conocimiento previo
-El alumnado llega sabiendo ya quiénes son los cuatro agentes económicos y habiendo practicado la pregunta “¿quién paga y quién gana?”. Eso **no vacía de contenido** ninguna sesión, pero cambia cómo se imparten tres de ellas:
-
-- **Sesión 1.** La simulación puede correr algo más rápida (lo que aquí se descubre es la circularidad, no el censo de agentes) y el diagnóstico se reformula para medir qué queda del mapa de agentes. Los dos o tres minutos ganados van a la ronda 3 (la fuga), que es la que siembra las filtraciones.
-- **Sesión 3.** La primera mitad, quiénes son los agentes, se trata como **repaso activo**, no como explicación nueva. Se les pide reconstruir el censo en dos minutos y se corrige lo que falte. Los minutos ganados van íntegros a lo que sí es nuevo. Los dos mercados, los dos flujos y la razón de la circularidad.
-- **Sesión 5.** La descomposición C + I + G + (X − M) se dedujo en la SdA 8 al calcular el PIB por la vía del gasto. Conviene abrir la sesión recuperándola. Convierte lo que parece una fórmula nueva en un reencuentro.
+::: aviso Datos que hay que actualizar
+Los datos de la charla, del PIB y de la demanda (INE, IECA, Analistas Económicos de Andalucía) y los titulares del taller de la sesión 5 cambian cada trimestre. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
@@ -37,53 +31,25 @@ Esta unidad va sobre ese recorrido. Se llama **flujo circular de la renta** y es
 - El modelo de demanda y oferta agregadas, y cómo usarlo para diagnosticar una crisis real.
 - Y qué actividades esenciales quedan fuera de un modelo por el que solo circula dinero.
 
-::: idea Elementos curriculares
-Competencia específica **3** · Criterio de evaluación **3.2** · Saber básico **C1** · 9 sesiones · Tercer trimestre · Coordinación propuesta con Matemáticas Aplicadas a las Ciencias Sociales I en las sesiones 4 y 5.
-:::
+## El reto: la feria-museo «El viaje de un euro»
 
-## El reto. La feria-museo “El viaje de un euro”
+En la sesión 8 el aula se convierte en un **museo económico**. Cada grupo expone su maqueta o infografía interactiva del flujo circular de la renta aplicada a un sector de la economía de Málaga, y hace de guía para el resto de la clase, que pregunta.
 
-En la sesión 8 esta aula se va a convertir en un **museo económico**. Cada grupo expondrá su propia infografía o maqueta interactiva del flujo circular de la renta aplicada a un sector de la economía de Málaga, y hará de guía para el resto de la clase, que preguntará.
+### Lo que vais a preparar
 
-### El producto final tiene dos piezas inseparables
-
-<table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. La maqueta o infografía interactiva</b></td><td>Representación manipulable del flujo circular con los cinco elementos obligatorios, anclada a un sector malagueño mediante un dato oficial del IECA o del INE citado con fuente y fecha.</td><td>Instrumento R (valoración del producto)</td></tr><tr><td><b>2. La visita guiada de la feria</b></td><td>Recorrido cronometrado de 4 minutos siguiendo literalmente el viaje de un euro por la maqueta, seguido del careo de preguntas del público, incluidas dos obligatorias.</td><td>Instrumentos EO (exposición oral), D (careo) y Co.Ev. (coevaluación)</td></tr></tbody></table>
-
-### Los cinco elementos obligatorios de la maqueta
-
-<table><thead><tr><th width="5%"></th><th width="71%">Elemento</th><th width="24%">Se construye en</th></tr></thead><tbody><tr><td>1</td><td>Los agentes y sus funciones</td><td>Sesión 3</td></tr><tr><td>2</td><td>Los dos mercados y los dos flujos, diferenciados por color</td><td>Sesión 3</td></tr><tr><td>3</td><td>El triple papel del Sector Público, con operaciones malagueñas reales</td><td>Sesión 3</td></tr><tr><td>4</td><td>Una filtración y una inyección</td><td>Sesión 4</td></tr><tr><td>5</td><td>Panel de escenarios. Una palanca de demanda y una de oferta, resueltas gráficamente</td><td>Sesiones 5 y 6</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. La maqueta o infografía</b></td><td>Una representación que se puede manipular, con los cinco elementos obligatorios y anclada a un sector malagueño con un dato oficial del IECA o del INE, citado con fuente y fecha.</td></tr><tr><td><b>2. La visita guiada</b></td><td>Cuatro minutos siguiendo el viaje de un euro por la maqueta y, después, las preguntas del público, dos de ellas obligatorias.</td></tr><tr><td><b>Los cinco elementos</b></td><td>1) Los agentes y sus funciones. 2) Los dos mercados y los dos flujos, diferenciados por color. 3) El triple papel del Sector Público, con operaciones malagueñas reales. 4) Una filtración y una inyección. 5) Un panel de escenarios con una palanca de demanda y una de oferta, resueltas con el gráfico.</td></tr></tbody></table>
 
 ::: nota Cada sesión aporta una pieza
-No hay que construir la maqueta al final. Se va montando a lo largo de la unidad. Al cierre de cada sesión de estructuración recibes una pieza, y en la sesión 7 se ensamblan todas. Guárdalas.
-:::
-
-::: aviso Por qué esto no lo puede hacer una IA por ti
-El corazón de la evaluación es el **careo de preguntas**: responder razonadamente a una pregunta que nadie ha ensayado, sobre vuestra propia maqueta y vuestro propio sector. Una respuesta genérica se detecta en la primera pregunta.
+No hay que construir la maqueta al final. Al cierre de cada sesión recibes una pieza, y en la sesión 7 se ensamblan todas. Guárdalas.
 :::
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Esta es la rúbrica con la que se evalúa la unidad. Está disponible desde la primera sesión y puedes consultarla siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda09-rubricas.pdf | Rúbrica de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 3.2
@@ -91,6 +57,14 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 9 sesiones {.plegado}
 
-Estas son las nueve sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="53%">Sesión</th><th width="20%">Fase</th><th width="22%">Pieza que aporta</th></tr></thead><tbody><tr><td>1</td><td>Motivación y diagnóstico: la cadena del euro</td><td>Movilizar + Activar</td><td>–</td></tr><tr><td>2</td><td>Exploración. Quien toma el pulso a la economía andaluza</td><td>Explorar</td><td>El dato oficial</td></tr><tr><td>3</td><td>El flujo circular completo. Agentes, Sector Público y lo que el modelo no ve</td><td>Estructurar</td><td>Piezas 1 y 2</td></tr><tr><td>4</td><td>Los motores del gasto y el multiplicador: consumo, ahorro, inversión y el dominó malagueño</td><td>Estructurar</td><td>Pieza 3</td></tr><tr><td>5</td><td>La demanda agregada: el gasto total de la economía</td><td>Estructurar</td><td>Pieza 4</td></tr><tr><td>6</td><td>La oferta agregada y el equilibrio: el gabinete de crisis</td><td>Estructurar</td><td>Pieza 5</td></tr><tr><td>7</td><td>Laboratorio de diseño. La maqueta y el guion de la visita</td><td>Aplicar</td><td>Montaje</td></tr><tr><td>8</td><td>La feria-museo “El viaje de un euro”</td><td>Evaluar</td><td>Producto final</td></tr><tr><td>9</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>–</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>La cadena del euro.</b> Un euro pasa de mano en mano por el aula. ¿Qué pasa cuando alguien lo guarda?</td></tr>
+<tr><td><b>2</b></td><td><b>El pulso de la economía andaluza.</b> Una persona experta en análisis económico os cuenta cómo va Andalucía.</td></tr>
+<tr><td><b>3</b></td><td><b>El flujo circular completo.</b> Familias, empresas, Sector Público y sector exterior, y un debate: ¿qué trabajo cuenta?</td></tr>
+<tr><td><b>4</b></td><td><b>Los motores del gasto.</b> Consumo, ahorro e inversión, y el dominó malagueño del multiplicador.</td></tr>
+<tr><td><b>5</b></td><td><b>La demanda agregada.</b> Un taller con titulares reales para mover la curva.</td></tr>
+<tr><td><b>6</b></td><td><b>La oferta agregada y el equilibrio.</b> Un gabinete de crisis: 1973, 2008 y 2020.</td></tr>
+<tr><td><b>7</b></td><td><b>Laboratorio de diseño.</b> Montáis la maqueta y el guion de la visita.</td></tr>
+<tr><td><b>8</b></td><td><b>La feria-museo.</b> Cada grupo guía su maqueta y responde a las preguntas del público.</td></tr>
+<tr><td><b>9</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>

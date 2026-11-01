@@ -2,7 +2,20 @@
 titulo: Sesión 5 · La demanda agregada
 ---
 
+Todo lo que has trabajado hasta ahora converge hoy en un solo modelo.
+
+En la unidad anterior calculaste el PIB por la vía del gasto y usaste la suma **C + I + G + (X − M)** para saber quién gasta qué. Esa suma **es** la demanda agregada. No es una fórmula nueva: es un reencuentro.
+
+Lo nuevo es la curva, y sobre todo aprender a traducir cualquier hecho económico real a su efecto sobre ella.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s05-solucionario-titulares.pdf | Solucionario de los titulares | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1 (la demanda agregada y su funcionamiento)</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y de cuestionario</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell y plantillas de escenarios · C: cuestionario formativo de cierre · OD: registro del taller de titulares</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -12,7 +25,7 @@ titulo: Sesión 5 · La demanda agregada
 
 ### Guion paso a paso
 
-**1. El reencuentro (20 min).** Abre recuperando explícitamente la descomposición **C + I + G + (X − M)** que dedujeron en la SdA 8 al calcular el PIB por la vía del gasto: “esa suma que usasteis para saber quién gasta qué *es*, exactamente, la demanda agregada”. Eso convierte lo que parece una fórmula nueva en un reencuentro y rebaja mucho la resistencia.
+**1. El reencuentro (20 min).** Abre recuperando explícitamente la descomposición **C + I + G + (X − M)** que dedujeron en la unidad anterior al calcular el PIB por la vía del gasto: “esa suma que usasteis para saber quién gasta qué *es*, exactamente, la demanda agregada”. Eso convierte lo que parece una fórmula nueva en un reencuentro y rebaja mucho la resistencia.
 
 A partir de ahí todo es nuevo: la curva, su pendiente negativa (si baja el nivel de precios sube el poder adquisitivo y crece el gasto total, *ceteris paribus*) y la distinción crítica de la sesión: **movimiento dentro de la curva** si lo que varía es el nivel de precios, **desplazamiento de la curva entera** si varía cualquier otro factor.
 
@@ -24,18 +37,10 @@ A partir de ahí todo es nuevo: la curva, su pendiente negativa (si baja el nive
 
 ### Preguntas guía del profesorado
 
-- ¿Qué relación hay entre la demanda agregada y el PIB por la vía del gasto de la SdA 8?
+- ¿Qué relación hay entre la demanda agregada y el PIB por la vía del gasto de la unidad anterior?
 - Si sube el nivel de precios, ¿la curva se desplaza o nos movemos dentro de ella?
 - ¿Es lo mismo un titular que dice “cayó el consumo” que uno que dice “se prevé que caiga”?
 - ¿Qué factores desplazan la curva a la derecha? ¿Y a la izquierda?
-
-::: aviso Material que debes preparar tú
-- **8-10 tarjetas de titulares económicos reales y recientes** (adaptados): bajada de tipos de interés, previsiones de desempleo, subida de las transferencias, un mal año turístico, un episodio de inflación… **Incluye deliberadamente titulares de previsión** junto a titulares de hecho, porque la penalización por confundirlos es parte del ejercicio.
-- **Gráficas de demanda agregada en A3**, una por grupo, y proyectables para la corrección.
-- **Plantilla del método de tres pasos** y cartulina para dejarlo visible en el mural del aula.
-- **Tablero de tres casillas** (movimiento / desplazamiento derecha / desplazamiento izquierda), uno por grupo.
-- Cuestionario formativo de cierre y la cuarta pieza de la maqueta (palanca de demanda).
-:::
 
 ### Atención a la diversidad (DUA) en esta sesión
 
@@ -46,28 +51,19 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 :::
 
 ::: aviso Nota de coordinación docente
-Sesión sin conocimiento previo relevante de la SdA 8, con una única excepción aprovechable. La descomposición C + I + G + (X − M) se dedujo allí al calcular el PIB por la vía del gasto. Conviene abrir recuperándola explícitamente, porque convierte una fórmula aparentemente nueva en un reencuentro.
+Sesión sin conocimiento previo relevante de la unidad anterior, con una única excepción aprovechable. La descomposición C + I + G + (X − M) se dedujo allí al calcular el PIB por la vía del gasto. Conviene abrir recuperándola explícitamente, porque convierte una fórmula aparentemente nueva en un reencuentro.
 :::
-
-## Para empezar
-
-Todo lo que has trabajado hasta ahora converge hoy en un solo modelo.
-
-En la SdA 8 calculaste el PIB por la vía del gasto y usaste la suma **C + I + G + (X − M)** para saber quién gasta qué. Esa suma **es** la demanda agregada. No es una fórmula nueva: es un reencuentro.
-
-Lo nuevo es la curva, y sobre todo aprender a traducir cualquier hecho económico real a su efecto sobre ella.
 
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s07-01.webp | Portada
-sda9-s07-02.webp | Un reencuentro
-sda9-s07-03.webp | Qué es la curva
-sda9-s07-04.webp | Movimiento o desplazamiento
-sda9-s07-05.webp | El método de tres pasos
-sda9-s07-06.webp | Ejemplo resuelto
-sda9-s07-07.webp | El taller
-sda9-s07-08.webp | Cierre
+sda9-s05-01.webp | La demanda agregada
+sda9-s05-02.webp | Demanda agregada
+sda9-s05-03.webp | Movimiento o desplazamiento
+sda9-s05-04.webp | Tres pasos
+sda9-s05-05.webp | Contrarreloj
+sda9-s05-06.webp | «Cayó el consumo» no es lo mismo que «se prevé que caiga el consumo».
+sda9-s05-07.webp | Una palanca de demanda para el panel de escenarios
 ```
 
 ## El método de tres pasos y el taller de titulares
@@ -81,14 +77,41 @@ sda9-s07-08.webp | Cierre
 <table><thead><tr><th width="10%">Paso</th><th width="90%">Qué haces</th></tr></thead><tbody><tr><td><b>I</b></td><td>Detectar qué <b>factor</b> está variando.</td></tr><tr><td><b>II</b></td><td>Deducir a qué <b>componente</b> del gasto afecta: C, I, G o XN.</td></tr><tr><td><b>III</b></td><td>Explicar qué ocurre con la <b>curva</b>: movimiento o desplazamiento, y en qué sentido.</td></tr></tbody></table>
 
 ::: nota Este método se queda en el mural del aula
-Lo vas a usar en esta sesión, en la sesión 6, en tu panel de escenarios de la maqueta y en el bloque 2 de la prueba escrita. Es el procedimiento central de la unidad.
+Lo vas a usar en esta sesión, en la sesión 6, en tu panel de escenarios de la maqueta y en la prueba escrita. Es el procedimiento central de la unidad.
 :::
 
 ### Taller “Titulares a juicio”
 
 Vuestro grupo recibe 8-10 tarjetas con titulares económicos reales. Contrarreloj y por puntos, hay que clasificar cada uno en el tablero de tres casillas aplicando **por escrito** el método de tres pasos.
 
-<table><thead><tr><th width="40%">Titular</th><th width="18%">Factor</th><th width="18%">Componente</th><th width="24%">Efecto en la curva</th></tr></thead><tbody><tr><td>Baja el tipo de interés oficial</td><td></td><td></td><td></td></tr><tr><td>Se prevé un aumento del desempleo el año que viene</td><td></td><td></td><td></td></tr><tr><td>El Estado sube las transferencias a las familias</td><td></td><td></td><td></td></tr><tr><td>Mal año turístico: caen las visitas extranjeras</td><td></td><td></td><td></td></tr><tr><td>Sube el nivel general de precios</td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda09-s05-titulares.pdf | Tarjetas de titulares y tablero | Diez titulares y la hoja con los tres pasos
+```
+
+Practica antes con cinco:
+
+```actividad
+id: sda09-s05-titulares
+tipo: clasificar
+instrucciones: ¿Qué le pasa a la curva de demanda agregada con cada titular?
+categorias:
+  - nombre: La curva se desplaza a la derecha
+    elementos:
+      - texto: Baja el tipo de interés oficial
+        explicacion: 'Factor: tipos de interés. Componentes: C e I, porque el crédito se abarata. La curva se desplaza a la derecha.'
+      - texto: El Estado sube las transferencias a las familias
+        explicacion: 'Factor: política fiscal. Componente: C, porque aumenta la renta disponible. Desplazamiento a la derecha.'
+  - nombre: La curva se desplaza a la izquierda
+    elementos:
+      - texto: Se prevé un aumento del desempleo el año que viene
+        explicacion: 'Factor: expectativas. Componentes: C e I, porque se consume e invierte menos por precaución. Ojo: es una previsión, no un hecho, y aun así mueve la curva.'
+      - texto: 'Mal año turístico: caen las visitas extranjeras'
+        explicacion: 'Factor: sector exterior. Componente: X, porque el turismo extranjero es una exportación. Desplazamiento a la izquierda.'
+  - nombre: Movimiento a lo largo de la curva
+    elementos:
+      - texto: Sube el nivel general de precios
+        explicacion: 'Lo que varía es el nivel de precios, así que la curva no se mueve: nos desplazamos a lo largo de ella, hacia menos producción demandada.'
+```
 
 ::: aviso Cuidado con esto: −0,5 puntos
 Se descuenta medio punto si el grupo **confunde un hecho con una previsión**. “Cayó el consumo” y “se prevé que caiga el consumo” no son lo mismo, y la diferencia importa. Una previsión actúa a través de las **expectativas**, que ya sabéis que son en sí mismas una variable económica.
@@ -104,7 +127,7 @@ La **demanda agregada (DA)** es la cantidad total que están dispuestos a gastar
 
 DA = C + I + G + (X − M)
 
-Y sí: es exactamente la misma suma con la que en la SdA 8 calculaste el PIB por el método del gasto. El gasto total de la economía y la producción demandada son la misma magnitud vista desde dos lados.
+Y sí: es exactamente la misma suma con la que en la unidad anterior calculaste el PIB por el método del gasto. El gasto total de la economía y la producción demandada son la misma magnitud vista desde dos lados.
 
 ### 2. La curva de demanda agregada y su pendiente
 
@@ -139,7 +162,24 @@ Y no es una cuestión de precisión formal. Una previsión actúa a través de l
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Demanda agregada</b></td><td>Gasto total que los agentes están dispuestos a realizar: C + I + G + (X − M).</td></tr><tr><td><b>Nivel general de precios</b></td><td>Precio medio del conjunto de bienes y servicios de una economía.</td></tr><tr><td><b>Ceteris paribus</b></td><td>Supuesto de mantener constante todo lo demás para aislar el efecto de una variable.</td></tr><tr><td><b>Movimiento dentro de la curva</b></td><td>Cambio en la cantidad demandada provocado por una variación del nivel de precios.</td></tr><tr><td><b>Desplazamiento de la curva</b></td><td>Cambio en toda la curva provocado por un factor distinto del nivel de precios.</td></tr><tr><td><b>Exportaciones netas</b></td><td>Diferencia entre exportaciones e importaciones (X − M).</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Demanda agregada</b></td><td>Gasto total que los agentes están dispuestos a realizar a cada nivel de precios: C + I + G + (X − M).</td></tr>
+<tr><td><b>Nivel general de precios</b></td><td>Precio medio del conjunto de bienes y servicios de una economía.</td></tr>
+<tr><td><b>Ceteris paribus</b></td><td>Supuesto de mantener constante todo lo demás para aislar el efecto de una variable.</td></tr>
+<tr><td><b>Movimiento a lo largo de la curva</b></td><td>Cambio en la cantidad demandada provocado por una variación del nivel de precios.</td></tr>
+<tr><td><b>Desplazamiento de la curva</b></td><td>Cambio en toda la curva provocado por un factor distinto del nivel de precios.</td></tr>
+<tr><td><b>Exportaciones netas</b></td><td>Exportaciones menos importaciones (X − M).</td></tr>
+<tr><td><b>Política monetaria</b></td><td>Decisiones del banco central sobre los tipos de interés y la cantidad de dinero. En la zona euro, el BCE.</td></tr>
+<tr><td><b>Política fiscal</b></td><td>Decisiones del Gobierno sobre el gasto público, los impuestos y las transferencias.</td></tr>
+<tr><td><b>Expectativas</b></td><td>Lo que familias y empresas creen que pasará. Mueven el consumo y la inversión antes de que pase.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=O636aLldREw | Qué es la demanda agregada | Econosublime · 5:27
+https://www.youtube.com/watch?v=OT9pKc_saeI | Desplazamientos de la demanda agregada | Econosublime · 9:59
+```
 
 ## Comprueba lo que sabes
 

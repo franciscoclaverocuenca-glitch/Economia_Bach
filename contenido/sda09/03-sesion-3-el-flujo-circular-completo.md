@@ -2,7 +2,18 @@
 titulo: 'Sesión 3 · El flujo circular completo: agentes, Sector Público y lo que el modelo no ve'
 ---
 
+Las dos primeras sesiones trabajaron con intuiciones. Hoy las convertimos en **modelo**.
+
+Empezamos por un repaso rápido de algo que ya sabéis, quiénes son los agentes, y pasamos a lo nuevo. Los **dos mercados** en los que se encuentran, los **dos flujos** que los recorren y la razón por la que todo esto es un **círculo** y no una línea. En la segunda parte entra el **Estado** y después debatimos qué deja fuera el modelo.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s03-solucionario.pdf | Solucionario de las operaciones | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4 → Gran grupo</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio, de observación y de debate</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, tarjetas resueltas y diagrama completado · OD: lista de cotejo durante los talleres cooperativos · D: debate estructurado “¿Qué trabajo cuenta?”</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -12,17 +23,17 @@ titulo: 'Sesión 3 · El flujo circular completo: agentes, Sector Público y lo 
 
 ### Guion paso a paso
 
-**1. Repaso activo, no explicación (3 min).** Los agentes se trabajaron ya en la SdA 8. En lugar de exponerlos, pide al grupo que **reconstruya el censo en dos minutos** y corrige lo que falte. Si el diagnóstico de la S1 reveló que el mapa no está consolidado en una parte del grupo, la ficha de refuerzo y el tarjetero de la SdA 8 cubren esa necesidad sin frenar al resto.
+**1. Repaso activo, no explicación (3 min).** Los agentes se trabajaron ya en la unidad anterior. En lugar de exponerlos, pide al grupo que **reconstruya el censo en dos minutos** y corrige lo que falte. Si el diagnóstico de la S1 reveló que el mapa no está consolidado en una parte del grupo, la ficha de refuerzo y el tarjetero de la unidad anterior cubren esa necesidad sin frenar al resto.
 
-**2. Lo que sí es nuevo (9 min).** La capa 1 del diagrama: familias y empresas conectadas por **dos mercados**, el de bienes y el de factores, y recorridas por **dos tipos de flujo**, el real y el monetario. Fija desde ya el **código de color** de la unidad. La pregunta guía del Cornell es **¿por qué el flujo es circular?** Conecta con la conclusión que la SdA 8 dictó al Cornell (“lo que para un agente es un gasto, para otro es un ingreso”).
+**2. Lo que sí es nuevo (9 min).** La capa 1 del diagrama: familias y empresas conectadas por **dos mercados**, el de bienes y el de factores, y recorridas por **dos tipos de flujo**, el real y el monetario. Fija desde ya el **código de color** de la unidad. La pregunta guía del Cornell es **¿por qué el flujo es circular?** Conecta con la conclusión que la unidad anterior dictó al Cornell (“lo que para un agente es un gasto, para otro es un ingreso”).
 
-**3. Taller “¿Por dónde pasa?” (9 min).** Diagrama A3 y **cuatro tarjetas** de operaciones reales. Cada miembro resuelve una y la explica al resto, que puede corregirla antes de fijarla. **Dos de las cuatro se toman del reto de agentes de la SdA 8**: la misma operación que entonces solo sabían asignar a un agente ahora la sitúan en un mercado y la descomponen en dos flujos. La **corrección cruzada** con la lista de cotejo de tres puntos pasa a ser tarea de portafolio antes de la sesión siguiente.
+**3. Taller “¿Por dónde pasa?” (9 min).** Diagrama A3 y **cuatro tarjetas** de operaciones reales. Cada miembro resuelve una y la explica al resto, que puede corregirla antes de fijarla. **Dos de las cuatro se toman del reto de agentes de la unidad anterior**: la misma operación que entonces solo sabían asignar a un agente ahora la sitúan en un mercado y la descomponen en dos flujos. La **corrección cruzada** con la lista de cotejo de tres puntos pasa a ser tarea de portafolio antes de la sesión siguiente.
 
-**4. El triple papel (6 min).** Sobre el mismo diagrama se construye la capa 2: el Sector Público **como empresa**, **como familia** y en su **función fiscal**. Conecta con lo que la SdA 8 dejó constatado sin explicarlo. El Gini baja después de impuestos y transferencias. **Aquí se ve por dónde.**
+**4. El triple papel (6 min).** Sobre el mismo diagrama se construye la capa 2: el Sector Público **como empresa**, **como familia** y en su **función fiscal**. Conecta con lo que la unidad anterior dejó constatado sin explicarlo. El Gini baja después de impuestos y transferencias. **Aquí se ve por dónde.**
 
 **5. Taller “Operaciones del Estado” (6 min).** Cada grupo elige **dos** de las cuatro tarjetas de operaciones públicas e identifica qué papel está en juego. Corrección rápida en gran grupo con el diagrama proyectado.
 
-**6. El debate (12 min).** Recupera la pregunta abierta de la sesión 1 y presenta a Marilyn Waring. Dos turnos reglados con réplica cruzada y cierre individual por escrito en el Cornell. **Abre el debate recuperando la formulación de la SdA 8** (“un agente que aporta un beneficio que el modelo no le reconoce”). Esta valoración crítica de los límites del modelo es el cierre del criterio 3.2, y el nivel Sobresaliente de la rúbrica la exige de forma expresa: dilo al enunciar las reglas.
+**6. El debate (12 min).** Recupera la pregunta abierta de la sesión 1 y presenta a Marilyn Waring. Dos turnos reglados con réplica cruzada y cierre individual por escrito en el Cornell. **Abre el debate recuperando la formulación de la unidad anterior** (“un agente que aporta un beneficio que el modelo no le reconoce”). Esta valoración crítica de los límites del modelo es el cierre del criterio 3.2, y el nivel Sobresaliente de la rúbrica la exige de forma expresa: dilo al enunciar las reglas.
 
 **7. Cierre (5 min).** Cornell y entrega de las dos primeras piezas de la maqueta.
 
@@ -31,24 +42,11 @@ titulo: 'Sesión 3 · El flujo circular completo: agentes, Sector Público y lo 
 - ¿Por qué decimos que el flujo es circular y no simplemente una cadena?
 - ¿En qué mercado ocurre esta operación. En el de bienes o en el de factores?
 - ¿Pueden el flujo real y el monetario ir en el mismo sentido? ¿Por qué no?
-- En la SdA 8 supisteis a qué agente asignar esta operación. ¿Qué sabéis hacer ahora que entonces no?
+- En la unidad anterior supisteis a qué agente asignar esta operación. ¿Qué sabéis hacer ahora que entonces no?
 - ¿Cuál de los tres papeles del Sector Público está en juego en esta operación?
 - ¿Por dónde baja el Gini después de impuestos y transferencias? Señaladlo en el diagrama.
 - ¿Describe bien el bienestar de una sociedad un modelo que solo ve lo que se paga?
-- En la SdA 8 dijisteis que hay un agente que aporta un beneficio que el modelo no le reconoce. ¿Cómo lo diríais ahora, con el diagrama delante?
-
-::: aviso Material que debes preparar tú
-- **Plantilla Cornell**, una por alumno/a, y el dato de la Encuesta de Empleo del Tiempo del INE recuperado de la sesión 1.
-- **Diagrama mural del flujo circular (capa 1)** proyectable, y una copia en **A3** por grupo base.
-- **Cuatro tarjetas de operaciones reales** del entorno: “Lucía compra un móvil por 150 € en una tienda de calle Larios”, “una vecina de Pedregalejo es contratada como camarera y cobra 1.100 € al mes”, “un hotel de Torremolinos paga el alquiler del local”, “una familia compra pan cada mañana en la panadería del barrio”… **Dos de ellas deben venir del reto de agentes de la SdA 8**: recupera ese material.
-- **Rotuladores de dos colores** por grupo, uno para el flujo real y otro para el monetario.
-- **Ficha de refuerzo (1)** y **tarjetero de agentes de la SdA 8**, por si el diagnóstico reveló que el mapa de agentes no está consolidado.
-- **Lista de cotejo de tres puntos** para la corrección cruzada.
-- **Diagrama mural (capa 2)** proyectable, con el Sector Público incorporado.
-- **Cuatro tarjetas de operaciones del Sector Público** (cada grupo elige dos) del entorno andaluz: “Carlos recibe una beca de la Junta de Andalucía”, “la panadería paga el IVA trimestral”, “el Ayuntamiento contrata una empresa de obras para reformar el paseo marítimo”, “una profesora del IES cobra su nómina”.
-- **Ficha del debate** con las dos posturas y las reglas de turno.
-- **Referencia a la Estación A de la SdA 8**, para poder recuperar la formulación en clave de agentes al abrir el debate.
-:::
+- En la unidad anterior dijisteis que hay un agente que aporta un beneficio que el modelo no le reconoce. ¿Cómo lo diríais ahora, con el diagrama delante?
 
 ### Atención a la diversidad (DUA) en esta sesión
 
@@ -62,24 +60,19 @@ Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. 
 Sesión **fusionada** de las antiguas S3 y S4. La compresión aplicada es la siguiente. El repaso de agentes se reduce a 3 minutos; el taller “¿Por dónde pasa?” pasa de seis a cuatro tarjetas y la corrección cruzada sale del aula como tarea de portafolio; el taller del Estado pasa de cuatro a dos tarjetas (a elegir). El debate sobre Marilyn Waring se mantiene casi íntegro porque es el cierre del criterio 3.2.
 :::
 
-## Para empezar
 
-Las dos primeras sesiones trabajaron con intuiciones. Hoy las convertimos en **modelo**.
-
-Empezamos por un repaso rápido de algo que ya sabéis, quiénes son los agentes, y pasamos a lo nuevo. Los **dos mercados** en los que se encuentran, los **dos flujos** que los recorren y la razón por la que todo esto es un **círculo** y no una línea. En la segunda parte entra el **Estado** y después debatimos qué deja fuera el modelo.
-
-## Diapositivas · primera parte
+## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s03-01.webp | Portada
-sda9-s03-02.webp | Repaso activo
-sda9-s03-03.webp | Los agentes
-sda9-s03-04.webp | Los dos mercados
-sda9-s03-05.webp | Los dos flujos
-sda9-s03-06.webp | ¿Por qué es circular?
-sda9-s03-07.webp | El taller
-sda9-s03-08.webp | La lista de cotejo
-sda9-s03-09.webp | Lo que falta
+sda9-s03-01.webp | El flujo circular completo
+sda9-s03-02.webp | Los mismos agentes, papeles cambiados
+sda9-s03-03.webp | Siempre en sentidos opuestos
+sda9-s03-04.webp | Cuatro operaciones
+sda9-s03-05.webp | El Sector Público entra en el circuito
+sda9-s03-06.webp | ¿Qué trabajo cuenta?
+sda9-s03-07.webp | Marilyn Waring
+sda9-s03-08.webp | Dos posturas
+sda9-s03-09.webp | ¿Describe bien el bienestar un modelo que solo ve lo que se paga?
 ```
 
 ## Taller · ¿Por dónde pasa?
@@ -90,12 +83,16 @@ Vuestro grupo recibe el diagrama de la capa 1 en A3 y cuatro tarjetas con operac
 
 <table><thead><tr><th width="18%">Fase</th><th width="68%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Individual</b></td><td>Cada miembro resuelve UNA tarjeta por su cuenta.</td><td>5 min</td></tr><tr><td><b>2 · Explicación</b></td><td>La explicas al resto del grupo, que puede corregirla antes de fijarla en el diagrama.</td><td>10 min</td></tr><tr><td><b>3 · Consenso</b></td><td>Las dos tarjetas restantes se resuelven entre los cuatro.</td><td>5 min</td></tr></tbody></table>
 
+```descargas
+sda09-s03-diagrama-a3.pdf | Diagrama A3 y tarjetas de operaciones | Capa 1 del flujo circular, para dibujar las flechas
+```
+
 ### La lista de cotejo de la corrección cruzada
 
 <table><thead><tr><th width="5%"></th><th width="34%">Comprobación</th><th width="61%">El error típico</th></tr></thead><tbody><tr><td>1</td><td>¿Está el <b>mercado</b> correcto?</td><td>Confundir el mercado de bienes con el de factores. Pregunta: ¿lo que se intercambia es un producto o es trabajo/capital?</td></tr><tr><td>2</td><td>¿Están las <b>flechas</b> bien orientadas?</td><td>Poner el flujo real y el monetario en el mismo sentido. Siempre van en sentidos opuestos.</td></tr><tr><td>3</td><td>¿Están los <b>colores</b> bien aplicados?</td><td>Mezclar los dos colores. Real de uno, monetario del otro, sin excepciones.</td></tr></tbody></table>
 
 ::: nota Dos de las tarjetas ya las conocéis
-Dos de las cuatro vienen del reto de agentes de la SdA 8. Entonces solo sabíais asignarlas a un agente; ahora podéis además situarlas en un mercado y descomponerlas en dos flujos. **Esa diferencia es la medida exacta de lo que habéis aprendido.**
+Dos de las cuatro vienen del reto de agentes de la unidad anterior. Entonces solo sabíais asignarlas a un agente; ahora podéis además situarlas en un mercado y descomponerlas en dos flujos. **Esa diferencia es la medida exacta de lo que habéis aprendido.**
 :::
 
 La **corrección cruzada** con esta lista de cotejo la haréis como tarea de portafolio, antes de la próxima sesión.
@@ -104,7 +101,7 @@ La **corrección cruzada** con esta lista de cotejo la haréis como tarea de por
 
 ### 1. Los agentes económicos (repaso)
 
-Los **agentes económicos** son quienes toman las decisiones sobre qué producir, cómo y para quién. Ya los conoces de la SdA 8; aquí los recuperamos con más precisión técnica.
+Los **agentes económicos** son quienes toman las decisiones sobre qué producir, cómo y para quién. Ya los conoces de la unidad anterior; aquí los recuperamos con más precisión técnica.
 
 <table><thead><tr><th width="28%">Agente</th><th width="44%">Qué hace</th><th width="28%">Qué busca</th></tr></thead><tbody><tr><td><b>Familias</b> (economías domésticas)</td><td>Consumen bienes y servicios y son propietarias de los factores productivos</td><td>Máxima satisfacción con la renta de que disponen</td></tr><tr><td><b>Empresas</b></td><td>Producen bienes y servicios y pagan rentas a cambio de los factores</td><td>Máximo beneficio</td></tr><tr><td><b>Sector Público</b></td><td>Regula la actividad económica, produce servicios y redistribuye</td><td>Eficiencia, equidad y estabilidad</td></tr></tbody></table>
 
@@ -131,7 +128,7 @@ Esta es la pregunta que da nombre al modelo, y la respuesta merece leerse despac
 
 **Porque el dinero con el que las empresas pagan salarios vuelve a ellas cuando las familias consumen, y vuelve a salir cuando pagan de nuevo los factores.**
 
-La renta no se destruye al gastarse: circula. Y de ahí se deduce la consecuencia que recorre toda la unidad. Si el circuito se interrumpe en un punto, el efecto se propaga a todos los demás. Es la representación formal de lo que ya dictaste al Cornell en la SdA 8: “lo que para un agente es un gasto, para otro es un ingreso”.
+La renta no se destruye al gastarse: circula. Y de ahí se deduce la consecuencia que recorre toda la unidad. Si el circuito se interrumpe en un punto, el efecto se propaga a todos los demás. Es la representación formal de lo que ya anotaste en la unidad anterior: “lo que para un agente es un gasto, para otro es un ingreso”.
 
 ### 5. Lo que este diagrama todavía no tiene
 
@@ -139,27 +136,22 @@ El modelo construido hoy tiene una limitación deliberada: **en él no existe el
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Mercado de bienes y servicios</b></td><td>Donde las familias compran lo que las empresas producen.</td></tr><tr><td><b>Mercado de factores</b></td><td>Donde las familias ofrecen trabajo, tierra y capital a las empresas.</td></tr><tr><td><b>Factores productivos</b></td><td>Recursos necesarios para producir: trabajo, tierra y capital.</td></tr><tr><td><b>Flujo real</b></td><td>Movimiento de bienes, servicios y factores productivos.</td></tr><tr><td><b>Flujo monetario</b></td><td>Movimiento de los pagos correspondientes, en sentido opuesto al real.</td></tr><tr><td><b>Rentas de los factores</b></td><td>Salarios, alquileres, intereses y dividendos.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Mercado de bienes y servicios</b></td><td>Donde las familias compran lo que las empresas producen.</td></tr>
+<tr><td><b>Mercado de factores</b></td><td>Donde las familias ofrecen trabajo, tierra y capital a las empresas.</td></tr>
+<tr><td><b>Factores productivos</b></td><td>Recursos necesarios para producir: trabajo, tierra y capital.</td></tr>
+<tr><td><b>Flujo real</b></td><td>Movimiento de bienes, servicios y factores productivos.</td></tr>
+<tr><td><b>Flujo monetario</b></td><td>Movimiento de los pagos correspondientes, en sentido opuesto al real.</td></tr>
+<tr><td><b>Rentas de los factores</b></td><td>Salarios (trabajo), alquileres (tierra), intereses y dividendos (capital).</td></tr>
+<tr><td><b>Economías domésticas</b></td><td>Otro nombre de las familias como agente económico.</td></tr>
+<tr><td><b>Circuito económico</b></td><td>Recorrido cerrado de la renta entre los agentes: lo que uno gasta es ingreso de otro.</td></tr>
+</tbody></table>
 
 ## Segunda parte · El Estado entra en el circuito
 
 El diagrama que acabáis de construir tiene una limitación deliberada: **no existe el Estado**. Ahora lo incorporamos, y descubriréis que interviene de tres formas distintas, no de una.
 
 Y después recuperamos la pregunta que dejamos abierta en la sesión 1: ¿qué pasa con el trabajo por el que no circula ningún euro?
-
-## Diapositivas · segunda parte
-
-```diapositivas
-sda9-s04-01.webp | Portada
-sda9-s04-02.webp | El triple papel
-sda9-s04-03.webp | El enlace con la SdA 8
-sda9-s04-04.webp | El taller
-sda9-s04-05.webp | La pregunta pendiente
-sda9-s04-06.webp | Referente: Marilyn Waring
-sda9-s04-07.webp | El debate
-sda9-s04-08.webp | El cierre del criterio
-sda9-s04-09.webp | Cierre
-```
 
 ## Taller · Operaciones del Estado
 
@@ -169,10 +161,33 @@ sda9-s04-09.webp | Cierre
 
 ### Las tarjetas (elegid dos)
 
-<table><thead><tr><th width="44%">Operación</th><th width="30%">¿Qué papel del Sector Público?</th><th width="26%">¿Qué flujos?</th></tr></thead><tbody><tr><td>Carlos recibe una beca de la Junta de Andalucía</td><td></td><td></td></tr><tr><td>La panadería paga el IVA trimestral</td><td></td><td></td></tr><tr><td>El Ayuntamiento contrata una empresa de obras para reformar el paseo marítimo</td><td></td><td></td></tr><tr><td>Una profesora del IES cobra su nómina</td><td></td><td></td></tr></tbody></table>
+```actividad
+id: sda09-s03-papeles
+tipo: clasificar
+instrucciones: ¿Qué papel del Sector Público está en juego en cada operación?
+categorias:
+  - nombre: Como empresa (contrata factores y produce)
+    elementos:
+      - texto: Una profesora del IES cobra su nómina
+        explicacion: 'El Sector Público contrata trabajo en el mercado de factores. Flujo real: trabajo de la profesora al Estado. Flujo monetario: salario del Estado a la profesora.'
+  - nombre: Como familia (compra bienes y servicios)
+    elementos:
+      - texto: El Ayuntamiento contrata una empresa de obras para reformar el paseo marítimo
+        explicacion: 'Compra un servicio en el mercado de bienes. Flujo real: la obra, de la empresa al Ayuntamiento. Flujo monetario: el pago, del Ayuntamiento a la empresa.'
+  - nombre: Función fiscal (recauda y transfiere)
+    elementos:
+      - texto: La panadería paga el IVA trimestral
+        explicacion: 'Es un impuesto: solo hay flujo monetario, de la empresa al Sector Público, sin contrapartida directa.'
+      - texto: Carlos recibe una beca de la Junta de Andalucía
+        explicacion: 'Es una transferencia: solo hay flujo monetario, del Sector Público a la familia, sin contrapartida directa.'
+```
+
+```descargas
+sda09-s03-tarjetas-estado.pdf | Tarjetas de operaciones del Estado | Papel y flujos de cada operación
+```
 
 ::: nota Esto explica algo que ya comprobasteis
-En la SdA 8 vimos con datos de Eurostat que el índice de Gini baja sensiblemente después de impuestos y transferencias. Hoy podéis ver **por dónde**: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta “¿quién paga y quién gana?” tiene ahora un recorrido dibujado.
+En la unidad anterior vimos con datos de Eurostat que el índice de Gini baja sensiblemente después de impuestos y transferencias. Hoy podéis ver **por dónde**: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta “¿quién paga y quién gana?” tiene ahora un recorrido dibujado.
 :::
 
 ## Debate · ¿Qué trabajo cuenta?
@@ -193,11 +208,8 @@ Por el trabajo doméstico y de cuidados **no circula ningún euro**. Por tanto, 
 Su argumento no era moral sino **técnico**: un sistema de medición que deja fuera una parte enorme del trabajo que sostiene la economía describe mal la realidad que pretende describir. Su trabajo impulsó que hoy existan encuestas de empleo del tiempo y cuentas satélite que intentan medirlo.
 :::
 
-::: nota Por qué este debate cuenta para tu nota
-Valorar críticamente la relevancia y los **límites** de un modelo económico es literalmente el cierre del criterio 3.2, y el nivel **Sobresaliente** de la rúbrica lo exige de forma expresa. No es un añadido: es contenido evaluable.
-:::
 
-**Cierre individual por escrito en el Cornell.** ¿describe bien el bienestar de la sociedad un modelo que solo ve lo que se paga?
+**Cierre individual por escrito.** ¿Describe bien el bienestar de la sociedad un modelo que solo ve lo que se paga?
 
 ## Apuntes · segunda parte
 
@@ -210,7 +222,7 @@ El diagrama de la primera parte tenía una limitación deliberada: solo había f
 Las dos primeras formas no son exclusivas del Estado. Cualquier empresa contrata factores y cualquier familia compra bienes. La **tercera sí lo es**: ningún otro agente puede recaudar impuestos de forma obligatoria.
 
 ::: nota Esto explica algo que ya sabías
-En la SdA 8 comprobasteis con datos de Eurostat y de la Encuesta de Condiciones de Vida que el **índice de Gini baja sensiblemente después de impuestos y transferencias**. Ahora podéis ver *por dónde*: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta “¿quién paga y quién gana?” tiene un recorrido dibujado.
+En la unidad anterior comprobasteis con datos de Eurostat y de la Encuesta de Condiciones de Vida que el **índice de Gini baja sensiblemente después de impuestos y transferencias**. Ahora podéis ver *por dónde*: la función fiscal toma recursos de unos puntos del circuito y los devuelve en otros. La pregunta “¿quién paga y quién gana?” tiene un recorrido dibujado.
 :::
 
 ### 2. Los límites del modelo: ¿qué trabajo cuenta?
@@ -227,17 +239,23 @@ Conviene entender bien su argumento, porque no es moral sino **técnico**: un si
 
 Su trabajo impulsó que hoy existan **encuestas de empleo del tiempo** y **cuentas satélite** que intentan medir ese trabajo. Es decir, la crítica funcionó.
 
-### 4. Por qué esto es contenido evaluable
+### 4. Un mapa, no el territorio
 
-::: aviso El cierre del criterio 3.2
-El criterio 3.2 no pide solo *usar* el modelo. Pide **valorar críticamente su relevancia y sus límites**. El nivel Sobresaliente de la rúbrica lo exige de forma expresa.
+::: aviso Usar el modelo y conocer sus límites
+No basta con *usar* el modelo. Hay que saber **valorar su utilidad y sus límites**.
 
-Un modelo es un **mapa, no el territorio**. Un mapa útil simplifica; un mapa que borra una carretera principal no simplifica, engaña. Saber decir qué aporta el flujo circular *y* qué deja fuera es exactamente lo que se te pide en el bloque 3 de la prueba escrita.
+Un modelo es un **mapa, no el territorio**. Un mapa útil simplifica; un mapa que borra una carretera principal no simplifica, engaña. Saber decir qué aporta el flujo circular *y* qué deja fuera es lo que separa usar un modelo de entenderlo.
 :::
 
 ### Glosario de la sesión
 
 <table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Función fiscal</b></td><td>Papel del Sector Público consistente en recaudar impuestos y financiar con ellos gasto y transferencias.</td></tr><tr><td><b>Transferencia</b></td><td>Pago del Sector Público a familias o empresas sin contrapartida directa (beca, subvención, prestación).</td></tr><tr><td><b>Índice de Gini</b></td><td>Indicador de desigualdad en la distribución de la renta.</td></tr><tr><td><b>Cuentas satélite</b></td><td>Estimaciones complementarias a la contabilidad nacional que miden actividades que esta no recoge.</td></tr><tr><td><b>Encuesta de Empleo del Tiempo</b></td><td>Estadística oficial del INE que mide en qué emplean las personas sus horas, incluido el trabajo no remunerado.</td></tr></tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=BrnZMrjsf6w | El trabajo no remunerado que el PIB ignora | Marilyn Waring, TED · 17:20
+```
 
 ## Cierre
 

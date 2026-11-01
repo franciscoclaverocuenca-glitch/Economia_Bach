@@ -2,7 +2,20 @@
 titulo: Sesión 1 · La cadena del euro
 ---
 
+Un turista entra en una cafetería del centro y se gasta un euro en un café. Pregunta sencilla, y sin respuesta obvia:
+
+“¿Dónde acaba ese euro?”
+
+No se queda en la cafetería. Vamos a seguirle la pista, uno por uno, hasta que lo perdamos de vista. Y en el camino vais a descubrir la idea que da nombre a esta unidad.
+
 ## Guía docente · Sesión 1 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s01-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s01-tarjetas-rol.pdf | Tarjetas de rol y fichas-euro | Solo docente, para recortar
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Movilizar + Activar</th><th>Tipo de actividad (4.4)</th><th>Motivación e indagación + diagnóstico inicial</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2 (activación inicial)</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo en círculo · Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa, primera evidencia de proceso, no calificable numéricamente</td></tr><tr><td><b>Instrumentos</b></td><td>OD: participación y razonamiento en la simulación · C: diagnóstico inicial breve (no calificable)</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -14,15 +27,15 @@ titulo: Sesión 1 · La cadena del euro
 
 **1. La simulación (20 min).** Aula en círculo y tarjetas de rol reconocibles del entorno malagueño. Entrega la ficha-euro al turista con la consigna “gástalo”. Cada vez que cambia de manos, quien la recibe dice en voz alta **a cambio de qué** la recibe y a quién se la entrega después.
 
-**Ronda 1, La economía en marcha.** La ficha circula libremente. Ve anotando en la pizarra lo que emerge: quién compra bienes, quién cobra salarios, quién paga impuestos, qué papel juega el Ayuntamiento. Puedes nombrarlo ya con el vocabulario de la SdA 8 (familias, empresas, Sector Público) porque lo traen aprendido. Lo que no traen, y es el objetivo, es la idea de circuito.
+**Ronda 1, La economía en marcha.** La ficha circula libremente. Ve anotando en la pizarra lo que emerge: quién compra bienes, quién cobra salarios, quién paga impuestos, qué papel juega el Ayuntamiento. Puedes nombrarlo ya con el vocabulario de la unidad anterior (familias, empresas, Sector Público) porque lo traen aprendido. Lo que no traen, y es el objetivo, es la idea de circuito.
 
 **Ronda 2, La crisis.** Retira al turista: “este año no viene”. El grupo continúa la cadena y descubre en carne propia que la camarera cobra menos, consume menos en la panadería, el panadero paga menos impuestos… Formula la pregunta clave en gran grupo: **¿por qué la desaparición de un solo agente ha acabado afectando a todos los demás?**
 
 **Ronda 3, La fuga.** Introduce la tarjeta de “hucha”. Un rol ahorra la ficha y la cadena se detiene. Es la primera intuición de las filtraciones, y es la ronda a la que conviene dedicar los minutos que se ganen en las anteriores: siembra directamente la sesión 4.
 
-**2. Puesta en común (10 min).** Cierra con el primer esbozo colectivo del diagrama en la pizarra. Personas y empresas conectadas por flechas de dinero y de cosas. Anuncia que ese dibujo intuitivo tiene nombre y que la unidad entera consistirá en completarlo. Y formula explícitamente el salto. “en la SdA 8 aprendisteis quiénes son los agentes y a preguntar quién paga y quién gana; aquí vais a aprender por qué la respuesta es la que es”.
+**2. Puesta en común (10 min).** Cierra con el primer esbozo colectivo del diagrama en la pizarra. Personas y empresas conectadas por flechas de dinero y de cosas. Anuncia que ese dibujo intuitivo tiene nombre y que la unidad entera consistirá en completarlo. Y formula explícitamente el salto. “En la unidad anterior aprendisteis quiénes son los agentes y a preguntar quién paga y quién gana; aquí vais a aprender por qué la respuesta es la que es”.
 
-**3. Diagnóstico y reto (10 min).** Cuatro o cinco preguntas de respuesta corta, no calificables. La primera es de recuperación del mapa de agentes de la SdA 8 y te dice si la sesión 3 puede acelerarse o necesita refuerzo. Después, presenta la feria-museo con los cinco elementos obligatorios y el calendario de piezas.
+**3. Diagnóstico y reto (10 min).** Cuatro o cinco preguntas de respuesta corta, no calificables. La primera es de recuperación del mapa de agentes de la unidad anterior y te dice si la sesión 3 puede acelerarse o necesita refuerzo. Después, presenta la feria-museo con los cinco elementos obligatorios y el calendario de piezas.
 
 **4. Cierre transversal (5 min).** La observación sobre la propia simulación: nadie ha cuidado, cocinado ni limpiado. La pregunta queda anotada en el margen del Cornell como “pregunta abierta” y se recupera en la sesión 3 con Marilyn Waring. **No la cierres con conclusión.**
 
@@ -33,14 +46,6 @@ titulo: Sesión 1 · La cadena del euro
 - ¿Quién ha ganado y quién ha soportado el coste cuando el turista dejó de venir?
 - Si por el trabajo de cuidados no circula ningún euro, ¿aparecerá en nuestro modelo? ¿Debería?
 
-::: aviso Material que debes preparar tú
-- **20-25 fichas-euro de cartulina** y **tarjetas de rol** reconocibles del entorno: turista, camarera de una cafetería del centro, dueño de una panadería de barrio, profesora del propio IES, Ayuntamiento, empresa de reformas, familia que ahorra. Incluye una tarjeta de **“hucha”** para la ronda 3.
-- **Plantilla de diagnóstico** con 4-5 preguntas de respuesta corta. La primera debe recuperar el mapa de agentes de la SdA 8: te dirá si la sesión 3 puede acelerarse.
-- **El tarjetero de agentes de la SdA 8**, recuperado: se usa como apoyo y como material de la ficha de refuerzo de la sesión 3.
-- **Dato de la Encuesta de Empleo del Tiempo del INE** sobre el reparto del trabajo doméstico y de cuidados, actualizado.
-- Aula despejada para disponerse en círculo. Pizarra libre para el primer esbozo del diagrama.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un recorrido reconocible por la propia ciudad, con roles del entorno inmediato del alumnado, y no requiere ningún conocimiento previo para participar.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La simulación en círculo garantiza una intervención breve y pautada de todas las personas (decir a cambio de qué se recibe la ficha), de bajo riesgo y con turno asegurado; el diagnóstico posterior es individual, escrito y no calificable.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>El método Cornell da una estructura explícita de toma de apuntes (columna de ideas clave, columna de notas y franja de resumen), que actúa como andamiaje directo de la autorregulación y se mantiene idéntico en todas las sesiones de la unidad.</td></tr></tbody></table>
@@ -49,26 +54,18 @@ titulo: Sesión 1 · La cadena del euro
 La simulación en círculo tiene intervenciones rápidas desde puntos distintos del aula, lo que es especialmente difícil de seguir. Sitúa a este alumno/a en un punto con visión frontal del mayor número de compañeros posible, exige que quien tiene la ficha se ponga en pie y espere a tener la atención antes de hablar, y ve anotando en la pizarra cada paso de la cadena a medida que se produce, de modo que el recorrido quede siempre disponible por escrito.
 :::
 
-## Para empezar
-
-Un turista entra en una cafetería del centro y se gasta un euro en un café. Pregunta sencilla, y sin respuesta obvia:
-
-“¿Dónde acaba ese euro?”
-
-No se queda en la cafetería. Vamos a seguirle la pista, uno por uno, hasta que lo perdamos de vista. Y en el camino vais a descubrir la idea que da nombre a esta unidad.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s01-01.webp | Portada
-sda9-s01-02.webp | Pregunta detonante
-sda9-s01-03.webp | La simulación
-sda9-s01-04.webp | Las tres rondas
-sda9-s01-05.webp | El salto de esta unidad
-sda9-s01-06.webp | La idea clave
-sda9-s01-07.webp | El reto
-sda9-s01-08.webp | Los cinco elementos
-sda9-s01-09.webp | La pregunta incómoda
+sda9-s01-01.webp | La cadena del euro
+sda9-s01-02.webp | Un turista se gasta un euro en un café del centro de Málaga.…
+sda9-s01-03.webp | Una regla única
+sda9-s01-04.webp | Lo que vais a descubrir
+sda9-s01-05.webp | Costa del Sol, 2025
+sda9-s01-06.webp | La renta no se destruye al gastarse: circula.
+sda9-s01-07.webp | Una feria-museo: «El viaje de un euro».
+sda9-s01-08.webp | Cinco elementos
+sda9-s01-09.webp | Si por un trabajo no circula ningún euro, ¿aparece en el modelo?
 ```
 
 ## Simulación · La cadena del euro
@@ -81,52 +78,46 @@ El aula se dispone en círculo. Cada persona recibe una tarjeta de rol. El turis
 Cada vez que la ficha cambia de manos, quien la recibe dice **en voz alta** a cambio de qué la recibe (un café, un salario, un impuesto, una barra de pan) y a quién se la entrega después y por qué.
 :::
 
+```descargas
+sda09-s01-hoja-cadena.pdf | Hoja de la cadena del euro | Lo que pasa en cada ronda y el primer esbozo del diagrama
+```
+
 ### Las tres rondas
 
-<table><thead><tr><th width="22%">Ronda</th><th width="34%">Qué pasa</th><th width="44%">Qué vais a descubrir</th></tr></thead><tbody><tr><td><b>1 · La economía en marcha</b></td><td>La ficha circula libremente durante varias vueltas.</td><td>Que los agentes que ya conocéis de la SdA 8 están todos conectados entre sí.</td></tr><tr><td><b>2 · La crisis</b></td><td>Se retira al turista: “este año no viene”. Hay que continuar la cadena.</td><td>Que la camarera cobra menos, consume menos, el panadero paga menos impuestos… ¿Por qué la desaparición de UN agente afecta a TODOS?</td></tr><tr><td><b>3 · La fuga</b></td><td>Aparece la tarjeta de “hucha”. Alguien ahorra la ficha en lugar de gastarla.</td><td>Que la cadena se detiene. Primera intuición de las filtraciones del circuito.</td></tr></tbody></table>
+<table><thead><tr><th width="22%">Ronda</th><th width="34%">Qué pasa</th><th width="44%">Qué vais a descubrir</th></tr></thead><tbody><tr><td><b>1 · La economía en marcha</b></td><td>La ficha circula libremente durante varias vueltas.</td><td>Que los agentes que ya conocéis de la unidad anterior están todos conectados entre sí.</td></tr><tr><td><b>2 · La crisis</b></td><td>Se retira al turista: “este año no viene”. Hay que continuar la cadena.</td><td>Que la camarera cobra menos, consume menos, el panadero paga menos impuestos… ¿Por qué la desaparición de UN agente afecta a TODOS?</td></tr><tr><td><b>3 · La fuga</b></td><td>Aparece la tarjeta de “hucha”. Alguien ahorra la ficha en lugar de gastarla.</td><td>Que la cadena se detiene. Primera intuición de las filtraciones del circuito.</td></tr></tbody></table>
 
 ### Y el primer esbozo del diagrama
 
 La puesta en común cierra con un dibujo colectivo en la pizarra. Personas y empresas conectadas por flechas de dinero y de cosas. Ese dibujo intuitivo tiene nombre, el **flujo circular de la renta**, y la unidad entera consistirá en completarlo, entenderlo y usarlo para leer la realidad.
 
 ::: nota El salto respecto de la unidad anterior
-En la SdA 8 aprendisteis **quiénes** son los agentes y a preguntar “¿quién paga y quién gana?”. Aquí vais a aprender **por qué** la respuesta es la que es.
+En la unidad anterior aprendisteis **quiénes** son los agentes y a preguntar “¿quién paga y quién gana?”. Aquí vais a aprender **por qué** la respuesta es la que es.
 :::
 
-## Entrega de las rúbricas de evaluación
+## La rúbrica de la unidad
 
-Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.
+Hoy recibes la rúbrica con la que se evaluará la unidad. La tienes siempre disponible en la [presentación de la unidad](index.html) y aquí, para descargar.
 
-::: aviso Qué se hace con ellas en esta sesión
-1. Se reparten en papel y quedan disponibles de forma permanente en este material.
-2. Se leen en voz alta los descriptores de **Bien** y de **Notable** de cada criterio, y se comenta qué cambia exactamente de uno a otro.
-3. Se identifica en qué instrumentos concretos de esta unidad se va a demostrar cada criterio.
-4. Se archivan en el portafolio. Se consultan antes de cada entrega y se emplean en la autoevaluación de la última sesión.
-:::
-
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
-
-```rubrica
-3.2
+```descargas
+sda09-rubricas.pdf | Rúbrica de la unidad | Para imprimir o consultar
 ```
+
+### Cómo se lee
+
+- La unidad tiene **un solo criterio** y una rúbrica con cinco niveles, de Insuficiente a Sobresaliente.
+- Cada nivel describe **lo que eres capaz de hacer**, no una actividad concreta. Se demuestra en lo que dices, en lo que escribes y en cómo trabajas con tu grupo.
+- Para subir de nivel casi siempre hay que dar el mismo paso: de **describir** a **explicar**, de explicar a **analizar y justificar**, y de ahí a **argumentar con criterio propio**.
+- Léela antes de cada entrega y úsala en la autoevaluación de la última sesión.
+
+## Diagnóstico inicial
+
+Antes de irte, responde el **diagnóstico inicial**: es breve y no se califica.
+
+```descargas
+sda09-s01-diagnostico.pdf | Diagnóstico inicial | Cinco preguntas, con columna para la sesión 9
+```
+
+Y anota en tus apuntes la **pregunta abierta** sobre el trabajo por el que no circula ningún euro. La vamos a recuperar en la sesión 3.
 
 ## Apuntes de la sesión
 
@@ -140,13 +131,17 @@ Has seguido un euro por la ciudad y has comprobado tres cosas:
 
 Esas tres observaciones son, respectivamente, la circularidad del flujo, la interdependencia de los agentes y la idea de filtración. Son el esqueleto de toda la unidad.
 
+::: ejemplo El euro del turista, en grande
+En 2025 la Costa del Sol recibió **14,65 millones de turistas**, que gastaron **21.811,7 millones de euros**, un 2,8 % más que en 2024, según Turismo Costa del Sol. El sector turístico dio empleo a **152.162 personas** en la provincia. Cada uno de esos euros empezó un viaje como el de nuestra simulación.
+:::
+
 ::: nota La idea clave
-La renta **no se destruye al gastarse: circula**. Es la formulación precisa de lo que dictasteis al Cornell en la SdA 8: “lo que para un agente es un gasto, para otro es un ingreso”.
+La renta **no se destruye al gastarse: circula**. Es la formulación precisa de lo que anotasteis en la unidad anterior: “lo que para un agente es un gasto, para otro es un ingreso”.
 :::
 
 ### 2. Lo que ya sabías y lo que es nuevo
 
-<table><thead><tr><th width="50%">Ya lo sabías de la SdA 8</th><th width="50%">Es nuevo en esta unidad</th></tr></thead><tbody><tr><td>Quiénes son los agentes económicos: familias, empresas, Sector Público y sector exterior.</td><td>Que están conectados formando un <b>circuito</b>, y por qué ese circuito es circular.</td></tr><tr><td>Preguntar “¿quién paga y quién gana?” ante una medida concreta.</td><td>Los <b>dos mercados</b> en los que se encuentran y los <b>dos flujos</b> que los recorren.</td></tr><tr><td>Que el índice de Gini baja después de impuestos y transferencias.</td><td>El <b>triple papel</b> del Sector Público, que explica por dónde ocurre esa redistribución.</td></tr><tr><td>Que el PIB por la vía del gasto es C + I + G + (X − M).</td><td>Que esa suma es la <b>demanda agregada</b>, y cómo se usa para diagnosticar una crisis.</td></tr></tbody></table>
+<table><thead><tr><th width="50%">Ya lo sabías de la unidad anterior</th><th width="50%">Es nuevo en esta unidad</th></tr></thead><tbody><tr><td>Quiénes son los agentes económicos: familias, empresas, Sector Público y sector exterior.</td><td>Que están conectados formando un <b>circuito</b>, y por qué ese circuito es circular.</td></tr><tr><td>Preguntar “¿quién paga y quién gana?” ante una medida concreta.</td><td>Los <b>dos mercados</b> en los que se encuentran y los <b>dos flujos</b> que los recorren.</td></tr><tr><td>Que el índice de Gini baja después de impuestos y transferencias.</td><td>El <b>triple papel</b> del Sector Público, que explica por dónde ocurre esa redistribución.</td></tr><tr><td>Que el PIB por la vía del gasto es C + I + G + (X − M).</td><td>Que esa suma es la <b>demanda agregada</b>, y cómo se usa para diagnosticar una crisis.</td></tr></tbody></table>
 
 ### 3. El reto de la unidad
 
@@ -161,16 +156,27 @@ Fíjate en algo de nuestra propia simulación: en la cadena del euro nadie ha cu
 
 Según la **Encuesta de Empleo del Tiempo del INE**, las mujeres dedican en torno al doble de horas diarias que los hombres al trabajo doméstico y de cuidados no remunerado.
 
-La pregunta queda anotada en el margen de tu Cornell: **si por ese trabajo no circula ningún euro, ¿aparecerá en el modelo que vamos a construir? ¿Debería?** La retomaremos en la sesión 3.
+Anota la pregunta en tus apuntes: **si por ese trabajo no circula ningún euro, ¿aparecerá en el modelo que vamos a construir? ¿Debería?** La retomaremos en la sesión 3.
 :::
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Flujo circular de la renta</b></td><td>Modelo que representa cómo circulan bienes, factores y pagos entre los agentes económicos.</td></tr><tr><td><b>Agente económico</b></td><td>Quien toma decisiones económicas: familias, empresas, Sector Público y sector exterior.</td></tr><tr><td><b>Filtración</b></td><td>Salida de renta del circuito, como el ahorro.</td></tr><tr><td><b>Interdependencia</b></td><td>Situación en la que la decisión de un agente afecta a la situación de los demás.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Flujo circular de la renta</b></td><td>Modelo que representa cómo circulan bienes, factores y pagos entre los agentes económicos.</td></tr>
+<tr><td><b>Agente económico</b></td><td>Quien toma decisiones económicas: familias, empresas, Sector Público y sector exterior.</td></tr>
+<tr><td><b>Renta</b></td><td>Ingresos que recibe un agente: salarios, beneficios, alquileres, intereses.</td></tr>
+<tr><td><b>Interdependencia</b></td><td>Situación en la que la decisión de un agente afecta a la situación de los demás.</td></tr>
+<tr><td><b>Filtración</b></td><td>Salida de renta del circuito, como el ahorro, los impuestos o las importaciones.</td></tr>
+<tr><td><b>Inyección</b></td><td>Entrada de gasto en el circuito que no procede del consumo de las familias: inversión, gasto público, exportaciones.</td></tr>
+<tr><td><b>Trabajo no remunerado</b></td><td>Trabajo doméstico y de cuidados por el que no se cobra.</td></tr>
+<tr><td><b>Modelo económico</b></td><td>Representación simplificada de la realidad que sirve para entenderla y hacer predicciones.</td></tr>
+</tbody></table>
 
-## Diagnóstico inicial
+### Para saber más
 
-Antes de irte, responde el **diagnóstico inicial**: es breve y no se califica. Y anota en el margen de tu Cornell la **pregunta abierta** sobre el trabajo por el que no circula ningún euro. La vamos a recuperar en la sesión 3.
+```video
+https://www.youtube.com/watch?v=_BtwFbC6jK8 | El flujo circular de la renta | Econosublime · 7:50
+```
 
 ## Comprueba lo que sabes
 
@@ -194,7 +200,7 @@ preguntas:
 - enunciado: El trabajo doméstico y de cuidados no remunerado aparece en el flujo circular de la renta.
   respuesta: falso
   explicacion: '**Falso.** Como no hay pago de por medio, no aparece en el flujo circular ni en el PIB, aunque tenga valor.'
-- enunciado: En la SdA 8 ya estudiasteis el flujo circular de la renta.
+- enunciado: Saber quiénes son los agentes es lo mismo que entender el flujo circular de la renta.
   respuesta: falso
-  explicacion: '**Falso.** En la SdA 8 aprendisteis quiénes son los agentes; la idea de **circuito** es lo nuevo de esta unidad.'
+  explicacion: '**Falso.** Saber quiénes son los agentes no basta; la idea de **circuito** es lo nuevo de esta unidad.'
 ```

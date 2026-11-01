@@ -2,7 +2,19 @@
 titulo: 'Sesión 4 · Los motores del gasto y el multiplicador: consumo, ahorro, inversión y el dominó malagueño'
 ---
 
+En la sesión 1, cuando alguien guardó la ficha-euro en la hucha, la cadena se detuvo. Aquel momento tiene nombre técnico y hoy lo vamos a poner.
+
+La renta disponible de una familia se reparte entre **consumo** y **ahorro**. El consumo mantiene el euro circulando; el ahorro lo saca del circuito. Y hay una tercera decisión, la **inversión**, que es la que lo devuelve.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda09-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda09-s04-dosieres.pdf | Los tres dosieres de experto | Consumo, ahorro e inversión
+sda09-s04-solucionario.pdf | Solucionario de la tabla y de las rondas | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo (teórico y práctico)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>3.2</td><td><b>Saberes básicos</b></td><td>C1</td></tr><tr><td><b>Agrupamiento</b></td><td>Grupos base de 4 → Grupos de expertos → Grupos base (cada grupo, un sector) → Gran grupo</td><td><b>Carácter</b></td><td>Formativa, evidencia de portafolio y de observación</td></tr><tr><td><b>Instrumentos</b></td><td>P: Cornell, tabla de determinantes y tabla de rondas · OD: lista de cotejo del trabajo en grupos de expertos y de la simulación · Co.Ev.: contraste de estimaciones entre grupos (escala de dedos)</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -35,19 +47,6 @@ titulo: 'Sesión 4 · Los motores del gasto y el multiplicador: consumo, ahorro,
 - Si la filtración fuera mayor, ¿el efecto total sería más grande o más pequeño?
 - En este dominó, ¿qué agente ha ganado y cuál ha soportado el coste? ¿Es igual en las dos direcciones?
 
-::: aviso Material que debes preparar tú
-- **Tres dosieres de experto** (consumo, ahorro, inversión), tantas copias como personas vayan a especializarse en cada uno.
-- **Tabla-resumen de determinantes** de tres columnas, una por grupo base, para el portafolio.
-- **Tarjetas de casos exprés** y tarjetas de respuesta (↑C, ↓C, ↑A, ↓A, ↑I, ↓I).
-- **Datos de la tasa de ahorro de los hogares españoles** para el dosier B, incluido el máximo histórico del confinamiento de 2020. Actualízalos con la serie del INE o del Banco de España.
-- Plantilla Cornell y la tercera pieza de la maqueta (etiquetas de filtración e inyección).
-- **100 fichas-euro** de cartulina y **tarjetas de sector** (hotel, empresa de reformas, panadería, academia de idiomas, comercio de barrio), una por grupo base.
-- **Tabla de registro de rondas** común, proyectable, para ir anotando las fichas de cada ronda.
-- **Huchas** (vasos o sobres) para la filtración al ahorro de cada grupo.
-- Calculadora por grupo para la estimación del total.
-- **Avisa al departamento de Matemáticas**: la tabla de rondas es un patrón numérico real que puede retomarse en MACS I como progresión geométrica.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La estructura de grupos de expertos obliga a reformular el contenido con palabras propias para enseñarlo, que es una de las estrategias más eficaces de consolidación; cada dosier incluye un ejemplo resuelto además de la lista de determinantes.</td></tr><tr><td><b>Compromiso</b> · Esfuerzo y constancia</td><td>La interdependencia positiva, cada persona es la única fuente de su dosier, sostiene la implicación de quien tiende a delegar en el grupo, y la coevaluación interna la hace visible.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La simulación es manipulativa, con movimiento y roles sectoriales del entorno reconocible, lo que permite acceder al concepto sin depender de la abstracción numérica inicial.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El multiplicador se descubre en tres formatos sucesivos (experiencia física con las fichas, tabla numérica de rondas y generalización del patrón), de modo que quien no accede por la vía simbólica llegue por la manipulativa.</td></tr></tbody></table>
@@ -60,24 +59,18 @@ La simulación implica anuncios en voz alta de varios grupos y bastante movimien
 Sesión **fusionada** de las antiguas S5 y S6. La compresión aplicada es la siguiente. La activación y los grupos de expertos se acortan; el reto de los cuatro casos en cadena pasa a tarea de portafolio; la simulación conserva todas las rondas, pero el planteamiento y la generalización del patrón se hacen sin cortar la dinámica. La coordinación con MACS I (progresión geométrica) es una **propuesta pendiente de confirmación**.
 :::
 
-## Para empezar
-
-En la sesión 1, cuando alguien guardó la ficha-euro en la hucha, la cadena se detuvo. Aquel momento tiene nombre técnico y hoy lo vamos a poner.
-
-La renta disponible de una familia se reparte entre **consumo** y **ahorro**. El consumo mantiene el euro circulando; el ahorro lo saca del circuito. Y hay una tercera decisión, la **inversión**, que es la que lo devuelve.
-
-## Diapositivas · primera parte
+## Diapositivas de la sesión
 
 ```diapositivas
-sda9-s05-01.webp | Portada
-sda9-s05-02.webp | La hucha que paró la cadena
-sda9-s05-03.webp | Grupos de expertos
-sda9-s05-04.webp | Dosier A · El consumo
-sda9-s05-05.webp | Dosier B · El ahorro
-sda9-s05-06.webp | Dosier C · La inversión
-sda9-s05-07.webp | La tabla-resumen
-sda9-s05-08.webp | El reto exprés
-sda9-s05-09.webp | La pregunta que viene ahora
+sda9-s04-01.webp | Los motores del gasto
+sda9-s04-02.webp | Dos opciones
+sda9-s04-03.webp | Grupos de expertos
+sda9-s04-04.webp | Comprar acciones en Bolsa no es inversión.
+sda9-s04-05.webp | Filtraciones e inyecciones
+sda9-s04-06.webp | Cien fichas
+sda9-s04-07.webp | Cada vez menos, pero suma
+sda9-s04-08.webp | Pensar que las cosas irán mal contribuye a que vayan mal.
+sda9-s04-09.webp | El mismo mecanismo no afecta igual a los mismos agentes
 ```
 
 ## Grupos de expertos · Los tres dosieres
@@ -89,20 +82,57 @@ Cada miembro de tu grupo base recibe **un** dosier y se reúne con los especiali
 <table><thead><tr><th width="20%">Dosier</th><th width="36%">Qué es</th><th width="44%">Determinantes que tienes que dominar</th></tr></thead><tbody><tr><td><b>A · El consumo privado</b></td><td>Gasto de las familias en bienes y servicios. Con una excepción importante. La vivienda nueva no cuenta como consumo, sino como inversión.</td><td>Renta disponible y renta permanente · tipos de interés y facilidades de crédito · riqueza · expectativas sobre el futuro</td></tr><tr><td><b>B · El ahorro</b></td><td>La parte de la renta disponible que no se consume. Importa para el país porque financia la inversión futura.</td><td>Renta disponible · seguridad de los ingresos futuros, incluido el papel protector de la Seguridad Social · tipo de interés</td></tr><tr><td><b>C · La inversión</b></td><td>Compra de bienes de capital <b>nuevos</b>: planta, equipo y vivienda nueva residencial.</td><td>Tipos de interés · capacidad productiva realmente utilizada · expectativas y confianza · impuestos</td></tr></tbody></table>
 
 ::: aviso El error más frecuente de toda la unidad
-En macroeconomía, **invertir es comprar bienes de capital nuevos**. Comprar acciones en Bolsa **no** es inversión en este sentido. Al comprar una acción de segunda mano no se produce nada nuevo, solo cambia de manos un título. Esa distinción se pregunta en la prueba escrita.
+En macroeconomía, **invertir es comprar bienes de capital nuevos**. Comprar acciones en Bolsa **no** es inversión en este sentido. Al comprar una acción de segunda mano no se produce nada nuevo, solo cambia de manos un título.
 :::
 
 ### Vuestra tabla-resumen
 
-De vuelta al grupo base, cada experto/a tiene **3 minutos** para enseñar sus determinantes. El equipo completa una tabla común de tres columnas que va al portafolio y que será material directo de la maqueta y de la prueba escrita.
+De vuelta al grupo base, cada experto/a tiene **3 minutos** para enseñar sus determinantes. El equipo completa una tabla común de tres columnas que os servirá para la maqueta y para estudiar.
 
-<table><thead><tr><th width="31%">Determinante</th><th width="23%">Efecto sobre el CONSUMO</th><th width="23%">Efecto sobre el AHORRO</th><th width="23%">Efecto sobre la INVERSIÓN</th></tr></thead><tbody><tr><td>Sube la renta disponible</td><td></td><td></td><td></td></tr><tr><td>Bajan los tipos de interés</td><td></td><td></td><td></td></tr><tr><td>Empeoran las expectativas</td><td></td><td></td><td></td></tr><tr><td>Sube la riqueza (p. ej., el valor de la vivienda)</td><td></td><td></td><td></td></tr><tr><td>Bajan los impuestos a las empresas</td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda09-s04-tabla-determinantes.pdf | Tabla de determinantes | Efecto de cada cambio sobre el consumo, el ahorro y la inversión
+```
 
 ## Para casa · Cuatro casos en cadena
 
 Como tarea de portafolio. Decide el efecto de cada caso y justifícalo en **una frase**.
 
-<table><thead><tr><th width="36%">Caso</th><th width="22%">Vuestra respuesta</th><th width="42%">Justificación</th></tr></thead><tbody><tr><td>Bajan los tipos de interés</td><td></td><td></td></tr><tr><td>Se teme una oleada de despidos</td><td></td><td></td></tr><tr><td>Sube el valor de las viviendas</td><td></td><td></td></tr><tr><td>El Estado baja el impuesto de sociedades</td><td></td><td></td></tr></tbody></table>
+```actividad
+id: sda09-s04-casos
+tipo: test
+titulo: Cuatro casos en cadena
+puntua: false
+instrucciones: Elige el efecto más probable y lee la explicación.
+preguntas:
+- enunciado: Bajan los tipos de interés.
+  opciones:
+    - Sube la inversión y el consumo a crédito; el ahorro se vuelve menos atractivo
+    - Baja la inversión porque los bancos ganan menos
+    - No cambia nada
+  correcta: 1
+  explicacion: Financiarse es más barato, así que se adelantan compras e inversiones. Ahorrar rinde menos.
+- enunciado: Se teme una oleada de despidos.
+  opciones:
+    - Sube el consumo para aprovechar antes de la crisis
+    - Baja el consumo y sube el ahorro por precaución
+    - Sube la inversión
+  correcta: 2
+  explicacion: Con miedo al futuro las familias guardan. Es el ahorro por precaución, y frena la demanda.
+- enunciado: Sube el valor de las viviendas.
+  opciones:
+    - Las familias propietarias se sienten más ricas y consumen más
+    - Baja el consumo porque la vivienda es más cara
+    - No afecta al consumo
+  correcta: 1
+  explicacion: Es el efecto riqueza. Su renta no ha cambiado, pero su patrimonio sí.
+- enunciado: El Estado baja el impuesto de sociedades.
+  opciones:
+    - Baja la inversión
+    - Sube la inversión, porque a las empresas les queda más beneficio
+    - Sube el ahorro de las familias
+  correcta: 2
+  explicacion: Con más beneficio después de impuestos, invertir resulta más rentable y hay más fondos propios para hacerlo.
+```
 
 ::: nota Y la pregunta que viene ahora
 ¿Qué le pasa al **conjunto** de la economía cuando la inversión se mueve? Lo vais a descubrir con una simulación. Se llama el efecto multiplicador.
@@ -123,7 +153,7 @@ Y esto tiene una consecuencia directa sobre el circuito que construiste en la se
 - Salvo que alguien tome prestado ese ahorro para **invertir**: entonces vuelve a entrar. La inversión es una **inyección**.
 
 ::: nota Filtraciones e inyecciones
-Son los dos conceptos que explican por qué el circuito puede acelerarse o frenarse. **Filtraciones.** ahorro, impuestos e importaciones sacan renta del circuito. **Inyecciones.** inversión, gasto público y exportaciones la devuelven. Una filtración y una inyección son la tercera pieza obligatoria de vuestra maqueta.
+Son los dos conceptos que explican por qué el circuito puede acelerarse o frenarse. **Filtraciones.** ahorro, impuestos e importaciones sacan renta del circuito. **Inyecciones.** inversión, gasto público y exportaciones la devuelven. Una filtración y una inyección son la cuarta pieza obligatoria de vuestra maqueta.
 :::
 
 ### 2. El consumo privado y sus determinantes
@@ -166,20 +196,6 @@ Un hotel de la Costa del Sol decide invertir 100 €, a escala, en reformar sus 
 
 Apunta tu estimación antes de empezar. Al final de la sesión la vas a comparar con el resultado real, y probablemente te vas a llevar una sorpresa.
 
-## Diapositivas · segunda parte
-
-```diapositivas
-sda9-s06-01.webp | Portada
-sda9-s06-02.webp | El planteamiento
-sda9-s06-03.webp | La simulación
-sda9-s06-04.webp | Las rondas
-sda9-s06-05.webp | El patrón
-sda9-s06-06.webp | Interdisciplinariedad
-sda9-s06-07.webp | La doble importancia de la inversión
-sda9-s06-08.webp | El dominó al revés
-sda9-s06-09.webp | Cierre en clave de agentes
-```
-
 ## Simulación · El dominó malagueño
 
 ### Las reglas
@@ -188,7 +204,27 @@ sda9-s06-09.webp | Cierre en clave de agentes
 
 ### Vuestra tabla de rondas
 
-<table><thead><tr><th width="14%">Ronda</th><th width="26%">Fichas que circulan</th><th width="30%">Va a la hucha (filtración)</th><th width="30%">Sector que recibe</th></tr></thead><tbody><tr><td>1</td><td>100</td><td>20</td><td>Empresa de reformas</td></tr><tr><td>2</td><td>80</td><td>16</td><td></td></tr><tr><td>3</td><td>64</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>…</td><td></td><td></td><td></td></tr><tr><td><b>TOTAL</b></td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda09-s04-tabla-rondas.pdf | Tabla de rondas del dominó | Fichas que circulan, hucha y sector que recibe
+```
+
+```actividad
+id: sda09-s04-rondas
+tipo: rellenar
+instrucciones: Completa las rondas. En cada una, 1 de cada 5 fichas va a la hucha. Usa coma decimal.
+texto: |
+  Ronda 3: circulan 64 fichas y van a la hucha [12,8|12.8]. Ronda 4: circulan [51,2|51.2]. Ronda 5: circulan [40,96|40.96|41].
+  Si seguimos hasta el final, el gasto total generado por las 100 fichas iniciales es de [500] fichas. El multiplicador vale [5].
+explicacion: 'Cada ronda es el 80 % de la anterior: 64 × 0,2 = 12,8 a la hucha; 64 × 0,8 = 51,2; 51,2 × 0,8 = 40,96. La suma de todas las rondas es 100 / (1 − 0,8) = 100 / 0,2 = 500. El multiplicador es 1 / 0,2 = 5.'
+```
+
+```simulador
+tipo: multiplicador
+titulo: El dominó, ronda a ronda
+instrucciones: Piensa en las 100 fichas como 100 millones de euros de inversión. Prueba qué pasa si las familias gastan el 90 % de lo que reciben, o solo el 50 %.
+gasto: 100
+pmc: 0.8
+```
 
 ::: nota Lo que hay que descubrir
 El gasto **no desaparece de golpe**: se va apagando poco a poco por la filtración del ahorro. Y cada ronda genera renta, y empleo, en un sector distinto. Sumad las rondas. Los 100 € iniciales han producido bastante **más** de 100 € de gasto total. Eso es el **efecto multiplicador** de la inversión.
@@ -219,7 +255,7 @@ Un gasto inicial genera un aumento de la demanda total **mayor que él mismo**. 
 La inversión importa por dos razones distintas, en dos plazos distintos:
 
 - **A corto plazo tira de la demanda.** Es el multiplicador que acabas de simular. La inversión genera oleadas de gasto y de empleo en sectores distintos.
-- **A largo plazo amplía la capacidad productiva del país.** Una fábrica nueva, una red ferroviaria o una formación permiten producir más en el futuro. Esta segunda idea reaparecerá en la sesión 8, cuando estudies la oferta agregada.
+- **A largo plazo amplía la capacidad productiva del país.** Una fábrica nueva, una red ferroviaria o una formación permiten producir más en el futuro. Esta segunda idea reaparecerá en la sesión 6, cuando estudies la oferta agregada.
 
 ### 3. El multiplicador en negativo y las expectativas autorrealizables
 
@@ -228,19 +264,37 @@ El mecanismo funciona igual en las dos direcciones. Si el hotel **cancela** la r
 ::: aviso Expectativas autorrealizables
 Pensar que las cosas irán mal **contribuye a que vayan mal**. La expectativa se cumple porque todo el mundo actúa como si fuera a cumplirse. Está documentado su papel en el arranque de las crisis recientes en España, donde el frenazo de la inversión activó el multiplicador en negativo con un enorme coste en empleo.
 
-De ahí la conclusión que va a tu Cornell: **la confianza es, en sí misma, una variable económica**.
+De ahí la conclusión que va a tus apuntes: **la confianza es, en sí misma, una variable económica**.
 :::
 
 ### 4. El reparto no es simétrico
 
-Cierra en clave de agentes, como aprendiste en la SdA 8. En el dominó hacia arriba, ¿quién gana? En el dominó hacia abajo, ¿quién soporta el coste?
+Cierra en clave de agentes, como aprendiste en la unidad anterior. En el dominó hacia arriba, ¿quién gana? En el dominó hacia abajo, ¿quién soporta el coste?
 
-La respuesta importa. Los beneficios de una expansión se reparten de forma difusa, mientras que los costes de una contracción se concentran en quien pierde el empleo. **El mismo mecanismo, en las dos direcciones, no afecta igual a los mismos agentes.** Esa asimetría es material directo del criterio 3.2 y del bloque 3 de la prueba escrita.
+La respuesta importa. Los beneficios de una expansión se reparten de forma difusa, mientras que los costes de una contracción se concentran en quien pierde el empleo. **El mismo mecanismo, en las dos direcciones, no afecta igual a los mismos agentes.**
 
 ### Esto también es Matemáticas
 
-Tu tabla de rondas es un patrón numérico donde cada término es una fracción constante del anterior: una **progresión geométrica**. En Matemáticas Aplicadas a las Ciencias Sociales I puede formalizarse y discutirse su suma (saberes MACS.1.C.1 y MACS.1.C.2).
+Tu tabla de rondas es un patrón numérico donde cada término es una fracción constante del anterior: una **progresión geométrica**. En Matemáticas Aplicadas a las Ciencias Sociales I podéis formalizarla y calcular su suma: 100 / (1 − 0,8) = 500.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Efecto multiplicador</b></td><td>Aumento de la demanda total superior al gasto inicial que lo desencadena.</td></tr><tr><td><b>Ronda de gasto</b></td><td>Cada oleada sucesiva de gasto generada por la renta de la ronda anterior.</td></tr><tr><td><b>Expectativas autorrealizables</b></td><td>Previsiones que contribuyen a producir el resultado que anticipan.</td></tr><tr><td><b>Capacidad productiva</b></td><td>Cantidad máxima que una economía puede producir con los factores de que dispone.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Efecto multiplicador</b></td><td>Aumento de la demanda total superior al gasto inicial que lo desencadena.</td></tr>
+<tr><td><b>Multiplicador</b></td><td>Número de veces que el gasto total supera al gasto inicial: 1 / (1 − la parte de cada euro que se gasta).</td></tr>
+<tr><td><b>Propensión marginal a consumir</b></td><td>Parte de cada euro adicional de renta que se gasta. Si es 0,8, se gastan 80 céntimos de cada euro nuevo.</td></tr>
+<tr><td><b>Ronda de gasto</b></td><td>Cada oleada sucesiva de gasto generada por la renta de la ronda anterior.</td></tr>
+<tr><td><b>Progresión geométrica</b></td><td>Serie en la que cada término es el anterior multiplicado por una cantidad fija.</td></tr>
+<tr><td><b>Expectativas autorrealizables</b></td><td>Previsiones que contribuyen a producir el resultado que anticipan.</td></tr>
+<tr><td><b>Capacidad productiva</b></td><td>Cantidad máxima que una economía puede producir con los factores de que dispone.</td></tr>
+<tr><td><b>Confianza</b></td><td>Percepción de familias y empresas sobre el futuro. Mueve el consumo y la inversión.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=pGvfsOn0A1E | Qué es el consumo privado y de qué depende | Econosublime · 5:40
+https://www.youtube.com/watch?v=uM0CHV8DdSo | Qué es el ahorro y de qué depende | Econosublime · 7:29
+https://www.youtube.com/watch?v=B0mkyxNOtjs | Qué es la inversión y de qué depende | Econosublime · 7:09
+https://www.youtube.com/watch?v=UzmMId0nQxY | El multiplicador de la inversión | Econosublime · 8:23
+```
