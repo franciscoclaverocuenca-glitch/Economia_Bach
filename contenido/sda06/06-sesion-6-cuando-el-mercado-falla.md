@@ -2,7 +2,19 @@
 titulo: Sesión 6 · Cuando el mercado falla
 ---
 
+Hasta ahora hemos visto mercados que funcionan mal porque hay pocos vendedores o porque hay barreras. Hoy vemos algo distinto y más incómodo.
+
+Hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes se derraman sobre terceros. Nadie hace nada ilegal. Nadie engaña a nadie. Y aun así el resultado colectivo es malo.
+
+A eso lo llamamos un **fallo de mercado**. Y el caso que lo va a ilustrar lo tenéis a diez minutos de aquí. La vivienda turística del centro de Málaga.
+
 ## Guía docente · Sesión 6 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda06-s06-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico · sesión interdisciplinar con HMC</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.3 (con 2.1)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Gran grupo</td><td><b>Carácter</b></td><td>Formativa con registro (portafolio y debate)</td></tr><tr><td><b>Instrumentos</b></td><td>D: mini-debate “¿quién paga la fiesta?” · OD: argumentación y trabajo por parejas · P: Cornell, argumentario escrito y plantilla de coste-beneficio resuelta</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -31,14 +43,6 @@ Con ejemplos graduados (la fábrica que contamina el río, la vacuna que protege
 - ¿Es lo mismo ocultar que mi coche está mal antes de venderlo que conducir peor una vez asegurado?
 - ¿Quién paga la fiesta de la vivienda turística en el centro de Málaga?
 
-::: aviso Material que debes preparar tú
-- **Plantilla Cornell**, una por alumno/a.
-- **Gráficos de datos** de evolución del precio del alquiler y del número de viviendas de uso turístico en el centro de Málaga. Fuentes: portales estadísticos oficiales y registros autonómicos. **Actualízalos**: son el dato más sensible de la unidad.
-- **Tres tarjetas de postura** para el mini-debate: propietario/a que alquila a turistas, vecino/a de toda la vida, y persona joven que busca alquiler.
-- **Plantilla de análisis coste-beneficio** guiada, una por pareja, y calculadora.
-- **Datos sencillos** para la mini-práctica sobre la intervención a analizar (limitar nuevas licencias de vivienda turística), y opcionalmente para la segunda alternativa (tasa por pernoctación) como extensión.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El mini-debate reparte tres posturas con tarjeta y establece que nadie puede intervenir dos veces hasta que todas hayan hablado, lo que garantiza turno a quien tiende a no pedirlo.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Los tres fallos de mercado se presentan de forma correlativa con ejemplos graduados que van de lo más evidente (la fábrica que contamina) a lo más sutil (la selección adversa), y los datos del caso se interpretan individualmente antes de debatirlos.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>La plantilla de coste-beneficio guiada estructura un razonamiento complejo en pasos verificables, y admite una extensión opcional para quien avance con soltura.</td></tr></tbody></table>
@@ -51,32 +55,24 @@ La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien 
 Sesión **fusionada** de las antiguas S7 y S8. La compresión aplicada es la siguiente. Las dos exposiciones magistrales se funden en un bloque único de 12 minutos; el mini-debate se acorta de 20 a 16 minutos reduciendo de 4 a 3 las posturas; y la mini-práctica de coste-beneficio se simplifica a una única intervención a analizar, manteniendo el mismo método y la misma plantilla.
 :::
 
-## Para empezar
-
-Hasta ahora hemos visto mercados que funcionan mal porque hay pocos vendedores o porque hay barreras. Hoy vemos algo distinto y más incómodo.
-
-Hay transacciones **perfectamente voluntarias y beneficiosas** para quienes las firman cuyos costes se derraman sobre terceros. Nadie hace nada ilegal. Nadie engaña a nadie. Y aun así el resultado colectivo es malo.
-
-A eso lo llamamos un **fallo de mercado**. Y el caso que lo va a ilustrar lo tenéis a diez minutos de aquí. La vivienda turística del centro de Málaga.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda6-s06-01.webp | Portada
-sda6-s06-02.webp | La idea central
-sda6-s06-03.webp | Las externalidades
-sda6-s06-04.webp | Bienes públicos y polizones
-sda6-s06-05.webp | Los cacharros de Akerlof
-sda6-s06-06.webp | Selección adversa y riesgo moral
-sda6-s06-07.webp | El mini-debate
-sda6-s06-08.webp | La caja de herramientas
-sda6-s06-09.webp | La pregunta pericial correcta
-sda6-s06-10.webp | El análisis coste-beneficio
+sda6-s06-01.webp | Cuando el mercado falla
+sda6-s06-02.webp | Un trato voluntario y bueno para quienes lo firman puede…
+sda6-s06-03.webp | Cuatro fallos
+sda6-s06-04.webp | Selección adversa y riesgo moral
+sda6-s06-05.webp | Vivienda turística en Málaga
+sda6-s06-06.webp | Tres posturas
+sda6-s06-07.webp | Lo que puede hacer el Estado
+sda6-s06-08.webp | No es «¿mercado o Estado?», sino «¿qué combinación da el mejor…
+sda6-s06-09.webp | Cuatro pasos
+sda6-s06-10.webp | Esta plantilla es el apartado 4
 ```
 
 ## Mini-debate · ¿Quién paga la fiesta?
 
-### Los tres fallos de hoy
+### Los fallos de hoy
 
 <table><thead><tr><th width="24%">Fallo</th><th width="42%">En qué consiste</th><th width="34%">Ejemplo</th></tr></thead><tbody><tr><td><b>Externalidad negativa</b></td><td>El coste de una transacción recae parcialmente sobre quien no participa en ella. El mercado produce <b>demasiado</b> de esto.</td><td>La fábrica que contamina el río; la vivienda turística que encarece el alquiler del barrio</td></tr><tr><td><b>Externalidad positiva</b></td><td>El beneficio se derrama sobre terceros que no lo pagan. El mercado produce <b>demasiado poco</b> de esto.</td><td>La vacuna que protege también al vecino no vacunado</td></tr><tr><td><b>Bien público</b></td><td>No rival (que yo lo use no impide que tú lo uses) y no excluible (no se puede impedir que alguien lo disfrute).</td><td>El alumbrado, la seguridad, el pronóstico meteorológico</td></tr><tr><td><b>Información asimétrica</b></td><td>Una parte sabe algo relevante que la otra no sabe.</td><td>“Los cacharros” de Akerlof. El vendedor sabe si su coche es bueno; el comprador, no</td></tr></tbody></table>
 
@@ -88,11 +84,15 @@ sda6-s06-10.webp | El análisis coste-beneficio
 
 ### El mini-debate
 
-Primero, **individualmente**: interpretad los datos proyectados sobre la evolución del precio del alquiler y del número de viviendas de uso turístico en el centro de Málaga.
+Primero, **individualmente**, interpretad los datos. En la provincia de Málaga las viviendas turísticas son el **4,5 % del parque de viviendas**, aunque en mayo de 2026 había 3.236 menos que un año antes (−6,6 %, INE). El Ayuntamiento de la capital suspendió durante **tres años** las nuevas licencias. Y el alquiler puede llevarse la mitad del sueldo en muchos hogares, como visteis en la SdA 1.
 
 Después, tres posturas con tarjeta:
 
-<table><thead><tr><th width="38%">Postura</th><th width="62%">Vuestro punto de vista</th></tr></thead><tbody><tr><td><b>Propietario/a que alquila a turistas</b></td><td></td></tr><tr><td><b>Vecino/a de toda la vida</b></td><td></td></tr><tr><td><b>Persona joven que busca alquiler</b></td><td></td></tr></tbody></table>
+Tres posturas con tarjeta: **propietario o propietaria que alquila a turistas**, **vecino o vecina de toda la vida** y **persona joven que busca alquiler**.
+
+```descargas
+sda06-s06-tarjetas-debate.pdf | Tarjetas de postura del mini-debate | Con datos de apoyo para cada una
+```
 
 ::: nota Dos reglas
 **1 ·** Cada intervención debe usar al menos un término técnico de la sesión: externalidad, coste social, bien público. **2 ·** Nadie puede intervenir dos veces hasta que todas las posturas hayan hablado.
@@ -114,7 +114,11 @@ La intervención **también tiene costes y también puede fallar**. Por eso la p
 
 Por parejas, sobre la intervención propuesta: **limitar las nuevas licencias de vivienda turística**.
 
-<table><thead><tr><th width="32%"></th><th width="68%">Vuestro análisis</th></tr></thead><tbody><tr><td><b>Beneficios</b> (cuantificables)</td><td></td></tr><tr><td><b>Costes</b> (cuantificables)</td><td></td></tr><tr><td><b>Efectos NO monetizables</b></td><td></td></tr><tr><td><b>¿A quién beneficia?</b></td><td></td></tr><tr><td><b>¿A quién perjudica?</b></td><td></td></tr><tr><td><b>Resultado neto y valoración</b></td><td></td></tr></tbody></table>
+Beneficios y costes cuantificables, efectos no monetizables, a quién beneficia, a quién perjudica y el resultado neto.
+
+```descargas
+sda06-s06-coste-beneficio.pdf | Plantilla del análisis coste-beneficio | Con espacio para comparar dos alternativas
+```
 
 ::: nota Esta plantilla es el método de vuestro informe
 Es exactamente lo que el **apartado 4** del informe pericial os va a exigir aplicar a vuestro propio caso. Archivadla en el portafolio.
@@ -124,7 +128,7 @@ Si vais con soltura, comparad además una **segunda alternativa**: implantar una
 
 ## Apuntes de la sesión
 
-### 1. La idea que abre el criterio 2.3
+### 1. Fallos sin culpables
 
 Hasta ahora los problemas venían de la **estructura** del mercado: pocos vendedores, barreras de entrada. Los fallos de hoy son distintos y más incómodos, porque pueden darse en mercados con muchísimos participantes y sin ninguna práctica ilegal.
 
@@ -165,18 +169,42 @@ La intervención **también tiene costes y también puede fallar**. Por eso un p
 
 ### 6. El análisis coste-beneficio
 
-Es el método que exige el saber B3 y el que tendréis que aplicar en el apartado 4 de vuestro informe. Consiste en:
+Es el método que tendréis que aplicar en el apartado 4 de vuestro informe. Consiste en:
 
 1. Identificar y, cuando se pueda, **cuantificar** los beneficios de la intervención.
 2. Identificar y cuantificar sus **costes**.
 3. Señalar los efectos **no monetizables**: los que existen pero no se pueden poner en euros. Ignorarlos es un error frecuente y grave.
 4. Y responder a la pregunta de **equidad**: ¿a quién beneficia y a quién perjudica esta opción?
 
-Los pasos 3 y 4 son los que distinguen un análisis serio de una simple suma. Y el 4 es literalmente el corazón del criterio 2.3.
+Los pasos 3 y 4 son los que distinguen un análisis serio de una simple suma. Y el 4 es la pregunta de equidad que recorre toda la unidad.
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Externalidad</b></td><td>Coste o beneficio de una transacción que recae sobre terceros ajenos a ella.</td></tr><tr><td><b>Bien público</b></td><td>Bien no rival y no excluible, que el mercado no provee en cantidad suficiente.</td></tr><tr><td><b>Problema del polizón</b></td><td>Incentivo a disfrutar de un bien público sin contribuir a pagarlo.</td></tr><tr><td><b>Información asimétrica</b></td><td>Situación en la que una parte de la transacción dispone de información relevante que la otra no tiene.</td></tr><tr><td><b>Selección adversa</b></td><td>Retirada de los productos de mayor calidad del mercado por efecto de la desconfianza.</td></tr><tr><td><b>Riesgo moral</b></td><td>Cambio de comportamiento de una parte cuando otra asume las consecuencias.</td></tr><tr><td><b>Análisis coste-beneficio</b></td><td>Método de comparación sistemática de los costes y beneficios de una intervención.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Externalidad negativa</b></td><td>Coste que una actividad impone a terceros que no participan en ella y que no se refleja en el precio. El mercado produce demasiado.</td></tr>
+<tr><td><b>Externalidad positiva</b></td><td>Beneficio que se derrama sobre terceros que no lo pagan. El mercado produce demasiado poco.</td></tr>
+<tr><td><b>Coste social</b></td><td>Coste privado más el coste que la actividad impone a terceros.</td></tr>
+<tr><td><b>Bien público</b></td><td>No rival y no excluible: el alumbrado, la seguridad, la predicción meteorológica.</td></tr>
+<tr><td><b>Información asimétrica</b></td><td>Una parte sabe algo relevante que la otra no sabe.</td></tr>
+<tr><td><b>Selección adversa</b></td><td>Problema de información que aparece antes de firmar: la desconfianza hunde el precio y los productos buenos se retiran. Es el mercado de «cacharros» de Akerlof.</td></tr>
+<tr><td><b>Riesgo moral</b></td><td>Problema que aparece después de firmar: una parte cambia su conducta porque otra asume las consecuencias.</td></tr>
+<tr><td><b>Impuesto corrector</b></td><td>Impuesto que grava una externalidad negativa para que quien la causa la pague. También se llama pigouviano.</td></tr>
+<tr><td><b>Análisis coste-beneficio</b></td><td>Método para comparar soluciones sumando beneficios y restando costes, sin olvidar lo que no se puede poner en euros ni a quién beneficia y perjudica cada opción.</td></tr>
+<tr><td><b>Fallo del Estado</b></td><td>Situación en la que la intervención pública empeora el resultado o cuesta más de lo que arregla.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=wcKio_x_3lU | Qué son las externalidades y cómo interviene el Estado | Econosublime · 9:44
+https://www.youtube.com/watch?v=BJ2bznSczlU | Qué son los bienes públicos y cómo interviene el Estado | Econosublime · 9:59
+https://www.youtube.com/watch?v=UMMnl8146hU | Información asimétrica: selección adversa | Economía y Desarrollo · 2:27
+https://www.youtube.com/watch?v=B7jlK36MLdE | Análisis costo-beneficio | Libertelia · 9:03
+```
+
+## Cierre
+
+Redacta un **argumentario breve**: tu postura razonada sobre el caso de la vivienda turística, con **dos términos técnicos** de la sesión y **un dato**. Se archiva en el portafolio y puede servir como evidencia también para tu profesorado de Historia del Mundo Contemporáneo, porque el caso condensa la crítica contemporánea a la idea de progreso ilimitado y la búsqueda de un desarrollo compatible con la sostenibilidad social del territorio.
 
 ## Comprueba lo que sabes
 
@@ -206,7 +234,3 @@ preguntas:
   respuesta: falso
   explicacion: '**Falso.** Hay que señalar también los efectos **no monetizables**, e identificar a quién beneficia y a quién perjudica. Ignorarlo es un error frecuente y grave.'
 ```
-
-## Cierre
-
-Redacta un **argumentario breve**: tu postura razonada sobre el caso de la vivienda turística, con **dos términos técnicos** de la sesión y **un dato**. Se archiva en el portafolio y puede servir como evidencia también para tu profesorado de Historia del Mundo Contemporáneo, porque el caso condensa la crítica contemporánea a la idea de progreso ilimitado y la búsqueda de un desarrollo compatible con la sostenibilidad social del territorio.

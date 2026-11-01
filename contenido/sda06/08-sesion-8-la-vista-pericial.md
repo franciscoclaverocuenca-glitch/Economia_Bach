@@ -2,7 +2,20 @@
 titulo: Sesión 8 · La vista pericial
 ---
 
+Hoy comparecéis. El aula se convierte en **Comisión de Competencia**, y vuestro gabinete ratifica su informe ante el resto de peritos.
+
+Tres minutos para exponer lo esencial y dos de preguntas cruzadas. Y recordad la regla. La Portavocía expone, pero **cualquier miembro puede ser requerido**.
+
+El tono es el de peritos que buscan la verdad del caso, **no el de partes que litigan**.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda06-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda06-s08-registro-docente.pdf | Registro de la vista pericial | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 + 2.3 (sumativa)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo en semicírculo · Gabinetes</td><td><b>Carácter</b></td><td>Sumativa, producto final (informe + ratificación)</td></tr><tr><td><b>Instrumentos</b></td><td>EO: ratificación oral · D: turno de preguntas cruzadas · R: valoración del informe con la rúbrica general · Co.Ev.: escala de dedos razonada entre gabinetes</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +42,6 @@ Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y
 - ¿Quién sale perdiendo con vuestra recomendación?
 - ¿Qué fallo de mercado os ha parecido más grave de todos los expuestos?
 
-::: aviso Material que debes preparar tú
-- **Informes entregados** por cada gabinete al abrir la vista.
-- **Disposición del aula en semicírculo** como Comisión de Competencia. Prepárala antes de que entre el grupo.
-- **Rúbrica de los criterios 2.1 y 2.3** visible para todo el mundo durante la sesión.
-- **Cronómetro visible**: los tiempos son tasados y sin cronómetro se desbordan.
-- **Escala de dedos** para la coevaluación y hoja de registro simultáneo de los cuatro instrumentos (EO, D, R, Co.Ev.).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>La ratificación es breve (3 minutos) y se apoya en un informe ya redactado, lo que reduce la carga de la exposición oral; y el turno de preguntas puede responderse entre varios miembros del gabinete.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica está visible, las reglas se conocen de antemano y el registro es deliberativo y no adversarial. Se busca la verdad del caso, no derrotar a nadie. Solo las preguntas cruzadas son imprevisibles, y se han anticipado en la sesión 7.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr></tbody></table>
@@ -45,23 +50,17 @@ Registra en paralelo EO (ratificación), D (calidad de preguntas y respuestas) y
 Sesión con turnos orales cruzados en semicírculo. Sitúa a este alumno/a en un extremo del semicírculo con visión frontal del conjunto, exige que quien pregunta se identifique y hable de frente y de uno en uno, y facilita **por escrito** los informes de los demás gabinetes antes de la sesión para que pueda preparar sus preguntas.
 :::
 
-## Para empezar
-
-Hoy comparecéis. El aula se convierte en **Comisión de Competencia**, y vuestro gabinete ratifica su informe ante el resto de peritos.
-
-Tres minutos para exponer lo esencial y dos de preguntas cruzadas. Y recordad la regla. La Portavocía expone, pero **cualquier miembro puede ser requerido**.
-
-El tono es el de peritos que buscan la verdad del caso, **no el de partes que litigan**.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda6-s08-01.webp | Portada
-sda6-s08-02.webp | Las reglas de la Comisión
-sda6-s08-03.webp | Vuestros cinco minutos
-sda6-s08-04.webp | El mapa completo
-sda6-s08-05.webp | Qué se evalúa
-sda6-s08-06.webp | Cierre
+sda6-s08-01.webp | La vista pericial
+sda6-s08-02.webp | Cuatro reglas
+sda6-s08-03.webp | Ratificación y preguntas
+sda6-s08-04.webp | Seis casos, todos los fallos
+sda6-s08-05.webp | Cómo responder
+sda6-s08-06.webp | Las seis ratificaciones
+sda6-s08-07.webp | ¿Qué fallo os ha parecido más grave? ¿Qué solución, más convincente?
+sda6-s08-08.webp | La prueba escrita
 ```
 
 ## La vista pericial
@@ -79,12 +78,36 @@ sda6-s08-06.webp | Cierre
 <table><thead><tr><th width="40%">Caso</th><th width="60%">Qué ilustra</th></tr></thead><tbody><tr><td>Cártel de coches · mercado eléctrico</td><td>Oligopolio y colusión</td></tr><tr><td>Cártel lácteo</td><td>Poder de compra: el monopsonio de Joan Robinson</td></tr><tr><td>El AVE</td><td>Monopolio, barreras de entrada y liberalización</td></tr><tr><td>Vivienda turística en Málaga</td><td>Externalidades negativas</td></tr><tr><td>“Los cacharros” de Akerlof</td><td>Información asimétrica y selección adversa</td></tr></tbody></table>
 
 ::: nota Escuchar a los demás es repasar
-No es casualidad: el conjunto de las seis ratificaciones es, deliberadamente, el **temario completo de la prueba escrita** de mañana. Tomad notas.
+Las seis ratificaciones juntas recorren todas las estructuras y fallos de la unidad. Tomad notas: es el mejor repaso para la prueba de mañana.
 :::
 
-### Qué se evalúa
+### Mientras escucháis
 
-<table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · ratificación oral</td><td>Claridad y rigor al exponer lo esencial en tres minutos</td></tr><tr><td><b>D</b> · preguntas cruzadas</td><td>La calidad de vuestras preguntas <b>y</b> de vuestras respuestas</td></tr><tr><td><b>R</b> · el informe pericial</td><td>El producto entregado, con los descriptores de la rúbrica general de los criterios 2.1 y 2.3</td></tr><tr><td><b>Co.Ev.</b> · coevaluación</td><td>Vuestra valoración razonada de los demás gabinetes, con la escala de dedos y un descriptor concreto</td></tr></tbody></table>
+Valorad cada gabinete con los dedos y algo concreto que lo justifique.
+
+```descargas
+sda06-s08-coevaluacion.pdf | Hoja de coevaluación de la vista | Una por gabinete
+```
+
+
+## Apuntes de la sesión
+
+### Cómo se pregunta y se responde ante la Comisión
+
+```esquema
+Pregunta: un término técnico y una duda concreta
+Respuesta: el dato o el argumento del informe
+Si no se sabe: decirlo y explicar cómo se averiguaría
+```
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Ratificación</b></td><td>Presentar oralmente un informe y responder por él ante quien decide.</td></tr>
+<tr><td><b>Monopsonio</b></td><td>Mercado con un solo comprador o unos pocos con mucho poder. Lo estudió Joan Robinson; el cártel lácteo es un ejemplo de poder de compra.</td></tr>
+<tr><td><b>Comisión de Competencia</b></td><td>Órgano que decide sobre los casos de competencia. En el aula, el gran grupo con el profesorado.</td></tr>
+<tr><td><b>Coevaluación</b></td><td>Valoración razonada del trabajo de otros gabinetes con los mismos criterios que el propio.</td></tr>
+</tbody></table>
 
 ## Comprueba lo que sabes
 
@@ -97,13 +120,13 @@ instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después l
 preguntas:
 - enunciado: En la vista pericial, cada gabinete defiende los intereses de una de las partes de su caso.
   respuesta: falso
-  explicacion: '**Falso.** Sois peritos: el tono es deliberativo, no adversarial. Es la diferencia deliberada con el Juicio de la SdA 1.'
+  explicacion: '**Falso.** Sois peritos: el tono es deliberativo, no adversarial.'
 - enunciado: Solo la Portavocía puede responder en el turno de preguntas cruzadas.
   respuesta: falso
   explicacion: '**Falso.** Cualquier miembro del gabinete puede ser requerido. Es responsabilidad individual dentro del trabajo cooperativo.'
-- enunciado: Las preguntas cruzadas se evalúan como instrumento D.
+- enunciado: En las preguntas cruzadas cuenta tanto preguntar bien como responder bien.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Se valora tanto la calidad de las preguntas que formuláis como la de las respuestas que dais.'
+  explicacion: '**Verdadero.** Una buena pregunta demuestra tanto como una buena respuesta.'
 - enunciado: El conjunto de las seis ratificaciones cubre todas las estructuras y fallos de la unidad.
   respuesta: verdadero
   explicacion: '**Verdadero.** Está diseñado así: oligopolio y colusión, poder de compra, monopolio y liberalización, externalidades e información asimétrica. Escuchar a los demás es repasar.'
@@ -111,6 +134,6 @@ preguntas:
 
 ## Cierre
 
-Coevaluad con la escala de dedos aplicando los descriptores de la rúbrica. Y verbalizad entre todos una conclusión compartida: **¿qué fallo de mercado os ha parecido más grave, y qué solución más convincente?**
+Coevaluad con la escala de dedos. Y verbalizad entre todos una conclusión compartida: **¿qué fallo de mercado os ha parecido más grave, y qué solución más convincente?**
 
-Estáis anticipando, sin saberlo, el ensayo del bloque 3 de la prueba escrita de mañana.
+Es una buena forma de preparar la prueba escrita de mañana.

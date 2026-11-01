@@ -2,7 +2,20 @@
 titulo: Sesión 5 · Oligopolio y competencia monopolística
 ---
 
+Hoy no vais a estudiar qué es un cártel. Lo vais a **jugar**.
+
+Vuestro gabinete se divide en dos empresas que compiten en un mercado con solo dos vendedoras. Cinco rondas decidiendo en secreto si mantener el precio pactado o bajarlo para robar clientes. Y a partir de la tercera, una variante que lo cambia todo.
+
+Después, una cata a ciegas os va a hacer una pregunta incómoda: **¿qué pagáis exactamente cuando pagáis la marca?**
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda06-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda06-s05-guia-torneo.pdf | Guía del torneo, de la cata y del cártel | Solo docente, con la nota de prensa y soluciones
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1 (con introducción a 2.3)</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas → Gabinete de 4 → Gran grupo</td><td><b>Carácter</b></td><td>Formativa con registro (portafolio, observación y cuestionario de mitad de unidad)</td></tr><tr><td><b>Instrumentos</b></td><td>OD: torneo, análisis de casos y cata a ciegas · P: hoja de decisiones y conclusiones · Co.Ev.: entre parejas y gabinetes · C: cuestionario formativo de mitad de unidad</td><td><b>Duración</b></td><td>55 minutos</td></tr></tbody></table>
 
@@ -33,15 +46,6 @@ titulo: Sesión 5 · Oligopolio y competencia monopolística
 - Si el producto apenas se distingue, ¿qué estamos pagando cuando pagamos la marca?
 - La “tasa rosa”: ¿diferenciación legítima o discriminación de precios?
 
-::: aviso Material que debes preparar tú
-- **Tarjetas de decisión** (cooperar / traicionar) para el torneo y **matriz de pagos** proyectable.
-- **Marcador colectivo del torneo** para registrar las estrategias que emergen ronda a ronda.
-- **Nota de prensa real de la CNMC** sobre la sanción de 2015 a fabricantes de coches, con el guion de cuatro preguntas.
-- **Productos para la cata a ciegas**: una versión de marca líder y su equivalente de marca blanca de un producto cotidiano (galleta, refresco). **Comprueba previamente alergias e intolerancias del alumnado.** Vasos o platos numerados y opacos.
-- **Documentación sobre la “tasa rosa”** de organizaciones de consumidores.
-- **Cuestionario digital** de mitad de unidad (sesiones 3 a 5) montado y listo.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El torneo y la cata a ciegas son actividades manipulativas y experienciales. Permiten acceder a conceptos abstractos (interdependencia estratégica, diferenciación percibida) viviéndolos antes de nombrarlos.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>Cada concepto se presenta en dos momentos separados: primero la experiencia (juego, cata) y después la formalización, lo que garantiza que la definición llegue cuando ya existe una imagen concreta a la que asociarla.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>El quiz formativo de mitad de unidad permite a cada persona identificar sus lagunas antes de la sesión de fallos de mercado, que es la más exigente conceptualmente.</td></tr></tbody></table>
@@ -54,27 +58,18 @@ Sesión con mucha actividad simultánea y ruido. En el torneo, exige que las dec
 Sesión **fusionada** de las antiguas S5 y S6. La compresión aplicada es la siguiente. El torneo pasa de 8 a 5 rondas con el giro de la clemencia adelantado a la ronda 3; el análisis de casos de la CNMC pasa de 2 cárteles a 1 (el de fabricantes de coches), quedando el **cártel lácteo** como material de la ampliación “Cazadores de precios”; y la cata se simplifica a un único producto. El quiz de mitad de unidad se mantiene íntegro y ahora cubre las sesiones 3 a 5.
 :::
 
-## Para empezar
-
-Hoy no vais a estudiar qué es un cártel. Lo vais a **jugar**.
-
-Vuestro gabinete se divide en dos empresas que compiten en un mercado con solo dos vendedoras. Cinco rondas decidiendo en secreto si mantener el precio pactado o bajarlo para robar clientes. Y a partir de la tercera, una variante que lo cambia todo.
-
-Después, una cata a ciegas os va a hacer una pregunta incómoda: **¿qué pagáis exactamente cuando pagáis la marca?**
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda6-s05-01.webp | Portada
-sda6-s05-02.webp | El torneo
-sda6-s05-03.webp | El giro de la ronda 3
-sda6-s05-04.webp | Del juego al oligopolio
-sda6-s05-05.webp | Referente: Cani Fernández
-sda6-s05-06.webp | El cártel real
-sda6-s05-07.webp | La cata a ciegas
-sda6-s05-08.webp | Competencia monopolística
-sda6-s05-09.webp | La tasa rosa
-sda6-s05-10.webp | Referente: Joan Robinson
+sda6-s05-01.webp | Pocos y peligrosos, iguales pero distintos
+sda6-s05-02.webp | Oligopolio
+sda6-s05-03.webp | La matriz de pagos
+sda6-s05-04.webp | A cada uno le conviene traicionar, aunque juntos ganarían más…
+sda6-s05-05.webp | Los fabricantes de coches
+sda6-s05-06.webp | ¿Marca o marca blanca?
+sda6-s05-07.webp | Competencia monopolística
+sda6-s05-08.webp | El mismo producto, más caro en su versión «para mujeres».…
+sda6-s05-09.webp | La clemencia convierte el cártel en un dilema
 ```
 
 ## Torneo del dilema del prisionero
@@ -83,9 +78,13 @@ sda6-s05-10.webp | Referente: Joan Robinson
 
 <table><thead><tr><th width="6%"></th><th width="94%">Regla</th></tr></thead><tbody><tr><td>1</td><td>Vuestro gabinete se divide en dos “empresas” (parejas) que compiten en un mercado con solo dos vendedoras.</td></tr><tr><td>2</td><td>En cada ronda, ambas deciden <b>en secreto y a la vez</b> con tarjetas: mantener el precio pactado (COOPERAR) o bajarlo para robar clientes (TRAICIONAR).</td></tr><tr><td>3</td><td>La matriz de pagos premia la traición unilateral, castiga la traición mutua y recompensa moderadamente la cooperación sostenida.</td></tr><tr><td>4</td><td>Cinco rondas. Y <b>a partir de la ronda 3</b>: la primera empresa que confiese el pacto ante el docente-regulador queda <b>exenta</b> de sanción.</td></tr></tbody></table>
 
-### Vuestra hoja de decisiones
+### La matriz de pagos
 
-<table><thead><tr><th width="10%">Ronda</th><th width="20%">Nuestra decisión</th><th width="16%">La suya</th><th width="20%">Nuestro resultado</th><th width="34%">¿Por qué decidimos eso?</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="34%">Beneficio (nosotros, ellos)</th><th width="33%">Ellos COOPERAN</th><th width="33%">Ellos TRAICIONAN</th></tr></thead><tbody><tr><td><b>Nosotros COOPERAMOS</b></td><td>3, 3</td><td>0, 5</td></tr><tr><td><b>Nosotros TRAICIONAMOS</b></td><td>5, 0</td><td>1, 1</td></tr></tbody></table>
+
+```descargas
+sda06-s05-hoja-torneo.pdf | Tarjetas de decisión y hoja del torneo | Cinco rondas, con el porqué de cada decisión
+```
 
 ::: nota Lo que vais a descubrir
 Que un cártel es **inestable por dentro**. Cada miembro tiene un incentivo individual a traicionarlo, y ese incentivo es exactamente lo que explota el **programa de clemencia**: la autoridad de competencia convierte a los miembros del cártel en prisioneros del dilema.
@@ -95,7 +94,11 @@ Que un cártel es **inestable por dentro**. Cada miembro tiene un incentivo indi
 
 Analizad la nota de prensa real de la sanción de 2015 de la CNMC a una veintena de fabricantes de coches por intercambiar información comercial sensible.
 
-<table><thead><tr><th width="6%"></th><th width="44%">Pregunta</th><th width="50%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>¿Qué pactaron exactamente?</td><td></td></tr><tr><td>2</td><td>¿A quién perjudicó?</td><td></td></tr><tr><td>3</td><td>¿Cómo se descubrió?</td><td></td></tr><tr><td>4</td><td>¿Qué habría hecho vuestro torneo en su lugar?</td><td></td></tr></tbody></table>
+¿Qué pactaron exactamente? ¿A quién perjudicó? ¿Cómo se descubrió? ¿Qué habría hecho vuestro torneo en su lugar?
+
+```descargas
+sda06-s05-cartel-coches.pdf | El cártel de los coches | Resumen del caso y las cuatro preguntas
+```
 
 ::: aviso Y un caso disponible para ampliación
 El **cártel lácteo** (varias industrias sancionadas por coordinar los precios de **compra** de la leche cruda a los ganaderos, con efecto en ganaderías andaluzas) queda como material de la actividad de ampliación “Cazadores de precios”. Muestra algo importante. El poder de mercado puede ejercerse también **comprando**, no solo vendiendo.
@@ -107,7 +110,9 @@ El **cártel lácteo** (varias industrias sancionadas por coordinar los precios 
 
 Vuestro gabinete prueba, **sin ver el envase**, dos versiones de un mismo producto cotidiano. La marca líder y su equivalente de marca blanca. Anotad vuestra hipótesis y vuestro grado de seguridad.
 
-<table><thead><tr><th width="16%">Muestra</th><th width="34%">¿Cuál creemos que es?</th><th width="28%">Grado de seguridad (0-10)</th><th width="22%">¿Acertamos?</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td></tr></tbody></table>
+```descargas
+sda06-s05-cata.pdf | Hoja de la cata a ciegas | Hipótesis, seguridad y resultado
+```
 
 ::: nota La pregunta central
 Si el producto apenas se distingue, **¿qué estamos pagando exactamente cuando pagamos la marca?**
@@ -118,7 +123,7 @@ Si el producto apenas se distingue, **¿qué estamos pagando exactamente cuando 
 <table><thead><tr><th width="30%">Rasgo</th><th width="70%">Qué significa</th></tr></thead><tbody><tr><td><b>Muchos oferentes y libre entrada</b></td><td>En eso se parece a la competencia perfecta. Nada impide abrir otra cafetería o lanzar otra marca de galletas.</td></tr><tr><td><b>Pero productos diferenciados</b></td><td>Real o solo perceptivamente. Y esa diferenciación otorga a cada empresa un pequeño poder de mercado sobre su clientela fiel.</td></tr><tr><td><b>La publicidad como inversión</b></td><td>En diferenciación percibida. Desplaza la demanda y la hace más <b>inelástica</b>: reaparece el termómetro de la sesión 4.</td></tr></tbody></table>
 
 ::: aviso La frontera ética: la “tasa rosa”
-Productos funcionalmente idénticos comercializados a mayor precio en su versión “para mujeres”, documentado por organizaciones de consumidores. ¿Diferenciación legítima o discriminación de precios apoyada en estereotipos? Ahí ya estáis anticipando la pregunta de eficiencia y equidad del criterio 2.3.
+Productos funcionalmente idénticos comercializados a mayor precio en su versión “para mujeres”, documentado por organizaciones de consumidores. ¿Diferenciación legítima o discriminación de precios apoyada en estereotipos? Ahí aparece la pregunta de eficiencia y equidad que recorre la unidad.
 :::
 
 ## Apuntes de la sesión
@@ -157,7 +162,7 @@ La publicidad y la marca son **inversiones en diferenciación percibida**. Su ef
 
 Diferenciar no siempre es legítimo. Las organizaciones de consumidores han documentado la llamada **“tasa rosa”**: la comercialización de productos funcionalmente idénticos a mayor precio en su versión “para mujeres” (cuchillas, desodorantes, juguetes).
 
-La pregunta es si se trata de diferenciación legítima o de **discriminación de precios** apoyada en estereotipos. Y es exactamente la pregunta de eficiencia y equidad que plantea el criterio 2.3, que trabajaréis a fondo en la sesión siguiente.
+La pregunta es si se trata de diferenciación legítima o de **discriminación de precios** apoyada en estereotipos. Y es exactamente la pregunta de eficiencia y equidad que trabajaréis a fondo en la sesión siguiente.
 
 ### 6. Referente: Joan Robinson y el monopsonio
 
@@ -169,7 +174,25 @@ Y acuñó el concepto de **monopsonio**: el poder de mercado del lado **comprado
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="30%">Término</th><th width="70%">Definición</th></tr></thead><tbody><tr><td><b>Oligopolio</b></td><td>Mercado con pocas empresas, en el que la decisión de cada una depende de lo que hagan las demás.</td></tr><tr><td><b>Interdependencia estratégica</b></td><td>Situación en la que la mejor decisión de una empresa depende de la decisión de sus rivales.</td></tr><tr><td><b>Colusión</b></td><td>Acuerdo entre competidores para comportarse como un monopolio colectivo.</td></tr><tr><td><b>Cártel</b></td><td>Colusión formalizada para fijar precios o repartirse el mercado.</td></tr><tr><td><b>Programa de clemencia</b></td><td>Instrumento que exime de sanción a la primera empresa que denuncia el cártel del que forma parte.</td></tr><tr><td><b>Competencia monopolística</b></td><td>Muchos oferentes, libre entrada y productos diferenciados.</td></tr><tr><td><b>Monopsonio</b></td><td>Poder de mercado del lado del comprador. Concepto acuñado por Joan Robinson.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Oligopolio</b></td><td>Mercado con pocas empresas grandes que se vigilan entre sí: lo que hace una afecta a las demás.</td></tr>
+<tr><td><b>Interdependencia</b></td><td>Cada empresa decide pensando en cómo reaccionarán sus rivales.</td></tr>
+<tr><td><b>Colusión</b></td><td>Acuerdo entre competidores para no competir: fijar precios, repartirse clientes o zonas.</td></tr>
+<tr><td><b>Cártel</b></td><td>Colusión organizada y secreta. Es ilegal y se sanciona con multas muy altas.</td></tr>
+<tr><td><b>Dilema del prisionero</b></td><td>Situación en la que a cada parte le conviene traicionar aunque a las dos juntas les iría mejor cooperando.</td></tr>
+<tr><td><b>Programa de clemencia</b></td><td>Perdón de la multa a quien confiesa primero el cártel. Convierte a sus miembros en prisioneros del dilema.</td></tr>
+<tr><td><b>Competencia monopolística</b></td><td>Muchas empresas con productos diferenciados y libre entrada.</td></tr>
+<tr><td><b>Diferenciación</b></td><td>Hacer que el producto parezca o sea distinto al de los rivales: calidad, diseño, marca, publicidad.</td></tr>
+<tr><td><b>Discriminación de precios</b></td><td>Cobrar precios distintos por lo mismo a distintos clientes. La «tasa rosa» es un ejemplo discutido.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=3q_-MR2-acg | Qué es un oligopolio | Econosublime · 9:58
+https://www.youtube.com/watch?v=BiI7eGAxURc | El dilema del prisionero | Derivando · 5:43
+https://www.youtube.com/watch?v=w11CoPAwXds | Qué es la competencia monopolística | Econosublime · 7:26
+```
 
 ## Comprueba lo que sabes
 

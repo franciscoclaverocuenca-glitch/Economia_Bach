@@ -2,7 +2,18 @@
 titulo: Sesión 3 · El mapa de los mercados
 ---
 
+Hoy construimos la herramienta central de la unidad. Un mapa que permite situar **cualquier** mercado.
+
+Y son solo cuatro preguntas. Cuatro. Con ellas vas a poder diagnosticar el caso de tu gabinete, clasificar mercados que no has visto nunca y resolver el primer bloque de la prueba escrita.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda06-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda06-s03-solucionario.pdf | Solucionario de la matriz | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>2.1</td><td><b>Saberes básicos</b></td><td>B3</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Gabinete de 4</td><td><b>Carácter</b></td><td>Formativa con registro (portafolio y observación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: plantilla Cornell y matriz en el portafolio · OD: registro del trabajo cooperativo · Co.Ev.: escala de dedos sobre la matriz de otros gabinetes</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -27,14 +38,6 @@ Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutie
 - ¿Qué rasgo os parece más determinante para que un mercado funcione bien?
 - ¿Se os ocurre algún mercado real que cumpla los cuatro supuestos de la competencia perfecta?
 
-::: aviso Material que debes preparar tú
-- **Plantilla Cornell**, una por alumno/a.
-- **Matriz de clasificación** (filas: 8 mini-casos; columnas. Los cuatro rasgos + estructura resultante), una por gabinete.
-- **8 tarjetas de mini-casos**: la lonja de pescado, el mercado del aceite de oliva a granel, el sistema operativo de los móviles, las compañías eléctricas, la telefonía móvil, las cafeterías del centro, el agua embotellada de marca y el transporte ferroviario de viajeros antes de la liberalización.
-- **Presentación de apoyo** con imágenes de la subasta de la lonja del puerto de Málaga, si es posible.
-- Recuerda la regla de “lápices al centro”. Hay que enunciarla antes de empezar para que funcione.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Función ejecutiva</td><td>Los cuatro rasgos funcionan como andamiaje procedimental explícito. Convierten una tarea abierta (“clasifica este mercado”) en cuatro preguntas cerradas y verificables que se repiten en los ocho casos.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura “lápices al centro” garantiza igualdad de participación. Nadie puede avanzar por escrito mientras el grupo delibera, lo que impide que quien escribe más rápido monopolice la tarea.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr></tbody></table>
@@ -43,23 +46,16 @@ Sobre ese marco, la competencia perfecta como **modelo de referencia**, discutie
 La fase de “lápices al centro” genera deliberación simultánea en todos los gabinetes. Sitúa a este alumno/a en la zona más alejada del centro del aula, entrega las ocho tarjetas también por escrito y acuerda con el gabinete la norma de un solo turno de palabra y de frente.
 :::
 
-## Para empezar
-
-Hoy construimos la herramienta central de la unidad. Un mapa que permite situar **cualquier** mercado.
-
-Y son solo cuatro preguntas. Cuatro. Con ellas vas a poder diagnosticar el caso de tu gabinete, clasificar mercados que no has visto nunca y resolver el primer bloque de la prueba escrita.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda6-s03-01.webp | Portada
-sda6-s03-02.webp | Las cuatro preguntas
-sda6-s03-03.webp | La competencia perfecta
-sda6-s03-04.webp | Los ocho mini-casos
-sda6-s03-05.webp | Lápices al centro
-sda6-s03-06.webp | La matriz
-sda6-s03-07.webp | Coevaluación
-sda6-s03-08.webp | Cierre del Cornell
+sda6-s03-01.webp | El mapa de los mercados
+sda6-s03-02.webp | Las preguntas
+sda6-s03-03.webp | Competencia perfecta
+sda6-s03-04.webp | Cuatro estructuras
+sda6-s03-05.webp | Ocho mini-casos
+sda6-s03-06.webp | Esta matriz es la herramienta del apartado 1: el diagnóstico.
+sda6-s03-07.webp | ¿Qué rasgo es el más determinante?
 ```
 
 ## Matriz cooperativa · los ocho mini-casos
@@ -76,7 +72,44 @@ Es un **ideal teórico**: pocos mercados reales lo cumplen del todo. Pero sirve 
 
 ### Vuestra matriz
 
-<table><thead><tr><th width="30%">Mini-caso</th><th width="16%">¿Cuántos venden?</th><th width="14%">¿Homogéneo?</th><th width="13%">¿Barreras?</th><th width="13%">¿Información?</th><th width="14%">Estructura</th></tr></thead><tbody><tr><td>1 · La lonja de pescado</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2 · El aceite de oliva a granel</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3 · El sistema operativo de los móviles</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4 · Las compañías eléctricas</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5 · La telefonía móvil</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6 · Las cafeterías del centro</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7 · El agua embotellada de marca</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 · El tren de viajeros antes de la liberalización</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+Ocho mini-casos: la lonja de pescado, el aceite de oliva a granel, el sistema operativo de los móviles, las compañías eléctricas, la telefonía móvil, las cafeterías del centro, el agua embotellada de marca y el tren de viajeros antes de la liberalización. Para cada uno, los cuatro rasgos y la estructura.
+
+```descargas
+sda06-s03-matriz.pdf | Tarjetas de los ocho mini-casos y matriz | Para el gabinete y el portafolio
+```
+
+Cuando terminéis, comprobad la última columna:
+
+```actividad
+id: sda06-s03-estructuras
+tipo: clasificar
+instrucciones: ¿Qué estructura de mercado se parece más a cada caso?
+categorias:
+  - nombre: Competencia perfecta (aproximada)
+    elementos:
+      - texto: La lonja de pescado
+        explicacion: Muchos vendedores, producto homogéneo por especie y precios a la vista de todos.
+      - texto: El aceite de oliva a granel
+        explicacion: Miles de productores y un producto casi homogéneo por categoría. Ninguno mueve el precio solo.
+  - nombre: Competencia monopolística
+    elementos:
+      - texto: Las cafeterías del centro
+        explicacion: Muchas, fácil entrar, pero cada una es distinta (sitio, ambiente, café).
+      - texto: El agua embotellada de marca
+        explicacion: Muchas marcas, producto casi igual pero diferenciado por la marca y la publicidad.
+  - nombre: Oligopolio
+    elementos:
+      - texto: El sistema operativo de los móviles
+        explicacion: Dos grandes empresas dominan el mercado.
+      - texto: Las compañías eléctricas
+        explicacion: Pocas grandes empresas, con barreras de entrada muy altas.
+      - texto: La telefonía móvil
+        explicacion: Pocos operadores con red propia.
+  - nombre: Monopolio
+    elementos:
+      - texto: El tren de viajeros antes de la liberalización
+        explicacion: Un único operador público y barreras legales de entrada.
+```
 
 ::: aviso La regla de “lápices al centro”
 Para cada tarjeta: uno lee y propone, se debate **con los lápices en el centro de la mesa**, nadie escribe mientras se delibera, y solo cuando hay acuerdo se recogen los lápices y **todos** completan su fila. Si alguien está escribiendo, es que ha dejado de escuchar.
@@ -117,8 +150,27 @@ Fijaos en que la competencia monopolística comparte con la perfecta el número 
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Estructura de mercado</b></td><td>Conjunto de rasgos que determinan cómo se comportan compradores y vendedores en un mercado.</td></tr><tr><td><b>Competencia perfecta</b></td><td>Modelo teórico con muchos agentes precio-aceptantes, producto homogéneo, libre entrada e información completa.</td></tr><tr><td><b>Precio-aceptante</b></td><td>Agente tan pequeño respecto al mercado que no puede influir en el precio.</td></tr><tr><td><b>Producto homogéneo</b></td><td>Aquel que es idéntico con independencia de quién lo venda.</td></tr><tr><td><b>Barrera de entrada</b></td><td>Obstáculo que dificulta o impide que nuevas empresas entren a competir.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Competencia perfecta</b></td><td>Mercado ideal con muchísimos vendedores y compradores, producto homogéneo, libre entrada y salida e información completa. Nadie puede mover el precio solo.</td></tr>
+<tr><td><b>Precio-aceptante</b></td><td>Empresa que no puede influir en el precio: lo toma tal como viene del mercado.</td></tr>
+<tr><td><b>Producto homogéneo</b></td><td>Producto que es igual lo compres a quien lo compres.</td></tr>
+<tr><td><b>Producto diferenciado</b></td><td>Producto que cada vendedor hace distinto, por calidad, diseño, marca o lugar.</td></tr>
+<tr><td><b>Barreras de entrada</b></td><td>Obstáculos que impiden o dificultan que nuevas empresas entren en un mercado: inversión enorme, patentes, licencias, control de un recurso.</td></tr>
+<tr><td><b>Competencia imperfecta</b></td><td>Cualquier mercado en el que alguna empresa tiene cierto poder sobre el precio: monopolio, oligopolio o competencia monopolística.</td></tr>
+<tr><td><b>Monopolio</b></td><td>Un solo vendedor sin sustitutivos cercanos.</td></tr>
+<tr><td><b>Oligopolio</b></td><td>Pocos vendedores grandes que se vigilan entre sí.</td></tr>
+<tr><td><b>Competencia monopolística</b></td><td>Muchos vendedores con productos diferenciados.</td></tr>
+<tr><td><b>Lonja</b></td><td>Mercado mayorista del pescado, donde se subasta lo que traen los barcos.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=oLiDtuU2bUo | Estructuras de mercado | Econosublime · 10:58
+https://www.youtube.com/watch?v=17_IAv_EBQY | Competencia perfecta | Econosublime · 7:48
+https://www.youtube.com/watch?v=EIxpfBsGavs | Competencia imperfecta | Econosublime · 10:58
+```
 
 ## Cierre
 
-Cierra tu Cornell con la pregunta-resumen: **¿qué rasgo te parece más determinante para que un mercado funcione bien, y por qué?** No hay respuesta correcta, pero la tuya tiene que estar justificada. Y volverás sobre ella en la sesión 6.
+Cierra tu cuaderno con la pregunta-resumen: **¿qué rasgo te parece más determinante para que un mercado funcione bien, y por qué?** No hay respuesta correcta, pero la tuya tiene que estar justificada. Y volverás sobre ella en la sesión 6.

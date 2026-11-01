@@ -2,25 +2,25 @@
 titulo: SdA 6 · El mercado al banquillo
 ---
 
-## Guía docente · Cómo usar este material {.docente .plegado}
+## Guía docente · Elementos curriculares y evaluación {.docente .plegado}
 
-### Cómo está organizado este material
+### Elementos curriculares
 
-Cada sesión de la SdA 6 es una página de este material. Dentro de cada página encontrarás siempre la misma arquitectura de bloques:
+<table><thead><tr><th width="26%">Elemento</th><th width="74%">En esta unidad</th></tr></thead><tbody><tr><td><b>Competencia específica</b></td><td>CE2. Conocer y comprender el funcionamiento del mercado, analizando sus fallos, para estudiar la repercusión de estos en el entorno y facilitar la toma de decisiones en el ámbito económico. Compartida con las SdA 4 y 5.</td></tr><tr><td><b>Criterio 2.1</b></td><td>Valorar la repercusión de los fallos del mercado a nivel microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo el funcionamiento del mismo.</td></tr><tr><td><b>Criterio 2.3</b></td><td>Analizar con espíritu crítico las dimensiones relacionadas con la eficiencia y la equidad asociadas a los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.</td></tr><tr><td><b>Saber básico</b></td><td><b>B3</b> La elasticidad. La competencia perfecta, la competencia imperfecta y otros fallos de mercado. La competencia monopolística. El oligopolio y el monopolio: ejemplos en la historia de España. El análisis coste-beneficio.</td></tr><tr><td><b>Objetivos de etapa</b></td><td>a, b, c, d, e, g, h, i, j, k, ñ</td></tr><tr><td><b>Descriptores operativos</b></td><td>CCL2 · CCL3 · STEM1 · STEM2 · STEM4 · CPSAA4 · CC3 · CE1 · CE2</td></tr><tr><td><b>ODS principal</b></td><td>12. Producción y consumo responsables (eje de la unidad)</td></tr><tr><td><b>Elemento transversal principal</b></td><td>Educación para el consumo responsable y espíritu crítico del consumidor (S1, S2, S5, S6 y S8)</td></tr><tr><td><b>Referente</b></td><td>Joan Robinson (competencia imperfecta)</td></tr><tr><td><b>Interdisciplinariedad</b></td><td>Historia del Mundo Contemporáneo, HMCO.1.6, criterio HMCO.1.6.2, saber HMCO.1.A.6 (sesión 4, monopolios de la España contemporánea). Pendiente de confirmar matrícula común.</td></tr><tr><td><b>Sesiones</b></td><td>9 (segundo trimestre)</td></tr></tbody></table>
 
-<table><thead><tr><th width="18%">Bloque</th><th width="16%">Visible para</th><th width="66%">Para qué sirve</th></tr></thead><tbody><tr><td><b>Guía docente</b></td><td>Solo profesorado</td><td>Ficha técnica, temporalización minutada, guion paso a paso, preguntas guía, material que debes preparar y medidas DUA aplicadas.</td></tr><tr><td><b>Diapositivas de la sesión</b></td><td>Todos</td><td>Mazo proyectable a pantalla completa. El mismo mazo se entrega aparte en .pptx editable.</td></tr><tr><td><b>Actividades</b></td><td>Todos</td><td>Instrucciones para el alumnado, fichas de trabajo y materiales de la dinámica.</td></tr><tr><td><b>Apuntes</b></td><td>Todos</td><td>Contenido conceptual redactado para estudio autónomo y repaso posterior.</td></tr><tr><td><b>Comprueba lo que sabes</b></td><td>Todos</td><td>Cuestionario autocorregible con retroalimentación explicativa. No califica: orienta.</td></tr></tbody></table>
+### Instrumentos de evaluación y sesiones en que se aplican
 
-::: aviso Antes de impartir: lo que hay que preparar
-Esta unidad tiene **tres materiales físicos** con gestión previa ineludible: las **cuatro noticias** de la sesión 1 (enlaces actualizados cada curso), la **charla** de la sesión 2 (ACREA o FACUA, con antelación suficiente) y los **productos de la cata a ciegas** de la sesión 5, comprobando previamente alergias e intolerancias del alumnado.
+<table><thead><tr><th width="30%">Instrumento</th><th width="18%">Criterios</th><th width="52%">Sesiones</th></tr></thead><tbody><tr><td><b>OD</b> Observación directa</td><td>2.1 · 2.3</td><td>S1 subasta de casos · S3 matriz · S4 línea del tiempo · S5 torneo y cata · S6 debate · S7 laboratorio pericial</td></tr><tr><td><b>D</b> Debate</td><td>2.1 · 2.3</td><td>S1 subasta de casos · S6 «¿Quién paga la fiesta?» · S8 preguntas cruzadas</td></tr><tr><td><b>C</b> Cuestionario</td><td>2.1 · 2.3</td><td>S2 tras la charla · S5 quiz</td></tr><tr><td><b>P</b> Portafolio</td><td>2.1 · 2.3</td><td>S3 matriz de clasificación · S4 línea del tiempo · S5 cártel y cata · S6 análisis coste-beneficio</td></tr><tr><td><b>PF</b> Producto final</td><td>2.1 · 2.3</td><td>S8 informe pericial</td></tr><tr><td><b>EO</b> Exposición oral</td><td>2.1 · 2.3</td><td>S8 ratificación ante la Comisión</td></tr><tr><td><b>PE</b> Prueba escrita</td><td>2.1 · 2.3</td><td>S9</td></tr><tr><td><b>Co.Ev.</b> Coevaluación · <b>Auto.Ev.</b> Autoevaluación</td><td>formativas</td><td>Co.Ev. en S3, S5 y S8 · Auto.Ev. en S9</td></tr></tbody></table>
 
-Actualiza también los datos de **evolución del alquiler y de viviendas de uso turístico** del centro de Málaga que sostienen el mini-debate y el análisis coste-beneficio de la sesión 6, y comprueba que las notas de prensa de la CNMC citadas siguen accesibles.
+::: aviso Datos que hay que actualizar
+Resoluciones de la CNMC citadas (cártel de coches, cártel lácteo, mercado eléctrico), precios del AVE Madrid-Málaga tras la liberalización y datos de vivienda turística del centro de Málaga. Lo pendiente está en el documento de pendientes de la unidad.
 :::
 
 ## Presentación de la unidad
 
 La factura de la luz que no se entiende. El AVE que baja de precio en cuanto aparece otro operador. El alquiler del centro de Málaga disparado. Y una multa millonaria a un grupo de empresas por pactar precios.
 
-Las cuatro noticias comparten una sospecha. Que el precio no siempre lo fija el juego limpio de la oferta y la demanda que estudiaste en la SdA 5. Esta unidad va sobre **por qué**, sobre **quién vigila** y sobre **qué se puede hacer**.
+Las cuatro noticias comparten una sospecha. Que el precio no siempre lo fija el juego limpio de la oferta y la demanda que estudiaste en la unidad anterior. Esta unidad va sobre **por qué**, sobre **quién vigila** y sobre **qué se puede hacer**.
 
 ### Qué vas a aprender
 
@@ -31,20 +31,16 @@ Las cuatro noticias comparten una sospecha. Que el precio no siempre lo fija el 
 - Qué son las externalidades, los bienes públicos y la información asimétrica.
 - Y a comparar soluciones con análisis coste-beneficio, sabiendo que la intervención también tiene costes.
 
-::: idea Elementos curriculares
-Competencia específica **2** · Criterios de evaluación **2.1** y **2.3** · Saber básico **B3** · 9 sesiones · Coordinación propuesta con Historia del Mundo Contemporáneo en la sesión 4.
-:::
-
-## El reto. El informe pericial y la Comisión de Competencia
+## El reto: el informe pericial y la Comisión de Competencia
 
 Vuestro grupo se constituye como **gabinete pericial**: un equipo de peritos económicos **neutrales**. Recibiréis uno de los seis casos reales de la unidad, lo analizaréis con un guion de cinco apartados y lo ratificaréis oralmente ante la **Comisión de Competencia del aula**.
 
-### El producto final tiene dos entregables inseparables
+### Lo que vais a preparar
 
-<table><thead><tr><th width="26%">Pieza</th><th width="44%">Qué es</th><th width="30%">Cómo se evalúa</th></tr></thead><tbody><tr><td><b>1. Informe pericial “El mercado a juicio”</b></td><td>Documento con cinco apartados. Estructura o fallo identificado; causas; consecuencias sobre eficiencia y equidad; análisis coste-beneficio comparado de dos soluciones; y recomendación motivada. Con al menos un dato oficial verificable citado con su fuente.</td><td>Instrumento R (valoración del producto), con la rúbrica general de los criterios</td></tr><tr><td><b>2. Ratificación ante la Comisión</b></td><td>Tres minutos de exposición de lo esencial del informe y dos de preguntas cruzadas de los demás gabinetes y del docente. La Portavocía expone, pero cualquier miembro puede ser requerido.</td><td>Instrumentos EO (exposición oral), D (preguntas cruzadas) y Co.Ev. (coevaluación)</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Pieza</th><th width="74%">Qué es</th></tr></thead><tbody><tr><td><b>1. El informe pericial</b></td><td>Cinco apartados: qué estructura o fallo hay, sus causas, sus consecuencias sobre la eficiencia y la equidad, un análisis coste-beneficio de dos soluciones y una recomendación motivada. Con al menos un dato oficial y su fuente.</td></tr><tr><td><b>2. La ratificación</b></td><td>Tres minutos para exponer lo esencial y dos de preguntas de los demás gabinetes. Expone la portavocía, pero cualquier miembro puede tener que responder.</td></tr></tbody></table>
 
-::: nota Aquí sois peritos, no partes
-Es la diferencia deliberada con el Juicio de la SdA 1. Allí cada equipo defendía unos intereses; aquí **nadie defiende intereses de parte**. Vuestra credibilidad como peritos depende del rigor y de los datos. Un perito que exagera pierde toda su autoridad.
+::: nota Peritos, no partes
+Nadie defiende intereses. Vuestra credibilidad depende del rigor y de los datos. Un perito que exagera pierde toda su autoridad.
 :::
 
 ::: aviso Los seis casos periciales
@@ -58,27 +54,11 @@ Es la diferencia deliberada con el Juicio de la SdA 1. Allí cada equipo defend�
 
 ## Rúbricas de evaluación {.plegado}
 
-Estas son las rúbricas con las que se evalúa la unidad. **Están disponibles desde la primera sesión** y no cambian a lo largo del recorrido. Puedes consultarlas siempre que quieras para saber con precisión qué se espera de ti en cada nivel de desempeño.
+Estas son las rúbricas con las que se evalúa la unidad. Están disponibles desde la primera sesión y puedes consultarlas siempre que quieras para saber qué se espera de ti en cada nivel.
 
-### Cómo se lee una rúbrica
-
-Cada criterio de evaluación tiene **una única rúbrica** con cinco niveles de desempeño. Los descriptores no describen una actividad concreta, sino **cómo se manifiesta el aprendizaje en los distintos formatos de entrega**: la producción oral, la producción escrita, el trabajo cooperativo observado y el producto final.
-
-Por eso un mismo descriptor menciona varios instrumentos a la vez. Para alcanzar un nivel no basta con demostrarlo en un formato. Hay que sostenerlo **de manera consistente** en los que ese descriptor nombra.
-
-::: idea Lo que separa un nivel del siguiente
-Casi siempre es lo mismo, y conviene tenerlo presente: pasar de **describir** a **explicar con corrección**, de ahí a **analizar y justificar**, y finalmente a **evaluar y argumentar de forma autónoma** sosteniéndolo en todos los formatos.
-:::
-
-### Los instrumentos de evaluación
-
-<table><thead><tr><th width="10%">Código</th><th width="24%">Instrumento</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>PE</b></td><td>Prueba escrita</td><td>Examen individual con bloques de comprensión, caso práctico inédito y ensayo argumentativo.</td></tr><tr><td><b>EO</b></td><td>Exposición oral</td><td>Intervención oral individual o grupal, con turno y tiempo tasado, ante el grupo-clase.</td></tr><tr><td><b>C</b></td><td>Cuestionario</td><td>Preguntas cortas (test, verdadero/falso o respuesta breve), en papel o digital, de carácter mayoritariamente formativo.</td></tr><tr><td><b>P</b></td><td>Portafolio</td><td>Cuaderno Cornell y producciones escritas recopiladas a lo largo de la unidad como evidencia de proceso.</td></tr><tr><td><b>OD</b></td><td>Observación directa</td><td>Registro del docente durante el trabajo cooperativo mediante lista de cotejo o escala de valoración.</td></tr><tr><td><b>R</b></td><td>Valoración de producto</td><td>Valoración del producto final complejo aplicando los descriptores de la rúbrica del criterio.</td></tr><tr><td><b>D</b></td><td>Debate</td><td>Intercambio argumentativo oral estructurado (controversia, fishbowl, careo) con turnos y réplica.</td></tr><tr><td><b>Auto.Ev.</b></td><td>Autoevaluación</td><td>Reflexión del alumnado sobre su propio proceso, aplicando los descriptores de la rúbrica.</td></tr><tr><td><b>Co.Ev.</b></td><td>Coevaluación</td><td>Valoración razonada del trabajo de otros equipos, aplicando los descriptores de la rúbrica.</td></tr></tbody></table>
-
-Ningún instrumento tiene rúbrica propia. Todos los que se aplican a un criterio se valoran con los descriptores de ese criterio. Cuando un mismo instrumento se emplea en varias sesiones, primero se obtiene su calificación dentro de ese instrumento y esa nota única es la que entra en el cálculo del criterio.
-
-Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato alternativo del instrumento, sin modificar los descriptores ni el nivel de exigencia.
-
-### Las rúbricas de esta unidad
+```descargas
+sda06-rubricas.pdf | Rúbricas de la unidad | Para imprimir o consultar
+```
 
 ```rubrica
 2.1
@@ -90,6 +70,14 @@ Para el alumnado con adaptaciones se aplica la misma rúbrica sobre el formato a
 
 ## Mapa de las 9 sesiones {.plegado}
 
-Estas son las nueve sesiones de la unidad y la fase cognitiva de cada una según el modelo de secuenciación del Proyecto REA.
-
-<table><thead><tr><th width="5%">Nº</th><th width="62%">Sesión</th><th width="18%">Fase</th><th width="15%">Criterio</th></tr></thead><tbody><tr><td>1</td><td>La factura sospechosa: motivación, diagnóstico y subasta de casos</td><td>Movilizar + Activar</td><td>2.1</td></tr><tr><td>2</td><td>Los guardianes del mercado: voz institucional experta</td><td>Explorar</td><td>2.1</td></tr><tr><td>3</td><td>El mapa de los mercados: estructuras y competencia perfecta</td><td>Estructurar</td><td>2.1</td></tr><tr><td>4</td><td>El imperio del único vendedor. El monopolio en la historia de España</td><td>Estructurar</td><td>2.1</td></tr><tr><td>5</td><td>Pocos y peligrosos, iguales pero diferentes: oligopolio y competencia monopolística</td><td>Estructurar</td><td>2.1</td></tr><tr><td>6</td><td>Cuando el mercado falla: externalidades, bienes públicos e información asimétrica</td><td>Estructurar</td><td>2.3 · 2.1</td></tr><tr><td>7</td><td>El laboratorio pericial: elaboración del informe</td><td>Aplicar</td><td>2.1 · 2.3</td></tr><tr><td>8</td><td>La vista pericial: ratificación ante la Comisión de Competencia</td><td>Evaluar</td><td>2.1 · 2.3</td></tr><tr><td>9</td><td>Prueba escrita de contenidos y competencia</td><td>Evaluar</td><td>2.1 · 2.3</td></tr></tbody></table>
+<table><thead><tr><th width="8%">Sesión</th><th width="92%">Qué vas a hacer</th></tr></thead><tbody>
+<tr><td><b>1</b></td><td><b>La factura sospechosa.</b> Cuatro noticias reales y una pregunta: ¿el precio es siempre justo? Pujáis por vuestro caso.</td></tr>
+<tr><td><b>2</b></td><td><b>Los guardianes del mercado.</b> Personas que vigilan la competencia y defienden a quien consume os cuentan casos reales.</td></tr>
+<tr><td><b>3</b></td><td><b>El mapa de los mercados.</b> Cuatro preguntas para clasificar cualquier mercado, y ocho casos para practicar.</td></tr>
+<tr><td><b>4</b></td><td><b>El imperio del único vendedor.</b> El monopolio y los monopolios de la historia de España.</td></tr>
+<tr><td><b>5</b></td><td><b>Pocos y peligrosos.</b> Un torneo del dilema del prisionero, un cártel real y una cata a ciegas.</td></tr>
+<tr><td><b>6</b></td><td><b>Cuando el mercado falla.</b> Externalidades, bienes públicos e información asimétrica, y cómo comparar soluciones.</td></tr>
+<tr><td><b>7</b></td><td><b>El laboratorio pericial.</b> Vuestro gabinete prepara el informe.</td></tr>
+<tr><td><b>8</b></td><td><b>La vista pericial.</b> Ratificáis el informe ante la Comisión de Competencia.</td></tr>
+<tr><td><b>9</b></td><td><b>Prueba escrita y autoevaluación.</b> Demuestras lo aprendido y valoras tu recorrido.</td></tr>
+</tbody></table>
