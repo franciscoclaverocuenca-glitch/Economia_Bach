@@ -2,7 +2,18 @@
 titulo: 'Sesión 5 · De la cooperación a la integración: la Unión Europea'
 ---
 
+“Pertenecer a la Unión Europea” suena a algo lejano que pasa en Bruselas. Hoy vais a comprobar que tiene efectos muy concretos en la provincia de Málaga.
+
+Y vais a entender una escalera. Cada peldaño de integración exige **ceder más soberanía** a cambio de **más beneficios conjuntos**. No es gratis, y por eso se discute.
+
 ## Guía docente · Sesión 5 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s05-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda03-s05-solucionario.pdf | Respuestas orientativas de las cuatro instituciones | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.1</td><td><b>Saberes básicos</b></td><td>C4</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell y ficha de instituciones · OD: observación del trabajo en grupo</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +42,6 @@ Cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colec
 - ¿Qué ventaja y qué inconveniente tiene compartir moneda?
 - ¿Qué perdería y qué ganaría Andalucía si España abandonara la Unión Europea?
 
-::: aviso Material que debes preparar tú
-- **Presentación de los niveles de integración** en formato escalera.
-- **Plantilla Cornell**, una por alumno/a.
-- **Cuatro fichas de institución europea**: Comisión Europea, Parlamento Europeo, Consejo de la UE y Banco Central Europeo.
-- **Mapa mudo** de la Unión Europea y de la zona euro.
-- Espacio de pizarra reservado para el **mapa colectivo** de instituciones.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Idioma y símbolos</td><td>Se amplía el glosario mural/digital de la unidad con los términos nuevos de la sesión; toda instrucción se ofrece por escrito y verbalizada, con un ejemplo resuelto antes de cada tarea.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La metáfora de la escalera hace visible una progresión abstracta, niveles crecientes de integración, y permite situar organismos reales en cada peldaño en lugar de memorizar una lista.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,21 +50,18 @@ Cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colec
 Sitúa a este alumno/a en primera fila, frente a ti y de espaldas a la ventana. Repite en voz alta cada intervención del resto de la clase antes de responderla y mantén proyectadas las instrucciones escritas durante toda la actividad.
 :::
 
-## Para empezar
-
-“Pertenecer a la Unión Europea” suena a algo lejano que pasa en Bruselas. Hoy vais a comprobar que tiene efectos muy concretos en la provincia de Málaga.
-
-Y vais a entender una escalera. Cada peldaño de integración exige **ceder más soberanía** a cambio de **más beneficios conjuntos**. No es gratis, y por eso se discute.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s05-01.webp | Portada
-sda3-s05-02.webp | La escalera
-sda3-s05-03.webp | Cooperación e integración
-sda3-s05-04.webp | El taller
-sda3-s05-05.webp | El presupuesto europeo
-sda3-s05-06.webp | Síntesis individual
+sda3-s05-01.webp | De la cooperación a la integración
+sda3-s05-02.webp | Cooperar no es integrarse
+sda3-s05-03.webp | Cuatro peldaños de integración
+sda3-s05-04.webp | Quién decide en la UE
+sda3-s05-05.webp | ¿Qué hace la UE por Málaga?
+sda3-s05-06.webp | La UE en Andalucía
+sda3-s05-07.webp | De dónde sale y adónde va
+sda3-s05-08.webp | No es «¿nos compensa?», sino «¿en qué nos compensa y en qué no?».
+sda3-s05-09.webp | En una frase
 ```
 
 ## La escalera y el taller de instituciones
@@ -76,13 +76,43 @@ La **ONU**, la **OMC** y el **FMI** son organismos de **cooperación** internaci
 
 ### Vuestra ficha de institución
 
-<table><thead><tr><th width="6%"></th><th width="94%">Qué tenéis que completar</th></tr></thead><tbody><tr><td>1</td><td>Su función principal, en <b>una frase</b>.</td></tr><tr><td>2</td><td>Un ejemplo <b>real y verificable</b> de cómo afecta a la vida económica de Andalucía.</td></tr><tr><td>3</td><td>Una <b>ventaja</b> y un <b>inconveniente</b> de pertenecer a la Unión Europea y a la moneda única.</td></tr></tbody></table>
+Cada grupo recibe una institución: **Comisión Europea, Parlamento Europeo, Consejo de la UE o Banco Central Europeo**. Tenéis que completar su función en una frase, un ejemplo real de cómo afecta a la economía andaluza, y una ventaja y un inconveniente de pertenecer a la UE y al euro.
+
+```descargas
+sda03-s05-fichas-instituciones.pdf | Fichas de las cuatro instituciones | Una por grupo, con la información básica y el espacio para responder
+sda03-s05-mapa-colectivo.pdf | Mapa colectivo de la UE | Para completar durante las exposiciones
+```
 
 ::: aviso Pistas para el punto 2
 Los **fondos FEDER** que financian infraestructuras. La **Política Agraria Común** que subvenciona el olivar. Las **normas del mercado único** que permiten exportar aceite de oliva sin aranceles dentro de la UE. Todo eso son ejemplos reales y verificables.
 :::
 
-Después, cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colectivo en la pizarra.
+Después, cada Portavoz expone en **90 segundos** mientras el resto completa el mapa colectivo.
+
+## Practica · ¿Cooperación o integración?
+
+```actividad
+id: sda03-s05-cooperacion
+tipo: clasificar
+instrucciones: ¿Los Estados conservan todas sus competencias (cooperación) o ceden parte a instituciones comunes (integración)?
+categorias:
+  - nombre: Cooperación
+    elementos:
+      - texto: Organización de las Naciones Unidas (ONU)
+        explicacion: Los Estados acuerdan, pero no ceden soberanía.
+      - texto: Organización Mundial del Comercio (OMC)
+        explicacion: Fija reglas del comercio, pero cada país mantiene su política comercial.
+      - texto: Fondo Monetario Internacional (FMI)
+        explicacion: Presta y asesora, sin moneda ni leyes comunes.
+  - nombre: Integración
+    elementos:
+      - texto: Unión Europea
+        explicacion: Mercado único, leyes comunes e instituciones propias.
+      - texto: Mercosur
+        explicacion: Unión aduanera con arancel exterior común.
+      - texto: Zona euro
+        explicacion: Moneda única y un banco central común, el BCE.
+```
 
 ## Apuntes de la sesión
 
@@ -104,9 +134,9 @@ Cada peldaño **exige ceder más soberanía a cambio de más beneficios conjunto
 
 ### 4. El presupuesto europeo
 
-**De dónde procede.** aportaciones de los Estados miembros, aranceles comunes sobre las importaciones de fuera de la UE, y un porcentaje del IVA recaudado.
+**De dónde procede.** Aportaciones de los Estados miembros, aranceles comunes sobre las importaciones de fuera de la UE, y un porcentaje del IVA recaudado.
 
-**En qué se invierte mayoritariamente.** política agraria y política de cohesión territorial. Son las dos grandes partidas, y las dos afectan directamente a Andalucía, que es **una de las regiones españolas que más fondos europeos recibe** por su nivel de renta relativo.
+**En qué se invierte mayoritariamente.** Política agraria y política de cohesión territorial. Son las dos grandes partidas, y las dos afectan directamente a Andalucía, que es **una de las regiones españolas que más fondos europeos recibe** por su nivel de renta relativo.
 
 ::: aviso Y también tiene costes
 Pertenecer a la UE implica ceder soberanía, aceptar normas comunes que no siempre encajan con la situación local, y aportar al presupuesto. La pregunta seria no es “¿nos compensa?”, sino **“¿en qué nos compensa y en qué no?”**.
@@ -114,7 +144,31 @@ Pertenecer a la UE implica ceder soberanía, aceptar normas comunes que no siemp
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Integración económica</b></td><td>Proceso por el que varios países ceden competencias a instituciones comunes.</td></tr><tr><td><b>Unión aduanera</b></td><td>Zona de libre comercio con arancel exterior común frente a terceros.</td></tr><tr><td><b>Mercado único</b></td><td>Espacio de libre circulación de bienes, servicios, capitales y personas.</td></tr><tr><td><b>Fondos FEDER</b></td><td>Fondos europeos de desarrollo regional destinados a reducir desequilibrios territoriales.</td></tr><tr><td><b>Política Agraria Común</b></td><td>Política europea de apoyo al sector agrario, con gran peso en el presupuesto.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Cooperación económica</b></td><td>Acuerdos entre Estados que colaboran sin ceder competencias. La ONU, la OMC o el FMI son organismos de cooperación.</td></tr>
+<tr><td><b>Integración económica</b></td><td>Proceso por el que varios países ceden parte de su soberanía a instituciones comunes a cambio de beneficios conjuntos.</td></tr>
+<tr><td><b>Zona de libre comercio</b></td><td>Grupo de países que elimina los aranceles entre ellos, pero cada uno mantiene los suyos frente a terceros.</td></tr>
+<tr><td><b>Unión aduanera</b></td><td>Zona de libre comercio con un arancel exterior común frente a terceros países.</td></tr>
+<tr><td><b>Mercado único</b></td><td>Espacio con libre circulación de bienes, servicios, capitales y personas. El de la UE funciona desde 1993.</td></tr>
+<tr><td><b>Unión económica y monetaria</b></td><td>Mercado único con moneda y política monetaria comunes. La zona euro es el ejemplo.</td></tr>
+<tr><td><b>Soberanía</b></td><td>Capacidad de un Estado de decidir por sí mismo. Integrarse supone compartir parte de ella.</td></tr>
+<tr><td><b>Fondos FEDER</b></td><td>Fondo Europeo de Desarrollo Regional. Financia infraestructuras, innovación y empleo en las regiones con menos renta.</td></tr>
+<tr><td><b>Política Agraria Común (PAC)</b></td><td>Política de la UE que apoya la renta de los agricultores y regula el sector. El olivar andaluz recibe una parte importante.</td></tr>
+<tr><td><b>Banco Central Europeo (BCE)</b></td><td>Institución que fija los tipos de interés y vela por la estabilidad de precios en la zona euro.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=TMpU-SMfRWI | Integración económica: los bloques regionales | Econosublime · 6:36
+https://www.youtube.com/watch?v=ZMfJxSz2Zas | La Unión Europea y la Unión Económica y Monetaria | Econosublime · 8:49
+```
+
+## Cierre
+
+Síntesis individual en tu cuaderno: **escribe en UNA frase qué perdería y qué ganaría Andalucía si España abandonara la Unión Europea.**
+
+Una frase, con las dos cosas. Es más difícil de lo que parece, y por eso se pregunta.
 
 ## Comprueba lo que sabes
 
@@ -141,9 +195,3 @@ preguntas:
   respuesta: verdadero
   explicacion: '**Verdadero.** Por su nivel de renta relativo, a través sobre todo de la política de cohesión y de la Política Agraria Común.'
 ```
-
-## Cierre
-
-Síntesis individual para el Cornell: **escribe en UNA frase qué perdería y qué ganaría Andalucía si España abandonara la Unión Europea.**
-
-Una frase, con las dos cosas. Es más difícil de lo que parece, y por eso se pregunta.

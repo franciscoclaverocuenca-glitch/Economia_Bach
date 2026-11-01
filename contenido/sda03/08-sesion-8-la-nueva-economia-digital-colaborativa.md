@@ -2,7 +2,17 @@
 titulo: 'Sesión 8 · La nueva economía: digital, colaborativa y circular'
 ---
 
+Málaga es hoy uno de los principales polos tecnológicos del sur de Europa. Y eso no es una frase de folleto: son cifras.
+
+Hoy vais a trabajar **cuatro caras** de la nueva economía en un puzle cooperativo. Cada uno se especializa en una y se la enseña al resto de su grupo. Si tú no la explicas, tu grupo no la sabe.
+
 ## Guía docente · Sesión 8 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s08-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo práctico (Puzle de Aronson)</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>E2</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Puzle de Aronson (grupos de expertos)</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>P: ficha de experto y Cornell · OD: observación del puzle cooperativo · C: cuestionario de consolidación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,15 +39,6 @@ El **grupo 4** es el que más impacta, porque habla literalmente de su futuro la
 - ¿Qué inconvenientes tiene la economía colaborativa en una zona turística como la Costa del Sol?
 - ¿Qué diferencia hay entre un dato agregado y un caso particular?
 
-::: aviso Material que debes preparar tú
-- **Datos reales y verificados del Málaga TechPark**: 719 empresas, cerca de 29.000 profesionales, 73 empresas de capital extranjero de 22 países, más de 255 millones de euros invertidos en I+D, y el proyecto de la planta de semiconductores de IMEC (615 millones de euros de inversión y 450 empleos previstos desde 2027).
-- **4 fichas de experto**: economía colaborativa, economía circular, plataformas digitales y empleo en la era digital.
-- **Datos para la ficha 4**: el 78 % de las empresas tecnológicas españolas no logra cubrir sus vacantes (ManpowerGroup) y faltan cerca de 4,8 millones de profesionales de ciberseguridad en el mundo (ISC2, 2024).
-- **El dato de Ebury** para el cierre: 267 personas empleadas de 25 nacionalidades, más de la mitad mujeres.
-- **Plantilla Cornell** y cuestionario de consolidación.
-- **Actualiza todas las cifras** antes de impartir. Son las más volátiles de la unidad.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>El puzle obliga a reformular el contenido con palabras propias para enseñarlo a los compañeros, que es una de las estrategias de consolidación más eficaces; cada ficha incluye datos concretos además de la explicación conceptual.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>Los datos sobre vacantes tecnológicas sin cubrir hablan directamente del itinerario formativo que el alumnado está a punto de elegir, lo que convierte el contenido en información personalmente relevante.</td></tr></tbody></table>
@@ -46,29 +47,34 @@ El **grupo 4** es el que más impacta, porque habla literalmente de su futuro la
 La fase de expertos y la vuelta al grupo base generan conversación simultánea de todos los grupos. Sitúa a este alumno/a en la zona más alejada, entrégale su ficha de experto por escrito con antelación para que pueda prepararla, y pide a su grupo que en la vuelta se hable de uno en uno y de frente.
 :::
 
-## Para empezar
-
-Málaga es hoy uno de los principales polos tecnológicos del sur de Europa. Y eso no es una frase de folleto: son cifras.
-
-Hoy vais a trabajar **cuatro caras** de la nueva economía en un puzle cooperativo. Cada uno se especializa en una y se la enseña al resto de su grupo. Si tú no la explicas, tu grupo no la sabe.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s08-01.webp | Portada
-sda3-s08-02.webp | Málaga, laboratorio
-sda3-s08-03.webp | El puzle
-sda3-s08-04.webp | Los cuatro expertos
-sda3-s08-05.webp | Los datos del experto 4
-sda3-s08-06.webp | El dato positivo
-sda3-s08-07.webp | Dato agregado y caso particular
+sda3-s08-01.webp | La nueva economía
+sda3-s08-02.webp | Las cifras del Málaga TechPark
+sda3-s08-03.webp | Si tú no lo explicas, tu grupo no lo sabe.
+sda3-s08-04.webp | Un experto por tema
+sda3-s08-05.webp | Tres fases
+sda3-s08-06.webp | Dos modelos de producir
+sda3-s08-07.webp | El efecto de red
+sda3-s08-08.webp | Sobran vacantes tecnológicas y falta gente cualificada. ¿De quién…
+sda3-s08-09.webp | Volvemos a la pregunta de la sesión 3
+sda3-s08-10.webp | Un caso no desmiente una estadística
 ```
 
 ## Puzle de Aronson: cuatro caras de la nueva economía
 
 ### Los datos de partida
 
-<table><thead><tr><th width="50%">Dato</th><th width="50%">Cifra</th></tr></thead><tbody><tr><td>Empresas en el Málaga TechPark</td><td>719</td></tr><tr><td>Profesionales</td><td>Cerca de 29.000</td></tr><tr><td>Empresas de capital extranjero</td><td>73, de 22 países</td></tr><tr><td>Inversión en I+D en el último ejercicio</td><td>Más de 255 millones de euros</td></tr><tr><td>Planta de semiconductores de IMEC</td><td>615 millones de euros · 450 empleos previstos desde 2027</td></tr></tbody></table>
+<table><thead><tr><th width="50%">Dato</th><th width="50%">Cifra</th></tr></thead><tbody><tr><td>Empresas en el Málaga TechPark</td><td>719</td></tr><tr><td>Profesionales</td><td>Cerca de 29.000</td></tr><tr><td>Empresas de capital extranjero</td><td>73, de 22 países</td></tr><tr><td>Inversión en I+D en el último ejercicio</td><td>Más de 255 millones de euros</td></tr><tr><td>Centro de chips de IMEC</td><td>Unos 615 millones de euros · obras desde 2027 · unos 200 empleos directos en Málaga</td></tr></tbody></table>
+
+```descargas
+sda03-s08-ficha-experto-colaborativa.pdf | Ficha de experto 1: economía colaborativa | Para el especialista 1
+sda03-s08-ficha-experto-circular.pdf | Ficha de experto 2: economía circular | Para el especialista 2
+sda03-s08-ficha-experto-plataformas.pdf | Ficha de experto 3: plataformas digitales | Para el especialista 3
+sda03-s08-ficha-experto-empleo.pdf | Ficha de experto 4: empleo y renta | Para el especialista 4
+sda03-s08-tabla-puzzle.pdf | Tabla del puzzle | Una por persona, para el portafolio
+```
 
 ### Las cuatro fichas de experto
 
@@ -83,7 +89,7 @@ Si sobran vacantes y falta gente cualificada, **¿de quién es la responsabilida
 Retomamos la **pregunta abierta de la sesión 3** sobre la infrarrepresentación femenina en la empresa exportadora. Y la contrastamos con un dato positivo y muy cercano.
 
 ::: aviso El caso de Ebury
-En **Ebury**, empresa de tecnología financiera instalada en el Málaga TechPark, conviven **267 personas empleadas de 25 nacionalidades distintas**. Y **más de la mitad son mujeres**.
+En **Ebury**, empresa de tecnología financiera con su gran centro de operaciones en Málaga, trabajan cerca de **300 personas de más de 25 nacionalidades**. Y, según la propia empresa, **más de la mitad son mujeres**.
 :::
 
 “Si en el conjunto del sector tecnológico las mujeres siguen siendo minoría, pero en esta empresa concreta son mayoría, ¿qué condiciones creéis que pueden explicar la diferencia?”
@@ -102,7 +108,7 @@ Esa competencia os va a hacer falta en vuestra campaña. Un dato particular pres
 
 Los datos del Málaga TechPark no son una anécdota local: sitúan a la ciudad como uno de los principales polos tecnológicos del sur de Europa, con 719 empresas, cerca de 29.000 profesionales, 73 empresas de capital extranjero procedentes de 22 países y más de 255 millones de euros invertidos en I+D.
 
-Y el proyecto de la planta de semiconductores de **IMEC** (615 millones de euros de inversión y 450 empleos previstos desde 2027) conecta directamente con la cadena de valor del móvil que estudiasteis ayer. Los semiconductores eran el cuello de botella estratégico.
+Y el proyecto de la planta de semiconductores de **IMEC** (unos 615 millones de euros, con obras a partir de 2027 y unos 200 empleos directos de alta cualificación en Málaga) conecta directamente con la cadena de valor del móvil que estudiasteis ayer. Los semiconductores eran el cuello de botella estratégico.
 
 ### 2. Las cuatro caras de la nueva economía
 
@@ -119,7 +125,7 @@ No es que falte empleo. Es que **faltan perfiles** con la cualificación que se 
 
 ### 4. Dato agregado y caso particular
 
-En la sesión 3 quedó abierta la pregunta sobre la infrarrepresentación femenina en la empresa exportadora. Hoy aparece un dato que apunta en dirección contraria: en **Ebury**, empresa de tecnología financiera del Málaga TechPark, trabajan 267 personas de 25 nacionalidades y **más de la mitad son mujeres**.
+En la sesión 3 quedó abierta la pregunta sobre la infrarrepresentación femenina en la empresa exportadora. Hoy aparece un dato que apunta en dirección contraria: en **Ebury**, empresa de tecnología financiera con su gran centro de operaciones en Málaga, trabajan cerca de 300 personas de más de 25 nacionalidades y, según la propia empresa, **más de la mitad son mujeres**.
 
 ¿Se contradicen los dos datos? **No.** Uno es un **dato agregado**, lo que ocurre en el conjunto de un sector, y otro es un **caso particular**, lo que ocurre en una empresa concreta. Ninguno invalida al otro.
 
@@ -131,7 +137,27 @@ Confundir un caso particular con una tendencia general es uno de los errores má
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Economía colaborativa</b></td><td>Modelo basado en plataformas que permiten compartir bienes o servicios entre particulares.</td></tr><tr><td><b>Economía circular</b></td><td>Modelo que busca reducir, reutilizar y reciclar frente al modelo lineal.</td></tr><tr><td><b>Efecto de red</b></td><td>Fenómeno por el que un servicio gana valor cuantas más personas lo usan.</td></tr><tr><td><b>Mercado de dos caras</b></td><td>Plataforma que pone en contacto a dos grupos distintos de usuarios.</td></tr><tr><td><b>Dato agregado</b></td><td>Cifra que describe el conjunto de un sector o población.</td></tr><tr><td><b>Caso particular</b></td><td>Situación concreta que puede diferir del dato agregado sin invalidarlo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Nueva economía</b></td><td>Conjunto de cambios que la tecnología digital ha traído a la forma de producir, vender, trabajar y consumir.</td></tr>
+<tr><td><b>Economía colaborativa</b></td><td>Intercambio o uso compartido de bienes y servicios entre particulares a través de plataformas: alojamiento, coche compartido, objetos de segunda mano.</td></tr>
+<tr><td><b>Economía circular</b></td><td>Modelo que busca que los productos y materiales se mantengan en uso el mayor tiempo posible: reducir, reutilizar, reparar y reciclar, frente al modelo lineal de producir, usar y tirar.</td></tr>
+<tr><td><b>Economía ecológica</b></td><td>Enfoque que estudia la economía como parte de la naturaleza, con límites físicos de recursos y de capacidad para absorber residuos.</td></tr>
+<tr><td><b>Plataforma digital</b></td><td>Empresa que conecta a dos grupos (vendedores y compradores, conductores y pasajeros) y cobra por facilitar el encuentro.</td></tr>
+<tr><td><b>Efecto de red</b></td><td>Un servicio vale más cuantas más personas lo usan. Explica por qué unas pocas plataformas dominan su mercado.</td></tr>
+<tr><td><b>Brecha digital</b></td><td>Diferencia entre quienes tienen acceso y habilidades digitales y quienes no. Puede ser por edad, renta, territorio o género.</td></tr>
+<tr><td><b>Vacante</b></td><td>Puesto de trabajo que una empresa quiere cubrir y no encuentra a quién contratar.</td></tr>
+<tr><td><b>Dato agregado</b></td><td>Lo que ocurre en un conjunto (un sector, un país). Se diferencia de un caso particular, lo que ocurre en una empresa o persona concreta.</td></tr>
+<tr><td><b>I+D</b></td><td>Investigación y desarrollo. Gasto en crear conocimiento y tecnología nuevos. Es una de las claves del crecimiento a largo plazo.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=8HpBeRQ15zg | Qué es la digitalización. Tecnologías emergentes | Econosublime · 6:53
+https://www.youtube.com/watch?v=5UaESH8NKAo | El impacto de la digitalización en la economía y sus retos | Econosublime · 9:14
+https://www.youtube.com/watch?v=Cmq69OgOUfo | ¿Qué es la economía colaborativa? | En Minutos · 4:23
+https://www.youtube.com/watch?v=wc_65-yf6zU | ¿En qué consiste la economía circular? | ACCIONA · 2:15
+```
 
 ## Comprueba lo que sabes
 

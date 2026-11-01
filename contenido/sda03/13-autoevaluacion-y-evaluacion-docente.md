@@ -8,6 +8,10 @@ titulo: Autoevaluación y Evaluación docente
 
 <table><thead><tr><th width="6%"></th><th width="94%">Qué se te pide</th></tr></thead><tbody><tr><td>1</td><td>Sitúate en los niveles de las rúbricas de los criterios <b>1.1</b>, <b>5.1</b> y <b>5.2</b>, justificando con <b>evidencias concretas</b> de tu propio trabajo a lo largo de la unidad.</td></tr><tr><td>2</td><td>Relee el <b>cuestionario diagnóstico de la sesión 1</b> y compara tus respuestas de entonces con las que darías hoy.</td></tr><tr><td>3</td><td>Propón un aspecto concreto de mejora.</td></tr></tbody></table>
 
+```descargas
+sda03-s13-autoevaluacion.pdf | Ficha de autoevaluación | Versión en papel, con el contraste del diagnóstico
+```
+
 ### Las seis preguntas del primer día
 
 <table><thead><tr><th width="40%">Pregunta</th><th width="30%">Lo que respondí entonces</th><th width="30%">Lo que respondería hoy</th></tr></thead><tbody><tr><td>¿Qué es la globalización?</td><td></td><td></td></tr><tr><td>¿Qué es un arancel?</td><td></td><td></td></tr><tr><td>¿Qué es la UE para la economía española?</td><td></td><td></td></tr><tr><td>¿Conoces algún producto andaluz que se exporte?</td><td></td><td></td></tr><tr><td>¿Has oído hablar de los ODS?</td><td></td><td></td></tr><tr><td>¿Se puede crecer para siempre?</td><td></td><td></td></tr></tbody></table>

@@ -2,7 +2,19 @@
 titulo: Sesión 7 · La cadena que da la vuelta al mundo
 ---
 
+Sacad el móvil. Ese objeto que lleváis en el bolsillo es la globalización hecha cosa.
+
+“¿En qué país se diseñó? ¿En cuáles se fabricaron sus componentes? ¿Dónde se ensambló? ¿Y desde dónde ha llegado hasta Málaga?”
+
+Hoy empieza el **Bloque B** de la unidad. Los grandes retos de la economía actual.
+
 ## Guía docente · Sesión 7 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s07-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo conceptual (apertura del Bloque B) · sesión coordinada con HMC</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>E1</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>OD: observación del mapeo cooperativo · C: cuestionario sobre factores, oportunidades y riesgos · Co.Ev.: coevaluación de los mapas expuestos</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,14 +41,6 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 - ¿Qué oportunidad y qué riesgo veis en vuestro ámbito?
 - ¿Cómo puede ser que la globalización haya reducido la pobreza y que la pobreza siga siendo el primer ODS?
 
-::: aviso Material que debes preparar tú
-- **Un objeto cotidiano real**: el propio smartphone del alumnado, o uno genérico proyectado.
-- **Mapa mudo mundial** y tarjetas de países-eslabón para reconstruir la cadena de valor.
-- **Presentación de los factores** de la globalización.
-- **4 tarjetas de ámbito** (comercio, finanzas, cultura, medioambiente) en formato grande para colgar en la pared.
-- **Post-its** para la fase de galería.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El punto de partida es un objeto que todo el alumnado lleva encima. La globalización deja de ser un concepto abstracto y se convierte en algo que se puede sostener en la mano.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La fase de galería permite aportar por escrito mediante post-it, una vía de participación que no exige intervención oral ante el gran grupo.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -45,35 +49,33 @@ Presenta después, de forma simplificada, una cadena de valor global real de la 
 La fase de galería implica circulación y conversaciones simultáneas. Sitúa la tarjeta del grupo de este alumno/a en la zona más alejada, y en la puesta en común final exige que quien interviene lo haga de pie, de frente y de uno en uno.
 :::
 
-## Para empezar
-
-Sacad el móvil. Ese objeto que lleváis en el bolsillo es la globalización hecha cosa.
-
-“¿En qué país se diseñó? ¿En cuáles se fabricaron sus componentes? ¿Dónde se ensambló? ¿Y desde dónde ha llegado hasta Málaga?”
-
-Hoy empieza el **Bloque B** de la unidad. Los grandes retos de la economía actual.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s07-01.webp | Portada
-sda3-s07-02.webp | Diseca tu móvil
-sda3-s07-03.webp | La cadena de valor global
-sda3-s07-04.webp | Los factores
-sda3-s07-05.webp | Oportunidades y riesgos
-sda3-s07-06.webp | La galería
-sda3-s07-07.webp | El otro lado
+sda3-s07-01.webp | La cadena que da la vuelta al mundo
+sda3-s07-02.webp | ¿Dónde se diseñó? ¿Dónde se hicieron sus piezas? ¿Dónde se montó?…
+sda3-s07-03.webp | Las fases de un móvil
+sda3-s07-04.webp | Valor añadido
+sda3-s07-05.webp | Tres factores de la globalización
+sda3-s07-06.webp | La globalización no le ocurrió al mundo: el mundo la decidió.
+sda3-s07-07.webp | Oportunidades y riesgos
+sda3-s07-08.webp | Pobreza y globalización
+sda3-s07-09.webp | Ni celebrar ni rechazar en bloque
 ```
 
 ## Diseca tu móvil y la galería de oportunidades y riesgos
 
 ### La cadena de valor global
 
-<table><thead><tr><th width="24%">Fase</th><th width="32%">Dónde ocurre</th><th width="44%">Cuánto valor añadido genera</th></tr></thead><tbody><tr><td><b>Diseño</b></td><td>En un país</td><td>Mucho. Ingeniería, software y marca concentran el grueso del valor</td></tr><tr><td><b>Semiconductores</b></td><td>En muy pocos países del mundo</td><td>Alto, y son un cuello de botella estratégico</td></tr><tr><td><b>Ensamblaje final</b></td><td>Donde los costes laborales son menores</td><td>Poco, aunque es la fase que más empleo emplea</td></tr><tr><td><b>Distribución</b></td><td>Mundial</td><td>El mismo modelo llega a Málaga, a Bogotá y a Yakarta</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Fase</th><th width="32%">Dónde ocurre</th><th width="44%">Cuánto valor añadido genera</th></tr></thead><tbody><tr><td><b>Diseño</b></td><td>En un país</td><td>Mucho. Ingeniería, software y marca concentran el grueso del valor</td></tr><tr><td><b>Semiconductores</b></td><td>En muy pocos países del mundo</td><td>Alto, y son un cuello de botella estratégico</td></tr><tr><td><b>Ensamblaje final</b></td><td>Donde los costes laborales son menores</td><td>Poco, aunque es la fase que más empleo genera</td></tr><tr><td><b>Distribución</b></td><td>Mundial</td><td>El mismo modelo llega a Málaga, a Bogotá y a Yakarta</td></tr></tbody></table>
+
+```descargas
+sda03-s07-mapa-movil.pdf | El mapa de tu móvil | Mapa mudo del mundo y ficha de la cadena de valor
+```
 
 ### Los factores que explican la globalización
 
-<table><thead><tr><th width="30%">Factor</th><th width="38%">En qué consiste</th><th width="32%">¿Cómo se ve en el móvil?</th></tr></thead><tbody><tr><td><b>Caída de los costes de transporte y comunicación</b></td><td>El contenedor, el transporte aéreo barato e internet</td><td></td></tr><tr><td><b>Liberalización del comercio y de los capitales</b></td><td>Décadas de acuerdos para reducir aranceles y permitir que el dinero cruce fronteras</td><td></td></tr><tr><td><b>Multinacionales y nuevas tecnologías</b></td><td>Empresas capaces de organizar la producción en varios continentes a la vez</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="34%">Factor</th><th width="66%">En qué consiste</th></tr></thead><tbody><tr><td><b>Caída de los costes de transporte y comunicación</b></td><td>El contenedor, el transporte aéreo barato e internet</td></tr><tr><td><b>Liberalización del comercio y de los capitales</b></td><td>Décadas de acuerdos para reducir aranceles y permitir que el dinero cruce fronteras</td></tr><tr><td><b>Multinacionales y nuevas tecnologías</b></td><td>Empresas capaces de organizar la producción en varios continentes a la vez</td></tr></tbody></table>
 
 ::: aviso Un matiz importante
 La liberalización **no fue un fenómeno espontáneo**: fueron decisiones políticas, tomadas por gobiernos concretos a lo largo de décadas. La globalización no le ocurrió al mundo: el mundo la decidió.
@@ -81,7 +83,11 @@ La liberalización **no fue un fenómeno espontáneo**: fueron decisiones polít
 
 ### Vuestro ámbito
 
-<table><thead><tr><th width="24%">Ámbito</th><th width="38%">Una oportunidad real</th><th width="38%">Un riesgo real</th></tr></thead><tbody><tr><td>COMERCIO</td><td></td><td></td></tr><tr><td>FINANZAS</td><td></td><td></td></tr><tr><td>CULTURA</td><td></td><td></td></tr><tr><td>MEDIOAMBIENTE</td><td></td><td></td></tr></tbody></table>
+Cada grupo recibe un ámbito: **comercio, finanzas, cultura o medioambiente**. En su tarjeta escribe una oportunidad real y un riesgo real de la globalización en ese ámbito.
+
+```descargas
+sda03-s07-tarjetas-ambito.pdf | Tarjetas de la galería | Una por ámbito, para pegar en la pared
+```
 
 Apoyaos en ejemplos **ya trabajados en la unidad**: el Málaga TechPark como oportunidad de empleo cualificado, o la dependencia de un único mercado de exportación como riesgo.
 
@@ -117,7 +123,25 @@ Sostener las dos afirmaciones al mismo tiempo, sin caer ni en la celebración ac
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Cadena de valor global</b></td><td>Conjunto de fases de producción de un bien repartidas entre varios países.</td></tr><tr><td><b>Valor añadido</b></td><td>Valor que cada fase de la producción suma al producto.</td></tr><tr><td><b>Deslocalización</b></td><td>Traslado de fases de la producción a países con costes menores.</td></tr><tr><td><b>Pobreza extrema</b></td><td>Situación de quienes viven por debajo del umbral internacional de subsistencia.</td></tr><tr><td><b>Agenda 2030</b></td><td>Plan de acción de Naciones Unidas con 17 Objetivos de Desarrollo Sostenible.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Globalización</b></td><td>Interdependencia creciente entre las economías del mundo. Tiene una dimensión comercial, financiera, tecnológica, cultural y ambiental.</td></tr>
+<tr><td><b>Cadena de valor global</b></td><td>Reparto entre varios países de las fases de producción de un bien: diseño, componentes, ensamblaje, distribución y venta.</td></tr>
+<tr><td><b>Valor añadido</b></td><td>Lo que cada fase suma al valor final del producto. El diseño y la marca añaden mucho; el ensamblaje, poco.</td></tr>
+<tr><td><b>Semiconductor</b></td><td>Componente electrónico (chip) imprescindible en casi cualquier aparato. Se fabrica en muy pocos países y es un punto débil de la cadena.</td></tr>
+<tr><td><b>Cuello de botella</b></td><td>Fase de la producción que, si falla, detiene todo lo demás. La escasez de chips de 2021 paró fábricas de coches en todo el mundo.</td></tr>
+<tr><td><b>Liberalización</b></td><td>Eliminación de barreras al comercio de bienes y a la circulación de capitales. Fue el resultado de decisiones políticas durante décadas.</td></tr>
+<tr><td><b>Multinacional</b></td><td>Empresa que organiza su producción y sus ventas en varios países desde una sede central.</td></tr>
+<tr><td><b>Deslocalización</b></td><td>Traslado de una fase de la producción a otro país, normalmente para reducir costes.</td></tr>
+<tr><td><b>Pobreza extrema</b></td><td>Vivir con menos de 3 dólares al día (umbral del Banco Mundial desde 2025). La proporción de personas en esa situación ha caído mucho desde 1990, pero sigue siendo el primer ODS.</td></tr>
+<tr><td><b>Desigualdad</b></td><td>Diferencias de renta o riqueza entre personas o entre países. La globalización ha reducido la desigualdad entre países en algunos casos y la ha aumentado dentro de muchos de ellos.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=BxagcplV-LU | Qué es la globalización: ámbitos, ventajas e inconvenientes | Econosublime · 7:08
+https://www.youtube.com/watch?v=YTUYap_aY4Y | Qué es la deslocalización y qué efecto tiene | Econosublime · 3:32
+```
 
 ## Comprueba lo que sabes
 

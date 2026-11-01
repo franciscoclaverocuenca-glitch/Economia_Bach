@@ -2,7 +2,18 @@
 titulo: 'Sesión 3 · Por qué comerciamos: ventaja absoluta y comparativa'
 ---
 
+Un dato para empezar: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**. Es la región líder mundial en ventas de “oro líquido”, y Málaga aporta alrededor del 15 % de esa cifra andaluza.
+
+Con ese dato encima de la mesa vamos a entender por qué los países comercian. Y vais a descubrir algo contraintuitivo: **a un país le interesa comerciar aunque sea mejor que el otro produciendo absolutamente todo**.
+
 ## Guía docente · Sesión 3 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s03-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda03-s03-solucionario.pdf | Solucionario de las seis tarjetas | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Actividad de desarrollo teórico-práctico</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.1</td><td><b>Saberes básicos</b></td><td>C4</td></tr><tr><td><b>Agrupamiento</b></td><td>Individual → Parejas → Cuartetos</td><td><b>Carácter</b></td><td>Formativa (evidencia de portafolio y de coevaluación)</td></tr><tr><td><b>Instrumentos</b></td><td>P: apuntes Cornell y pasaporte de respuestas del Rally · OD: observación docente durante el Rally · Co.Ev.: escala de dedos (1-4)</td><td><b>Duración</b></td><td>58 minutos</td></tr></tbody></table>
 
@@ -29,15 +40,6 @@ La **tarjeta 1** es la clave conceptual. Un país más eficiente en todo sigue t
 - ¿Qué riesgo asume una región que se especializa al máximo en un único producto?
 - Si la ventaja comparativa no depende del género, ¿por qué las mujeres son minoría al frente de las empresas exportadoras?
 
-::: aviso Material que debes preparar tú
-- **Presentación de conceptos** con los datos del aceite de oliva andaluz verificados.
-- **Plantilla Cornell**, una por alumno/a.
-- **6 tarjetas de reto** para repartir por el aula, y un **“pasaporte” de respuestas** por pareja.
-- **Ruleta digital** para la fase 4.
-- **Datos del programa ICEX “Internacionalizarse en Femenino”** (2024) y del grupo de trabajo “Mujer e Internacionalización” (desde 2021), para el cierre transversal.
-- Espacio que permita circular: el rally requiere levantarse.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Representación</b> · Comprensión</td><td>La ventaja comparativa se modela primero con un caso real y reconocible (el aceite andaluz) y solo después con países imaginarios y cifras abstractas, de modo que el concepto llegue anclado a algo conocido.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La estructura 1-2-4 permite pensar primero en solitario, contrastar después en pareja y solo finalmente exponer en cuarteto: tres niveles crecientes de exposición.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -46,23 +48,19 @@ La **tarjeta 1** es la clave conceptual. Un país más eficiente en todo sigue t
 El rally implica circulación y conversación simultánea de todas las parejas. Coloca la tarjeta de partida de este alumno/a en la zona más alejada del centro del aula, asegúrate de que su pareja habla de frente, y entrega las seis tarjetas también impresas para que no dependa de leerlas en la pared con ruido de fondo.
 :::
 
-## Para empezar
-
-Un dato para empezar: **Andalucía concentra el 69 % de todo el aceite de oliva que exporta España**. Es la región líder mundial en ventas de “oro líquido”, y Málaga aporta alrededor del 15 % de esa cifra andaluza.
-
-Con ese dato encima de la mesa vamos a entender por qué los países comercian. Y vais a descubrir algo contraintuitivo: **a un país le interesa comerciar aunque sea mejor que el otro produciendo absolutamente todo**.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s03-01.webp | Portada
-sda3-s03-02.webp | El dato de partida
-sda3-s03-03.webp | Las dos ventajas
-sda3-s03-04.webp | Aurora y Bóreal
-sda3-s03-05.webp | El rally 1-2-4
-sda3-s03-06.webp | Tres de las seis tarjetas
-sda3-s03-07.webp | Cierre de género
-sda3-s03-08.webp | La pregunta abierta
+sda3-s03-01.webp | ¿Por qué comerciamos?
+sda3-s03-02.webp | El oro líquido
+sda3-s03-03.webp | A un país le interesa comerciar aunque sea mejor que el otro…
+sda3-s03-04.webp | Absoluta y comparativa
+sda3-s03-05.webp | Aurora y Bóreal
+sda3-s03-06.webp | Quién se especializa en qué
+sda3-s03-07.webp | Rally 1-2-4
+sda3-s03-08.webp | Si una región se especializa al máximo en aceite y el precio…
+sda3-s03-09.webp | Un dato de género
+sda3-s03-10.webp | Siempre hay comercio posible
 ```
 
 ## Rally de transferencia “El Mapa del Comercio”
@@ -74,16 +72,25 @@ sda3-s03-08.webp | La pregunta abierta
 ::: nota El modelado: Aurora y Bóreal
 Dos países imaginarios que producen aceite de oliva y maquinaria. Calculamos el **coste de oportunidad** de cada uno en cada bien. ¿a cuánta maquinaria renuncia Aurora por cada tonelada de aceite? ¿Y Bóreal?
 
-Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debería especializarse. Usamos países imaginarios a propósito. Con cifras reales de un país concreto se induce a error.
+Quien renuncie a **menos** tiene la ventaja comparativa en ese bien, y ahí debería especializarse. Usamos países imaginarios a propósito: con cifras reales de un país concreto se induce a error.
 :::
+
+<table><thead><tr><th width="28%">En un día de trabajo</th><th width="18%">Aceite (t)</th><th width="18%">Máquinas</th><th width="36%">Coste de oportunidad</th></tr></thead><tbody><tr><td><b>Aurora</b></td><td>4</td><td>8</td><td>1 t de aceite cuesta <b>2 máquinas</b><br/>1 máquina cuesta 0,5 t de aceite</td></tr><tr><td><b>Bóreal</b></td><td>1</td><td>5</td><td>1 t de aceite cuesta <b>5 máquinas</b><br/>1 máquina cuesta <b>0,2 t</b> de aceite</td></tr></tbody></table>
+
+Aurora produce más de las dos cosas: tiene **ventaja absoluta en todo**. Pero el aceite le cuesta menos a Aurora (2 máquinas frente a 5) y la maquinaria le cuesta menos a Bóreal (0,2 t frente a 0,5). Cada uno tiene **ventaja comparativa** en un bien distinto.
 
 ### Las cuatro fases del rally
 
-<table><thead><tr><th width="24%">Fase</th><th width="62%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Lees la tarjeta-reto proyectada y anotas una idea rápida en el margen de tu Cornell.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Resolvéis, con vuestro “pasaporte” de respuestas, <b>al menos 4 de las 6</b> tarjetas repartidas por el aula.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan sus respuestas, debatiendo hasta llegar a una versión unificada.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta digital elige un cuarteto por tarjeta; el resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
+<table><thead><tr><th width="24%">Fase</th><th width="62%">Qué haces</th><th width="14%">Tiempo</th></tr></thead><tbody><tr><td><b>1 · Escaneo individual</b></td><td>Lees la tarjeta-reto proyectada y anotas una idea rápida en tu cuaderno.</td><td>5 min</td></tr><tr><td><b>2 · Rally en parejas</b></td><td>Resolvéis, con vuestro “pasaporte” de respuestas, <b>al menos 4 de las 6</b> tarjetas repartidas por el aula.</td><td>20 min</td></tr><tr><td><b>3 · Consenso en cuartetos</b></td><td>Las parejas se fusionan y contrastan sus respuestas, debatiendo hasta llegar a una versión unificada.</td><td>15 min</td></tr><tr><td><b>4 · Ruleta de expertos</b></td><td>Una ruleta digital elige un cuarteto por tarjeta; el resto coevalúa con la escala de dedos.</td><td>10 min</td></tr></tbody></table>
 
-### Tres de las seis tarjetas
+### Las seis tarjetas
 
-<table><thead><tr><th width="5%"></th><th width="60%">La tarjeta</th><th width="35%">Vuestra respuesta</th></tr></thead><tbody><tr><td>1</td><td>El país Delta es <b>más eficiente</b> que Épsilon produciendo tanto vino como maquinaria. ¿Le interesa a Delta comerciar igualmente con Épsilon? Razonadlo con el coste de oportunidad.</td><td></td></tr><tr><td>2</td><td>Andalucía concentra el 69 % de las exportaciones españolas de aceite de oliva. ¿Ventaja absoluta, comparativa, o ambas? ¿Qué otro dato necesitaríais para estar seguros?</td><td></td></tr><tr><td>3</td><td>Una región que se especializa al máximo en un único producto gana eficiencia, pero ¿qué riesgo asume si el precio mundial cae de golpe? Poned un ejemplo con el aceite.</td><td></td></tr></tbody></table>
+Seis retos repartidos por el aula: ventaja absoluta frente a comparativa, el aceite andaluz, los riesgos de especializarse, el coste de oportunidad con números y dos casos de comercio real. Resolved al menos cuatro y anotadlas en el pasaporte.
+
+```descargas
+sda03-s03-tarjetas.pdf | Las seis tarjetas del rally | Para colocar por el aula
+sda03-s03-pasaporte.pdf | Pasaporte de respuestas | Uno por pareja, con la coevaluación
+```
 
 ## Apuntes de la sesión
 
@@ -107,7 +114,13 @@ La herramienta para calcularlo la conocéis de la SdA 1: el **coste de oportunid
 
 Si Aurora, para producir una tonelada de aceite, tiene que renunciar a 2 máquinas, y Bóreal tiene que renunciar a 5, entonces el aceite le “cuesta” menos a Aurora. Aurora tiene **ventaja comparativa** en aceite, y debería especializarse en él aunque Bóreal fuera más eficiente produciendo ambas cosas.
 
-### 4. Especialización: la otra cara
+### 4. Las ganancias del comercio, con números
+
+Sin comercio, si Aurora y Bóreal reparten su día a medias, Aurora produce 2 t de aceite y 4 máquinas, y Bóreal 0,5 t y 2,5 máquinas. En total, **2,5 t de aceite y 6,5 máquinas**.
+
+Si cada uno se especializa en su ventaja comparativa, Aurora dedica el día al aceite (4 t) y Bóreal a las máquinas (5). Y aunque Aurora quiera alguna máquina, puede dedicar solo una parte de su día a fabricarlas. Por ejemplo, Aurora produce 3 t de aceite y 2 máquinas, y Bóreal, 5 máquinas: en total **3 t de aceite y 7 máquinas**. Más de las dos cosas con los mismos recursos. Esa diferencia es la **ganancia del comercio**, y se reparte entre los dos países según el precio al que intercambien.
+
+### 5. Especialización: la otra cara
 
 La especialización genera eficiencia. Pero también genera **exposición**.
 
@@ -115,7 +128,7 @@ Una región que concentra sus exportaciones en un único producto, o en un únic
 
 Es exactamente lo que vais a analizar mañana con los aranceles de 2025.
 
-### 5. El dato de género
+### 6. El dato de género
 
 ::: aviso ¿Quién exporta?
 Pese al peso creciente de las exportaciones andaluzas, las mujeres siguen **infrarrepresentadas al frente de las empresas que exportan**. Hasta el punto de que el ICEX puso en marcha en 2024 el programa **“Internacionalizarse en Femenino”**, tras un grupo de trabajo “Mujer e Internacionalización” activo desde 2021.
@@ -127,7 +140,24 @@ No cerramos la pregunta hoy. La retomamos en la **sesión 8**, con un caso que a
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Comercio internacional</b></td><td>Intercambio de bienes y servicios entre países.</td></tr><tr><td><b>Ventaja absoluta</b></td><td>Capacidad de producir un bien con menos recursos que otro país.</td></tr><tr><td><b>Ventaja comparativa</b></td><td>Capacidad de producir un bien con menor coste de oportunidad.</td></tr><tr><td><b>Coste de oportunidad</b></td><td>Aquello a lo que se renuncia al elegir una opción.</td></tr><tr><td><b>Especialización</b></td><td>Concentración de la producción en aquello en lo que se tiene ventaja comparativa.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Comercio internacional</b></td><td>Intercambio de bienes y servicios entre países. Permite consumir más de lo que un país podría producir solo.</td></tr>
+<tr><td><b>Ventaja absoluta</b></td><td>Capacidad de producir un bien con menos recursos que otro país. Fue la explicación de Adam Smith (1776).</td></tr>
+<tr><td><b>Ventaja comparativa</b></td><td>Capacidad de producir un bien con menor coste de oportunidad que otro país. La formuló David Ricardo (1817) y explica por qué siempre hay comercio posible.</td></tr>
+<tr><td><b>Coste de oportunidad</b></td><td>Aquello a lo que se renuncia al elegir una opción. En comercio, cuántas unidades de un bien deja de producir un país para producir una más del otro.</td></tr>
+<tr><td><b>Especialización</b></td><td>Concentrar la producción en aquello en lo que se tiene ventaja comparativa y comprar el resto fuera.</td></tr>
+<tr><td><b>Ganancia del comercio</b></td><td>Producción adicional que se obtiene cuando cada país se especializa y luego intercambia. Es la razón económica del comercio.</td></tr>
+<tr><td><b>Relación de intercambio</b></td><td>Precio al que se cambian los bienes entre países: cuántas máquinas da Bóreal por cada tonelada de aceite. Decide cómo se reparte la ganancia.</td></tr>
+<tr><td><b>Diversificación</b></td><td>Lo contrario de depender de un solo producto o cliente: vender cosas distintas a mercados distintos para repartir el riesgo.</td></tr>
+<tr><td><b>Internacionalización</b></td><td>Proceso por el que una empresa empieza a vender, comprar o producir fuera de su país.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=Tx8vqbnJi8A | La ventaja absoluta | Econosublime · 9:37
+https://www.youtube.com/watch?v=bhzOTwh2qHk | La ventaja comparativa | Econosublime · 7:20
+```
 
 ## Comprueba lo que sabes
 

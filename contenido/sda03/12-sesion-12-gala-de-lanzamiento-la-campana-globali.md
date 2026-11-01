@@ -2,7 +2,18 @@
 titulo: 'Sesión 12 · Gala de lanzamiento: la campaña #GlobalizAcción'
 ---
 
+Hoy el aula se convierte en una **gala de lanzamiento**. Todo el mundo presenta y todo el mundo escucha.
+
+Aquí **nadie defiende una postura frente a otra**: cada equipo informa, sensibiliza y propone.
+
 ## Guía docente · Sesión 12 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s12-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+sda03-s12-registro-docente.pdf | Registro de la gala | Solo docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Evaluar</th><th>Tipo de actividad (4.4)</th><th>Actividad de evaluación</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.1 + 5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>C4, E1, E2, E3, E4, E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Estaciones de grabación por el aula → Gran grupo</td><td><b>Carácter</b></td><td>Sumativa, instrumento integrador de los tres criterios de la SdA</td></tr><tr><td><b>Instrumentos</b></td><td>EO: narración de cada Portavoz en el podcast (3-4 min) · D: turno de preguntas del público tras cada escucha · Co.Ev.: ficha de valoración razonada del público · R: podcast, infografía y propuesta ODS entregados</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,15 +40,6 @@ Si el centro dispone de canales de difusión propios y con el visto bueno de las
 - ¿Cómo se sostendría en el tiempo?
 - ¿Qué le diríais a alguien que dijera que vuestro reto no es tan grave?
 
-::: aviso Material que debes preparar tú
-- **Guiones y bocetos de infografía terminados** por cada grupo.
-- **Un móvil o tablet por grupo** para la grabación.
-- **Cartulina o dispositivo digital** para la infografía final.
-- **Rúbrica de coevaluación** de los criterios 5.1 y 5.2, y **ficha de escucha/visionado**, una por alumno/a.
-- **Estaciones preparadas** por el aula. Mesas o rincones razonablemente tranquilos, una por grupo base. Móntalas antes de que entre el grupo.
-- **Hoja de registro simultáneo** de los cuatro instrumentos (EO, D, Co.Ev., R).
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Acción y expresión</b> · Interacción</td><td>El podcast está <b>grabado</b>, no se narra en directo. Eso permite repetir tomas y elimina la presión de la exposición oral simultánea, sin rebajar la exigencia comunicativa.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>El formato rotativo garantiza que todo el alumnado presente su propia campaña y conozca las demás, en un registro de divulgación y escucha entre iguales en lugar de competición.</td></tr><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>La rúbrica se conoce de antemano y la valoración del público es razonada y por escrito, no una votación popular, lo que evita dinámicas de popularidad.</td></tr></tbody></table>
@@ -46,21 +48,17 @@ Si el centro dispone de canales de difusión propios y con el visto bueno de las
 Sesión con escucha de audio simultánea en varias estaciones. La de mayor riesgo acústico de la unidad. Sitúa la estación de este alumno/a en el rincón más aislado, y **pide a todos los grupos que entreguen la transcripción escrita de su podcast** junto al archivo. Resuelve el problema de raíz y además mejora el producto de todos. En la ronda de preguntas cruzadas, exige que se hable de pie, de uno en uno y de frente.
 :::
 
-## Para empezar
-
-Hoy el aula se convierte en una **gala de lanzamiento**. Todo el mundo presenta y todo el mundo escucha.
-
-Y esta vez no hay tribunal ni bloques enfrentados. En la SdA 1 hubo un juicio adversarial; en la SdA 2, una cumbre de negociación. Aquí **nadie defiende una postura frente a otra**: cada equipo informa, sensibiliza y propone.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s12-01.webp | Portada
-sda3-s12-02.webp | El formato
-sda3-s12-03.webp | Cómo se desarrolla
-sda3-s12-04.webp | Vuestra ficha de escucha
-sda3-s12-05.webp | Qué se evalúa
-sda3-s12-06.webp | Y después
+sda3-s12-01.webp | Gala #GlobalizAcción
+sda3-s12-02.webp | Nadie defiende una postura frente a otra. Cada equipo informa,…
+sda3-s12-03.webp | Cuatro fases
+sda3-s12-04.webp | Ficha de escucha
+sda3-s12-05.webp | Tres tipos
+sda3-s12-06.webp | Cuatro claves
+sda3-s12-07.webp | Preguntas cruzadas
+sda3-s12-08.webp | Una campaña sensibiliza si se escucha
 ```
 
 ## Cómo funciona la Gala
@@ -69,19 +67,51 @@ sda3-s12-06.webp | Y después
 
 ### Vuestra ficha de escucha
 
-<table><thead><tr><th width="6%"></th><th width="94%">Lo que tenéis que hacer en cada estación que visitéis</th></tr></thead><tbody><tr><td>1</td><td>Escuchar el podcast <b>completo</b>. Los 3-4 minutos: no basta con asomarse.</td></tr><tr><td>2</td><td>Observar la infografía. ¿cuenta la misma historia que el podcast?</td></tr><tr><td>3</td><td>Hacer <b>al menos una pregunta</b>. Y que sea una pregunta de verdad, no un cumplido.</td></tr><tr><td>4</td><td>Anotar vuestra valoración razonada con la rúbrica de los criterios 5.1 y 5.2.</td></tr></tbody></table>
+<table><thead><tr><th width="6%"></th><th width="94%">Lo que tenéis que hacer en cada estación que visitéis</th></tr></thead><tbody><tr><td>1</td><td>Escuchar el podcast <b>completo</b>. Los 3-4 minutos: no basta con asomarse.</td></tr><tr><td>2</td><td>Observar la infografía. ¿cuenta la misma historia que el podcast?</td></tr><tr><td>3</td><td>Hacer <b>al menos una pregunta</b>. Y que sea una pregunta de verdad, no un cumplido.</td></tr><tr><td>4</td><td>Anotar vuestra valoración razonada de al menos tres campañas, con algo concreto que lo justifique.</td></tr></tbody></table>
+
+```descargas
+sda03-s12-ficha-escucha.pdf | Ficha de escucha | Para valorar al menos tres campañas
+```
 
 ::: aviso Fijaos especialmente en los datos
 ¿Cita la fuente? ¿Es verificable? ¿O es una cifra que suena bien y no se sabe de dónde sale? Lleváis once sesiones practicando exactamente eso.
 :::
 
-### Qué se evalúa
+### Lo que hace buena una campaña
 
-<table><thead><tr><th width="30%">Instrumento</th><th width="70%">Qué se valora</th></tr></thead><tbody><tr><td><b>EO</b> · narración del podcast</td><td>La intervención de cada Portavoz. Claridad, ritmo y capacidad de contar la historia en 3-4 minutos.</td></tr><tr><td><b>D</b> · turno de preguntas</td><td>La calidad de vuestras preguntas <b>y</b> de vuestras respuestas.</td></tr><tr><td><b>R</b> · las tres piezas</td><td>Podcast, infografía y propuesta ODS, con los mismos descriptores de la rúbrica general de los criterios.</td></tr><tr><td><b>Co.Ev.</b> · ficha de escucha</td><td>Vuestra valoración razonada de <b>al menos tres</b> campañas distintas de la vuestra.</td></tr></tbody></table>
+- **Una sola historia** en las tres piezas: el podcast, la infografía y la propuesta cuentan lo mismo.
+- **Datos con fuente**, dichos con honestidad y sin exagerar.
+- **Una propuesta que aterriza**: qué se hace, para quién y cómo se sostiene.
+- **Buenas preguntas y buenas respuestas** en el turno abierto.
+
+Las [rúbricas de la unidad](index.html) describen cada nivel.
 
 ::: nota Y una última posibilidad
-Si el centro dispone de canales de difusión propios y con el visto bueno de las familias, las mejores piezas podrán compartirse bajo el hashtag **#GlobalizAcción**. Una campaña que se queda en el aula sensibiliza a veintiséis personas; publicada, puede llegar bastante más lejos.
+Si el centro dispone de canales de difusión propios y con el visto bueno de las familias, las mejores piezas podrán compartirse bajo el hashtag **#GlobalizAcción**. Una campaña que se queda en el aula sensibiliza a una clase; publicada, puede llegar bastante más lejos.
 :::
+
+## Apuntes de la sesión
+
+### Escuchar para aprender
+
+La gala es también el **repaso** de la unidad. Cada campaña que escucháis trabaja un reto distinto (comercio justo, brecha digital, Estado del bienestar o sostenibilidad), y juntas recorren los dos bloques de la unidad. Anotad un dato de cada campaña: os servirá para el ensayo de la prueba escrita.
+
+### Cómo se hace una buena pregunta
+
+<table><thead><tr><th width="30%">Tipo</th><th width="70%">Ejemplo</th></tr></thead><tbody><tr><td><b>Sobre el dato</b></td><td>«¿De qué año es esa cifra y quién la publica?»</td></tr><tr><td><b>Sobre la propuesta</b></td><td>«¿Quién la pagaría y qué pasa si nadie se encarga el curso que viene?»</td></tr><tr><td><b>Sobre el otro lado</b></td><td>«¿A quién podría perjudicar vuestra propuesta?»</td></tr></tbody></table>
+
+### Glosario de la sesión
+
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Campaña de sensibilización</b></td><td>Conjunto de piezas de comunicación que buscan que un público conozca un problema y cambie su forma de pensar o de actuar.</td></tr>
+<tr><td><b>Divulgación</b></td><td>Contar un conocimiento especializado de forma clara para un público amplio, sin perder rigor.</td></tr>
+<tr><td><b>Coevaluación</b></td><td>Valoración razonada del trabajo de otros grupos, con los mismos criterios con que se valora el propio.</td></tr>
+<tr><td><b>Hashtag</b></td><td>Etiqueta precedida de # que agrupa en redes sociales los mensajes sobre un mismo tema.</td></tr>
+</tbody></table>
+
+## Cierre
+
+Entregad la ficha de escucha razonada y los tres archivos de vuestra campaña: podcast, infografía y propuesta ODS. Mañana, la prueba escrita y el cierre de la unidad.
 
 ## Comprueba lo que sabes
 
@@ -100,7 +130,7 @@ preguntas:
   explicacion: '**Falso.** Hay que escuchar el podcast **completo** y hacer al menos una pregunta antes de valorar.'
 - enunciado: Cada alumno debe valorar al menos tres campañas distintas de la propia.
   respuesta: verdadero
-  explicacion: '**Verdadero.** Es el requisito del instrumento Co.Ev., con la rúbrica de los criterios 5.1 y 5.2.'
+  explicacion: '**Verdadero.** Con una valoración razonada de cada una en la ficha de escucha.'
 - enunciado: Los podcasts que se reproducen ante todo el grupo se eligen por votación popular.
   respuesta: falso
   explicacion: '**Falso.** Los elige el docente, según el interés o las preguntas que hayan despertado. No es un concurso de popularidad.'
@@ -108,7 +138,3 @@ preguntas:
   respuesta: falso
   explicacion: '**Falso.** Se **graba** previamente en la estación, lo que permite repetir tomas. Lo que sí es en directo es el turno de preguntas.'
 ```
-
-## Cierre
-
-Entregad la ficha de escucha razonada y los tres archivos de vuestra campaña: podcast, infografía y propuesta ODS. Mañana, la prueba escrita y el cierre de la unidad.

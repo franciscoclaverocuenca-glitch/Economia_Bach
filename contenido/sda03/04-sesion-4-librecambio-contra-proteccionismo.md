@@ -2,7 +2,19 @@
 titulo: Sesión 4 · Librecambio contra proteccionismo
 ---
 
+En la sesión 1 quedó una pregunta anotada en el margen de vuestra libreta:
+
+“¿Quién puede salir beneficiado con esta noticia y quién perjudicado?”
+
+Hoy la respondemos. Y con datos muy recientes. Los aranceles que Estados Unidos impuso a la Unión Europea en 2025 y su efecto medible sobre las exportaciones andaluzas.
+
 ## Guía docente · Sesión 4 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s04-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Controversia estructurada</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>1.1</td><td><b>Saberes básicos</b></td><td>C4</td></tr><tr><td><b>Agrupamiento</b></td><td>Parejas dentro de grupos base de 4 · Gran grupo</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>D: calidad del debate por parejas y del manifiesto conjunto · OD: observación de la argumentación</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -29,13 +41,6 @@ Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar 
 - ¿Cuál de las medidas proteccionistas ha aparecido en vuestro dosier?
 - ¿Por qué unos sectores logran compensar cambiando de mercado y otros lo tienen más difícil?
 
-::: aviso Material que debes preparar tú
-- **Dos dosieres de noticias reales** sobre los aranceles de 2025, uno por postura. Deben incluir los datos verificables: aranceles de EE. UU. del 10 % desde abril y del 15 % desde agosto de 2025; caída en torno al 17 % de las ventas andaluzas a ese país, especialmente en combustibles y aceite de oliva; y compensación parcial vía Asia, con China creciendo un 19,6 % ese año, además de Portugal y los Países Bajos.
-- **Plantilla de manifiesto de consenso**, una por grupo base.
-- **Tarjetas de rol** para las parejas A y B, y cronómetro visible.
-- **Verifica y actualiza los datos** antes de impartir. Son los más volátiles de la unidad.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Capacidad emocional</td><td>Las posturas se asignan y después se invierten, de modo que defender una posición no implica sostenerla personalmente; eso normaliza el cambio de opinión y rebaja la carga del desacuerdo en un tema con carga política.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>La controversia se desarrolla por parejas dentro del grupo base, no ante el gran grupo, lo que reduce la exposición y multiplica el tiempo real de participación de cada persona.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -44,24 +49,19 @@ Insiste en **realistas**: medidas que una empresa de la provincia pudiera tomar 
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-## Para empezar
-
-En la sesión 1 quedó una pregunta anotada en el margen de vuestra libreta:
-
-“¿Quién puede salir beneficiado con esta noticia y quién perjudicado?”
-
-Hoy la respondemos. Y con datos muy recientes. Los aranceles que Estados Unidos impuso a la Unión Europea en 2025 y su efecto medible sobre las exportaciones andaluzas.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s04-01.webp | Portada
-sda3-s04-02.webp | Retomamos la pregunta
-sda3-s04-03.webp | El contexto real
-sda3-s04-04.webp | La controversia
-sda3-s04-05.webp | Las tres fases
-sda3-s04-06.webp | Las medidas proteccionistas
-sda3-s04-07.webp | Cierre
+sda3-s04-01.webp | Librecambio contra proteccionismo
+sda3-s04-02.webp | ¿Quién gana y quién pierde con un arancel?
+sda3-s04-03.webp | Los aranceles de Estados Unidos
+sda3-s04-04.webp | El arancel
+sda3-s04-05.webp | Pareja A y pareja B
+sda3-s04-06.webp | Tres fases
+sda3-s04-07.webp | Las medidas proteccionistas
+sda3-s04-08.webp | Quién gana y quién pierde
+sda3-s04-09.webp | Diversificar reduce el riesgo
+sda3-s04-10.webp | Un arancel lo paga, sobre todo, quien compra
 ```
 
 ## Controversia estructurada sobre los aranceles
@@ -69,6 +69,10 @@ sda3-s04-07.webp | Cierre
 ### El contexto real
 
 <table><thead><tr><th width="44%">Qué ocurrió</th><th width="56%">El dato</th></tr></thead><tbody><tr><td>Aranceles de EE. UU. a las importaciones de la UE</td><td>10 % desde abril · 15 % desde agosto de 2025</td></tr><tr><td>Efecto sobre las ventas andaluzas a ese país</td><td>Caída en torno al <b>17 %</b></td></tr><tr><td>Sectores más afectados</td><td>Combustibles y aceite de oliva</td></tr><tr><td>Cómo se compensó parte de la caída</td><td>Intensificando ventas hacia Asia: <b>China creció un 19,6 %</b> ese año</td></tr><tr><td>Otros socios que absorbieron el desvío</td><td>Portugal y Países Bajos</td></tr></tbody></table>
+
+```descargas
+sda03-s04-dossier.pdf | Dossier de los aranceles | Datos y argumentos para las dos posturas
+```
 
 ### Las dos posturas
 
@@ -78,13 +82,44 @@ sda3-s04-07.webp | Cierre
 
 <table><thead><tr><th width="26%">Fase</th><th width="74%">Qué hacéis</th></tr></thead><tbody><tr><td><b>1 · Debate por turnos</b></td><td>Entre las dos parejas del grupo base. Mientras una habla, la otra <b>toma notas</b> de los argumentos.</td></tr><tr><td><b>2 · Inversión de roles</b></td><td>Cada pareja defiende ahora la postura contraria.</td></tr><tr><td><b>3 · Manifiesto conjunto</b></td><td>El grupo de 4 redacta <b>3 medidas realistas</b> que una empresa exportadora andaluza podría tomar ante un escenario de aranceles crecientes.</td></tr></tbody></table>
 
+```descargas
+sda03-s04-manifiesto.pdf | Notas del debate y manifiesto | Plantilla para el grupo de cuatro
+```
+
 ::: aviso “Realistas” significa esto
 Medidas que una empresa de la provincia pudiera tomar **el mes que viene**. “Que el Gobierno negocie” no es una medida que pueda tomar una empresa. “Buscar dos distribuidores en Asia antes de fin de año” sí lo es.
 :::
 
 ## El mapa de las medidas proteccionistas
 
-<table><thead><tr><th width="30%">Medida</th><th width="46%">En qué consiste</th><th width="24%">¿Ha aparecido en vuestro dosier?</th></tr></thead><tbody><tr><td><b>ARANCEL</b></td><td>Un impuesto sobre el producto importado, que encarece su precio final</td><td></td></tr><tr><td><b>CONTINGENTE</b></td><td>Un límite máximo a la cantidad que se puede importar</td><td></td></tr><tr><td><b>SUBVENCIÓN A LA EXPORTACIÓN</b></td><td>Ayuda pública que abarata el producto nacional en el exterior</td><td></td></tr><tr><td><b>BARRERAS ADMINISTRATIVAS Y SANITARIAS</b></td><td>Requisitos técnicos, certificaciones y controles que dificultan la entrada</td><td></td></tr></tbody></table>
+Las medidas proteccionistas no son solo aranceles. Clasifica estos casos según el tipo de medida.
+
+```actividad
+id: sda03-s04-medidas
+tipo: clasificar
+instrucciones: Coloca cada caso en el tipo de medida proteccionista que le corresponde.
+categorias:
+  - nombre: Arancel
+    elementos:
+      - texto: Estados Unidos cobra un 15 % sobre el valor del aceite europeo que entra en el país
+        explicacion: Es un impuesto sobre el producto importado.
+      - texto: Un país cobra 2 euros por cada kilo de queso extranjero
+        explicacion: También es un arancel, en este caso fijo por unidad (arancel específico).
+  - nombre: Contingente
+    elementos:
+      - texto: Solo pueden entrar 10.000 toneladas de azúcar extranjero al año
+        explicacion: Es un límite máximo a la cantidad importada.
+  - nombre: Subvención
+    elementos:
+      - texto: El Gobierno paga a sus agricultores parte del coste de vender en el extranjero
+        explicacion: Abarata lo propio en lugar de encarecer lo ajeno.
+  - nombre: Barrera técnica o sanitaria
+    elementos:
+      - texto: Se exige una certificación especial que solo tienen los fabricantes nacionales
+        explicacion: Es un requisito técnico que dificulta la entrada.
+      - texto: Se prohíbe importar carne tratada con una sustancia permitida en el país de origen
+        explicacion: Es una barrera sanitaria. Puede estar justificada, pero también proteger.
+```
 
 ::: nota La pregunta de cierre
 “Si los aranceles no afectan solo al aceite de oliva sino también a los combustibles, ¿por qué unos sectores logran compensar la pérdida cambiando de mercado y otros lo tienen más difícil?”
@@ -120,9 +155,34 @@ Un producto con **muchos compradores potenciales** en el mundo puede redirigirse
 
 De ahí la lección práctica: **la diversificación de mercados es una forma de reducir el riesgo**, igual que la especialización es una forma de aumentar la eficiencia. Las dos cosas compiten entre sí, y ahí está la decisión empresarial.
 
+### 5. Quién gana y quién pierde con un arancel
+
+<table><thead><tr><th width="34%">Agente</th><th width="66%">Qué le pasa</th></tr></thead><tbody><tr><td><b>Productores del país que lo impone</b></td><td>Ganan: su competencia extranjera es más cara.</td></tr><tr><td><b>Consumidores de ese país</b></td><td>Pierden: pagan más por lo importado y, a menudo, también por lo nacional.</td></tr><tr><td><b>El Estado que lo impone</b></td><td>Recauda el impuesto.</td></tr><tr><td><b>Exportadores del otro país</b></td><td>Pierden ventas o tienen que bajar precios. Es el caso del aceite andaluz.</td></tr></tbody></table>
+
+Es la respuesta a la pregunta que quedó anotada en la sesión 1: **¿quién sale beneficiado y quién perjudicado?**
+
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Librecambio</b></td><td>Posición favorable a eliminar las barreras al comercio internacional.</td></tr><tr><td><b>Proteccionismo</b></td><td>Posición favorable a proteger la producción nacional frente a la competencia exterior.</td></tr><tr><td><b>Arancel</b></td><td>Impuesto sobre el producto importado.</td></tr><tr><td><b>Contingente</b></td><td>Límite cuantitativo a las importaciones de un producto.</td></tr><tr><td><b>Barrera no arancelaria</b></td><td>Requisito técnico, sanitario o administrativo que dificulta la entrada de un producto.</td></tr><tr><td><b>Diversificación de mercados</b></td><td>Estrategia de vender a varios destinos para reducir la dependencia de uno solo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Librecambio</b></td><td>Posición favorable a eliminar las barreras al comercio internacional, para que cada país se especialice según su ventaja comparativa.</td></tr>
+<tr><td><b>Proteccionismo</b></td><td>Posición favorable a proteger la producción nacional frente a la competencia exterior con aranceles u otras barreras.</td></tr>
+<tr><td><b>Arancel</b></td><td>Impuesto que se cobra a un producto importado. Puede ser un porcentaje del valor (ad valorem) o una cantidad fija por unidad (específico).</td></tr>
+<tr><td><b>Contingente</b></td><td>Límite máximo a la cantidad que se puede importar de un producto en un periodo.</td></tr>
+<tr><td><b>Subvención a la exportación</b></td><td>Ayuda pública que abarata el producto nacional en el exterior.</td></tr>
+<tr><td><b>Barrera no arancelaria</b></td><td>Requisito técnico, sanitario o administrativo que dificulta la entrada de un producto sin ser un impuesto.</td></tr>
+<tr><td><b>Industria naciente</b></td><td>Sector nuevo que, según los proteccionistas, necesita protección temporal hasta poder competir.</td></tr>
+<tr><td><b>Represalia comercial</b></td><td>Arancel que un país impone como respuesta a otro. Puede desatar una guerra comercial.</td></tr>
+<tr><td><b>Diversificación de mercados</b></td><td>Vender a varios destinos para reducir la dependencia de uno solo.</td></tr>
+<tr><td><b>OMC</b></td><td>Organización Mundial del Comercio. Fija las reglas del comercio internacional y resuelve disputas entre países.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=ZOtaqa6eC9M | Qué es el librecambio y cuáles son sus ventajas | Econosublime · 5:52
+https://www.youtube.com/watch?v=_hcseMwETSA | Qué es el proteccionismo y cuáles son sus ventajas | Econosublime · 7:59
+https://www.youtube.com/watch?v=SriKNQVzbVU | Las medidas proteccionistas | Econosublime · 5:56
+```
 
 ## Comprueba lo que sabes
 

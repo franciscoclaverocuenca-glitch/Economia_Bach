@@ -2,7 +2,19 @@
 titulo: Sesión 10 · ¿Crecer para siempre? Decrecimiento y ODS
 ---
 
+En la sesión 1 respondisteis a ciegas a una pregunta del cuestionario diagnóstico: **“¿se puede crecer para siempre?”**.
+
+Hoy tenéis nueve sesiones de economía detrás. Y toca responderla con argumentos.
+
+Además, al final de la sesión, cada grupo elegirá el reto sobre el que va a construir su **campaña #GlobalizAcción**. Empieza la cuenta atrás.
+
 ## Guía docente · Sesión 10 {.docente .plegado}
+
+### Material de la sesión
+
+```descargas
+sda03-s10-material-docente.pdf | Todo el material de la sesión | Imprimibles del alumnado y del docente
+```
 
 <table><thead><tr><th>Fase cognitiva</th><th>Estructurar</th><th>Tipo de actividad (4.4)</th><th>Cierre conceptual y lanzamiento del reto final</th></tr></thead><tbody><tr><td><b>Criterio de evaluación</b></td><td>5.1 + 5.2</td><td><b>Saberes básicos</b></td><td>E4, E5</td></tr><tr><td><b>Agrupamiento</b></td><td>Gran grupo → Grupos base de 4</td><td><b>Carácter</b></td><td>Formativa</td></tr><tr><td><b>Instrumentos</b></td><td>C: cuestionario de síntesis · OD: observación de la elección razonada del reto · Co.Ev.: escala de dedos sobre la viabilidad inicial de cada idea</td><td><b>Duración</b></td><td>50 minutos</td></tr></tbody></table>
 
@@ -31,14 +43,6 @@ Cierre con la ficha de reto y el primer termómetro de viabilidad, **sin ánimo 
 - ¿Qué reto queréis abordar en vuestra campaña, y por qué ese?
 - ¿Qué ODS conecta mejor con vuestro reto?
 
-::: aviso Material que debes preparar tú
-- **Gráfico de crecimiento del PIB a largo plazo**, proyectable.
-- **Ficha de los 17 ODS** de la Agenda 2030.
-- **Datos de la Estrategia Andaluza de Desarrollo Sostenible 2030**: aprobada en 2018, con 37 líneas de actuación, 226 medidas y 46 indicadores de seguimiento calculados por el IECA.
-- **Ficha breve de reto elegido**, una por grupo base.
-- **Tablón de la unidad** para registrar qué reto ha elegido cada grupo y garantizar que no se repitan entre grupos próximos.
-:::
-
 ### Atención a la diversidad (DUA) en esta sesión
 
 <table><thead><tr><th width="30%">Principio · Pauta</th><th width="70%">Cómo se concreta aquí</th></tr></thead><tbody><tr><td><b>Representación</b> · Percepción</td><td>La misma información se presenta en al menos dos canales (visual mediante las diapositivas y verbal mediante la explicación), con los conceptos abstractos siempre acompañados de una representación gráfica o numérica.</td></tr><tr><td><b>Compromiso</b> · Aceptación de intereses e identidades</td><td>La elección del reto de la campaña permite a cada grupo vincular el trabajo final de la unidad con aquello que más le preocupa, entre cuatro opciones que cubren ámbitos muy distintos.</td></tr><tr><td><b>Compromiso</b> · Autorregulación</td><td>La exigencia de anotar el argumento más sólido de la postura contraria obliga a un ejercicio metacognitivo explícito y previene la polarización en un tema con carga ideológica.</td></tr><tr><td><b>Acción y expresión</b> · Interacción</td><td>El trabajo en grupo base heterogéneo permite participar sin exponerse ante el gran grupo; los roles rotatorios garantizan que cada persona encuentre una vía de aportación acorde con sus fortalezas.</td></tr></tbody></table>
@@ -47,29 +51,28 @@ Cierre con la ficha de reto y el primer termómetro de viabilidad, **sin ánimo 
 La sesión tiene una carga oral muy alta y con turnos rápidos. Exige que quien interviene se ponga en pie y espere a tener la atención antes de hablar, proyecta el turno de palabra y entrega por escrito el guion de la dinámica y el argumentario antes de empezar. Considera asignar a este alumno/a un rol con intervención preparada.
 :::
 
-## Para empezar
-
-En la sesión 1 respondisteis a ciegas a una pregunta del cuestionario diagnóstico: **“¿se puede crecer para siempre?”**.
-
-Hoy tenéis nueve sesiones de economía detrás. Y toca responderla con argumentos.
-
-Además, al final de la sesión, cada grupo elegirá el reto sobre el que va a construir su **campaña #GlobalizAcción**. Empieza la cuenta atrás.
-
 ## Diapositivas de la sesión
 
 ```diapositivas
-sda3-s10-01.webp | Portada
-sda3-s10-02.webp | La pregunta del primer día
-sda3-s10-03.webp | La controversia
-sda3-s10-04.webp | Los ODS
-sda3-s10-05.webp | Los ODS en Andalucía
-sda3-s10-06.webp | El lanzamiento
-sda3-s10-07.webp | El termómetro
+sda3-s10-01.webp | ¿Crecer para siempre?
+sda3-s10-02.webp | «¿Se puede crecer para siempre?»
+sda3-s10-03.webp | Crecimiento y desarrollo
+sda3-s10-04.webp | ¿Crecimiento verde o decrecimiento?
+sda3-s10-05.webp | Anotad el argumento más sólido de la postura contraria.
+sda3-s10-06.webp | Agenda 2030
+sda3-s10-07.webp | Un objetivo sin indicador es una declaración de intenciones.
+sda3-s10-08.webp | Elegid vuestro reto
+sda3-s10-09.webp | Primera idea
+sda3-s10-10.webp | Empieza la cuenta atrás
 ```
 
 ## Controversia: ¿crecimiento verde o decrecimiento?
 
 <table><thead><tr><th width="50%">CRECIMIENTO VERDE</th><th width="50%">DECRECIMIENTO</th></tr></thead><tbody><tr><td>La tecnología permite <b>desacoplar</b> crecimiento e impacto ambiental: renovables, eficiencia, economía circular. Y sin crecimiento no hay recursos para financiar la transición ecológica ni para sostener el Estado del bienestar que estudiasteis ayer.</td><td>El desacoplamiento <b>no está ocurriendo a la velocidad necesaria</b>. Solo reduciendo deliberadamente producción y consumo en los países más ricos se respetan los límites ecológicos. No es empobrecerse. Es reorientar qué se produce y para qué, y redistribuir mejor lo que ya hay.</td></tr></tbody></table>
+
+```descargas
+sda03-s10-controversia.pdf | Dossier y hoja de la controversia | Argumentos de las dos posturas y espacio para el argumento contrario más sólido
+```
 
 ::: aviso La consigna que hace útil este debate
 Antes de concluir, cada grupo debe **anotar por escrito el argumento más sólido de la postura contraria**. No el más fácil de rebatir: el más sólido. Es lo que separa un debate de un intercambio de eslóganes.
@@ -80,6 +83,10 @@ Antes de concluir, cada grupo debe **anotar por escrito el argumento más sólid
 Los **17 Objetivos de Desarrollo Sostenible** de la Agenda 2030 de Naciones Unidas son el marco que intenta conciliar las tres cosas a la vez. Crecimiento económico, equidad social y límites ambientales.
 
 <table><thead><tr><th width="58%">Y en Andalucía no es un marco abstracto</th><th width="42%">El dato</th></tr></thead><tbody><tr><td>Estrategia Andaluza de Desarrollo Sostenible 2030</td><td>Aprobada en 2018</td></tr><tr><td>Líneas de actuación</td><td>37</td></tr><tr><td>Medidas concretas</td><td>226</td></tr><tr><td>Indicadores de seguimiento</td><td>46, calculados por el <b>IECA</b></td></tr></tbody></table>
+
+```descargas
+sda03-s10-ods.pdf | Los 17 ODS | Ficha resumen con una pregunta económica para cada objetivo
+```
 
 Ese último dato es el que importa. Hay **quien mide** si se está cumpliendo. Un objetivo sin indicador es una declaración de intenciones.
 
@@ -95,7 +102,11 @@ Cada grupo debe elegir un reto **distinto** al de, al menos, los dos grupos más
 
 ### Vuestra ficha de reto
 
-<table><thead><tr><th width="6%"></th><th width="94%">Qué anotáis</th></tr></thead><tbody><tr><td>1</td><td>El reto elegido.</td></tr><tr><td>2</td><td>Por qué lo habéis elegido (una frase).</td></tr><tr><td>3</td><td>Una primera idea en bruto de campaña.</td></tr></tbody></table>
+El reto elegido, por qué lo habéis elegido en una frase y una primera idea en bruto de campaña.
+
+```descargas
+sda03-s10-ficha-reto.pdf | Ficha de reto | Una por grupo, con la valoración de la clase
+```
 
 ::: aviso El primer termómetro
 El resto de la clase valora vuestra idea en bruto con la escala de dedos (1 a 4). **Sin ánimo evaluador todavía**: es solo un primer termómetro de viabilidad. Una idea que recibe dedos bajos hoy es una idea que se puede arreglar mañana.
@@ -137,7 +148,26 @@ Vuestro reto elegido determina qué sesiones vais a releer con más atención. Y
 
 ### Glosario de la sesión
 
-<table><thead><tr><th width="28%">Término</th><th width="72%">Definición</th></tr></thead><tbody><tr><td><b>Crecimiento económico</b></td><td>Aumento sostenido de la producción de bienes y servicios de un país.</td></tr><tr><td><b>Decrecimiento</b></td><td>Corriente que propone reducir deliberadamente producción y consumo en los países ricos.</td></tr><tr><td><b>Desacoplamiento</b></td><td>Separación entre el crecimiento económico y su impacto ambiental.</td></tr><tr><td><b>Agenda 2030</b></td><td>Plan de Naciones Unidas con 17 Objetivos de Desarrollo Sostenible.</td></tr><tr><td><b>Indicador de seguimiento</b></td><td>Medida que permite comprobar si un objetivo se está cumpliendo.</td></tr></tbody></table>
+<table><thead><tr><th width="26%">Término</th><th width="74%">Definición</th></tr></thead><tbody>
+<tr><td><b>Crecimiento económico</b></td><td>Aumento sostenido de la producción de bienes y servicios de un país, medido normalmente por el PIB real.</td></tr>
+<tr><td><b>Desarrollo</b></td><td>Mejora de la calidad de vida (salud, educación, igualdad, medio ambiente), que no siempre acompaña al crecimiento.</td></tr>
+<tr><td><b>Crecimiento verde</b></td><td>Postura que defiende seguir creciendo gracias a tecnologías limpias y a la eficiencia, desacoplando producción e impacto ambiental.</td></tr>
+<tr><td><b>Desacoplamiento</b></td><td>Que el PIB crezca mientras las emisiones o el consumo de recursos bajan. Si solo bajan por unidad de PIB es relativo; si bajan en total, absoluto.</td></tr>
+<tr><td><b>Decrecimiento</b></td><td>Corriente que propone reducir de forma planificada la producción y el consumo en los países ricos para respetar los límites del planeta, redistribuyendo mejor lo que ya existe.</td></tr>
+<tr><td><b>Límites planetarios</b></td><td>Umbrales ambientales (clima, biodiversidad, agua…) que, si se superan, ponen en riesgo la estabilidad del planeta.</td></tr>
+<tr><td><b>Agenda 2030</b></td><td>Plan aprobado por Naciones Unidas en 2015 con 17 Objetivos de Desarrollo Sostenible y 169 metas.</td></tr>
+<tr><td><b>ODS</b></td><td>Los 17 Objetivos de Desarrollo Sostenible: fin de la pobreza, hambre cero, salud, educación, igualdad de género, agua, energía, trabajo decente, producción y consumo responsables, clima, entre otros.</td></tr>
+<tr><td><b>Indicador</b></td><td>Medida que permite comprobar si un objetivo se cumple. Sin indicador, un objetivo es solo una intención.</td></tr>
+</tbody></table>
+
+### Para saber más
+
+```video
+https://www.youtube.com/watch?v=EaQZ9MOW71k | Crecimiento y desarrollo económico | Econosublime · 6:59
+https://www.youtube.com/watch?v=fCjTCxOKzwk | Consecuencias del crecimiento en la calidad de vida, la renta y el medioambiente | Econosublime · 6:46
+https://www.youtube.com/watch?v=MCKH5xk8X-g | Los Objetivos de Desarrollo Sostenible: qué son y cómo alcanzarlos | UNESCO en español · 6:01
+https://www.youtube.com/watch?v=yBLvJ7tX-ZQ | La teoría del decrecimiento, en Objetivo Planeta | RTVE Noticias · 28:40
+```
 
 ## Cierre
 
