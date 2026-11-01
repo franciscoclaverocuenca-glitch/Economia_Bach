@@ -316,7 +316,8 @@ La importación en Moodle se explica en [`GUIA-MOODLE.md`](GUIA-MOODLE.md).
 ## Privacidad
 
 En la web, el progreso y las respuestas se guardan **solo en el navegador** de cada estudiante (localStorage).
-No se envía nada a ningún servidor. Dentro de Moodle se guardan en la plataforma del centro, como cualquier
+No se envía nada a ningún servidor. Por eso, en la web el profesorado no ve los resultados: cada estudiante puede generar su
+**informe de resultados** (botón en el índice lateral de cada unidad) e imprimirlo o entregarlo en PDF. Dentro de Moodle se guardan en la plataforma del centro, como cualquier
 actividad SCORM. Las encuestas de evaluación de la práctica docente siguen en Google Forms porque son
 anónimas: se abren en otra pestaña y no reciben datos de Moodle.
 

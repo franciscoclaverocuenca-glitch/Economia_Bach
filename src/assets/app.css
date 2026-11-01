@@ -6,7 +6,7 @@
   --texto:#1d1d1f; --suave:#6e6a66; --fondo:#f5f3f1; --blanco:#fff; --gris:#efebe7; --linea:#e3ddd7;
   --azul:#1B4B66; --azul-osc:#0F2C3D; --azul-claro:#e8f0f4; --azul-medio:#c9dbe5;
   --teja:#C1694A; --teja-osc:#9E4F33; --teja-claro:#fbeee7; --salmon:#F0C4AC; --crema:#FDF3EC;
-  --verde:#5f8f4e; --verde-claro:#edf3e9;
+  --azul-medio2:#5E8BA3; --azul-medio2-claro:#eef3f6;
   --ok:#2E7D4F; --ok-claro:#e6f3ea; --mal:#B3261E; --mal-claro:#fbe9e7;
   --sans:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   --display:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -74,7 +74,7 @@ h1,h2,h3,h4{font-family:var(--display);line-height:1.12;color:var(--texto);font-
 .acceso:hover{text-decoration:none;color:var(--azul)}
 .acceso-num{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;font:600 22px var(--display);color:#fff;background:var(--c,var(--teja));transition:transform .25s}
 .acceso:hover .acceso-num{transform:scale(1.08)}
-.t1{--c:var(--teja)}.t2{--c:var(--azul)}.t3{--c:var(--verde)}
+.t1{--c:var(--teja)}.t2{--c:var(--azul)}.t3{--c:var(--azul-medio2)}
 
 .trimestre{margin-top:46px}
 .seccion-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:16px}
@@ -144,6 +144,8 @@ h1,h2,h3,h4{font-family:var(--display);line-height:1.12;color:var(--texto);font-
 .visitada .ind-check::after{content:"✓"}
 .indice-estado{margin-top:18px;padding:12px 14px;background:var(--blanco);border-radius:var(--radio-s);color:var(--suave);font-size:13px}
 .indice-estado p{margin:0 0 3px}
+.informe-btn{margin-top:8px;width:100%;font-size:13px;padding:6px 10px;border:0;border-radius:980px;background:var(--azul);color:#fff;cursor:pointer}
+.informe-btn:hover{background:var(--azul-osc)}
 .contenido{padding:40px 0 64px;min-width:0;max-width:820px}
 .contenido:focus{outline:0}
 .migas{margin:0 0 6px;font-size:14px;font-weight:600;color:var(--teja)}
@@ -180,7 +182,7 @@ h1,h2,h3,h4{font-family:var(--display);line-height:1.12;color:var(--texto);font-
 .caja-titulo{font-weight:600!important;color:var(--azul);margin:0 0 6px!important}
 .caja-aviso{background:var(--teja-claro)}.caja-aviso .caja-titulo{color:var(--teja-osc)}
 .caja-idea{background:var(--fondo)}.caja-idea .caja-titulo{color:var(--texto)}
-.caja-ejemplo{background:var(--verde-claro)}.caja-ejemplo .caja-titulo{color:#3f6b33}
+.caja-ejemplo{background:var(--azul-medio2-claro)}.caja-ejemplo .caja-titulo{color:#41697e}
 .bloque.docente .caja-idea{background:var(--blanco)}
 
 .paginacion{display:flex;justify-content:space-between;gap:18px;margin-top:30px}

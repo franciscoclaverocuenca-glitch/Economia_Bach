@@ -129,7 +129,7 @@
       if (d.correcta !== undefined) set(p + 'correct_responses.0.pattern', String(d.correcta).slice(0, 255));
       set(p + 'student_response', String(d.respuesta || '').replace(/\s+/g, ' ').slice(0, 255));
       set(p + 'result', d.resultado);
-      set(p + 'weighting', d.resultado === 'neutral' ? 0 : 1);
+      set(p + 'weighting', d.peso !== undefined ? d.peso : d.resultado === 'neutral' ? 0 : 1);
       confirmar();
     },
   };

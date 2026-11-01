@@ -65,7 +65,7 @@ export function plantillaPagina({ curso, unidad, pagina, indice, html, modo }) {
   const enlaceCurso = (p) => (p ? `<a href="${p.salida}" rel="${p === prev ? 'prev' : 'next'}"><span class="pag-dir">${p === prev ? 'Anterior' : 'Siguiente'}</span><span class="pag-tit">${esc(partesTitulo(p, unidad.paginas.indexOf(p)).texto)}</span></a>` : '<span></span>');
 
   return `${cabeza({ titulo: tituloDoc, descripcion: unidad.descripcion, base: '../' })}
-<body data-modo="${modo}" data-unidad="${unidad.carpeta}" data-pagina="${pagina.id}" data-paginas="${esc(JSON.stringify(unidad.paginas.map((p) => p.id)))}" data-puntuables="${esc(JSON.stringify(indice.puntuables))}">
+<body data-modo="${modo}" data-unidad="${unidad.carpeta}" data-pagina="${pagina.id}" data-paginas="${esc(JSON.stringify(unidad.paginas.map((p) => p.id)))}" data-puntuables="${esc(JSON.stringify(indice.puntuables))}" data-actividades="${esc(JSON.stringify(indice.actividades))}">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
 <header class="barra">
   <div class="barra-in">
@@ -83,6 +83,7 @@ export function plantillaPagina({ curso, unidad, pagina, indice, html, modo }) {
     <div class="indice-estado" hidden>
       <p><span data-estado-visitadas>0</span> de ${unidad.paginas.length} páginas vistas</p>
       ${indice.totalPuntuable ? `<p>Cuestionarios: <strong data-estado-nota>–</strong></p>` : ''}
+      <button type="button" class="informe-btn" data-informe>Mi informe de resultados</button>
     </div>
   </nav>
   <main id="contenido" class="contenido" tabindex="-1">

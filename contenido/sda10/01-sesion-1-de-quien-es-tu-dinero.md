@@ -90,6 +90,50 @@ Un objetivo financiero útil tiene tres cosas. Es **tuyo**, es **concreto** y ti
 Este objetivo te va a acompañar durante toda la unidad y lo vas a recuperar en la sesión 10 para convertirlo en un compromiso real. Escríbelo en serio.
 :::
 
+## Diagnóstico · ¿Cuánto sabes de dinero?
+
+Ocho preguntas parecidas a las de la Encuesta de Competencias Financieras del Banco de España. **No tienen nota**: sirven para saber desde dónde empezamos.
+
+```actividad
+id: sda10-s01-diagnostico
+tipo: test
+titulo: Diagnóstico inicial
+puntua: false
+preguntas:
+- enunciado: Tienes 100 € en una cuenta al 2 % anual. Sin sacar nada, ¿cuánto tendrás dentro de un año?
+  opciones: [Más de 102 €, Exactamente 102 €, Menos de 102 €]
+  correcta: 2
+  explicacion: 100 € más el 2 % de interés son 102 €.
+- enunciado: Siguiendo con la cuenta anterior, ¿cuánto habrá dentro de cinco años si los intereses se quedan en la cuenta?
+  opciones: [Más de 110 €, Exactamente 110 €, Menos de 110 €]
+  correcta: 1
+  explicacion: Es interés compuesto. Cada año el 2 % se calcula sobre una cantidad mayor, así que se supera el 110 €.
+- enunciado: Tu cuenta da un 1 % y la inflación es del 2 %. Dentro de un año, con ese dinero podrás comprar…
+  opciones: [Más que hoy, Lo mismo que hoy, Menos que hoy]
+  correcta: 3
+  explicacion: Los precios suben más deprisa que tu dinero. Pierdes poder adquisitivo.
+- enunciado: ¿Qué suele ser más arriesgado?
+  opciones: [Invertir todo en una sola empresa, Repartir el dinero entre muchas empresas distintas]
+  correcta: 1
+  explicacion: Repartir, es decir diversificar, reduce el riesgo de perderlo todo si a una empresa le va mal.
+- enunciado: Una tienda ofrece pagar un móvil a plazos sin intereses, pero con una comisión de apertura. ¿Qué indicador te dice el coste real?
+  opciones: [El TIN, La TAE, El precio del móvil]
+  correcta: 2
+  explicacion: La TAE incluye intereses y comisiones. Es la que permite comparar.
+- enunciado: Alguien en redes promete un 20 % mensual garantizado. ¿Qué es lo más probable?
+  opciones: [Una oportunidad única, Un fraude, Una inversión normal con algo de riesgo]
+  correcta: 2
+  explicacion: Rentabilidad muy alta y además garantizada es la señal de alarma más clara de una estafa.
+- enunciado: Si sube el tipo de interés, ¿qué les pasa a las cuotas de una hipoteca a tipo variable?
+  opciones: [Suben, Bajan, No cambian]
+  correcta: 1
+  explicacion: En una hipoteca variable la cuota sigue al euríbor más un diferencial.
+- enunciado: ¿Qué es un fondo de emergencia?
+  opciones: [Un seguro del banco, Dinero ahorrado para imprevistos, Un préstamo rápido]
+  correcta: 2
+  explicacion: Ahorro disponible para cubrir varios meses de gastos básicos si algo falla.
+```
+
 ## Entrega de las rúbricas de evaluación
 
 Antes de comenzar el trabajo de la unidad se entregan las **rúbricas de evaluación**. Con ellas sabes desde el primer día con qué criterios y con qué niveles de desempeño se va a valorar tu aprendizaje.

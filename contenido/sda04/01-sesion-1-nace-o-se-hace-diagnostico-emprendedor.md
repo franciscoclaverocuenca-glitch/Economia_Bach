@@ -156,8 +156,19 @@ Muchas actividades de emprendimiento terminan en un póster bonito. Aquí hay qu
 
 Mañana no explica el profesorado. Viene alguien que montó una empresa de verdad. **Traed preguntas preparadas**, porque de esa charla van a salir tres ideas que apuntaréis en el cuaderno… y quizá la idea de negocio de vuestro equipo.
 
-## Comprueba lo que sabes {.docente}
+## Tu autodiagnóstico emprendedor
 
-::: aviso Cuestionario pendiente
-En la web original este bloque mostraba por error el cuestionario de la SdA 3 · Sesión 6, y no existe ningún formulario “SdA 4 · S1”. Añade aquí un bloque `actividad` con las preguntas de esta sesión y quita la marca `{.docente}` del título para que lo vea el alumnado.
-:::
+Contesta con sinceridad. **No se corrige ni cuenta para la nota**: lo recuperarás en la sesión 11 para ver qué ha cambiado.
+
+```actividad
+id: sda04-s01-autodiagnostico
+tipo: respuesta-abierta
+titulo: Autodiagnóstico emprendedor
+instrucciones: 'Puntúate de 1 (nada) a 5 (mucho) en cada aspecto y justifícalo con un ejemplo de tu vida.'
+preguntas:
+- 'Iniciativa. ¿Empiezas cosas por tu cuenta sin que nadie te lo pida? Puntuación y ejemplo.'
+- 'Tolerancia al riesgo y al fracaso. ¿Cómo reaccionas cuando algo que has intentado sale mal? Puntuación y ejemplo.'
+- 'Creatividad. ¿Se te ocurren soluciones distintas a las habituales? Puntuación y ejemplo.'
+- 'Trabajo en equipo. ¿Qué papel sueles tener cuando trabajas en grupo? Puntuación y ejemplo.'
+- 'Y ahora la pregunta de la sesión. ¿Crees que la persona emprendedora nace o se hace? ¿Por qué?'
+```

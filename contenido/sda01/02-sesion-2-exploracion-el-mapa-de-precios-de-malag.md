@@ -105,6 +105,32 @@ Con el mapa todavía proyectado, y **en el aula**:
 Los datos son de la pareja, pero **la conclusión y la pregunta son tuyas**. Eso permite valorar tu trabajo sin que dependa del de nadie. Las fichas se sellan al recogerlas y se devuelven en la sesión 3 para el portafolio.
 :::
 
+## Comprueba lo que sabes
+
+```actividad
+id: sda01-s02-repaso
+tipo: verdadero-falso
+titulo: Comprueba lo que sabes
+puntua: false
+instrucciones: 'Decide si cada afirmación es verdadera o falsa y lee después la explicación. **No cuenta para la nota**: sirve para que sepas por dónde andas.'
+preguntas:
+- enunciado: Si dos portales dan precios distintos para el mismo distrito, uno de los dos está mintiendo.
+  respuesta: falso
+  explicacion: '**Falso.** Pueden ser ciertos los dos. Miden cosas distintas, en fechas distintas y sobre muestras distintas.'
+- enunciado: Una media calculada sobre 12 anuncios vale lo mismo que una calculada sobre 900.
+  respuesta: falso
+  explicacion: '**Falso.** Con pocos anuncios, un solo piso muy caro o muy barato mueve mucho la media.'
+- enunciado: El precio que aparece en un anuncio es el precio pedido, no necesariamente el precio al que se cierra el trato.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Por eso las fuentes oficiales y los portales no siempre coinciden.'
+- enunciado: Para que un dato sea trazable hay que anotar la fuente, la fecha y sobre cuántos anuncios está calculado.
+  respuesta: verdadero
+  explicacion: '**Verdadero.** Es la regla de trazabilidad que os acompañará toda la unidad.'
+- enunciado: Muchos anuncios disponibles en un distrito indican siempre que allí la vivienda es barata.
+  respuesta: falso
+  explicacion: '**Falso.** Puede indicar mucha rotación, mucha vivienda turística o simplemente un distrito grande. Hay que preguntarse por qué.'
+```
+
 ## Apuntes de la sesión
 
 ### 1. Qué habéis hecho hoy

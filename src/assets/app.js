@@ -82,6 +82,7 @@
         guardar();
       },
       visitadas: () => estado.v.slice(),
+      todas: () => estado.a,
       resumen,
       interaccion: (d) => host && host.interaccion(d),
     };
@@ -136,6 +137,7 @@
     abrirAncla();
 
     $$('.act').forEach((el) => { try { iniciarActividad(el, almacen); } catch (e) { console.error(e); } });
+    $$('[data-informe]').forEach((b) => b.addEventListener('click', () => imprimirInforme(almacen)));
     $$('.diapositivas').forEach(iniciarDiapositivas);
     $$('.video[data-youtube]').forEach(iniciarVideo);
     $$('.simulador').forEach((el) => { try { SIMULADORES[el.dataset.simulador]?.(el, JSON.parse(el.dataset.config || '{}')); } catch (e) { console.error(e); } });
@@ -270,12 +272,14 @@
       const aciertos = T.corregir(r, datos);
       const reg = { r, c: aciertos.filter(Boolean).length, t: aciertos.length, n: (prev.n || 0) + 1, h: 1 };
       almacen.guardarAct(id, reg);
-      if (datos.puntua) {
+      {
+        // se registra todo en Moodle; lo que no puntúa va con peso 0
         const I = T.interaccion;
         const filas = I.unica ? [0] : aciertos.map((_, i) => i);
         filas.forEach((i) => almacen.interaccion({
           id: `${id}-${i + 1}`, tipo: I.tipo, respuesta: I.resp(r, i), correcta: I.sol(datos, i),
           resultado: I.unica ? (aciertos.every(Boolean) ? 'correct' : 'wrong') : aciertos[i] ? 'correct' : 'wrong',
+          peso: datos.puntua ? 1 : 0,
         }));
       }
       mostrar(r, aciertos, reg);
@@ -358,6 +362,43 @@
     });
     const bP = $('.act-imprimir', el);
     if (bP) bP.addEventListener('click', () => imprimirAutoevaluacion(el, id, datos));
+  }
+
+  function imprimirInforme(almacen) {
+    const esc = (s) => String(s ?? '').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' })[c]);
+    const cat = JSON.parse(body.dataset.actividades || '{}');
+    const datos = almacen.todas();
+    const s = almacen.resumen();
+    const nombres = { 'verdadero-falso': 'Verdadero o falso', test: 'Test', rellenar: 'Completar', emparejar: 'Relacionar', ordenar: 'Ordenar', clasificar: 'Clasificar', 'respuesta-abierta': 'Respuesta abierta', autoevaluacion: 'Autoevaluación' };
+    let pag = '';
+    const filas = Object.entries(cat).map(([id, a]) => {
+      const g = datos[id];
+      const cab = a.p !== pag ? `<tr class="pag"><td colspan="3">${esc(a.p)}</td></tr>` : '';
+      pag = a.p;
+      let estado = '<span class="no">Sin hacer</span>';
+      let detalle = '';
+      if (g && g.h) {
+        if (a.k === 'respuesta-abierta' || a.k === 'autoevaluacion') {
+          estado = 'Guardada';
+          const t = (g.r && g.r.t) || [];
+          const l = (g.r && g.r.l) || [];
+          detalle = t.map((x, i) => (x || l[i] !== undefined && l[i] !== '' ? `<p>${l[i] !== undefined && l[i] !== '' ? `<b>Nivel ${+l[i] + 1}.</b> ` : ''}${esc(x || '')}</p>` : '')).join('');
+        } else {
+          estado = `<b>${g.c}/${g.t}</b>${a.s ? '' : ' <span class="no">(sin nota)</span>'}`;
+          detalle = `${g.n || 1} ${g.n === 1 || !g.n ? 'intento' : 'intentos'}`;
+        }
+      }
+      return `${cab}<tr><td>${esc(a.t || nombres[a.k] || a.k)}<br><small>${esc(nombres[a.k] || a.k)}</small></td><td>${estado}</td><td>${detalle}</td></tr>`;
+    }).join('');
+    const ahora = new Date();
+    const w = window.open('', '_blank');
+    if (!w) return;
+    w.document.write(`<!DOCTYPE html><html lang="es"><meta charset="utf-8"><title>Informe de resultados</title><style>body{font:14px/1.45 -apple-system,system-ui,"Segoe UI",sans-serif;max-width:800px;margin:30px auto;padding:0 20px;color:#1d1d1f}h1{font-size:22px;margin:0 0 4px}.sub{color:#6e6a66;margin:0 0 18px}table{border-collapse:collapse;width:100%}td{border-bottom:1px solid #e3ddd7;padding:6px 8px;vertical-align:top}td p{margin:0 0 4px}small,.no{color:#6e6a66}tr.pag td{background:#f5f3f1;font-weight:600;padding-top:10px}.datos{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:16px 0 20px}.datos div{background:#f5f3f1;border-radius:10px;padding:10px 12px}.datos b{display:block;font-size:20px}@media print{button{display:none}}</style>` +
+      `<h1>${esc($('.barra-unidad')?.textContent || '')}</h1><p class="sub">Informe de resultados generado el ${ahora.toLocaleDateString('es-ES')} a las ${ahora.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' })}${almacen.enScorm ? ' desde Moodle' : ' desde este navegador'}.</p>` +
+      `<p>Nombre y apellidos: ______________________________________ Grupo: ________</p>` +
+      `<div class="datos"><div><b>${s.vistas}/${s.paginas}</b>páginas vistas</div><div><b>${s.hechos}/${s.cuestionarios}</b>cuestionarios con nota hechos</div><div><b>${s.nota === null || !s.hechos ? '–' : s.nota + ' %'}</b>aciertos en los que cuentan</div></div>` +
+      `<table>${filas}</table><p><button onclick="print()">Imprimir o guardar en PDF</button></p></html>`);
+    w.document.close();
   }
 
   function imprimirAutoevaluacion(el, id, datos) {

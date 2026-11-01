@@ -58,7 +58,7 @@ function listarFicheros(dir, base = dir) {
 function renderUnidad(curso, unidad, imagenes, modo) {
   const usadas = new Set();
   const ids = new Map();
-  const indice = { puntuables: {}, totalPuntuable: 0, revisar: 0 };
+  const indice = { puntuables: {}, totalPuntuable: 0, revisar: 0, actividades: {} };
   let paginaActual = null;
   const ctx = {
     unidad,
@@ -76,6 +76,8 @@ function renderUnidad(curso, unidad, imagenes, modo) {
       if (ids.has(d.id)) errores.push(`${paginaActual.fichero}: el id de actividad «${d.id}» ya se usa en ${ids.get(d.id)}`);
       ids.set(d.id, paginaActual.fichero);
       if (d.revisar) indice.revisar++;
+      const pt = paginaActual.titulo || '';
+      indice.actividades[d.id] = { t: d.titulo || '', k: d.tipo, p: pt, s: d.puntua ? 1 : 0 };
     },
     registrarPuntuable(id, total) {
       indice.puntuables[id] = total;
